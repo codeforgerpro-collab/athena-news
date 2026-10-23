@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:29:22Z",
+ "generated": "2026-10-23T19:45:22Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -650,11 +650,11 @@
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
-   "importance": 8.28,
+   "importance": 8.32,
    "risk": 2.73,
    "confidence": 0.91,
    "status": "fading",
-   "outlets": 42,
+   "outlets": 43,
    "countries": [
     "PAK",
     "CHN",
@@ -677,10 +677,11 @@
     "KOR",
     "IRQ",
     "SAU",
-    "DEU"
+    "DEU",
+    "AUS"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T19:17:26Z",
+   "last_seen": "2026-10-23T19:24:39Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -5718,7 +5719,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T10:36:48Z",
-     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+     "headline": "Macron says Paris suburb shooting that killed one, wounded five was terrorist and racist act",
      "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
     },
     {
@@ -10208,8 +10209,8 @@
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
-   "importance": 5.79,
-   "risk": 4.22,
+   "importance": 5.85,
+   "risk": 4.2,
    "confidence": 0.87,
    "status": "fading",
    "outlets": 14,
@@ -10226,7 +10227,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-19T13:17:25Z",
-   "last_seen": "2026-10-23T09:00:00Z",
+   "last_seen": "2026-10-23T19:22:33Z",
    "page": "event/12603.html",
    "reports": [
     {
@@ -10361,6 +10362,152 @@
      "time": "2026-10-23T09:00:00Z",
      "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T19:22:33Z",
+     "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
+     "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
+    }
+   ]
+  },
+  {
+   "id": 16185,
+   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+   "category": "Geopolitics",
+   "importance": 5.83,
+   "risk": 3.39,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 12,
+   "countries": [
+    "SAU",
+    "RUS",
+    "USA",
+    "SGP",
+    "UKR",
+    "GBR",
+    "DEU",
+    "FRA",
+    "NGA",
+    "CAN"
+   ],
+   "first_seen": "2026-10-21T06:43:21Z",
+   "last_seen": "2026-10-23T19:16:05Z",
+   "page": "event/16185.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T06:43:21Z",
+     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
+     "url": "https://english.aawsat.com/node/5331854"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T16:50:24Z",
+     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
+     "url": "https://tass.com/world/2205775"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T22:50:42Z",
+     "headline": "How Elon Musk gained so much power over U.S. security interests",
+     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T21:07:07Z",
+     "headline": "Trump says Ukraine's access to Starshield restored",
+     "url": "https://tass.com/world/2206599"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T21:11:38Z",
+     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
+     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T00:53:16Z",
+     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
+     "url": "https://www.kyivpost.com/post/87918"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T01:16:00Z",
+     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T02:12:09Z",
+     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
+     "url": "https://www.kyivpost.com/post/87919"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-23T02:16:26Z",
+     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
+     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T05:37:00Z",
+     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
+     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T06:22:59Z",
+     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
+     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:04:49Z",
+     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
+     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:20:00Z",
+     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:48:24Z",
+     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
+     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T18:26:37Z",
+     "headline": "Trump to contact Musk if Ukraine Starshield issues persist",
+     "url": "https://punchng.com/trump-to-contact-musk-if-ukraine-starshield-issues-persist/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T19:16:05Z",
+     "headline": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
+     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
     }
    ]
   },
@@ -11613,7 +11760,7 @@
      "outlet": "Fast Company",
      "country": "USA",
      "time": "2026-10-23T18:37:14Z",
-     "headline": "Barclays becomes the latest company to trim its workforce for AI efficiency",
+     "headline": "Barclays is the latest company to trim its workforce for AI efficiency",
      "url": "https://www.fastcompany.com/91629360/barclays-layoffs-ai-push"
     }
    ]
@@ -12309,139 +12456,6 @@
      "time": "2026-10-23T15:16:14Z",
      "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
      "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
-    }
-   ]
-  },
-  {
-   "id": 17952,
-   "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
-   "category": "Geopolitics",
-   "importance": 5.66,
-   "risk": 2.19,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "UGA",
-    "NZL",
-    "IND",
-    "SGP",
-    "GBR",
-    "TUR",
-    "ZAF",
-    "THA",
-    "USA",
-    "CHN",
-    "ARE"
-   ],
-   "first_seen": "2026-10-21T19:57:41Z",
-   "last_seen": "2026-10-23T09:18:43Z",
-   "page": "event/17952.html",
-   "reports": [
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-21T19:57:41Z",
-     "headline": "Google staff resign in backlash over its AI contracts with military",
-     "url": "https://nilepost.co.ug/news/380575/google-staff-resign-in-backlash-over-its-ai-contracts-with-military"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:30:27Z",
-     "headline": "Defence Force chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.stuff.co.nz/nz-news/361050375/defence-force-chief-resigns-over-inappropriate-relationship"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T04:02:32Z",
-     "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T04:33:00Z",
-     "headline": "New Zealand's top military officer resigns over 'inappropriate relationship'",
-     "url": "https://www.channelnewsasia.com/world/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-6485241"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T04:44:44Z",
-     "headline": "New Zealand’s military chief steps down over ‘inappropriate relationship’",
-     "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-military-tony-davies-relationship-resigns-b3071931.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T05:12:47Z",
-     "headline": "Fenz boss resigns, a month after minister called for him to go",
-     "url": "https://www.stuff.co.nz/politics/361050425/fenz-boss-resigns-more-month-after-minister-called-him-go"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T05:26:11Z",
-     "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
-     "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T05:47:51Z",
-     "headline": "New Zealand’s top military commander resigns after admitting to ‘inappropriate relationship’",
-     "url": "https://www.aa.com.tr/en/asia-pacific/new-zealand-s-top-military-commander-resigns-after-admitting-to-inappropriate-relationship-/4097941"
-    },
-    {
-     "outlet": "RNZ National",
-     "country": "NZL",
-     "time": "2026-10-23T06:03:00Z",
-     "headline": "Fire and Emergency New Zealand chief executive Kerry Gregory resigns",
-     "url": "https://www.rnz.co.nz/news/political/2104751/fire-and-emergency-new-zealand-chief-executive-kerry-gregory-resigns"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:37:00Z",
-     "headline": "New Zealand military chief resigns over 'inappropriate relationship'",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-zealand-military-chief-resigns-over-inappropriate-relationship/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "NZ military chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.bangkokpost.com/world/3342273/nz-military-chief-resigns-over-inappropriate-relationship"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:40:32Z",
-     "headline": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
-     "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T08:00:24Z",
-     "headline": "New Zealand fire agency chief executive resigns",
-     "url": "https://english.news.cn/20261023/1a6c375f02284608a1d07aa26c93424f/c.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:01:17Z",
-     "headline": "New Zealand military chief resigns over ‘inappropriate relationship’",
-     "url": "https://gulfnews.com/world/oceania/new-zealand-military-chief-resigns-over-inappropriate-relationship-2-1.500720852"
-    },
-    {
-     "outlet": "Defense News",
-     "country": "USA",
-     "time": "2026-10-23T09:18:43Z",
-     "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
     }
    ]
   }
