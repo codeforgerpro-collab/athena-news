@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:20:16Z",
+ "generated": "2026-10-23T17:37:16Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -649,8 +649,8 @@
    "id": 23500,
    "title": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
    "category": "Energy & Environment",
-   "importance": 8.3,
-   "risk": 2.96,
+   "importance": 8.24,
+   "risk": 2.95,
    "confidence": 0.86,
    "status": "fading",
    "outlets": 25,
@@ -673,7 +673,7 @@
     "SGP"
    ],
    "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T16:52:57Z",
+   "last_seen": "2026-10-23T17:31:12Z",
    "page": "event/23500.html",
    "reports": [
     {
@@ -857,6 +857,13 @@
      "time": "2026-10-23T16:52:57Z",
      "headline": "Initial shipment of Russian diesel heads to the US after Trump-Putin deal",
      "url": "https://www.thenationalnews.com/news/us/2026/10/23/initial-shipment-of-russian-diesel-heads-to-the-us-after-trump-putin-deal/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:31:12Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US",
+     "url": "https://cyprus-mail.com/2026/10/23/first-russian-diesel-from-putin-trump-deal-heading-for-us"
     }
    ]
   },
@@ -892,7 +899,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T17:06:43Z",
+   "last_seen": "2026-10-23T17:23:24Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1209,7 +1216,7 @@
      "outlet": "Sky News (World)",
      "country": "GBR",
      "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after fatal shooting in Paris suburb",
+     "headline": "Fatal shooting in Paris suburb 'clearly a terrorist crime', says minister",
      "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
     },
     {
@@ -2935,6 +2942,324 @@
    ]
   },
   {
+   "id": 1528,
+   "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+   "category": "Economy & Markets",
+   "importance": 7.05,
+   "risk": 5.93,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 38,
+   "countries": [
+    "SAU",
+    "PAK",
+    "TUR",
+    "ISR",
+    "SGP",
+    "QAT",
+    "IRL",
+    "CYP",
+    "GBR",
+    "USA",
+    "ARE",
+    "AUS",
+    "CAN",
+    "FRA",
+    "IRQ",
+    "IND",
+    "GHA",
+    "DEU",
+    "CHN",
+    "ZAF",
+    "IRN"
+   ],
+   "first_seen": "2026-10-13T07:56:26Z",
+   "last_seen": "2026-10-23T17:21:00Z",
+   "page": "event/1528.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-13T07:56:26Z",
+     "headline": "Olive Trees in S. Lebanon Under Israeli Fire: Deprivation of Harvest Seasons Erodes Village Memory",
+     "url": "https://english.aawsat.com/node/5329008"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-13T15:31:40Z",
+     "headline": "Unexploded Israeli ordnance threatens Lebanon's olive harvest",
+     "url": "https://www.newarab.com/news/unexploded-israeli-ordnance-threatens-lebanons-olive-harvest"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T00:31:11Z",
+     "headline": "West Bank: Palestinian youth injured, settlers attack cars, steal olive harvest",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-palestinian-youth-injured-settlers-attack-cars-steal-olive"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-16T01:58:23Z",
+     "headline": "Israeli occupiers attack olive pickers in central West Bank, torch 3 vehicles",
+     "url": "https://tribune.com.pk/story/2635174/israeli-occupiers-attack-olive-pickers-in-central-west-bank-torch-3-vehicles"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T05:38:13Z",
+     "headline": "Israeli settlers set vehicles on fire during attack in West Bank, report says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-vehicles-fire-during-attack-west-bank-report-says"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T06:32:45Z",
+     "headline": "2 Palestinians injured in attack by Israeli occupiers on West Bank farmers",
+     "url": "https://www.aa.com.tr/en/world/2-palestinians-injured-in-attack-by-israeli-occupiers-on-west-bank-farmers/4090528"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T06:32:45Z",
+     "headline": "8 injured, including American journalist, in attacks by Israeli occupiers in West Bank",
+     "url": "https://www.aa.com.tr/en/world/8-injured-including-american-journalist-in-attacks-by-israeli-occupiers-in-west-bank/4090528"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-16T08:03:20Z",
+     "headline": "These West Bank settlers fight olive harvest theft in an attempt to aid Palestinians",
+     "url": "https://www.haaretz.com/west-bank/2026-10-16/ty-article/.premium/these-west-bank-settlers-fight-olive-harvest-theft-trying-to-aid-palestinians/000001a1-438c-de23-a5fb-df9d650f0000"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-16T08:37:24Z",
+     "headline": "11 reported wounded, including U.S. journalist, in settler attacks on olive harvesters across West Bank",
+     "url": "https://www.haaretz.com/west-bank/2026-10-16/ty-article/.premium/palestinians-report-six-wounded-in-settler-attacks-on-west-bank-olive-harvesters/000001a1-43b3-dafe-a5b3-4bb32ceb0000"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-16T09:25:27Z",
+     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-16T09:28:33Z",
+     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+     "url": "https://www.arabnews.com/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-3006667"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T10:27:20Z",
+     "headline": "Palestinian olive trees torched as settler pogroms escalate during harvest",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-16T10:28:35Z",
+     "headline": "Israeli Settlers Attack Palestinians During Olive Harvest",
+     "url": "https://english.aawsat.com/node/5330246"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-16T10:34:44Z",
+     "headline": "Settlers burn olive trees, injure journalist in West Bank",
+     "url": "https://www.rte.ie/news/middle-east/2026/1016/1595635-west-bank/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-16T10:57:52Z",
+     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+     "url": "https://cyprus-mail.com/2026/10/16/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T11:31:41Z",
+     "headline": "Settler attacks injures several in West Bank including Washington Post journalist",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attacks-injures-several-west-bank-including-washington-post"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-16T11:40:41Z",
+     "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+     "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-16T12:24:05Z",
+     "headline": "American journalist injured in West Bank clashes",
+     "url": "https://www.cbsnews.com/news/us-journalist-heidi-levine-injured-west-bank-clashes-settlers/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-16T12:46:02Z",
+     "headline": "Israeli settlers injure Washington Post journalist in West Bank attack",
+     "url": "https://www.arabnews.com/media/israeli-settlers-injure-washington-post-journalist-in-west-bank-attack-3006705"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T13:04:32Z",
+     "headline": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+     "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T13:26:47Z",
+     "headline": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+     "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-16T13:49:02Z",
+     "headline": "American journalist injured as Israeli settlers attack Palestinians in West Bank",
+     "url": "https://www.turkiyetoday.com/region/american-journalist-injured-as-israeli-settlers-attack-palestinians-in-west-bank-3230453"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T13:52:48Z",
+     "headline": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-16T14:06:59Z",
+     "headline": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+     "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-16T14:07:28Z",
+     "headline": "Settlers beat Washington Post journalist during attack on Palestinian olive harvest",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/16/settlers-beat-washington-post-journalist-during-attack-on-palestinian-olive-harvest/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-16T14:18:24Z",
+     "headline": "Settlers attack US journalist in West Bank as Israel says both sides hurled objects in clashes",
+     "url": "https://www.abc.net.au/news/2026-10-17/violent-west-bank-clashes-during-olive-harvest/107278284"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T14:22:31Z",
+     "headline": "Israeli rabbi permits occupiers to steal Palestinian olive harvest in West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-rabbi-permits-occupiers-to-steal-palestinian-olive-harvest-in-west-bank/4091166"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-16T14:31:04Z",
+     "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-16T14:34:39Z",
+     "headline": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
+     "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T14:46:53Z",
+     "headline": "Palestinians wounded, US journalist hospitalised after coordinated attack by masked Israeli setters",
+     "url": "https://www.middleeasteye.net/news/palestinians-wounded-us-journalist-hospitalised-after-coordinated-attack-masked-israeli"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-16T15:01:40Z",
+     "headline": "US journalist injured during Israeli settler attack on West Bank olive harvest",
+     "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T15:21:11Z",
+     "headline": "US journalist among injured in Israeli settler attacks",
+     "url": "https://shafaq.com/en/Middle-East/US-journalist-among-injured-in-Israeli-settler-attacks"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-16T15:33:16Z",
+     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+     "url": "https://www.nbcnews.com/video/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-271694917817"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-16T15:50:30Z",
+     "headline": "Israeli settlers attack US photographer covering West Bank violence",
+     "url": "https://www.dawn.com/news/2037619/israeli-settlers-attack-us-photographer-covering-west-bank-violence"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-16T15:57:27Z",
+     "headline": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+     "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T16:01:53Z",
+     "headline": "Washington Post ‘outraged’ after its photographer attacked by Israeli occupiers in West Bank",
+     "url": "https://www.aa.com.tr/en/world/washington-post-outraged-after-its-photographer-attacked-by-israeli-occupiers-in-west-bank/4091251"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-16T16:21:48Z",
+     "headline": "Israeli Settlers In West Bank Burn Trees, Throw Rocks During Olive Harvest",
+     "url": "https://www.ndtv.com/world-news/israeli-settlers-in-west-bank-burn-trees-throw-rocks-during-olive-harvest-12196559#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T16:36:12Z",
+     "headline": "UN calls for investigation into Israeli occupier attack on Washington Post photographer in West Bank",
+     "url": "https://www.aa.com.tr/en/world/un-calls-for-investigation-into-israeli-occupier-attack-on-washington-post-photographer-in-west-bank/4091307"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-16T16:37:53Z",
+     "headline": "Israeli settlers burn three Palestinian vehicles, attack farmers",
+     "url": "https://www.newarab.com/news/israeli-settlers-burn-three-palestinian-vehicles-attack-farmers"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-16T17:08:27Z",
+     "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
+     "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
+    }
+   ]
+  },
+  {
    "id": 16036,
    "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
    "category": "Trade & Industry",
@@ -3250,324 +3575,6 @@
      "time": "2026-10-22T11:39:17Z",
      "headline": "‘Unacceptable’: India slams Houthi strikes in Saudi Arabia, moves to help stranded pilgrims",
      "url": "https://www.hindustantimes.com/india-news/india-condemns-strikes-on-civil-infrastructure-in-saudi-arabia-after-death-of-indian-national-101792669157963.html"
-    }
-   ]
-  },
-  {
-   "id": 1528,
-   "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-   "category": "Economy & Markets",
-   "importance": 6.99,
-   "risk": 5.92,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 38,
-   "countries": [
-    "SAU",
-    "PAK",
-    "TUR",
-    "ISR",
-    "SGP",
-    "QAT",
-    "IRL",
-    "CYP",
-    "GBR",
-    "USA",
-    "ARE",
-    "AUS",
-    "CAN",
-    "FRA",
-    "IRQ",
-    "IND",
-    "GHA",
-    "DEU",
-    "CHN",
-    "ZAF",
-    "IRN"
-   ],
-   "first_seen": "2026-10-13T07:56:26Z",
-   "last_seen": "2026-10-23T16:47:14Z",
-   "page": "event/1528.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-13T07:56:26Z",
-     "headline": "Olive Trees in S. Lebanon Under Israeli Fire: Deprivation of Harvest Seasons Erodes Village Memory",
-     "url": "https://english.aawsat.com/node/5329008"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-13T15:31:40Z",
-     "headline": "Unexploded Israeli ordnance threatens Lebanon's olive harvest",
-     "url": "https://www.newarab.com/news/unexploded-israeli-ordnance-threatens-lebanons-olive-harvest"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T00:31:11Z",
-     "headline": "West Bank: Palestinian youth injured, settlers attack cars, steal olive harvest",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-palestinian-youth-injured-settlers-attack-cars-steal-olive"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-16T01:58:23Z",
-     "headline": "Israeli occupiers attack olive pickers in central West Bank, torch 3 vehicles",
-     "url": "https://tribune.com.pk/story/2635174/israeli-occupiers-attack-olive-pickers-in-central-west-bank-torch-3-vehicles"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T05:38:13Z",
-     "headline": "Israeli settlers set vehicles on fire during attack in West Bank, report says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-vehicles-fire-during-attack-west-bank-report-says"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T06:32:45Z",
-     "headline": "2 Palestinians injured in attack by Israeli occupiers on West Bank farmers",
-     "url": "https://www.aa.com.tr/en/world/2-palestinians-injured-in-attack-by-israeli-occupiers-on-west-bank-farmers/4090528"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T06:32:45Z",
-     "headline": "8 injured, including American journalist, in attacks by Israeli occupiers in West Bank",
-     "url": "https://www.aa.com.tr/en/world/8-injured-including-american-journalist-in-attacks-by-israeli-occupiers-in-west-bank/4090528"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-16T08:03:20Z",
-     "headline": "These West Bank settlers fight olive harvest theft in an attempt to aid Palestinians",
-     "url": "https://www.haaretz.com/west-bank/2026-10-16/ty-article/.premium/these-west-bank-settlers-fight-olive-harvest-theft-trying-to-aid-palestinians/000001a1-438c-de23-a5fb-df9d650f0000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-16T08:37:24Z",
-     "headline": "11 reported wounded, including U.S. journalist, in settler attacks on olive harvesters across West Bank",
-     "url": "https://www.haaretz.com/west-bank/2026-10-16/ty-article/.premium/palestinians-report-six-wounded-in-settler-attacks-on-west-bank-olive-harvesters/000001a1-43b3-dafe-a5b3-4bb32ceb0000"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T09:25:27Z",
-     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-16T09:28:33Z",
-     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-     "url": "https://www.arabnews.com/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-3006667"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T10:27:20Z",
-     "headline": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-16T10:28:35Z",
-     "headline": "Israeli Settlers Attack Palestinians During Olive Harvest",
-     "url": "https://english.aawsat.com/node/5330246"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-16T10:34:44Z",
-     "headline": "Settlers burn olive trees, injure journalist in West Bank",
-     "url": "https://www.rte.ie/news/middle-east/2026/1016/1595635-west-bank/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-16T10:57:52Z",
-     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-     "url": "https://cyprus-mail.com/2026/10/16/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T11:31:41Z",
-     "headline": "Settler attacks injures several in West Bank including Washington Post journalist",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attacks-injures-several-west-bank-including-washington-post"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-16T11:40:41Z",
-     "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-16T12:24:05Z",
-     "headline": "American journalist injured in West Bank clashes",
-     "url": "https://www.cbsnews.com/news/us-journalist-heidi-levine-injured-west-bank-clashes-settlers/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-16T12:46:02Z",
-     "headline": "Israeli settlers injure Washington Post journalist in West Bank attack",
-     "url": "https://www.arabnews.com/media/israeli-settlers-injure-washington-post-journalist-in-west-bank-attack-3006705"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T13:04:32Z",
-     "headline": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
-     "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T13:26:47Z",
-     "headline": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-     "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-16T13:49:02Z",
-     "headline": "American journalist injured as Israeli settlers attack Palestinians in West Bank",
-     "url": "https://www.turkiyetoday.com/region/american-journalist-injured-as-israeli-settlers-attack-palestinians-in-west-bank-3230453"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T13:52:48Z",
-     "headline": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-16T14:06:59Z",
-     "headline": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-     "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-16T14:07:28Z",
-     "headline": "Settlers beat Washington Post journalist during attack on Palestinian olive harvest",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/16/settlers-beat-washington-post-journalist-during-attack-on-palestinian-olive-harvest/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-16T14:18:24Z",
-     "headline": "Settlers attack US journalist in West Bank as Israel says both sides hurled objects in clashes",
-     "url": "https://www.abc.net.au/news/2026-10-17/violent-west-bank-clashes-during-olive-harvest/107278284"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T14:22:31Z",
-     "headline": "Israeli rabbi permits occupiers to steal Palestinian olive harvest in West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-rabbi-permits-occupiers-to-steal-palestinian-olive-harvest-in-west-bank/4091166"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-16T14:31:04Z",
-     "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-16T14:34:39Z",
-     "headline": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
-     "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T14:46:53Z",
-     "headline": "Palestinians wounded, US journalist hospitalised after coordinated attack by masked Israeli setters",
-     "url": "https://www.middleeasteye.net/news/palestinians-wounded-us-journalist-hospitalised-after-coordinated-attack-masked-israeli"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-16T15:01:40Z",
-     "headline": "US journalist injured during Israeli settler attack on West Bank olive harvest",
-     "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T15:21:11Z",
-     "headline": "US journalist among injured in Israeli settler attacks",
-     "url": "https://shafaq.com/en/Middle-East/US-journalist-among-injured-in-Israeli-settler-attacks"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-16T15:33:16Z",
-     "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-     "url": "https://www.nbcnews.com/video/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-271694917817"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-16T15:50:30Z",
-     "headline": "Israeli settlers attack US photographer covering West Bank violence",
-     "url": "https://www.dawn.com/news/2037619/israeli-settlers-attack-us-photographer-covering-west-bank-violence"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-16T15:57:27Z",
-     "headline": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-     "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T16:01:53Z",
-     "headline": "Washington Post ‘outraged’ after its photographer attacked by Israeli occupiers in West Bank",
-     "url": "https://www.aa.com.tr/en/world/washington-post-outraged-after-its-photographer-attacked-by-israeli-occupiers-in-west-bank/4091251"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-16T16:21:48Z",
-     "headline": "Israeli Settlers In West Bank Burn Trees, Throw Rocks During Olive Harvest",
-     "url": "https://www.ndtv.com/world-news/israeli-settlers-in-west-bank-burn-trees-throw-rocks-during-olive-harvest-12196559#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T16:36:12Z",
-     "headline": "UN calls for investigation into Israeli occupier attack on Washington Post photographer in West Bank",
-     "url": "https://www.aa.com.tr/en/world/un-calls-for-investigation-into-israeli-occupier-attack-on-washington-post-photographer-in-west-bank/4091307"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-16T16:37:53Z",
-     "headline": "Israeli settlers burn three Palestinian vehicles, attack farmers",
-     "url": "https://www.newarab.com/news/israeli-settlers-burn-three-palestinian-vehicles-attack-farmers"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-16T17:08:27Z",
-     "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
-     "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
     }
    ]
   },
@@ -6792,159 +6799,6 @@
    ]
   },
   {
-   "id": 12603,
-   "title": "Son of Aung San Suu Kyi says had first call in five years",
-   "category": "Health & Science",
-   "importance": 6.35,
-   "risk": 4.69,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "CYP",
-    "GBR",
-    "USA",
-    "JPN",
-    "MMR",
-    "IND",
-    "SGP",
-    "THA",
-    "OMN",
-    "TWN"
-   ],
-   "first_seen": "2026-10-19T13:17:25Z",
-   "last_seen": "2026-10-23T09:00:00Z",
-   "page": "event/12603.html",
-   "reports": [
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-19T13:17:25Z",
-     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
-     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-19T14:53:00Z",
-     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
-     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T15:38:25Z",
-     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
-     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-19T22:44:00Z",
-     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
-     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-20T04:22:07Z",
-     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
-     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-20T05:07:00Z",
-     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
-     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-20T05:19:07Z",
-     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
-     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-21T11:12:27Z",
-     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
-     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T09:37:38Z",
-     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
-     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-22T09:47:46Z",
-     "headline": "Suu Kyi speaks to son for first time in more than five years",
-     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:49:54Z",
-     "headline": "Son of Aung San Suu Kyi says had first call in five years",
-     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T10:07:48Z",
-     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
-     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T10:38:10Z",
-     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
-     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-22T10:54:49Z",
-     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
-     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:26:10Z",
-     "headline": "Suu Kyi speaks to son for first time in five years",
-     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T01:00:09Z",
-     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
-    }
-   ]
-  },
-  {
    "id": 12406,
    "title": "WFP cuts aid to 500,000 Palestinians in Gaza",
    "category": "Geopolitics",
@@ -8625,6 +8479,115 @@
    ]
   },
   {
+   "id": 8134,
+   "title": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+   "category": "Trade & Industry",
+   "importance": 5.97,
+   "risk": 6.89,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 10,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-23T17:25:01Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T17:22:07Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:25:01Z",
+     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+    }
+   ]
+  },
+  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -9556,101 +9519,6 @@
    ]
   },
   {
-   "id": 8134,
-   "title": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-   "category": "Trade & Industry",
-   "importance": 5.86,
-   "risk": 6.84,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 9,
-   "countries": [
-    "IRQ",
-    "IRN",
-    "KWT",
-    "ARM",
-    "OMN",
-    "USA",
-    "SGP",
-    "CYP"
-   ],
-   "first_seen": "2026-10-16T14:30:51Z",
-   "last_seen": "2026-10-23T17:10:20Z",
-   "page": "event/8134.html",
-   "reports": [
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T14:30:51Z",
-     "headline": "Iran’s undersea cable threat raises risks for Iraq",
-     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-17T12:29:27Z",
-     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
-     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T19:28:00Z",
-     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
-     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-20T05:39:00Z",
-     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
-     "url": "https://news.am/en/news/1068984"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T05:14:43Z",
-     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-21T11:33:57Z",
-     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
-     "url": "https://www.iranintl.com/en/202610216166"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T09:32:45Z",
-     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
-     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T13:32:06Z",
-     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
-     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:10:20Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    }
-   ]
-  },
-  {
    "id": 23981,
    "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
    "category": "Geopolitics",
@@ -10310,6 +10178,166 @@
    ]
   },
   {
+   "id": 12603,
+   "title": "Son of Aung San Suu Kyi says had first call in five years",
+   "category": "Health & Science",
+   "importance": 5.79,
+   "risk": 4.22,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "CYP",
+    "GBR",
+    "USA",
+    "JPN",
+    "MMR",
+    "IND",
+    "SGP",
+    "THA",
+    "OMN",
+    "TWN"
+   ],
+   "first_seen": "2026-10-19T13:17:25Z",
+   "last_seen": "2026-10-23T09:00:00Z",
+   "page": "event/12603.html",
+   "reports": [
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-19T13:17:25Z",
+     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
+     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-19T14:53:00Z",
+     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
+     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T15:38:25Z",
+     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
+     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-19T22:44:00Z",
+     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
+     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-20T04:22:07Z",
+     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
+     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-20T05:07:00Z",
+     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-20T05:19:07Z",
+     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
+     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-21T11:12:27Z",
+     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
+     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T09:37:38Z",
+     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
+     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-22T09:47:46Z",
+     "headline": "Suu Kyi speaks to son for first time in more than five years",
+     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T09:49:54Z",
+     "headline": "Son of Aung San Suu Kyi says had first call in five years",
+     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T10:07:48Z",
+     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
+     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T10:38:10Z",
+     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
+     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-22T10:54:49Z",
+     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
+     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:26:10Z",
+     "headline": "Suu Kyi speaks to son for first time in five years",
+     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-22T23:30:00Z",
+     "headline": "Myanmar’s Aung San Suu Kyi Speaks With Son For First Time Since Military Coup",
+     "url": "https://thediplomat.com/2026/10/myanmars-aung-san-suu-kyi-speaks-with-son-for-first-time-since-military-coup/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-23T01:00:09Z",
+     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
+     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -10927,129 +10955,6 @@
      "time": "2026-10-22T19:52:04Z",
      "headline": "Oil hits 5-month high as Houthi attacks stoke supply fears",
      "url": "https://www.koreatimes.co.kr/world/20261023/oil-hits-5-month-high-as-houthi-attacks-stoke-supply-fears?utm_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 16185,
-   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
-   "category": "Geopolitics",
-   "importance": 5.76,
-   "risk": 2.07,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 10,
-   "countries": [
-    "SAU",
-    "RUS",
-    "USA",
-    "SGP",
-    "UKR",
-    "GBR",
-    "DEU",
-    "FRA"
-   ],
-   "first_seen": "2026-10-21T06:43:21Z",
-   "last_seen": "2026-10-23T10:48:24Z",
-   "page": "event/16185.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T06:43:21Z",
-     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
-     "url": "https://english.aawsat.com/node/5331854"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T16:50:24Z",
-     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
-     "url": "https://tass.com/world/2205775"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T22:50:42Z",
-     "headline": "How Elon Musk gained so much power over U.S. security interests",
-     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T21:07:07Z",
-     "headline": "Trump says Ukraine's access to Starshield restored",
-     "url": "https://tass.com/world/2206599"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T21:11:38Z",
-     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
-     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T00:53:16Z",
-     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
-     "url": "https://www.kyivpost.com/post/87918"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T01:16:00Z",
-     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T02:12:09Z",
-     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
-     "url": "https://www.kyivpost.com/post/87919"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-23T02:16:26Z",
-     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
-     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T05:37:00Z",
-     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
-     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T06:22:59Z",
-     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
-     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:04:49Z",
-     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
-     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:20:00Z",
-     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T10:48:24Z",
-     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
-     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
     }
    ]
   },
@@ -12206,6 +12111,139 @@
      "time": "2026-10-23T16:14:20Z",
      "headline": "Austria expels four Russian diplomats on security grounds",
      "url": "https://www.arabnews.com/world/austria-expels-four-russian-diplomats-on-security-grounds-3007913"
+    }
+   ]
+  },
+  {
+   "id": 17952,
+   "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+   "category": "Geopolitics",
+   "importance": 5.66,
+   "risk": 2.19,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "UGA",
+    "NZL",
+    "IND",
+    "SGP",
+    "GBR",
+    "TUR",
+    "ZAF",
+    "THA",
+    "USA",
+    "CHN",
+    "ARE"
+   ],
+   "first_seen": "2026-10-21T19:57:41Z",
+   "last_seen": "2026-10-23T09:18:43Z",
+   "page": "event/17952.html",
+   "reports": [
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-21T19:57:41Z",
+     "headline": "Google staff resign in backlash over its AI contracts with military",
+     "url": "https://nilepost.co.ug/news/380575/google-staff-resign-in-backlash-over-its-ai-contracts-with-military"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:30:27Z",
+     "headline": "Defence Force chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.stuff.co.nz/nz-news/361050375/defence-force-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:02:32Z",
+     "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T04:33:00Z",
+     "headline": "New Zealand's top military officer resigns over 'inappropriate relationship'",
+     "url": "https://www.channelnewsasia.com/world/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-6485241"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T04:44:44Z",
+     "headline": "New Zealand’s military chief steps down over ‘inappropriate relationship’",
+     "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-military-tony-davies-relationship-resigns-b3071931.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T05:12:47Z",
+     "headline": "Fenz boss resigns, a month after minister called for him to go",
+     "url": "https://www.stuff.co.nz/politics/361050425/fenz-boss-resigns-more-month-after-minister-called-him-go"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T05:26:11Z",
+     "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
+     "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T05:47:51Z",
+     "headline": "New Zealand’s top military commander resigns after admitting to ‘inappropriate relationship’",
+     "url": "https://www.aa.com.tr/en/asia-pacific/new-zealand-s-top-military-commander-resigns-after-admitting-to-inappropriate-relationship-/4097941"
+    },
+    {
+     "outlet": "RNZ National",
+     "country": "NZL",
+     "time": "2026-10-23T06:03:00Z",
+     "headline": "Fire and Emergency New Zealand chief executive Kerry Gregory resigns",
+     "url": "https://www.rnz.co.nz/news/political/2104751/fire-and-emergency-new-zealand-chief-executive-kerry-gregory-resigns"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:37:00Z",
+     "headline": "New Zealand military chief resigns over 'inappropriate relationship'",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-zealand-military-chief-resigns-over-inappropriate-relationship/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "NZ military chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.bangkokpost.com/world/3342273/nz-military-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:40:32Z",
+     "headline": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+     "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T08:00:24Z",
+     "headline": "New Zealand fire agency chief executive resigns",
+     "url": "https://english.news.cn/20261023/1a6c375f02284608a1d07aa26c93424f/c.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:01:17Z",
+     "headline": "New Zealand military chief resigns over ‘inappropriate relationship’",
+     "url": "https://gulfnews.com/world/oceania/new-zealand-military-chief-resigns-over-inappropriate-relationship-2-1.500720852"
+    },
+    {
+     "outlet": "Defense News",
+     "country": "USA",
+     "time": "2026-10-23T09:18:43Z",
+     "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
     }
    ]
   }
