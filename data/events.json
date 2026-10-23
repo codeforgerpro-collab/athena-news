@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:58:02Z",
+ "generated": "2026-10-23T12:33:42Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -37,7 +37,7 @@
     "NGA"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T11:35:26Z",
+   "last_seen": "2026-10-23T12:03:33Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -67,6 +67,13 @@
      "time": "2026-10-23T05:06:35Z",
      "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
      "url": "https://www.arabnews.com/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-3007835"
     },
     {
      "outlet": "Shafaq News (English)",
@@ -312,13 +319,6 @@
      "time": "2026-10-23T10:41:52Z",
      "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
      "url": "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T10:44:54Z",
-     "headline": "Far-right Israeli Minister Orders Buildings Demolished in West Bank after Attack",
-     "url": "https://english.aawsat.com/node/5332669"
     }
    ]
   },
@@ -1858,6 +1858,169 @@
    ]
   },
   {
+   "id": 23956,
+   "title": "One killed, four injured in drive-by shooting near Paris",
+   "category": "Society & Law",
+   "importance": 7.03,
+   "risk": 7.1,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T12:06:24Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after fatal shooting in Paris suburb",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "One killed, four injured, including child, in drive-by shooting in Paris suburb",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "At least one dead and four injured in Paris suburb shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed in shooting near Paris, French prime minister says",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    }
+   ]
+  },
+  {
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
@@ -2405,161 +2568,6 @@
    ]
   },
   {
-   "id": 23956,
-   "title": "France: 1 killed, 4 wounded after shooting near Paris",
-   "category": "Geopolitics",
-   "importance": 6.87,
-   "risk": 7.04,
-   "confidence": 0.85,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T11:37:09Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after attacker 'with automatic weapon' kills one and injures four near Paris",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "At least one dead and four injured in Paris suburb shooting",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed in shooting near Paris, French Prime Minister says",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    }
-   ]
-  },
-  {
    "id": 16048,
    "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
    "category": "Society & Law",
@@ -2882,7 +2890,7 @@
      "outlet": "RFE/RL (English)",
      "country": "INT",
      "time": "2026-10-22T05:37:19Z",
-     "headline": "Trump Says Musk Has Lifted Starlink Restrictions On Ukraine After Kyiv Reported Ongoing Issues",
+     "headline": "Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues",
      "url": "https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html"
     },
     {
@@ -3807,6 +3815,108 @@
    ]
   },
   {
+   "id": 23500,
+   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
+   "category": "Trade & Industry",
+   "importance": 6.64,
+   "risk": 2.22,
+   "confidence": 0.85,
+   "status": "peaking",
+   "outlets": 10,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK",
+    "IRQ"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T12:25:00Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    }
+   ]
+  },
+  {
    "id": 16208,
    "title": "Sisi: Egypt would defend Saudi territory, rules out Yemen attack",
    "category": "Geopolitics",
@@ -3952,6 +4062,155 @@
      "time": "2026-10-22T11:16:51Z",
      "headline": "Sisi says Egypt will ‘defend Saudi territory’, but rules out attacking Yemen",
      "url": "https://www.theafricareport.com/434221/sisi-says-egypt-will-defend-saudi-territory-but-rules-out-attacking-yemen/"
+    }
+   ]
+  },
+  {
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
+   "importance": 6.53,
+   "risk": 4.19,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 16,
+   "countries": [
+    "GRC",
+    "PAK",
+    "SGP",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "DEU",
+    "ZAF",
+    "LKA",
+    "TUR",
+    "CHN"
+   ],
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T11:50:29Z",
+   "page": "event/17849.html",
+   "reports": [
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:14:17Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:50:29Z",
+     "headline": "Greek parliament approves social media ban for under-15s from January",
+     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
     }
    ]
   },
@@ -4235,425 +4494,6 @@
      "time": "2026-10-23T06:59:37Z",
      "headline": "Australians light candles for critically injured Helen Haines",
      "url": "https://www.abc.net.au/news/2026-10-23/helen-haines-candle-vigil-critical-injuries-hospital-update/107302886"
-    }
-   ]
-  },
-  {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.5,
-   "risk": 4.65,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 15,
-   "countries": [
-    "GRC",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "PAK",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR",
-    "CHN"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T11:50:29Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-23T10:00:46Z",
-     "headline": "Greece adopts law to ban social media access to minors under 15",
-     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:50:29Z",
-     "headline": "Greek parliament approves social media ban for under-15s from January",
-     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
-    }
-   ]
-  },
-  {
-   "id": 16293,
-   "title": "Canada opens free trade talks with Turkiye",
-   "category": "Geopolitics",
-   "importance": 6.48,
-   "risk": 2.45,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "ZWE",
-    "TUR",
-    "QAT",
-    "AZE",
-    "SAU",
-    "DEU",
-    "GRC",
-    "NGA",
-    "ARE",
-    "GBR",
-    "CHN",
-    "ISR"
-   ],
-   "first_seen": "2026-10-21T22:11:53Z",
-   "last_seen": "2026-10-23T08:50:48Z",
-   "page": "event/16293.html",
-   "reports": [
-    {
-     "outlet": "The Herald",
-     "country": "ZWE",
-     "time": "2026-10-21T22:11:53Z",
-     "headline": "Kenya moves to deepen trade ties",
-     "url": "https://www.heraldonline.co.zw/kenya-moves-to-deepen-trade-ties/"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-22T13:03:14Z",
-     "headline": "Erdoğan meets Carney as Türkiye, Canada seek closer ties",
-     "url": "https://www.hurriyetdailynews.com/erdogan-meets-carney-as-turkiye-canada-seek-closer-ties-228485"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:00:37Z",
-     "headline": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-     "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T15:18:00Z",
-     "headline": "Canada, Türkiye announce strategic partnership to deepen energy, defence and trade ties",
-     "url": "https://en.apa.az/asia/canada-turkiye-announce-strategic-partnership-to-deepen-energy-defence-and-trade-ties-531686"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T15:26:31Z",
-     "headline": "Canada opens free trade talks with Turkiye",
-     "url": "https://www.arabnews.com/middle-east/canada-opens-free-trade-talks-with-turkiye-3007758"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T16:31:45Z",
-     "headline": "Canada opens free trade talks with Turkey",
-     "url": "https://www.newarab.com/news/canada-opens-free-trade-talks-turkey"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:51:58Z",
-     "headline": "Türkiye, Canada to deepen trade, defense ties as Erdogan and Carney announce strategic partnership",
-     "url": "https://www.aa.com.tr/en/world/-turkiye-canada-to-deepen-trade-defense-ties-as-erdogan-and-carney-announce-strategic-partnership/4097689"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T17:07:00Z",
-     "headline": "Canada's Mark Carney visits Turkey to boost trade ties",
-     "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T17:15:04Z",
-     "headline": "Carney, Erdogan Unveil Trade and Defense Partnership in Ankara",
-     "url": "https://www.tovima.com/world/carney-erdogan-unveil-trade-and-defense-partnership-in-ankara/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T17:25:37Z",
-     "headline": "Canada Opens Free Trade Talks With Turkey",
-     "url": "https://www.channelstv.com/2026/10/22/canada-opens-free-trade-talks-with-turkey/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T17:55:02Z",
-     "headline": "Turkey and Canada launch strategic partnership",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/22/turkey-and-canada-launch-strategic-partnership/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T18:15:18Z",
-     "headline": "Canada and Turkey forge ‘strategic partnership’ in push to cut US trade reliance",
-     "url": "https://www.independent.co.uk/news/world/americas/canada-turkey-strategic-partnership-trump-b3071751.html"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:05Z",
-     "headline": "Türkiye and Canada to open free trade talks before year-end, Erdogan says",
-     "url": "https://www.turkiyetoday.com/nation/turkiye-and-canada-to-open-free-trade-talks-before-year-end-erdogan-says-3230842"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:05Z",
-     "headline": "Canada's PM Carney set to visit Türkiye for energy, trade, defense talks: Report",
-     "url": "https://www.turkiyetoday.com/nation/canadas-pm-carney-set-to-visit-turkiye-for-energy-trade-defense-talks-report-3229480"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:05Z",
-     "headline": "President Erdogan rolls out official ceremony for Canadian PM Carney in Ankara",
-     "url": "https://www.turkiyetoday.com/nation/president-erdogan-rolls-out-official-ceremony-for-canadian-pm-carney-in-ankara-3230833"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-23T03:35:59Z",
-     "headline": "Canada opens free trade talks with Turkey",
-     "url": "https://www.turkishminute.com/2026/10/23/canada-opens-free-trade-talks-with-turkey/"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T05:43:55Z",
-     "headline": "Ankara, Ottawa launch strategic partnership",
-     "url": "https://www.hurriyetdailynews.com/ankara-ottawa-launch-strategic-partnership-228495"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T06:40:51Z",
-     "headline": "Türkiye, Canada agree to elevate ties to strategic partnership",
-     "url": "https://english.news.cn/20261023/ebdca491a65e4295bfa48e45fdb2cee2/c.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T06:44:58Z",
-     "headline": "Canada, Turkey sign 'strategic partnership' as part of Carney push to cut reliance on US",
-     "url": "https://www.jpost.com/international/article-912641"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T07:37:18Z",
-     "headline": "Türkiye and Canada sign defense, air and energy deals during Carney's visit",
-     "url": "https://www.turkiyetoday.com/nation/turkiye-and-canada-sign-defense-air-and-energy-deals-during-carneys-visit-3230858"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:49:52Z",
-     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
-     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098239"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:50:48Z",
-     "headline": "Carney rejects US election interference claims, says Canada will never be 51st state",
-     "url": "https://www.aa.com.tr/en/americas/carney-rejects-us-election-interference-claims-says-canada-will-never-be-51st-state/4098242"
-    }
-   ]
-  },
-  {
-   "id": 23500,
-   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
-   "category": "Energy & Environment",
-   "importance": 6.43,
-   "risk": 2.15,
-   "confidence": 0.84,
-   "status": "peaking",
-   "outlets": 9,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T11:42:30Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
     }
    ]
   },
@@ -5049,6 +4889,196 @@
      "time": "2026-10-23T01:30:09Z",
      "headline": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
      "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/010000c"
+    }
+   ]
+  },
+  {
+   "id": 16293,
+   "title": "Canada opens free trade talks with Turkiye",
+   "category": "Geopolitics",
+   "importance": 6.35,
+   "risk": 2.21,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 16,
+   "countries": [
+    "ZWE",
+    "TUR",
+    "QAT",
+    "AZE",
+    "SAU",
+    "DEU",
+    "GRC",
+    "NGA",
+    "ARE",
+    "GBR",
+    "CHN",
+    "ISR"
+   ],
+   "first_seen": "2026-10-21T22:11:53Z",
+   "last_seen": "2026-10-23T08:50:48Z",
+   "page": "event/16293.html",
+   "reports": [
+    {
+     "outlet": "The Herald",
+     "country": "ZWE",
+     "time": "2026-10-21T22:11:53Z",
+     "headline": "Kenya moves to deepen trade ties",
+     "url": "https://www.heraldonline.co.zw/kenya-moves-to-deepen-trade-ties/"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-22T13:03:14Z",
+     "headline": "Erdoğan meets Carney as Türkiye, Canada seek closer ties",
+     "url": "https://www.hurriyetdailynews.com/erdogan-meets-carney-as-turkiye-canada-seek-closer-ties-228485"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:00:37Z",
+     "headline": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
+     "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T15:18:00Z",
+     "headline": "Canada, Türkiye announce strategic partnership to deepen energy, defence and trade ties",
+     "url": "https://en.apa.az/asia/canada-turkiye-announce-strategic-partnership-to-deepen-energy-defence-and-trade-ties-531686"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T15:26:31Z",
+     "headline": "Canada opens free trade talks with Turkiye",
+     "url": "https://www.arabnews.com/middle-east/canada-opens-free-trade-talks-with-turkiye-3007758"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T16:31:45Z",
+     "headline": "Canada opens free trade talks with Turkey",
+     "url": "https://www.newarab.com/news/canada-opens-free-trade-talks-turkey"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:51:58Z",
+     "headline": "Türkiye, Canada to deepen trade, defense ties as Erdogan and Carney announce strategic partnership",
+     "url": "https://www.aa.com.tr/en/world/-turkiye-canada-to-deepen-trade-defense-ties-as-erdogan-and-carney-announce-strategic-partnership/4097689"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T17:07:00Z",
+     "headline": "Canada's Mark Carney visits Turkey to boost trade ties",
+     "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T17:15:04Z",
+     "headline": "Carney, Erdogan Unveil Trade and Defense Partnership in Ankara",
+     "url": "https://www.tovima.com/world/carney-erdogan-unveil-trade-and-defense-partnership-in-ankara/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T17:25:37Z",
+     "headline": "Canada Opens Free Trade Talks With Turkey",
+     "url": "https://www.channelstv.com/2026/10/22/canada-opens-free-trade-talks-with-turkey/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T17:55:02Z",
+     "headline": "Turkey and Canada launch strategic partnership",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/22/turkey-and-canada-launch-strategic-partnership/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T18:15:18Z",
+     "headline": "Canada and Turkey forge ‘strategic partnership’ in push to cut US trade reliance",
+     "url": "https://www.independent.co.uk/news/world/americas/canada-turkey-strategic-partnership-trump-b3071751.html"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:05Z",
+     "headline": "Türkiye and Canada to open free trade talks before year-end, Erdogan says",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-and-canada-to-open-free-trade-talks-before-year-end-erdogan-says-3230842"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:05Z",
+     "headline": "Canada's PM Carney set to visit Türkiye for energy, trade, defense talks: Report",
+     "url": "https://www.turkiyetoday.com/nation/canadas-pm-carney-set-to-visit-turkiye-for-energy-trade-defense-talks-report-3229480"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:05Z",
+     "headline": "President Erdogan rolls out official ceremony for Canadian PM Carney in Ankara",
+     "url": "https://www.turkiyetoday.com/nation/president-erdogan-rolls-out-official-ceremony-for-canadian-pm-carney-in-ankara-3230833"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-23T03:35:59Z",
+     "headline": "Canada opens free trade talks with Turkey",
+     "url": "https://www.turkishminute.com/2026/10/23/canada-opens-free-trade-talks-with-turkey/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-23T03:35:59Z",
+     "headline": "Turkey, Canada launch free trade talks",
+     "url": "https://www.turkishminute.com/2026/10/23/turkey-canada-launch-free-trade-talks/"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T05:43:55Z",
+     "headline": "Ankara, Ottawa launch strategic partnership",
+     "url": "https://www.hurriyetdailynews.com/ankara-ottawa-launch-strategic-partnership-228495"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T06:40:51Z",
+     "headline": "Türkiye, Canada agree to elevate ties to strategic partnership",
+     "url": "https://english.news.cn/20261023/ebdca491a65e4295bfa48e45fdb2cee2/c.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T06:44:58Z",
+     "headline": "Canada, Turkey sign 'strategic partnership' as part of Carney push to cut reliance on US",
+     "url": "https://www.jpost.com/international/article-912641"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T07:37:18Z",
+     "headline": "Türkiye and Canada sign defense, air and energy deals during Carney's visit",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-and-canada-sign-defense-air-and-energy-deals-during-carneys-visit-3230858"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:49:52Z",
+     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
+     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098239"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:50:48Z",
+     "headline": "Carney rejects US election interference claims, says Canada will never be 51st state",
+     "url": "https://www.aa.com.tr/en/americas/carney-rejects-us-election-interference-claims-says-canada-will-never-be-51st-state/4098242"
     }
    ]
   },
@@ -6300,252 +6330,6 @@
    ]
   },
   {
-   "id": 6981,
-   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-   "category": "Business",
-   "importance": 6.09,
-   "risk": 0.0,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 18,
-   "countries": [
-    "ARE",
-    "ZAF",
-    "SGP",
-    "USA",
-    "COL",
-    "PAK",
-    "TWN",
-    "IND",
-    "SAU",
-    "KOR",
-    "NLD",
-    "CYP"
-   ],
-   "first_seen": "2026-10-16T09:13:27Z",
-   "last_seen": "2026-10-23T11:14:58Z",
-   "page": "event/6981.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T09:13:27Z",
-     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-16T13:13:00Z",
-     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T14:17:00Z",
-     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
-     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-16T22:31:26Z",
-     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-17T04:01:00Z",
-     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
-     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-17T11:27:08Z",
-     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T13:00:00Z",
-     "headline": "iPhone Duo orders open in South Africa at R48k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
-    },
-    {
-     "outlet": "News24",
-     "country": "ZAF",
-     "time": "2026-10-19T15:52:21Z",
-     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
-     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T12:28:35Z",
-     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T14:57:30Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Apple’s iPhone factories will not make India the next China",
-     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:51:22Z",
-     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:52:45Z",
-     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
-     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T03:30:19Z",
-     "headline": "6 things to know before you buy the iPhone Duo",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T08:46:00Z",
-     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:27:10Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T01:10:00Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:26:45Z",
-     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
-     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:41:12Z",
-     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
-     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:54:14Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T05:07:00Z",
-     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T05:56:19Z",
-     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
-     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T06:12:57Z",
-     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
-     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:32:24Z",
-     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
-     "url": "https://english.aawsat.com/node/5332596"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:50Z",
-     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
-     "url": "https://www.koreaherald.com/article/10912978"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:18:36Z",
-     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
-     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:59:01Z",
-     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
-     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:23:31Z",
-     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
-     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T08:54:10Z",
-     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
-     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T11:07:09Z",
-     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
-     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T11:14:58Z",
-     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
-     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
-    }
-   ]
-  },
-  {
    "id": 13885,
    "title": "NK leader's sister warns of border countermeasures, loudspeakers to be ready within days",
    "category": "Society & Law",
@@ -6759,6 +6543,273 @@
      "time": "2026-10-22T07:07:13Z",
      "headline": "Seoul sees no signs of new North Korean weapons on border",
      "url": "https://www.bangkokpost.com/world/3341583/seoul-sees-no-signs-of-new-north-korean-weapons-on-border"
+    }
+   ]
+  },
+  {
+   "id": 6981,
+   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+   "category": "Business",
+   "importance": 6.08,
+   "risk": 1.22,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 20,
+   "countries": [
+    "ARE",
+    "ZAF",
+    "SGP",
+    "USA",
+    "COL",
+    "PAK",
+    "TWN",
+    "IND",
+    "SAU",
+    "KOR",
+    "NLD",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T09:13:27Z",
+   "last_seen": "2026-10-23T11:54:00Z",
+   "page": "event/6981.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T09:13:27Z",
+     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-16T13:13:00Z",
+     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-16T14:17:00Z",
+     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
+     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-16T22:31:26Z",
+     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-17T04:01:00Z",
+     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
+     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-17T11:27:08Z",
+     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:00:00Z",
+     "headline": "iPhone Duo orders open in South Africa at R48k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-19T15:52:21Z",
+     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
+     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T12:28:35Z",
+     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T14:57:30Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T00:00:00Z",
+     "headline": "Apple’s iPhone factories will not make India the next China",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:51:22Z",
+     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
+     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:52:45Z",
+     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
+     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T03:30:19Z",
+     "headline": "6 things to know before you buy the iPhone Duo",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T07:20:48Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T08:46:00Z",
+     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T11:22:04Z",
+     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:27:10Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T01:10:00Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:26:45Z",
+     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
+     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:41:12Z",
+     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
+     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:54:14Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T05:07:00Z",
+     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T05:56:19Z",
+     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
+     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T06:12:57Z",
+     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
+     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:32:24Z",
+     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
+     "url": "https://english.aawsat.com/node/5332596"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T06:40:50Z",
+     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
+     "url": "https://www.koreaherald.com/article/10912978"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:18:36Z",
+     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
+     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:59:01Z",
+     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
+     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:23:31Z",
+     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
+     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T08:54:10Z",
+     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
+     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T11:07:09Z",
+     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
+     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T11:14:58Z",
+     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
+     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-23T11:54:00Z",
+     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
+     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
     }
    ]
   },
@@ -7180,6 +7231,100 @@
      "time": "2026-10-23T10:20:31Z",
      "headline": "South Korea invites North for military talks over border",
      "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 17145,
+   "title": "Global summit on children's well-being opens in Samarkand",
+   "category": "Geopolitics",
+   "importance": 6.0,
+   "risk": 2.27,
+   "confidence": 0.85,
+   "status": "fading",
+   "outlets": 8,
+   "countries": [
+    "KWT",
+    "USA",
+    "IRN",
+    "KGZ",
+    "AZE",
+    "OMN",
+    "TJK"
+   ],
+   "first_seen": "2026-10-21T05:09:00Z",
+   "last_seen": "2026-10-23T12:02:07Z",
+   "page": "event/17145.html",
+   "reports": [
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T05:09:00Z",
+     "headline": "Global summit on children's well-being opens in Samarkand",
+     "url": "https://www.arabtimesonline.com/news/global-summit-on-childrens-well-being-opens-in-samarkand/"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-21T12:00:00Z",
+     "headline": "Summit in Samarkand, a boon for child wellbeing and health",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-21T12:50:02Z",
+     "headline": "Samarkand hosts global summit on children’s well-being",
+     "url": "https://www.tehrantimes.com/news/531344/Samarkand-hosts-global-summit-on-children-s-well-being"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-22T04:30:40Z",
+     "headline": "Aigul Japarova visits children's rehabilitation center in Samarkand",
+     "url": "https://24.kg/en/article/aigul-japarova-visits-childrens-rehabilitation-center-in-samarkand"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-22T06:55:00Z",
+     "headline": "Samarkand summit charts new path for children's well-being",
+     "url": "https://www.arabtimesonline.com/news/samarkand-summit-charts-new-path-for-childrens-well-being/"
+    },
+    {
+     "outlet": "The Times of Central Asia",
+     "country": "CAS",
+     "time": "2026-10-22T12:32:58Z",
+     "headline": "International Network Launched to Support Childhood Cancer Care in Uzbekistan",
+     "url": "https://timesca.com/childhood-cancer-care-in-uzbekistan-international-network/"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T13:08:00Z",
+     "headline": "Azerbaijani delegation attends World Summit in Uzbekistan",
+     "url": "https://www.azernews.az/culture/266025.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:27:32Z",
+     "headline": "Oman wraps up child wellbeing summit in Uzbekistan",
+     "url": "https://www.omanobserver.om/article/1198404/oman/oman-wraps-up-child-wellbeing-summit-in-uzbekistan"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T06:22:00Z",
+     "headline": "Samarkand Declaration calls for greater investment in children",
+     "url": "https://www.arabtimesonline.com/news/samarkand-declaration-calls-for-greater-investment-in-children/"
+    },
+    {
+     "outlet": "Asia-Plus (English)",
+     "country": "TJK",
+     "time": "2026-10-23T12:02:07Z",
+     "headline": "Samarkand Declaration calls for greater investment in children’s well-beingSamarkand Declaration: World Summit agrees to increase investment in child well-being",
+     "url": "https://asiaplus.news/en/2026/10/23/samarkand-declaration-world-summit-agrees-to-increase-investment-in-child-well-being/"
     }
    ]
   },
@@ -8908,6 +9053,110 @@
    ]
   },
   {
+   "id": 19863,
+   "title": "Barclays Bank to Cut about 5,000 Jobs amid AI Drive",
+   "category": "Economy & Markets",
+   "importance": 5.68,
+   "risk": 1.31,
+   "confidence": 0.85,
+   "status": "fading",
+   "outlets": 11,
+   "countries": [
+    "IRL",
+    "USA",
+    "GBR",
+    "PAK",
+    "NLD",
+    "SAU",
+    "NGA",
+    "CYP",
+    "KEN",
+    "IND"
+   ],
+   "first_seen": "2026-10-22T06:13:39Z",
+   "last_seen": "2026-10-23T10:20:24Z",
+   "page": "event/19863.html",
+   "reports": [
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-22T06:13:39Z",
+     "headline": "Barclays cuts 5,000 jobs as AI makes work more efficient",
+     "url": "https://www.rte.ie/news/business/2026/1022/1596386-barclays-quarterly-results/"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-22T08:17:07Z",
+     "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
+     "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html"
+    },
+    {
+     "outlet": "BBC Business",
+     "country": "GBR",
+     "time": "2026-10-22T08:19:47Z",
+     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T09:02:12Z",
+     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
+     "url": "https://www.brecorder.com/news/40445446/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-22T09:31:41Z",
+     "headline": "Barclays to cut 5,000 jobs this year as AI makes the bank more efficient",
+     "url": "https://thenextweb.com/news/barclays-5000-job-cuts-ai"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T09:35:28Z",
+     "headline": "Barclays Bank to Cut about 5,000 Jobs amid AI Drive",
+     "url": "https://english.aawsat.com/node/5332286"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T11:16:53Z",
+     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
+     "url": "https://punchng.com/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-22T12:45:54Z",
+     "headline": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+     "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T03:30:00Z",
+     "headline": "Barclays to cut 5,000 jobs as AI technology replaces support roles",
+     "url": "https://cyprus-mail.com/2026/10/23/barclays-to-cut-5000-jobs-as-ai-technology-replaces-support-roles"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T06:09:07Z",
+     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+     "url": "https://www.kbc.co.ke/barclays-cutting-5000-jobs-as-it-increases-reliance-on-ai/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T10:20:24Z",
+     "headline": "Barclays to cut 5,000 jobs, cites AI efficiency; here's what employee presentation said",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/uks-biggest-bank-barclays-to-cut-5000-jobs-and-puts-it-on-ai-efficiency-heres-what-presentation-to-employees-said-on-job-cuts/articleshow/135142611.cms"
+    }
+   ]
+  },
+  {
    "id": 16809,
    "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
    "category": "Geopolitics",
@@ -10040,102 +10289,6 @@
      "time": "2026-10-22T00:00:00Z",
      "headline": "Australian lawmaker lost legs in attack",
      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/22/2003866426"
-    }
-   ]
-  },
-  {
-   "id": 19863,
-   "title": "Barclays Bank to Cut about 5,000 Jobs amid AI Drive",
-   "category": "Economy & Markets",
-   "importance": 5.62,
-   "risk": 1.3,
-   "confidence": 0.84,
-   "status": "fading",
-   "outlets": 10,
-   "countries": [
-    "IRL",
-    "USA",
-    "GBR",
-    "PAK",
-    "NLD",
-    "SAU",
-    "NGA",
-    "CYP",
-    "KEN"
-   ],
-   "first_seen": "2026-10-22T06:13:39Z",
-   "last_seen": "2026-10-23T06:09:07Z",
-   "page": "event/19863.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T06:13:39Z",
-     "headline": "Barclays cuts 5,000 jobs as AI makes work more efficient",
-     "url": "https://www.rte.ie/news/business/2026/1022/1596386-barclays-quarterly-results/"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-22T08:17:07Z",
-     "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
-     "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html"
-    },
-    {
-     "outlet": "BBC Business",
-     "country": "GBR",
-     "time": "2026-10-22T08:19:47Z",
-     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T09:02:12Z",
-     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
-     "url": "https://www.brecorder.com/news/40445446/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-22T09:31:41Z",
-     "headline": "Barclays to cut 5,000 jobs this year as AI makes the bank more efficient",
-     "url": "https://thenextweb.com/news/barclays-5000-job-cuts-ai"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:35:28Z",
-     "headline": "Barclays Bank to Cut about 5,000 Jobs amid AI Drive",
-     "url": "https://english.aawsat.com/node/5332286"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:16:53Z",
-     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
-     "url": "https://punchng.com/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-22T12:45:54Z",
-     "headline": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-     "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T03:30:00Z",
-     "headline": "Barclays to cut 5,000 jobs as AI technology replaces support roles",
-     "url": "https://cyprus-mail.com/2026/10/23/barclays-to-cut-5000-jobs-as-ai-technology-replaces-support-roles"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T06:09:07Z",
-     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "url": "https://www.kbc.co.ke/barclays-cutting-5000-jobs-as-it-increases-reliance-on-ai/"
     }
    ]
   },
@@ -11328,6 +11481,122 @@
    ]
   },
   {
+   "id": 22319,
+   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+   "category": "Society & Law",
+   "importance": 5.51,
+   "risk": 1.95,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 11,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T12:19:45Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    }
+   ]
+  },
+  {
    "id": 12912,
    "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province",
    "category": "Health & Science",
@@ -11536,419 +11805,6 @@
      "time": "2026-10-23T04:01:16Z",
      "headline": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
      "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html"
-    }
-   ]
-  },
-  {
-   "id": 15957,
-   "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-   "category": "Geopolitics",
-   "importance": 5.46,
-   "risk": 5.64,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 16,
-   "countries": [
-    "UKR",
-    "AZE",
-    "USA",
-    "RUS",
-    "CAN",
-    "AUS",
-    "SAU",
-    "OMN",
-    "SGP",
-    "BGD",
-    "TWN",
-    "JPN"
-   ],
-   "first_seen": "2026-10-19T19:17:27Z",
-   "last_seen": "2026-10-23T05:30:09Z",
-   "page": "event/15957.html",
-   "reports": [
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-19T19:17:27Z",
-     "headline": "Russia Strikes Ecosoft, Planeta Plastic With Ballistic Missiles",
-     "url": "https://www.kyivpost.com/post/87548"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T05:07:20Z",
-     "headline": "1 Week Without US Intelligence: Russian Ballistics Kill At Least 6 Ukrainians, 21 Injured",
-     "url": "https://www.kyivpost.com/post/87568"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T06:38:47Z",
-     "headline": "Russia Has Up to 700 Ballistic Missiles, 6,200 Attack Drones Ready to Strike Ukraine, Intelligence Says",
-     "url": "https://www.kyivpost.com/post/87696"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T22:48:15Z",
-     "headline": "Russia Pounds Kyiv in Overnight Missile and Drone Barrage – 1 Dead, 24 Injured, Including 4 Children",
-     "url": "https://www.kyivpost.com/post/87796"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Russia attacks Kyiv with ballistic missiles, damaging medical facility and Pivdennyi Bridge",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059161/"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-22T03:32:00Z",
-     "headline": "One person killed and 24 injured in Russian attack on Kyiv, including four children – photos",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059167/"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T06:00:00Z",
-     "headline": "Heavy ballistic missile strike hits Kyiv, injuring 15 and severing transport links",
-     "url": "https://www.azernews.az/region/265981.html"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-22T06:15:00Z",
-     "headline": "Russian ballistic attack leaves one dead, 22 injured, causes damage in six Kyiv districts",
-     "url": "https://www.ukrinform.net/rubric-ato/4176929-russian-ballistic-attack-leaves-one-dead-22-injured-causes-damage-in-six-kyiv-districts.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T07:51:00Z",
-     "headline": "Zelensky: Russia fires 21 ballistic missiles at Ukraine, killing 2 people",
-     "url": "https://en.apa.az/europe/zelensky-russia-fires-21-ballistic-missiles-at-ukraine-killing-2-people-531574"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-22T08:10:22Z",
-     "headline": "Russia pounds Ukraine with missiles and drones, hours after agreeing to peace talks",
-     "url": "https://abcnews.com/International/wireStory/russia-pounds-ukraines-capital-kyiv-missiles-drones-hours-137468007"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T08:18:48Z",
-     "headline": "Zelensky on Overnight Strike: ‘Russian ‘Humanists’ Launch 21 Ballistic Missiles at Kyiv in 3 Waves’",
-     "url": "https://www.kyivpost.com/post/87830"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T08:40:02Z",
-     "headline": "Ukraine’s military admits it fails to intercept any single Russian ballistic missile again",
-     "url": "https://tass.com/world/2206047"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T11:39:49Z",
-     "headline": "Russia pounds Ukraine's capital Kyiv with missiles and drones, hours after agreeing to peace talks",
-     "url": "https://www.cbc.ca/news/world/ukraine-russia-missile-attack-9.7391250?cmp=rss"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-22T13:15:00Z",
-     "headline": "Zelensky: Russia used three ballistic missiles with cluster warheads in attack on Kyiv",
-     "url": "https://www.ukrinform.net/rubric-ato/4177152-zelensky-russia-used-three-ballistic-missiles-with-cluster-warheads-in-attack-on-kyiv.html"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T13:38:45Z",
-     "headline": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
-     "url": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T13:46:26Z",
-     "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-     "url": "https://www.arabnews.com/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed-3007742"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T14:47:00Z",
-     "headline": "Russia Hits Central Kyiv With Cluster Missile",
-     "url": "https://www.kyivpost.com/post/87886"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T14:58:46Z",
-     "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-     "url": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:26:52Z",
-     "headline": "Russia pounds Kyiv as both sides eye new talks",
-     "url": "https://www.omanobserver.om/article/1198397/world/region/russia-pounds-kyiv-as-both-sides-eye-new-talks"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T16:34:49Z",
-     "headline": "Ukraine’s Zelensky says fresh Russian strikes show ‘no change’ in Kremlin position",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-position"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-22T19:40:00Z",
-     "headline": "Russia to step up ballistic missile attacks as U.S. cuts Patriot missile supplies to Ukraine – Zelensky",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177274-russia-to-step-up-ballistic-missile-attacks-as-us-cuts-patriot-missile-supplies-to-ukraine-zelensky.html"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T19:54:32Z",
-     "headline": "Russia, Ukraine trade missile, drone strikes",
-     "url": "https://www.thedailystar.net/news/world/news/russia-ukraine-trade-missile-drone-strikes-4305391"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Russian missiles pound Kyiv a day after US talks",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866465"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T05:30:09Z",
-     "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/020000c"
-    }
-   ]
-  },
-  {
-   "id": 16196,
-   "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
-   "category": "Geopolitics",
-   "importance": 5.46,
-   "risk": 4.46,
-   "confidence": 0.94,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "USA",
-    "RUS",
-    "SGP",
-    "CAN",
-    "UKR",
-    "CHN",
-    "EGY",
-    "FRA",
-    "AZE",
-    "TUR"
-   ],
-   "first_seen": "2026-10-21T07:43:43Z",
-   "last_seen": "2026-10-23T08:00:49Z",
-   "page": "event/16196.html",
-   "reports": [
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-21T07:43:43Z",
-     "headline": "After Witkoff Meeting, Putin 'Ready To Resume' US-Led Peace Talks With Ukraine",
-     "url": "https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T13:56:19Z",
-     "headline": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
-     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T13:58:51Z",
-     "headline": "Putin and Witkoff discuss resumption of trilateral talks on Ukraine — Kremlin aide",
-     "url": "https://tass.com/politics/2205599"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:05:00Z",
-     "headline": "Putin says Russia ready to resume trilateral talks in November — aide",
-     "url": "https://tass.com/politics/2205585"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T14:06:28Z",
-     "headline": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
-     "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:25:23Z",
-     "headline": "New approaches by EU, Ukraine of little use for settlement — Kremlin aide",
-     "url": "https://tass.com/politics/2205653"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:36:05Z",
-     "headline": "Kremlin says it’s ready to resume trilateral talks but sees little ‘useful’ in new proposals from Ukraine and the EU",
-     "url": "https://meduza.io/en/news/2026/10/21/kremlin-says-it-s-ready-to-resume-trilateral-talks-but-sees-little-useful-in-new-proposals-from-ukraine-and-the-eu"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:49:38Z",
-     "headline": "New round of trilateral talks on Ukraine could take place in Abu Dhabi — Kremlin aide",
-     "url": "https://tass.com/politics/2205685"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:58:21Z",
-     "headline": "Putin yet to decide on Russian delegation to new trilateral Ukraine talks",
-     "url": "https://tass.com/politics/2205691"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:05:57Z",
-     "headline": "Everyone interested in meeting between Russia, China and US, Kremlin aide says",
-     "url": "https://tass.com/politics/2205699"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:35:20Z",
-     "headline": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
-     "url": "https://tass.com/politics/2205735"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:40:53Z",
-     "headline": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
-     "url": "https://tass.com/politics/2205747"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T15:42:32Z",
-     "headline": "Putin to resume three-way talks with Ukraine, Washington: Kremlin",
-     "url": "https://globalnews.ca/news/12111003/putin-to-resume-ukraine-washington-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T16:14:00Z",
-     "headline": "Putin ‘Ready’ for Three-Way Ukraine Talks in November, Kremlin Says",
-     "url": "https://www.kyivpost.com/post/87775"
-    },
-    {
-     "outlet": "Interfax-Ukraine (English)",
-     "country": "UKR",
-     "time": "2026-10-21T17:20:10Z",
-     "headline": "Moscow tells Witkoff it is ready to resume trilateral talks in first ten days of Nov",
-     "url": "https://en.interfax.com.ua/news/general/1224138.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T17:41:08Z",
-     "headline": "Ukraine Counts on Beijing’s ‘Constructive Role’ as Sybiha Meets Chinese Ambassador",
-     "url": "https://www.kyivpost.com/post/87782"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T07:07:55Z",
-     "headline": "Russia ready to resume trilateral talks with US, Ukraine in mid-November",
-     "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad8f19be4b06d4aa05640d2.html"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T13:38:18Z",
-     "headline": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
-     "url": "https://www.egyptindependent.com/massive-strikes-hit-kyiv-hours-after-putin-agrees-to-fresh-peace-talks/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T13:39:13Z",
-     "headline": "Kremlin spokesman weighs in on upcoming trilateral talks with Ukraine",
-     "url": "https://tass.com/politics/2206323"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T15:50:09Z",
-     "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-     "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T16:43:59Z",
-     "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
-     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T18:57:19Z",
-     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
-     "url": "https://tass.com/politics/2206531"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-22T18:58:00Z",
-     "headline": "Putin: Russia has told US it is ready to resume trilateral talks",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059305/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T19:16:00Z",
-     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
-     "url": "https://en.apa.az/cis-countries/russia-ready-to-resume-trilateral-talks-on-ukraine-putin-531713"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T22:41:21Z",
-     "headline": "Talks with US,Ukraine to focus on security guarantees — Putin",
-     "url": "https://tass.com/politics/2206565"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T22:56:45Z",
-     "headline": "Putin reaffirms Russia’s readiness to resume trilateral peace talks on Ukraine war",
-     "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-reaffirms-russia-s-readiness-to-resume-trilateral-peace-talks-on-ukraine-war/4097897"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T08:00:49Z",
-     "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
-     "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
     }
    ]
   }

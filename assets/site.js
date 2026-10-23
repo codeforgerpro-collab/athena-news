@@ -10,6 +10,12 @@
   var fmt,fday;try{fmt=new Intl.DateTimeFormat(L?"el-GR":"en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
     fday=new Intl.DateTimeFormat(L?"el-GR":"en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});}catch(e){}
   var u=document.querySelector(".util"),td=document.getElementById("today");if(td&&fday)td.textContent=fday.format(new Date());
+  // the reader's own local time next to the date (their device's time zone), kept current
+  var ck=document.getElementById("clock"),fclk;try{fclk=new Intl.DateTimeFormat(L?"el-GR":"en-GB",{hour:"2-digit",minute:"2-digit",hourCycle:"h23",timeZoneName:"short"});}catch(e){}
+  if(ck&&fclk){var tick=function(){var n=new Date();ck.textContent=fclk.format(n);ck.setAttribute("datetime",n.toISOString());
+      if(td&&fday)td.textContent=fday.format(n);};tick();ck.hidden=false;
+    try{ck.title=(L?"Η ώρα σας · ":"Your local time · ")+Intl.DateTimeFormat().resolvedOptions().timeZone;}catch(e){}
+    setTimeout(function(){tick();setInterval(tick,60000);},(60-new Date().getSeconds())*1000);}
   if(u&&window.fetch)fetch((u.getAttribute("data-root")||"")+"data/updated.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
     var s=document.getElementById("upd");if(!s||!j.updated)return;var t=s.querySelector("time");t.setAttribute("datetime",j.updated);t.textContent=ago(j.updated)||j.updated;
     if(fmt)t.title=fmt.format(new Date(j.updated));s.hidden=false;}).catch(function(){});
@@ -37,7 +43,7 @@
     tt.style.setProperty("--tkd",Math.max(25,Math.round(tt.scrollWidth/2/60))+"s");          // ~60 px a second, whatever the number of items
     var pb=tk.querySelector(".tp");pb.addEventListener("click",function(){var p=tk.classList.toggle("paused");pb.textContent=p?"▶":"❚❚";});
   }).catch(function(){});
-  [].forEach.call(document.querySelectorAll("time[datetime]"),function(t){var a=ago(t.getAttribute("datetime"));
+  [].forEach.call(document.querySelectorAll("time[datetime]:not(#clock)"),function(t){var a=ago(t.getAttribute("datetime"));
     if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fmt.format(new Date(t.getAttribute("datetime")));}
     if(fmt)t.title=fmt.format(new Date(t.getAttribute("datetime")));});
 })();
