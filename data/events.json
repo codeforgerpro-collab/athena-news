@@ -1,17 +1,336 @@
 {
- "generated": "2026-10-23T09:44:51Z",
+ "generated": "2026-10-23T11:39:11Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
   {
+   "id": 22696,
+   "title": "Netanyahu orders lockdown of West Bank after fatal attack",
+   "category": "Economy & Markets",
+   "importance": 8.31,
+   "risk": 7.27,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 35,
+   "countries": [
+    "SAU",
+    "IRQ",
+    "ISR",
+    "CHN",
+    "AZE",
+    "GBR",
+    "TUR",
+    "USA",
+    "IRL",
+    "PAK",
+    "AUS",
+    "DEU",
+    "NZL",
+    "FRA",
+    "SGP",
+    "QAT",
+    "ARE",
+    "IND",
+    "IRN",
+    "MAR",
+    "GHA",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T05:06:35Z",
+   "last_seen": "2026-10-23T11:35:26Z",
+   "page": "event/22696.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Israel military: two suspected attackers killed after shooting attack near Judea junction",
+     "url": "https://www.arabnews.com/middle-east/israel-military-two-suspected-attackers-killed-after-shooting-attack-near-judea-junction-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Israeli military says killed two after West Bank shooting",
+     "url": "https://www.arabnews.com/middle-east/israeli-military-says-killed-two-after-west-bank-shooting-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "West Bank attack wounds 5 as Israel PM cancels events",
+     "url": "https://www.arabnews.com/middle-east/west-bank-attack-wounds-5-as-israel-pm-cancels-events-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election-3007835"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T05:35:47Z",
+     "headline": "Two gunmen killed in attack on Israeli post near al-Khalil",
+     "url": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:05:24Z",
+     "headline": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
+     "url": "https://english.aawsat.com/node/5332586"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T07:01:49Z",
+     "headline": "Elections committee denies Likud request to bar October 7 probe rally broadcast",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article-live/.free/netanyahu-cancels-all-friday-campaign-events-due-to-west-bank-shooting-attack/000001a1-65f1-d6e1-abb7-77ffe02e0002"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T07:11:50Z",
+     "headline": "5 Israelis wounded, 2 Palestinians killed in West Bank shooting",
+     "url": "https://english.news.cn/20261023/1a90957840f04132aba6610fb13a3046/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:16:00Z",
+     "headline": "Five Israelis wounded, two Palestinians killed in West Bank shooting",
+     "url": "https://en.apa.az/asia/five-israelis-wounded-two-palestinians-killed-in-west-bank-shooting-531778"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T08:03:00Z",
+     "headline": "Israel orders army to prepare to fully close West Bank after 'thwarting terror attack'",
+     "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:04:10Z",
+     "headline": "Netanyahu says Israel preparing 'full closure' of West Bank in response to attack",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-says-israel-preparing-full-closure-of-west-bank-in-response-to-attack-3230861"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T08:10:44Z",
+     "headline": "Netanyahu orders lockdown of West Bank after fatal attack",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T08:14:27Z",
+     "headline": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+     "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:18:27Z",
+     "headline": "Israel orders military to prepare West Bank closure after attack",
+     "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T08:25:00Z",
+     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+     "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T08:25:07Z",
+     "headline": "Urgent: Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
+     "url": "https://english.news.cn/20261023/adc8518b9ed545e3ad0cf4ca207bda7f/c.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T08:27:20Z",
+     "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "url": "https://www.stuff.co.nz/world-news/361050482/netanyahus-office-orders-closure-west-bank-after-soldiers"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T08:30:24Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:33:59Z",
+     "headline": "Israel orders army to prepare for full closure of West Bank after attack",
+     "url": "https://www.independent.co.uk/news/world/middle-east/israel-west-bank-hebron-attack-b3072022.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T08:35:17Z",
+     "headline": "Netanyahu orders army to prepare for full West Bank closure after attack",
+     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:47:16Z",
+     "headline": "Israel orders ‘full lockdown’ of occupied West Bank after military kills 2 accused of attack",
+     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:09:51Z",
+     "headline": "Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
+     "url": "https://english.news.cn/20261023/199a2a2ff1584241a32b75a981d8cb1d/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T09:11:28Z",
+     "headline": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:12:38Z",
+     "headline": "Israeli military kills two in gun battle in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T09:18:58Z",
+     "headline": "Netanyahu orders West Bank lockdown after Hebron checkpoint shooting",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/23/netanyahu-orders-west-bank-lockdown-after-hebron-checkpoint-shooting/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:26:58Z",
+     "headline": "Israeli premier orders ‘closure’ of Hebron, ‘full lockdown’ of occupied West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T09:27:04Z",
+     "headline": "Israel Closes West Bank After Military Kills \"2 Terrorists\" For Shooting",
+     "url": "https://www.ndtv.com/world-news/israel-closes-west-bank-after-military-kills-2-terrorists-for-shooting-5-injured-12224818#publisher=newsstand"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T09:28:42Z",
+     "headline": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T09:29:06Z",
+     "headline": "Netanyahu orders West Bank lockdown after deadly attack days before election",
+     "url": "https://gulfnews.com/world/mena/netanyahu-orders-west-bank-lockdown-after-deadly-attack-days-before-election-1.500720835"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T09:44:40Z",
+     "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-23T09:58:07Z",
+     "headline": "6 Israeli soldiers wounded in Palestinian op. in West Bank",
+     "url": "https://en.mehrnews.com/news/248832/6-Israeli-soldiers-wounded-in-Palestinian-op-in-West-Bank"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T10:03:56Z",
+     "headline": "Israel army says launches 'offensive counter-terrorism operations' in West Bank",
+     "url": "https://en.hespress.com/147834-israel-army-says-launches-offensive-counter-terrorism-operations-in-west-bank.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T10:05:10Z",
+     "headline": "Israel prepares full West Bank lockdown after Hebron shooting",
+     "url": "https://www.middleeasteye.net/news/israel-prepares-full-west-bank-lockdown-after-hebron-shooting"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:09:14Z",
+     "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
+     "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:10:00Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds five Israelis before election",
+     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T10:13:49Z",
+     "headline": "Israel orders closure of occupied West Bank after two suspected attackers killed",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-orders-occupied-west-bank-closure/dlaq5dlui"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:39:46Z",
+     "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "url": "https://www.myjoyonline.com/five-israelis-wounded-and-two-suspected-palestinian-attackers-killed-in-west-bank-shooting/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T10:41:52Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+     "url": "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T10:44:54Z",
+     "headline": "Far-right Israeli Minister Orders Buildings Demolished in West Bank after Attack",
+     "url": "https://english.aawsat.com/node/5332669"
+    }
+   ]
+  },
+  {
    "id": 8843,
    "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
    "category": "Energy & Environment",
-   "importance": 8.04,
-   "risk": 7.35,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 38,
+   "importance": 7.65,
+   "risk": 6.54,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 39,
    "countries": [
     "ARE",
     "KGZ",
@@ -39,10 +358,11 @@
     "ZAF",
     "NPL",
     "CYP",
-    "CHN"
+    "CHN",
+    "LKA"
    ],
    "first_seen": "2026-10-16T18:49:30Z",
-   "last_seen": "2026-10-23T10:03:12Z",
+   "last_seen": "2026-10-23T11:24:30Z",
    "page": "event/8843.html",
    "reports": [
     {
@@ -331,11 +651,11 @@
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
-   "importance": 7.49,
-   "risk": 7.33,
+   "importance": 7.63,
+   "risk": 7.36,
    "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 22,
+   "status": "peaking",
+   "outlets": 24,
    "countries": [
     "THA",
     "VNM",
@@ -352,10 +672,12 @@
     "DEU",
     "ZAF",
     "PAK",
-    "AUS"
+    "AUS",
+    "GHA",
+    "CAN"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T09:24:59Z",
+   "last_seen": "2026-10-23T10:53:38Z",
    "page": "event/19215.html",
    "reports": [
     {
@@ -460,7 +782,7 @@
      "outlet": "South China Morning Post",
      "country": "HKG",
      "time": "2026-10-23T06:39:58Z",
-     "headline": "Super Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
      "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
     },
     {
@@ -539,6 +861,20 @@
      "time": "2026-10-23T09:24:59Z",
      "headline": "Taiwan shuts down as Typhoon Champi approaches",
      "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:53:27Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:53:38Z",
+     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
+     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
     }
    ]
   },
@@ -546,8 +882,8 @@
    "id": 8775,
    "title": "Trump fires White House Press Secretary Katie Zacharia",
    "category": "Geopolitics",
-   "importance": 7.44,
-   "risk": 1.12,
+   "importance": 7.5,
+   "risk": 1.16,
    "confidence": 0.88,
    "status": "fading",
    "outlets": 44,
@@ -584,7 +920,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-16T15:57:24Z",
-   "last_seen": "2026-10-21T12:05:37Z",
+   "last_seen": "2026-10-23T11:22:20Z",
    "page": "event/8775.html",
    "reports": [
     {
@@ -866,236 +1202,6 @@
      "time": "2026-10-16T22:30:21Z",
      "headline": "Capehart and Continetti on the White House press secretary's quick exit",
      "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
-    }
-   ]
-  },
-  {
-   "id": 22696,
-   "title": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
-   "category": "Economy & Markets",
-   "importance": 7.33,
-   "risk": 6.94,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 25,
-   "countries": [
-    "SAU",
-    "IRQ",
-    "ISR",
-    "CHN",
-    "AZE",
-    "GBR",
-    "TUR",
-    "USA",
-    "IRL",
-    "PAK",
-    "AUS",
-    "DEU",
-    "NZL",
-    "FRA",
-    "SGP",
-    "QAT",
-    "ARE"
-   ],
-   "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T09:40:32Z",
-   "page": "event/22696.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israel military: two suspected attackers killed after shooting attack near Judea junction",
-     "url": "https://www.arabnews.com/middle-east/israel-military-two-suspected-attackers-killed-after-shooting-attack-near-judea-junction-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israeli military says killed two after West Bank shooting",
-     "url": "https://www.arabnews.com/middle-east/israeli-military-says-killed-two-after-west-bank-shooting-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "West Bank attack wounds 5 as Israel PM cancels events",
-     "url": "https://www.arabnews.com/middle-east/west-bank-attack-wounds-5-as-israel-pm-cancels-events-3007835"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T05:35:47Z",
-     "headline": "Two gunmen killed in attack on Israeli post near al-Khalil",
-     "url": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:05:24Z",
-     "headline": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
-     "url": "https://english.aawsat.com/node/5332586"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T07:01:49Z",
-     "headline": "Netanyahu cancels all Friday campaign events due to West Bank shooting attack",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article-live/.free/netanyahu-cancels-all-friday-campaign-events-due-to-west-bank-shooting-attack/000001a1-65f1-d6e1-abb7-77ffe02e0002"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T07:11:50Z",
-     "headline": "5 Israelis wounded, 2 Palestinians killed in West Bank shooting",
-     "url": "https://english.news.cn/20261023/1a90957840f04132aba6610fb13a3046/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:16:00Z",
-     "headline": "Five Israelis wounded, two Palestinians killed in West Bank shooting",
-     "url": "https://en.apa.az/asia/five-israelis-wounded-two-palestinians-killed-in-west-bank-shooting-531778"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T08:03:00Z",
-     "headline": "Israel orders army to prepare to fully close West Bank after 'thwarting terror attack'",
-     "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:04:10Z",
-     "headline": "Netanyahu says Israel preparing 'full closure' of West Bank in response to attack",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-says-israel-preparing-full-closure-of-west-bank-in-response-to-attack-3230861"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T08:10:44Z",
-     "headline": "Netanyahu orders lockdown of West Bank after fatal attack",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T08:14:27Z",
-     "headline": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
-     "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:18:27Z",
-     "headline": "Breaking: Israel orders military to prepare West Bank closure after attack",
-     "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T08:25:00Z",
-     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
-     "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T08:25:07Z",
-     "headline": "Urgent: Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/adc8518b9ed545e3ad0cf4ca207bda7f/c.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T08:27:20Z",
-     "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-     "url": "https://www.stuff.co.nz/world-news/361050482/netanyahus-office-orders-closure-west-bank-after-soldiers"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T08:30:24Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:33:59Z",
-     "headline": "Israel orders army to prepare for full closure of West Bank after attack",
-     "url": "https://www.independent.co.uk/news/world/middle-east/israel-west-bank-hebron-attack-b3072022.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T08:35:17Z",
-     "headline": "Netanyahu orders army to prepare for full West Bank closure after attack",
-     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:47:16Z",
-     "headline": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
-     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:09:51Z",
-     "headline": "Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/199a2a2ff1584241a32b75a981d8cb1d/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T09:11:28Z",
-     "headline": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:12:38Z",
-     "headline": "Israeli military kills two in gun battle in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T09:18:58Z",
-     "headline": "Netanyahu orders West Bank lockdown after Hebron checkpoint shooting",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/23/netanyahu-orders-west-bank-lockdown-after-hebron-checkpoint-shooting/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:26:58Z",
-     "headline": "Israeli premier orders ‘closure’ of Hebron, ‘full lockdown’ of occupied West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T09:28:42Z",
-     "headline": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T09:29:06Z",
-     "headline": "Netanyahu orders West Bank lockdown after deadly attack days before election",
-     "url": "https://gulfnews.com/world/mena/netanyahu-orders-west-bank-lockdown-after-deadly-attack-days-before-election-1.500720835"
     }
    ]
   },
@@ -2754,7 +2860,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-23T00:27:09Z",
-     "headline": "Trump says Musk restored Ukraine's Starlink service",
+     "headline": "Ukraine reports problems with Starlink service",
      "url": "https://www.rte.ie/news/world/2026/1023/1596527-ukraine-starlink-trump/"
     },
     {
@@ -2768,14 +2874,14 @@
      "outlet": "The Independent",
      "country": "GBR",
      "time": "2026-10-23T05:48:26Z",
-     "headline": "Ukraine-Russia war latest: Kyiv’s Starlink access remains limited despite Trump-Musk claims",
+     "headline": "Ukraine-Russia war latest: Kyiv’s Starlink access remains limited despite Trump and Musk’s claims",
      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-musk-zelensky-starlink-b3071932.html"
     },
     {
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-23T08:00:11Z",
-     "headline": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+     "headline": "French interior minister says authorities will be ‘uncompromising’ with ‘vandals’ ahead of weekend protests – Europe live",
      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
     }
    ]
@@ -2939,6 +3045,147 @@
      "time": "2026-10-22T17:58:04Z",
      "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Society & Law",
+   "importance": 6.71,
+   "risk": 6.95,
+   "confidence": 0.85,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T11:35:25Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after one killed and several injured in Paris drive-by shooting",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "One dead and four injured in Paris drive-by shooting",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "French prosecutors investigate Paris shooting as suspected terror attack",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "At least one dead and four injured in Paris suburb shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
     }
    ]
   },
@@ -4161,318 +4408,6 @@
    ]
   },
   {
-   "id": 16146,
-   "title": "Who is Stephen Hubbard, the American Putin just freed?",
-   "category": "Geopolitics",
-   "importance": 6.42,
-   "risk": 4.34,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 28,
-   "countries": [
-    "CHN",
-    "USA",
-    "RUS",
-    "ARE",
-    "FRA",
-    "UKR",
-    "IRL",
-    "CAN",
-    "DEU",
-    "GBR",
-    "SGP",
-    "SAU",
-    "QAT",
-    "KOR",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-21T09:04:56Z",
-   "last_seen": "2026-10-22T17:56:26Z",
-   "page": "event/16146.html",
-   "reports": [
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T09:04:56Z",
-     "headline": "Putin says Russia has freed US citizen Stephen Hubbard",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1RqjWkUJjgY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-21T09:25:37Z",
-     "headline": "Retired American teacher imprisoned by Russia returns to U.S.",
-     "url": "https://www.nbcnews.com/world/russia/russia-released-american-stephen-hubbard-trump-putin-ukraine-war-talks-rcna604730"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T09:42:04Z",
-     "headline": "Putin releases U.S. citizen Stephen Hubbard, who fought on Ukraine’s side",
-     "url": "https://meduza.io/en/news/2026/10/21/putin-releases-u-s-citizen-stephen-hubbard-who-fought-on-ukraine-s-side"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-21T09:43:13Z",
-     "headline": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-     "url": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-21T09:53:03Z",
-     "headline": "US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison",
-     "url": "https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-21T10:20:50Z",
-     "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T11:10:42Z",
-     "headline": "Russia frees US citizen Stephen Hubbard",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/21/putin-says-russia-has-freed-us-citizen-stephen-hubbard/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-21T11:45:30Z",
-     "headline": "Kremlin open to new Ukraine peace talks as Russia frees US teacher Stephen Hubbard",
-     "url": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T11:59:56Z",
-     "headline": "Putin Orders US Teacher’s Release as Witkoff Arrives for Talks",
-     "url": "https://www.kyivpost.com/post/87747"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T12:53:58Z",
-     "headline": "FACTBOX: Release of American citizen Stephen Hubbard convicted in Russia",
-     "url": "https://tass.com/world/2205477"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-21T13:05:37Z",
-     "headline": "Who is Stephen Hubbard, the retired American teacher freed by Russia?",
-     "url": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-21T13:10:45Z",
-     "headline": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-     "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T13:15:22Z",
-     "headline": "Stephen Hubbard released by Russia after years in prison",
-     "url": "https://www.cbsnews.com/video/stephen-hubbard-released-by-russia-after-years-in-prison/"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T13:15:29Z",
-     "headline": "Russia frees American Stephen Hubbard after over 4 years in prison, during a visit from U.S. envoy Witkoff",
-     "url": "https://www.pbs.org/newshour/world/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-from-u-s-envoy-witkoff"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T13:34:55Z",
-     "headline": "Russia frees retired US schoolteacher Stephen Hubbard",
-     "url": "https://www.rte.ie/news/2026/1021/1596296-russia-frees-retired-schoolteacher-ukraine/"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T13:43:16Z",
-     "headline": "Russia frees American prisoner after over 4 years during a U.S. envoy visit",
-     "url": "https://globalnews.ca/news/12110855/russia-frees-american-prisoner/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-21T13:56:00Z",
-     "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-     "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:01:53Z",
-     "headline": "US citizen Hubbard freed in Russia is heading home — envoy",
-     "url": "https://tass.com/politics/2205607"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-21T14:27:18Z",
-     "headline": "Russia frees jailed American as Putin meets US envoy for Ukraine talks",
-     "url": "http://www.africanews.com/2026/10/21/russia-frees-jailed-american-as-putin-meets-us-envoy-for-ukraine-talks/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:12:57Z",
-     "headline": "Who is Stephen Hubbard, the American Putin just freed?",
-     "url": "https://meduza.io/en/feature/2026/10/21/who-is-stephen-hubbard-the-american-putin-just-freed"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-21T15:23:04Z",
-     "headline": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-21T18:53:28Z",
-     "headline": "Trump faces fresh questions over ties to 'humanitarian' Putin",
-     "url": "https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-21T19:57:46Z",
-     "headline": "American Stephen Hubbard Freed After More Than 4 Years In Russian Custody",
-     "url": "https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T20:01:00Z",
-     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
-     "url": "https://www.straitstimes.com/world/united-states/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T20:50:31Z",
-     "headline": "Trump calls those urging more Russia sanctions ‘stupid people’",
-     "url": "https://tass.com/world/2205863"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T21:00:00Z",
-     "headline": "10/21: The Takeout with Major Garrett",
-     "url": "https://www.cbsnews.com/video/102126-the-takeout-with-major-garrett/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T21:02:02Z",
-     "headline": "American Stephen Hubbard released by Russia, Trump confirms",
-     "url": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T21:49:05Z",
-     "headline": "Russia frees American Stephen Hubbard after over 4 years behind bars",
-     "url": "https://www.arabnews.com/world/russia-frees-american-stephen-hubbard-after-over-4-years-behind-bars-3007620"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-21T22:39:19Z",
-     "headline": "Putin releases American Stephen Hubbard from Russian prison",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T22:55:40Z",
-     "headline": "American imprisoned by Russia released as Witkoff meets and praises Putin",
-     "url": "https://www.pbs.org/newshour/show/american-imprisoned-by-russia-released-as-witkoff-meets-and-praises-putin"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T22:57:24Z",
-     "headline": "War and peace: Trump team now says Putin is a 'humanitarian'",
-     "url": "https://www.thenationalnews.com/opinion/comment/2026/10/21/putin-humanitarian-witkoff-trump-ukraine/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-22T00:30:00Z",
-     "headline": "Stephen Hubbard's son after his release from Russian prison: \"I want to embrace him\"",
-     "url": "https://www.cbsnews.com/video/stephen-hubbards-son-release-russian-prison-want-embrace/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-22T00:51:57Z",
-     "headline": "Son of Stephen Hubbard, American freed from Russian jail, speaks out",
-     "url": "https://www.cbsnews.com/news/stephen-hubbard-freed-american-russia-son-interview/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T01:16:20Z",
-     "headline": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T02:16:25Z",
-     "headline": "Russia frees American Stephen Hubbard after 4 years behind bars",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
-     "url": "https://www.koreatimes.co.kr/world/20261022/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff?utm_source=rss"
-    },
-    {
-     "outlet": "Interfax-Ukraine (English)",
-     "country": "UKR",
-     "time": "2026-10-22T07:15:40Z",
-     "headline": "Russia releases 74-year-old American from captivity: where he was held and who tortured him",
-     "url": "https://en.interfax.com.ua/news/press-release/1224316.html"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T08:21:31Z",
-     "headline": "Trump says Putin’s decision to release Hubbard is greatly appreciated",
-     "url": "https://tass.com/world/2206037"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T08:53:17Z",
-     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff/"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-22T10:55:47Z",
-     "headline": "Who Is Stephen Hubbard, the U.S. Citizen Released by Russia?",
-     "url": "https://www.themoscowtimes.com/2026/10/22/who-is-stephen-hubbard-the-us-citizen-released-by-russia-a94051"
-    }
-   ]
-  },
-  {
    "id": 979,
    "title": "Albania’s prime minister vows not to resign over student-led protests",
    "category": "Society & Law",
@@ -4694,6 +4629,93 @@
      "time": "2026-10-22T19:18:00Z",
      "headline": "Albania's student protests are only getting bigger",
      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "id": 23500,
+   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
+   "category": "Energy & Environment",
+   "importance": 6.37,
+   "risk": 2.08,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 9,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T11:18:10Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
     }
    ]
   },
@@ -5017,6 +5039,140 @@
      "time": "2026-10-23T09:00:00Z",
      "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
+    }
+   ]
+  },
+  {
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
+   "importance": 6.34,
+   "risk": 4.6,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "GRC",
+    "SGP",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "PAK",
+    "DEU",
+    "ZAF",
+    "LKA",
+    "TUR"
+   ],
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T10:00:46Z",
+   "page": "event/17849.html",
+   "reports": [
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
     }
    ]
   },
@@ -5566,6 +5722,318 @@
    ]
   },
   {
+   "id": 16146,
+   "title": "American Stephen Hubbard released by Russia, Trump confirms",
+   "category": "Geopolitics",
+   "importance": 6.3,
+   "risk": 5.33,
+   "confidence": 0.93,
+   "status": "fading",
+   "outlets": 28,
+   "countries": [
+    "CHN",
+    "USA",
+    "RUS",
+    "ARE",
+    "FRA",
+    "UKR",
+    "IRL",
+    "CAN",
+    "DEU",
+    "GBR",
+    "SGP",
+    "SAU",
+    "QAT",
+    "KOR",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-21T09:04:56Z",
+   "last_seen": "2026-10-23T10:12:13Z",
+   "page": "event/16146.html",
+   "reports": [
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T09:04:56Z",
+     "headline": "Putin says Russia has freed US citizen Stephen Hubbard",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1RqjWkUJjgY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-21T09:25:37Z",
+     "headline": "Retired American teacher imprisoned by Russia returns to U.S.",
+     "url": "https://www.nbcnews.com/world/russia/russia-released-american-stephen-hubbard-trump-putin-ukraine-war-talks-rcna604730"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T09:42:04Z",
+     "headline": "Putin releases U.S. citizen Stephen Hubbard, who fought on Ukraine’s side",
+     "url": "https://meduza.io/en/news/2026/10/21/putin-releases-u-s-citizen-stephen-hubbard-who-fought-on-ukraine-s-side"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-21T09:43:13Z",
+     "headline": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
+     "url": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-21T09:53:03Z",
+     "headline": "US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison",
+     "url": "https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-21T10:20:50Z",
+     "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T11:10:42Z",
+     "headline": "Russia frees US citizen Stephen Hubbard",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/21/putin-says-russia-has-freed-us-citizen-stephen-hubbard/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-21T11:45:30Z",
+     "headline": "Kremlin open to new Ukraine peace talks as Russia frees US teacher Stephen Hubbard",
+     "url": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T11:59:56Z",
+     "headline": "Putin Orders US Teacher’s Release as Witkoff Arrives for Talks",
+     "url": "https://www.kyivpost.com/post/87747"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T12:53:58Z",
+     "headline": "FACTBOX: Release of American citizen Stephen Hubbard convicted in Russia",
+     "url": "https://tass.com/world/2205477"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-21T13:05:37Z",
+     "headline": "Who is Stephen Hubbard, the retired American teacher freed by Russia?",
+     "url": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-21T13:10:45Z",
+     "headline": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+     "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T13:15:22Z",
+     "headline": "Stephen Hubbard released by Russia after years in prison",
+     "url": "https://www.cbsnews.com/video/stephen-hubbard-released-by-russia-after-years-in-prison/"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T13:15:29Z",
+     "headline": "Russia frees American Stephen Hubbard after over 4 years in prison, during a visit from U.S. envoy Witkoff",
+     "url": "https://www.pbs.org/newshour/world/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-from-u-s-envoy-witkoff"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-21T13:34:55Z",
+     "headline": "Russia frees retired US schoolteacher Stephen Hubbard",
+     "url": "https://www.rte.ie/news/2026/1021/1596296-russia-frees-retired-schoolteacher-ukraine/"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T13:43:16Z",
+     "headline": "Russia frees American prisoner after over 4 years during a U.S. envoy visit",
+     "url": "https://globalnews.ca/news/12110855/russia-frees-american-prisoner/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-21T13:56:00Z",
+     "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+     "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:01:53Z",
+     "headline": "US citizen Hubbard freed in Russia is heading home — envoy",
+     "url": "https://tass.com/politics/2205607"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-21T14:27:18Z",
+     "headline": "Russia frees jailed American as Putin meets US envoy for Ukraine talks",
+     "url": "http://www.africanews.com/2026/10/21/russia-frees-jailed-american-as-putin-meets-us-envoy-for-ukraine-talks/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:12:57Z",
+     "headline": "Who is Stephen Hubbard, the American Putin just freed?",
+     "url": "https://meduza.io/en/feature/2026/10/21/who-is-stephen-hubbard-the-american-putin-just-freed"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-21T15:23:04Z",
+     "headline": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
+     "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-21T18:53:28Z",
+     "headline": "Trump faces fresh questions over ties to 'humanitarian' Putin",
+     "url": "https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-21T19:57:46Z",
+     "headline": "American Stephen Hubbard Freed After More Than 4 Years In Russian Custody",
+     "url": "https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T20:01:00Z",
+     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
+     "url": "https://www.straitstimes.com/world/united-states/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T20:50:31Z",
+     "headline": "Trump calls those urging more Russia sanctions ‘stupid people’",
+     "url": "https://tass.com/world/2205863"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T21:00:00Z",
+     "headline": "10/21: The Takeout with Major Garrett",
+     "url": "https://www.cbsnews.com/video/102126-the-takeout-with-major-garrett/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T21:02:02Z",
+     "headline": "American Stephen Hubbard released by Russia, Trump confirms",
+     "url": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T21:49:05Z",
+     "headline": "Russia frees American Stephen Hubbard after over 4 years behind bars",
+     "url": "https://www.arabnews.com/world/russia-frees-american-stephen-hubbard-after-over-4-years-behind-bars-3007620"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-21T22:39:19Z",
+     "headline": "Putin releases American Stephen Hubbard from Russian prison",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T22:55:40Z",
+     "headline": "American imprisoned by Russia released as Witkoff meets and praises Putin",
+     "url": "https://www.pbs.org/newshour/show/american-imprisoned-by-russia-released-as-witkoff-meets-and-praises-putin"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T22:57:24Z",
+     "headline": "War and peace: Trump team now says Putin is a 'humanitarian'",
+     "url": "https://www.thenationalnews.com/opinion/comment/2026/10/21/putin-humanitarian-witkoff-trump-ukraine/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-22T00:30:00Z",
+     "headline": "Stephen Hubbard's son after his release from Russian prison: \"I want to embrace him\"",
+     "url": "https://www.cbsnews.com/video/stephen-hubbards-son-release-russian-prison-want-embrace/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-22T00:51:57Z",
+     "headline": "Son of Stephen Hubbard, American freed from Russian jail, speaks out",
+     "url": "https://www.cbsnews.com/news/stephen-hubbard-freed-american-russia-son-interview/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T01:16:20Z",
+     "headline": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T02:16:25Z",
+     "headline": "Russia frees American Stephen Hubbard after 4 years behind bars",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
+     "url": "https://www.koreatimes.co.kr/world/20261022/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff?utm_source=rss"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-22T07:15:40Z",
+     "headline": "Russia releases 74-year-old American from captivity: where he was held and who tortured him",
+     "url": "https://en.interfax.com.ua/news/press-release/1224316.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T08:21:31Z",
+     "headline": "Trump says Putin’s decision to release Hubbard is greatly appreciated",
+     "url": "https://tass.com/world/2206037"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-22T08:53:17Z",
+     "headline": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-22T10:55:47Z",
+     "headline": "Who Is Stephen Hubbard, the U.S. Citizen Released by Russia?",
+     "url": "https://www.themoscowtimes.com/2026/10/22/who-is-stephen-hubbard-the-us-citizen-released-by-russia-a94051"
+    }
+   ]
+  },
+  {
    "id": 16722,
    "title": "Germany arrests Ukrainian man suspected of spying for Russia",
    "category": "Geopolitics",
@@ -5685,133 +6153,6 @@
    ]
   },
   {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.25,
-   "risk": 4.57,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "GRC",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "PAK",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T09:31:16Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    }
-   ]
-  },
-  {
    "id": 16067,
    "title": "Russia strikes Kyiv as Ukraine launches hundreds of drones at Moscow",
    "category": "Geopolitics",
@@ -5926,6 +6267,252 @@
      "time": "2026-10-22T07:07:55Z",
      "headline": "Washington envoy visits Moscow for talks on Kyiv",
      "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad973cbe4b06d4aa0564281.html"
+    }
+   ]
+  },
+  {
+   "id": 6981,
+   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+   "category": "Business",
+   "importance": 6.09,
+   "risk": 0.0,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "ARE",
+    "ZAF",
+    "SGP",
+    "USA",
+    "COL",
+    "PAK",
+    "TWN",
+    "IND",
+    "SAU",
+    "KOR",
+    "NLD",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T09:13:27Z",
+   "last_seen": "2026-10-23T11:14:58Z",
+   "page": "event/6981.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T09:13:27Z",
+     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-16T13:13:00Z",
+     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-16T14:17:00Z",
+     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
+     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-16T22:31:26Z",
+     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-17T04:01:00Z",
+     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
+     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-17T11:27:08Z",
+     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:00:00Z",
+     "headline": "iPhone Duo orders open in South Africa at R48k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-19T15:52:21Z",
+     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
+     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T12:28:35Z",
+     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T14:57:30Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T00:00:00Z",
+     "headline": "Apple’s iPhone factories will not make India the next China",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:51:22Z",
+     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
+     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:52:45Z",
+     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
+     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T03:30:19Z",
+     "headline": "6 things to know before you buy the iPhone Duo",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T08:46:00Z",
+     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:27:10Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T01:10:00Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:26:45Z",
+     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
+     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:41:12Z",
+     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
+     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:54:14Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T05:07:00Z",
+     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T05:56:19Z",
+     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
+     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T06:12:57Z",
+     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
+     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:32:24Z",
+     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
+     "url": "https://english.aawsat.com/node/5332596"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T06:40:50Z",
+     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
+     "url": "https://www.koreaherald.com/article/10912978"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:18:36Z",
+     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
+     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:59:01Z",
+     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
+     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:23:31Z",
+     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
+     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T08:54:10Z",
+     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
+     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T11:07:09Z",
+     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
+     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T11:14:58Z",
+     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
+     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
     }
    ]
   },
@@ -6407,127 +6994,163 @@
    ]
   },
   {
-   "id": 21203,
-   "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-   "category": "Society & Law",
-   "importance": 5.99,
-   "risk": 2.31,
-   "confidence": 0.87,
+   "id": 22309,
+   "title": "S. Korea proposes military talks with N. Korea over border conflict issue",
+   "category": "Geopolitics",
+   "importance": 6.0,
+   "risk": 4.2,
+   "confidence": 0.9,
    "status": "peaking",
    "outlets": 14,
    "countries": [
-    "FRA",
+    "KOR",
+    "PAK",
+    "SAU",
     "SGP",
-    "GBR",
-    "AUS",
-    "NZL",
     "USA",
-    "IND",
-    "NGA",
-    "IRL",
-    "ZAF"
+    "THA",
+    "DEU",
+    "PRK",
+    "CHN",
+    "TUR",
+    "QAT"
    ],
-   "first_seen": "2026-10-22T16:33:42Z",
-   "last_seen": "2026-10-23T08:44:19Z",
-   "page": "event/21203.html",
+   "first_seen": "2026-10-23T05:32:53Z",
+   "last_seen": "2026-10-23T10:20:31Z",
+   "page": "event/22309.html",
    "reports": [
     {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T16:33:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
-     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-23T05:32:53Z",
+     "headline": "S. Korea proposes military talks with N. Korea to resolve border line issue",
+     "url": "https://en.yna.co.kr/view/AEN20261023005700315"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T16:41:41Z",
-     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
-     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T05:50:29Z",
+     "headline": "South Korea proposes talks with North Korea on land border",
+     "url": "https://www.brecorder.com/news/40445594/south-korea-proposes-talks-with-north-korea-on-land-border"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T17:14:04Z",
-     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T17:14:25Z",
-     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
-     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T17:18:12Z",
-     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-22T17:30:57Z",
-     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
-     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T17:40:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T17:58:04Z",
-     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
-     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T18:47:59Z",
-     "headline": "BBC defamation suit: Trump get December deadline to testify",
-     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:02:46Z",
+     "headline": "South Korea Proposes Talks with North Korea on Land Border Again",
+     "url": "https://english.aawsat.com/node/5332585"
     },
     {
      "outlet": "CNA (Channel NewsAsia)",
      "country": "SGP",
-     "time": "2026-10-22T19:06:13Z",
-     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
-     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
+     "time": "2026-10-23T06:08:00Z",
+     "headline": "South Korea proposes holding border talks with North",
+     "url": "https://www.channelnewsasia.com/east-asia/south-korea-proposes-holding-border-talks-north-6485461"
     },
     {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-22T20:49:25Z",
-     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
-     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "S. Korea proposes military talks with N. Korea over border conflict issue",
+     "url": "https://www.koreatimes.co.kr/southkorea/defense/20261023/s-korea-proposes-military-talks-with-n-korea-over-border-conflict-issue?utm_source=rss"
     },
     {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T03:43:44Z",
-     "headline": "Trump ordered to testify in BBC defamation case",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "N. Korea likely planted 960,000 land mines along inter-Korean border since 2024: lawmakers",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261023/n-korea-likely-planted-960000-land-mines-along-inter-korean-border-since-2024-lawmakers?utm_source=rss"
     },
     {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:50:00Z",
-     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
-     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T06:39:24Z",
+     "headline": "South Korea proposes holding border talks with North",
+     "url": "https://www.arabnews.com/world/south-korea-proposes-holding-border-talks-with-north-3007846"
     },
     {
-     "outlet": "NPR",
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T06:40:48Z",
+     "headline": "Seoul proposes military talks with Pyongyang as border tensions rise",
+     "url": "https://www.koreaherald.com/article/10913000"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-23T06:50:50Z",
+     "headline": "(LEAD) S. Korea proposes military talks with N. Korea to resolve border location issue",
+     "url": "https://en.yna.co.kr/view/AEN20261023005751315"
+    },
+    {
+     "outlet": "ABC News (International)",
      "country": "USA",
-     "time": "2026-10-23T08:44:19Z",
-     "headline": "Morning news brief",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
+     "time": "2026-10-23T07:18:42Z",
+     "headline": "South Korea proposes military talks with North Korea to calm rising border tensions",
+     "url": "https://abcnews.com/International/wireStory/south-korea-proposes-military-talks-north-korea-calm-137500902"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-23T07:45:49Z",
+     "headline": "(2nd LD) S. Korea proposes military talks with N. Korea to ease tensions along border",
+     "url": "https://en.yna.co.kr/view/AEN20261023005752315"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T07:46:09Z",
+     "headline": "South Korea proposes border talks with North",
+     "url": "https://www.bangkokpost.com/world/3342305/south-korea-proposes-border-talks-with-north"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T07:50:00Z",
+     "headline": "South Korea proposes military talks with North again",
+     "url": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "NK News",
+     "country": "PRK",
+     "time": "2026-10-23T08:05:43Z",
+     "headline": "Seoul again proposes talks with North Korea on border lines amid rising tensions",
+     "url": "https://www.nknews.org/2026/10/seoul-again-proposes-talks-with-north-korea-on-border-lines-amid-rising-tensions/"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-23T08:16:34Z",
+     "headline": "Key developments on North Korea this week",
+     "url": "https://en.yna.co.kr/view/AEN20261023009500315"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:22:00Z",
+     "headline": "S. Korea proposes military talks with DPRK over border line issue",
+     "url": "https://english.news.cn/20261023/a25696c69cf340abad997726226bf0b0/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:28:50Z",
+     "headline": "Seoul offers military talks to Pyongyang amid tensions on Korean Peninsula",
+     "url": "https://www.aa.com.tr/en/asia-pacific/seoul-offers-military-talks-to-pyongyang-amid-tensions-on-korean-peninsula/4098301"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T09:40:15Z",
+     "headline": "S. Korea proposes military talks with N. Korea to ease tensions along border",
+     "url": "https://www.koreaherald.com/article/10913265"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T10:20:31Z",
+     "headline": "South Korea invites North for military talks over border",
+     "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss"
     }
    ]
   },
@@ -6934,67 +7557,229 @@
    ]
   },
   {
-   "id": 23500,
-   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
-   "category": "Energy & Environment",
-   "importance": 5.88,
-   "risk": 1.53,
-   "confidence": 0.79,
+   "id": 16031,
+   "title": "Malaysia bans civil servants from using navigation app, citing data risks",
+   "category": "Trade & Industry",
+   "importance": 5.92,
+   "risk": 2.76,
+   "confidence": 0.84,
    "status": "spreading",
-   "outlets": 6,
+   "outlets": 9,
    "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
+    "ISR",
+    "USA",
+    "MYS",
     "CYP",
-    "UKR"
+    "SGP",
+    "JPN",
+    "IRQ"
    ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T08:55:44Z",
-   "page": "event/23500.html",
+   "first_seen": "2026-10-21T08:25:48Z",
+   "last_seen": "2026-10-23T10:24:07Z",
+   "page": "event/16031.html",
    "reports": [
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-21T08:25:48Z",
+     "headline": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
+     "url": "https://www.haaretz.com/israel-news/tech-news/2026-10-21/ty-article/malaysia-bans-civil-servants-from-using-mapping-app-waze-citing-links-to-israel/000001a1-5d58-da49-abe9-5ff81efa0000"
     },
     {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-21T12:33:27Z",
+     "headline": "Malaysia bans civil servants from using navigation app, citing data risks",
+     "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691"
     },
     {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-22T05:53:45Z",
+     "headline": "TuJu app to go beyond highways and cover ordinary roads, says digital minister",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/tuju-app-to-go-beyond-highways-and-cover-ordinary-roads-says-digital-minister/240157"
     },
     {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-22T05:58:06Z",
+     "headline": "Which way to go? TuJu offers a locally-developed navigation app built around Malaysian highways and traffic info",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/which-way-to-go-tuju-offers-a-locally-developed-navigation-app-built-around-malaysian-highways-and-traffic-info/240160"
     },
     {
      "outlet": "Cyprus Mail",
      "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+     "time": "2026-10-22T06:02:14Z",
+     "headline": "Malaysia bans Waze, citing threat of Israeli data misuse",
+     "url": "https://cyprus-mail.com/2026/10/22/malaysia-bans-waze-citing-threat-of-israeli-data-misuse"
     },
     {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T08:59:00Z",
+     "headline": "Waze rejects data security allegations after Malaysia bans civil servants from using app",
+     "url": "https://www.channelnewsasia.com/asia/waze-data-security-allegations-malaysia-ban-6481901"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T16:42:34Z",
+     "headline": "Malaysia concerned over Waze data falling into Israeli hands",
+     "url": "https://www.newarab.com/news/malaysia-concerned-over-waze-data-falling-israeli-hands"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-23T03:13:00Z",
+     "headline": "Malaysian PM Anwar Bans Civil Servants From Using Israel-developed Navigation App",
+     "url": "https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T05:36:00Z",
+     "headline": "Malaysia Limits Waze Use as Government Raises Security Concerns",
+     "url": "https://www.kurdistan24.net/en/story/947967/malaysia-limits-waze-use-as-government-raises-security-concerns"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:28:01Z",
+     "headline": "M'sia govt urges citizens to delete Waze citing Israeli links, bans civil servants from using app",
+     "url": "https://mothership.sg/2026/10/malaysia-bans-waze-civil-servant/"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T07:29:31Z",
+     "headline": "Anwar says nationwide Waze ban needs careful study first",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/anwar-says-waze-ban-was-spontaneous-decision-over-israeli-links/240314"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T08:29:44Z",
+     "headline": "BDS Malaysia backs civil service Waze ban, urges public boycott of navigation app",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/bds-malaysia-backs-civil-service-waze-ban-urges-public-boycott-of-navigation-app/240325"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T10:24:07Z",
+     "headline": "‘Completely false’: Waze rejects Malaysia’s data security claims after civil servant ban",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/completely-false-waze-rejects-malaysias-data-security-claims-after-civil-servant-ban/240348"
+    }
+   ]
+  },
+  {
+   "id": 21874,
+   "title": "Alien and Top Gun actor Tom Skerritt dies at 93",
+   "category": "Society & Law",
+   "importance": 5.87,
+   "risk": 4.76,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 12,
+   "countries": [
+    "IRL",
+    "NZL",
+    "FRA",
+    "USA",
+    "GHA",
+    "ARE",
+    "KEN",
+    "IND",
+    "PAK",
+    "THA",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T19:25:22Z",
+   "last_seen": "2026-10-23T10:58:34Z",
+   "page": "event/21874.html",
+   "reports": [
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-22T19:25:22Z",
+     "headline": "Tom Skerritt, Alien and Top Gun star, dies aged 93",
+     "url": "https://www.rte.ie/entertainment/2026/1022/1596513-tom-skerritt-alien-and-top-gun-star-dies-aged-93/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-22T19:42:34Z",
+     "headline": "Alien and Top Gun actor Tom Skerritt dies at 93",
+     "url": "https://www.stuff.co.nz/world-news/361049959/tom-skerritt-emmywinning-actor-roles-picket-fences"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T20:11:54Z",
+     "headline": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
+     "url": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-22T20:12:52Z",
+     "headline": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+     "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-22T23:17:02Z",
+     "headline": "Tom Skerritt, Emmy-winning actor with roles in 'Alien', 'Top Gun' and 'Picket Fences,' dies at 93",
+     "url": "https://www.pbs.org/newshour/arts/tom-skerritt-emmy-winning-actor-with-roles-in-alien-top-gun-and-picket-fences-dies-at-93"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T23:53:00Z",
+     "headline": "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
+     "url": "https://www.myjoyonline.com/us-actor-tom-skerritt-who-starred-in-top-gun-steel-magnolias-and-alien-dies-aged-93/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T02:55:27Z",
+     "headline": "Tom Skerritt, Top Gun and Alien star, dies at 93: 'He was our leader'",
+     "url": "https://gulfnews.com/entertainment/tom-skerritt-top-gun-and-alien-star-dies-at-93-he-was-our-leader-1.500720559"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T05:01:54Z",
+     "headline": "US actor Tom Skerritt, star of Top Gun, Alien, dies aged 93",
+     "url": "https://www.kbc.co.ke/us-actor-tom-skerritt-star-of-top-gun-alien-dies-aged-93/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T06:02:14Z",
+     "headline": "Top Gun, Alien actor Tom Skerritt dies at 93",
+     "url": "https://indianexpress.com/article/entertainment/hollywood/top-gun-alien-actor-tom-skerritt-dies-at-93-10933294/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T06:54:24Z",
+     "headline": "Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93",
+     "url": "https://www.brecorder.com/news/40445611/actor-tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T07:45:51Z",
+     "headline": "Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93",
+     "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3342315/actor-tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:58:34Z",
+     "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
+     "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
     }
    ]
   },
@@ -7166,159 +7951,6 @@
      "time": "2026-10-22T09:56:48Z",
      "headline": "Hackers launch ‘millions’ of attempts to exploit global PHP cyber flaw",
      "url": "https://www.politico.eu/article/hackers-launch-millions-of-attempts-to-exploit-global-php-cyber-flaw/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    }
-   ]
-  },
-  {
-   "id": 22309,
-   "title": "South Korea proposes border talks with North",
-   "category": "Geopolitics",
-   "importance": 5.83,
-   "risk": 4.27,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "KOR",
-    "PAK",
-    "SAU",
-    "SGP",
-    "USA",
-    "THA",
-    "DEU",
-    "PRK",
-    "CHN",
-    "TUR"
-   ],
-   "first_seen": "2026-10-23T05:32:53Z",
-   "last_seen": "2026-10-23T09:40:15Z",
-   "page": "event/22309.html",
-   "reports": [
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T05:32:53Z",
-     "headline": "S. Korea proposes military talks with N. Korea to resolve border line issue",
-     "url": "https://en.yna.co.kr/view/AEN20261023005700315"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T05:50:29Z",
-     "headline": "South Korea proposes talks with North Korea on land border",
-     "url": "https://www.brecorder.com/news/40445594/south-korea-proposes-talks-with-north-korea-on-land-border"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:02:46Z",
-     "headline": "South Korea Proposes Talks with North Korea on Land Border Again",
-     "url": "https://english.aawsat.com/node/5332585"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:08:00Z",
-     "headline": "South Korea proposes holding border talks with North",
-     "url": "https://www.channelnewsasia.com/east-asia/south-korea-proposes-holding-border-talks-north-6485461"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "S. Korea proposes military talks with N. Korea over border conflict issue",
-     "url": "https://www.koreatimes.co.kr/southkorea/defense/20261023/s-korea-proposes-military-talks-with-n-korea-over-border-conflict-issue?utm_source=rss"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "N. Korea likely planted 960,000 land mines along inter-Korean border since 2024: lawmakers",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261023/n-korea-likely-planted-960000-land-mines-along-inter-korean-border-since-2024-lawmakers?utm_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T06:39:24Z",
-     "headline": "South Korea proposes holding border talks with North",
-     "url": "https://www.arabnews.com/world/south-korea-proposes-holding-border-talks-with-north-3007846"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:48Z",
-     "headline": "Seoul proposes military talks with Pyongyang as border tensions rise",
-     "url": "https://www.koreaherald.com/article/10913000"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T06:50:50Z",
-     "headline": "(LEAD) S. Korea proposes military talks with N. Korea to resolve border location issue",
-     "url": "https://en.yna.co.kr/view/AEN20261023005751315"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T07:18:42Z",
-     "headline": "South Korea proposes military talks with North Korea to calm rising border tensions",
-     "url": "https://abcnews.com/International/wireStory/south-korea-proposes-military-talks-north-korea-calm-137500902"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T07:45:49Z",
-     "headline": "(2nd LD) S. Korea proposes military talks with N. Korea to ease tensions along border",
-     "url": "https://en.yna.co.kr/view/AEN20261023005752315"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T07:46:09Z",
-     "headline": "South Korea proposes border talks with North",
-     "url": "https://www.bangkokpost.com/world/3342305/south-korea-proposes-border-talks-with-north"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T07:50:00Z",
-     "headline": "South Korea proposes military talks with North again",
-     "url": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-23T08:05:43Z",
-     "headline": "Seoul again proposes talks with North Korea on border lines amid rising tensions",
-     "url": "https://www.nknews.org/2026/10/seoul-again-proposes-talks-with-north-korea-on-border-lines-amid-rising-tensions/"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T08:16:34Z",
-     "headline": "Key developments on North Korea this week",
-     "url": "https://en.yna.co.kr/view/AEN20261023009500315"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:22:00Z",
-     "headline": "S. Korea proposes military talks with DPRK over border line issue",
-     "url": "https://english.news.cn/20261023/a25696c69cf340abad997726226bf0b0/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:28:50Z",
-     "headline": "Seoul offers military talks to Pyongyang amid tensions on Korean Peninsula",
-     "url": "https://www.aa.com.tr/en/asia-pacific/seoul-offers-military-talks-to-pyongyang-amid-tensions-on-korean-peninsula/4098301"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T09:40:15Z",
-     "headline": "S. Korea proposes military talks with N. Korea to ease tensions along border",
-     "url": "https://www.koreaherald.com/article/10913265"
     }
    ]
   },
@@ -7740,8 +8372,8 @@
    "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
    "category": "Geopolitics",
    "importance": 5.76,
-   "risk": 2.11,
-   "confidence": 0.87,
+   "risk": 2.07,
+   "confidence": 0.86,
    "status": "spreading",
    "outlets": 10,
    "countries": [
@@ -7755,7 +8387,7 @@
     "FRA"
    ],
    "first_seen": "2026-10-21T06:43:21Z",
-   "last_seen": "2026-10-23T08:04:49Z",
+   "last_seen": "2026-10-23T10:48:24Z",
    "page": "event/16185.html",
    "reports": [
     {
@@ -7841,6 +8473,20 @@
      "time": "2026-10-23T08:04:49Z",
      "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
      "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:20:00Z",
+     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:48:24Z",
+     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
+     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
     }
    ]
   },
@@ -8107,102 +8753,128 @@
    ]
   },
   {
-   "id": 16031,
-   "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
-   "category": "Trade & Industry",
+   "id": 20228,
+   "title": "New York City bans horse-drawn carriages from 2028",
+   "category": "Geopolitics",
    "importance": 5.69,
-   "risk": 2.77,
-   "confidence": 0.82,
+   "risk": 4.4,
+   "confidence": 0.87,
    "status": "spreading",
-   "outlets": 8,
+   "outlets": 13,
    "countries": [
-    "ISR",
+    "GBR",
+    "SAU",
     "USA",
-    "MYS",
-    "CYP",
+    "CAN",
     "SGP",
-    "IRQ"
+    "FRA",
+    "AUS",
+    "KOR",
+    "ARE",
+    "GRC",
+    "IRL"
    ],
-   "first_seen": "2026-10-21T08:25:48Z",
-   "last_seen": "2026-10-23T08:29:44Z",
-   "page": "event/16031.html",
+   "first_seen": "2026-10-22T09:06:48Z",
+   "last_seen": "2026-10-23T11:03:13Z",
+   "page": "event/20228.html",
    "reports": [
     {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-21T08:25:48Z",
-     "headline": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
-     "url": "https://www.haaretz.com/israel-news/tech-news/2026-10-21/ty-article/malaysia-bans-civil-servants-from-using-mapping-app-waze-citing-links-to-israel/000001a1-5d58-da49-abe9-5ff81efa0000"
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T09:06:48Z",
+     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
     },
     {
-     "outlet": "ABC News (International)",
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T10:41:03Z",
+     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
+     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:08:12Z",
+     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
+     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
+    },
+    {
+     "outlet": "The Hill",
      "country": "USA",
-     "time": "2026-10-21T12:33:27Z",
-     "headline": "Malaysia bans civil servants from using navigation app, citing data risks",
-     "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691"
+     "time": "2026-10-22T19:39:32Z",
+     "headline": "Trump laments NY horse drawn carriage ban",
+     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
     },
     {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-22T05:53:45Z",
-     "headline": "TuJu app to go beyond highways and cover ordinary roads, says digital minister",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/tuju-app-to-go-beyond-highways-and-cover-ordinary-roads-says-digital-minister/240157"
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-22T20:46:05Z",
+     "headline": "A final farewell to NYC’s horse carriage industry",
+     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
     },
     {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-22T05:58:06Z",
-     "headline": "Which way to go? TuJu offers a locally-developed navigation app built around Malaysian highways and traffic info",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/which-way-to-go-tuju-offers-a-locally-developed-navigation-app-built-around-malaysian-highways-and-traffic-info/240160"
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T20:48:56Z",
+     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-22T06:02:14Z",
-     "headline": "Malaysia bans Waze, citing threat of Israeli data misuse",
-     "url": "https://cyprus-mail.com/2026/10/22/malaysia-bans-waze-citing-threat-of-israeli-data-misuse"
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-22T21:55:13Z",
+     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
+     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
     },
     {
-     "outlet": "CNA (Channel NewsAsia)",
+     "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-22T08:59:00Z",
-     "headline": "Waze rejects data security allegations after Malaysia bans civil servants from using app",
-     "url": "https://www.channelnewsasia.com/asia/waze-data-security-allegations-malaysia-ban-6481901"
+     "time": "2026-10-22T23:34:00Z",
+     "headline": "New York City bans horse-drawn carriages from June 2028",
+     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
     },
     {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T16:42:34Z",
-     "headline": "Malaysia concerned over Waze data falling into Israeli hands",
-     "url": "https://www.newarab.com/news/malaysia-concerned-over-waze-data-falling-israeli-hands"
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T00:18:53Z",
+     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
+     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
     },
     {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T05:36:00Z",
-     "headline": "Malaysia Limits Waze Use as Government Raises Security Concerns",
-     "url": "https://www.kurdistan24.net/en/story/947967/malaysia-limits-waze-use-as-government-raises-security-concerns"
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T02:20:12Z",
+     "headline": "New York City bans horse-drawn carriages from 2028",
+     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
     },
     {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:28:01Z",
-     "headline": "M'sia govt urges citizens to delete Waze citing Israeli links, bans civil servants from using app",
-     "url": "https://mothership.sg/2026/10/malaysia-bans-waze-civil-servant/"
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
+     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
     },
     {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-23T07:29:31Z",
-     "headline": "Anwar says nationwide Waze ban needs careful study first",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/anwar-says-waze-ban-was-spontaneous-decision-over-israeli-links/240314"
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:37:24Z",
+     "headline": "New York votes to ban horse carriages",
+     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
     },
     {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-23T08:29:44Z",
-     "headline": "BDS Malaysia backs civil service Waze ban, urges public boycott of navigation app",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/bds-malaysia-backs-civil-service-waze-ban-urges-public-boycott-of-navigation-app/240325"
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T09:00:51Z",
+     "headline": "NYC Votes to Ban Carriage Horses",
+     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
+    },
+    {
+     "outlet": "The Irish Times",
+     "country": "IRL",
+     "time": "2026-10-23T11:03:13Z",
+     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
+     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
     }
    ]
   },
@@ -9439,6 +10111,132 @@
    ]
   },
   {
+   "id": 21291,
+   "title": "This summer’s heat was Europe’s deadliest on record, scientists say",
+   "category": "Health & Science",
+   "importance": 5.62,
+   "risk": 7.3,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "GBR",
+    "BEL",
+    "IRL",
+    "SGP",
+    "ARE",
+    "IND",
+    "KOR",
+    "ARM",
+    "AZE",
+    "USA",
+    "TUR"
+   ],
+   "first_seen": "2026-10-22T19:20:02Z",
+   "last_seen": "2026-10-23T11:01:54Z",
+   "page": "event/21291.html",
+   "reports": [
+    {
+     "outlet": "Phys.org",
+     "country": "GBR",
+     "time": "2026-10-22T19:20:02Z",
+     "headline": "We must prepare entire cities for extreme heat. Our new study reveals how",
+     "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "This summer’s heat was Europe’s deadliest on record, scientists say",
+     "url": "https://www.politico.eu/article/this-summer-was-europes-deadliest-on-record-scientists-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Over 50,000 heat deaths in European cities this summer",
+     "url": "https://www.rte.ie/news/environment/2026/1023/1596522-heat-related-deaths-europe/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:54Z",
+     "headline": "Europe suffers deadliest summer on record with over 50,000 deaths linked to extreme weather",
+     "url": "https://www.independent.co.uk/news/world/europe/europe-hot-weather-climate-change-deaths-b3071657.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T00:08:00Z",
+     "headline": "Summer heat’s toll on Europe: 50,000 deaths and a $24.3b GDP hit",
+     "url": "https://www.straitstimes.com/world/europe/summer-heats-toll-on-europe-50000-deaths-and-a-24-3b-gdp-hit"
+    },
+    {
+     "outlet": "Guardian Environment",
+     "country": "GBR",
+     "time": "2026-10-23T04:01:01Z",
+     "headline": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+     "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T05:00:01Z",
+     "headline": "Europe's summer heatwaves 'caused 50,000 excess deaths'",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/europes-summer-heatwaves-caused-50000-excess-heat-deaths/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T05:40:16Z",
+     "headline": "For Europe, a summer of record heat and 50,000 estimated deaths",
+     "url": "https://indianexpress.com/article/india/europe-heat-deaths-50000-climate-change-2026-10933301/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+     "url": "https://www.koreatimes.co.kr/world/20261023/europes-killer-heat-this-summer-claims-50000-lives-climate-change-blamed-for-two-thirds-of-deaths?utm_source=rss"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T07:34:00Z",
+     "headline": "More than 50,000 people died in Europe due to extreme heat this summer, researchers find",
+     "url": "https://news.am/en/news/1069774"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T07:43:00Z",
+     "headline": "Heatwaves in Europe kill at least 50,000 people in summer 2026",
+     "url": "https://www.azernews.az/region/266048.html"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-23T08:17:06Z",
+     "headline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-23T10:08:23Z",
+     "headline": "Europe’s deadliest summer in decades: More than 50,000 heat-related deaths in 2026, new analysis finds",
+     "url": "https://en.protothema.gr/2026/10/23/europes-deadliest-summer-in-decades-more-than-50000-heat-related-deaths-in-2026-new-analysis-finds/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T11:01:54Z",
+     "headline": "Europe records deadliest heat season in 26 years",
+     "url": "https://www.turkiyetoday.com/region/europe-records-deadliest-heat-season-in-26-years-3230873"
+    }
+   ]
+  },
+  {
    "id": 13603,
    "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
    "category": "Society & Law",
@@ -9592,6 +10390,139 @@
    ]
   },
   {
+   "id": 21203,
+   "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+   "category": "Society & Law",
+   "importance": 5.6,
+   "risk": 1.92,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 15,
+   "countries": [
+    "FRA",
+    "SGP",
+    "GBR",
+    "AUS",
+    "NZL",
+    "USA",
+    "IND",
+    "NGA",
+    "IRL",
+    "ZAF",
+    "TUR"
+   ],
+   "first_seen": "2026-10-22T16:33:42Z",
+   "last_seen": "2026-10-23T11:13:37Z",
+   "page": "event/21203.html",
+   "reports": [
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T16:33:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
+     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T16:41:41Z",
+     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
+     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T17:14:04Z",
+     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-22T17:14:25Z",
+     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
+     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-22T17:18:12Z",
+     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-22T17:30:57Z",
+     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
+     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-22T17:40:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T17:58:04Z",
+     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
+     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T18:47:59Z",
+     "headline": "BBC defamation suit: Trump get December deadline to testify",
+     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:06:13Z",
+     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
+     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-22T20:49:25Z",
+     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
+     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T03:43:44Z",
+     "headline": "Trump ordered to testify in BBC defamation case",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:50:00Z",
+     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
+     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-23T08:44:19Z",
+     "headline": "Morning news brief",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T11:13:37Z",
+     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
+     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
+    }
+   ]
+  },
+  {
    "id": 13220,
    "title": "Saudi Arabia postpones its 'Davos in the Desert' after attacks",
    "category": "Business",
@@ -9732,6 +10663,154 @@
      "time": "2026-10-23T08:19:15Z",
      "headline": "Saudi Arabia postpones UN World Data Forum and Saudi Statistics Forum to 2027",
      "url": "https://www.arabnews.com/business/saudi-arabia-postpones-un-world-data-forum-and-saudi-statistics-forum-to-2027-3007870"
+    }
+   ]
+  },
+  {
+   "id": 17224,
+   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+   "category": "Society & Law",
+   "importance": 5.54,
+   "risk": 3.15,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "NZL",
+    "GHA",
+    "ARE",
+    "NGA",
+    "UGA",
+    "SAU",
+    "ZAF",
+    "SGP",
+    "TWN",
+    "PAK",
+    "CYP",
+    "IND"
+   ],
+   "first_seen": "2026-10-21T19:19:19Z",
+   "last_seen": "2026-10-23T11:44:35Z",
+   "page": "event/17224.html",
+   "reports": [
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-21T19:19:19Z",
+     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
+     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T01:54:00Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T02:44:14Z",
+     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T06:51:35Z",
+     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-22T08:06:43Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T08:08:07Z",
+     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
+     "url": "https://english.aawsat.com/node/5332254"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T08:34:33Z",
+     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
+     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T09:29:00Z",
+     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
+     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T17:55:54Z",
+     "headline": "Fernandes to remain Man Utd captain despite outburst",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:01:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:17:41Z",
+     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
+     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Bruno Fernandes takes aim at Carrick",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T06:43:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:49:17Z",
+     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
+     "url": "https://english.aawsat.com/node/5332601"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T07:32:46Z",
+     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
+     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T07:54:57Z",
+     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
+     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T11:44:35Z",
+     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
+     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -10041,117 +11120,6 @@
    ]
   },
   {
-   "id": 20228,
-   "title": "New York City bans horse-drawn carriages from 2028",
-   "category": "Geopolitics",
-   "importance": 5.51,
-   "risk": 4.14,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "GBR",
-    "SAU",
-    "USA",
-    "CAN",
-    "SGP",
-    "FRA",
-    "AUS",
-    "KOR",
-    "ARE",
-    "GRC"
-   ],
-   "first_seen": "2026-10-22T09:06:48Z",
-   "last_seen": "2026-10-23T09:00:51Z",
-   "page": "event/20228.html",
-   "reports": [
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:06:48Z",
-     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:41:03Z",
-     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
-     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:08:12Z",
-     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T19:39:32Z",
-     "headline": "Trump laments NY horse drawn carriage ban",
-     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
-    },
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-22T20:46:05Z",
-     "headline": "A final farewell to NYC’s horse carriage industry",
-     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T21:55:13Z",
-     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
-     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T23:34:00Z",
-     "headline": "New York City bans horse-drawn carriages from June 2028",
-     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T00:18:53Z",
-     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
-     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T02:20:12Z",
-     "headline": "New York City bans horse-drawn carriages from 2028",
-     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
-     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:37:24Z",
-     "headline": "New York votes to ban horse carriages",
-     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T09:00:51Z",
-     "headline": "NYC Votes to Ban Carriage Horses",
-     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
-    }
-   ]
-  },
-  {
    "id": 12912,
    "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province",
    "category": "Health & Science",
@@ -10360,258 +11328,6 @@
      "time": "2026-10-23T04:01:16Z",
      "headline": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
      "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html"
-    }
-   ]
-  },
-  {
-   "id": 17224,
-   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-   "category": "Society & Law",
-   "importance": 5.48,
-   "risk": 3.17,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "NZL",
-    "GHA",
-    "ARE",
-    "NGA",
-    "UGA",
-    "SAU",
-    "ZAF",
-    "SGP",
-    "TWN",
-    "PAK",
-    "CYP",
-    "IND"
-   ],
-   "first_seen": "2026-10-21T19:19:19Z",
-   "last_seen": "2026-10-23T07:54:57Z",
-   "page": "event/17224.html",
-   "reports": [
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-21T19:19:19Z",
-     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
-     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T01:54:00Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T02:44:14Z",
-     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T06:51:35Z",
-     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-22T08:06:43Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T08:08:07Z",
-     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
-     "url": "https://english.aawsat.com/node/5332254"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T08:34:33Z",
-     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
-     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T09:29:00Z",
-     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
-     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T17:55:54Z",
-     "headline": "Fernandes to remain Man Utd captain despite outburst",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:01:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:17:41Z",
-     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
-     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Bruno Fernandes takes aim at Carrick",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T06:43:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:49:17Z",
-     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
-     "url": "https://english.aawsat.com/node/5332601"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T07:32:46Z",
-     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
-     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T07:54:57Z",
-     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
-     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
-    }
-   ]
-  },
-  {
-   "id": 21291,
-   "title": "This summer’s heat was Europe’s deadliest on record, scientists say",
-   "category": "Health & Science",
-   "importance": 5.47,
-   "risk": 7.26,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "GBR",
-    "BEL",
-    "IRL",
-    "SGP",
-    "ARE",
-    "IND",
-    "KOR",
-    "ARM",
-    "AZE",
-    "USA"
-   ],
-   "first_seen": "2026-10-22T19:20:02Z",
-   "last_seen": "2026-10-23T08:17:06Z",
-   "page": "event/21291.html",
-   "reports": [
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T19:20:02Z",
-     "headline": "We must prepare entire cities for extreme heat. Our new study reveals how",
-     "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "This summer’s heat was Europe’s deadliest on record, scientists say",
-     "url": "https://www.politico.eu/article/this-summer-was-europes-deadliest-on-record-scientists-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Over 50,000 heat deaths in European cities this summer",
-     "url": "https://www.rte.ie/news/environment/2026/1023/1596522-heat-related-deaths-europe/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:54Z",
-     "headline": "Europe suffers deadliest summer on record with over 50,000 deaths linked to extreme weather",
-     "url": "https://www.independent.co.uk/news/world/europe/europe-hot-weather-climate-change-deaths-b3071657.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T00:08:00Z",
-     "headline": "Summer heat’s toll on Europe: 50,000 deaths and a $24.3b GDP hit",
-     "url": "https://www.straitstimes.com/world/europe/summer-heats-toll-on-europe-50000-deaths-and-a-24-3b-gdp-hit"
-    },
-    {
-     "outlet": "Guardian Environment",
-     "country": "GBR",
-     "time": "2026-10-23T04:01:01Z",
-     "headline": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
-     "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T05:00:01Z",
-     "headline": "Europe's summer heatwaves 'caused 50,000 excess deaths'",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/europes-summer-heatwaves-caused-50000-excess-heat-deaths/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T05:40:16Z",
-     "headline": "For Europe, a summer of record heat and 50,000 estimated deaths",
-     "url": "https://indianexpress.com/article/india/europe-heat-deaths-50000-climate-change-2026-10933301/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-     "url": "https://www.koreatimes.co.kr/world/20261023/europes-killer-heat-this-summer-claims-50000-lives-climate-change-blamed-for-two-thirds-of-deaths?utm_source=rss"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T07:34:00Z",
-     "headline": "More than 50,000 people died in Europe due to extreme heat this summer, researchers find",
-     "url": "https://news.am/en/news/1069774"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T07:43:00Z",
-     "headline": "Heatwaves in Europe kill at least 50,000 people in summer 2026",
-     "url": "https://www.azernews.az/region/266048.html"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-23T08:17:06Z",
-     "headline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths"
     }
    ]
   },
@@ -11029,464 +11745,133 @@
    ]
   },
   {
-   "id": 16032,
-   "title": "US, Israel plan renewed Iran strikes after midterms: Report",
+   "id": 13172,
+   "title": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
    "category": "Geopolitics",
-   "importance": 5.44,
-   "risk": 2.55,
+   "importance": 5.46,
+   "risk": 1.33,
    "confidence": 0.89,
    "status": "spreading",
-   "outlets": 12,
+   "outlets": 11,
    "countries": [
-    "IRN",
-    "SAU",
-    "TUR",
-    "SGP",
-    "ISR",
-    "AZE",
+    "URY",
     "USA",
-    "AFG"
+    "FRA",
+    "TUR",
+    "QAT",
+    "SGP",
+    "MOZ",
+    "BRA",
+    "NLD"
    ],
-   "first_seen": "2026-10-20T00:00:53Z",
-   "last_seen": "2026-10-22T09:43:27Z",
-   "page": "event/16032.html",
+   "first_seen": "2026-10-18T19:43:00Z",
+   "last_seen": "2026-10-23T10:30:00Z",
+   "page": "event/13172.html",
    "reports": [
     {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-20T00:00:53Z",
-     "headline": "Iran deal remains elusive amid risk of renewed strikes",
-     "url": "https://www.iranintl.com/en/202610196705"
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-18T19:43:00Z",
+     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
+     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
     },
     {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T16:30:25Z",
-     "headline": "Iran Prolongs Talks in Stalemate to Influence US Midterms, Officials Say",
-     "url": "https://english.aawsat.com/node/5331671"
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-19T06:15:00Z",
+     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
+     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T08:03:24Z",
+     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
+     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T09:21:10Z",
+     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-21T23:40:25Z",
-     "headline": "US, Israel develop plans for renewed strikes on Iran after midterm elections: Report",
-     "url": "https://www.aa.com.tr/en/middle-east/us-israel-develop-plans-for-renewed-strikes-on-iran-after-midterm-elections-report/4096580"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T00:50:00Z",
-     "headline": "US and Israel draw up plans for renewed strikes on Iran after American elections: Sources",
-     "url": "https://www.straitstimes.com/world/us-and-israel-draw-up-plans-for-renewed-strikes-on-iran-after-american-elections-sources"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-22T01:10:44Z",
-     "headline": "Report: U.S. and Israel have drawn up plans for Iran strikes after midterms",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-22/ty-article/u-s-and-israel-have-drawn-up-plans-for-iran-strikes-after-midterms-nyt-reports/000001a1-6122-da49-abe9-6ffa052f0000"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T02:17:00Z",
-     "headline": "US and Israel weigh renewed strikes on Iran after November 3 – NYT",
-     "url": "https://en.apa.az/america/us-and-israel-weigh-renewed-strikes-on-iran-after-november-3-nyt-531493"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T03:18:33Z",
-     "headline": "US, Israel plan renewed Iran strikes after midterms, focusing on short, intense attacks - report",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912476"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-22T05:18:24Z",
-     "headline": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
-     "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "US, Israel plan renewed Iran strikes after midterms: Report",
-     "url": "https://www.turkiyetoday.com/region/us-israel-plan-renewed-iran-strikes-after-midterms-report-3230798"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "Iran reportedly prolonging US talks to hurt Trump before midterms",
-     "url": "https://www.turkiyetoday.com/region/iran-dragging-out-us-talks-to-hurt-trump-before-midterms-report-3230709"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "Iran escalates Hormuz ship strikes to sway US midterms: Report",
-     "url": "https://www.turkiyetoday.com/region/iran-escalates-hormuz-ship-strikes-to-sway-us-midterms-report-3230273"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T07:51:03Z",
-     "headline": "NYT: US and Israel plan major new strikes on Iran after midterm elections, weighing three-day assault",
-     "url": "https://en.protothema.gr/2026/10/22/nyt-us-and-israel-plan-major-new-strikes-on-iran-after-midterm-elections-weighing-three-day-assault/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-22T08:56:58Z",
-     "headline": "U.S. and Israel are planning for a possible post-midterms attack on Iran",
-     "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/u-s-and-israel-are-planning-for-a-possible-post-midterms-attack-on-iran"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T09:43:27Z",
-     "headline": "US and Israel Preparing Plans for Renewed Strikes on Iran",
-     "url": "https://www.khaama.com/us-israel-new-strike-plans-iran/"
-    }
-   ]
-  },
-  {
-   "id": 6450,
-   "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-   "category": "Geopolitics",
-   "importance": 5.43,
-   "risk": 1.82,
-   "confidence": 0.82,
-   "status": "peaking",
-   "outlets": 7,
-   "countries": [
-    "IRN",
-    "OMN",
-    "UZB",
-    "PHL",
-    "SGP",
-    "KOR",
-    "HKG"
-   ],
-   "first_seen": "2026-10-16T07:26:52Z",
-   "last_seen": "2026-10-22T08:44:58Z",
-   "page": "event/6450.html",
-   "reports": [
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:26:52Z",
-     "headline": "Iran’s wheelchair basketball start on high in Nagoya 2026",
-     "url": "https://www.tehrantimes.com/news/531101/Iran-s-wheelchair-basketball-start-on-high-in-Nagoya-2026"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:51:18Z",
-     "headline": "Iran blind football lose to Thailand at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531103/Iran-blind-football-lose-to-Thailand-at-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T13:55:48Z",
-     "headline": "Women’s wheelchair basketball fall to Japan in Nagoya",
-     "url": "https://www.tehrantimes.com/news/531121/Women-s-wheelchair-basketball-fall-to-Japan-in-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T06:10:05Z",
-     "headline": "2026 Nagoya: Iran’s men’s wheelchair basketball beat S. Korea",
-     "url": "https://www.tehrantimes.com/news/531138/2026-Nagoya-Iran-s-men-s-wheelchair-basketball-beat-S-Korea"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T07:33:49Z",
-     "headline": "Iran blind football defeat South Korea in 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531140/Iran-blind-football-defeat-South-Korea-in-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T10:36:23Z",
-     "headline": "Iran women’s wheelchair basketball suffer loss against Thailand",
-     "url": "https://www.tehrantimes.com/news/531141/Iran-women-s-wheelchair-basketball-suffer-loss-against-Thailand"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-18T12:01:07Z",
-     "headline": "Al Hubaishi launches Oman’s Asian Para Games campaign",
-     "url": "https://www.omanobserver.om/article/1198007/sports/other-sports/al-hubaishi-launches-omans-asian-para-games-campaign"
-    },
-    {
-     "outlet": "Gazeta.uz (English)",
-     "country": "UZB",
-     "time": "2026-10-19T05:10:00Z",
-     "headline": "Photo report: Opening ceremony of 5th Asian Para Games Aichi-Nagoya 2026",
-     "url": "https://www.gazeta.uz/en/2026/10/19/v-asian-para-games/"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:31:22Z",
-     "headline": "Iran blind football beat China: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531223/Iran-blind-football-beat-China-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:41:54Z",
-     "headline": "Iran rout Qatar in goalball at Nagoya Para Asian Games",
-     "url": "https://www.tehrantimes.com/news/531224/Iran-rout-Qatar-10-0-in-goalball-at-Nagoya-Para-Asian-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T09:30:50Z",
-     "headline": "Iranian girl Jami takes gold in taekwondo at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531225/Iranian-girl-Jami-takes-gold-in-taekwondo-at-2026-Asian-Para"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:15:20Z",
-     "headline": "Iranian women para-athletes win gold and silver: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531226/Iranian-women-para-athletes-win-gold-and-silver-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:46:40Z",
-     "headline": "Men’s wheelchair basketball defeat the Philippines: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531227/Men-s-wheelchair-basketball-defeat-the-Philippines-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:31:56Z",
-     "headline": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531229/Women-s-wheelchair-basketball-beat-Cambodia-at-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:48:55Z",
-     "headline": "Para swimmer Zeighaminejad seizes Iran’s third gold at Nagoya",
-     "url": "https://www.tehrantimes.com/news/531240/Para-swimmer-Zeighaminejad-seizes-Iran-s-third-gold-at-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:49:53Z",
-     "headline": "Fewer Athletes, Same Big Ambitions: Iran Chases Para Games Glory",
-     "url": "https://www.tehrantimes.com/news/531241/Fewer-Athletes-Same-Big-Ambitions-Iran-Chases-Para-Games-Glory"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-19T13:34:50Z",
-     "headline": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
-     "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:38:00Z",
-     "headline": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
-     "url": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:33Z",
-     "headline": "Cho Eun-hye wins Korea's first Asian Para Games fencing gold",
-     "url": "https://www.koreaherald.com/article/10911552"
-    },
-    {
-     "outlet": "RTHK English",
-     "country": "HKG",
-     "time": "2026-10-22T08:44:58Z",
-     "headline": "HK wins silver in women's épée at Asian Para Games",
-     "url": "https://news.rthk.hk/rthk/en/component/k2/1874937-20261022.htm"
-    }
-   ]
-  },
-  {
-   "id": 16883,
-   "title": "Websites down: what is PHP and how has it raised AI hacking fears?",
-   "category": "Technology & Cyber",
-   "importance": 5.43,
-   "risk": 4.79,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "FRA",
-    "GRC",
-    "PAK",
-    "NGA",
-    "FIN",
-    "KOR",
-    "IRL",
-    "CYP",
-    "AUS",
-    "USA"
-   ],
-   "first_seen": "2026-10-21T15:08:22Z",
-   "last_seen": "2026-10-23T09:37:38Z",
-   "page": "event/16883.html",
-   "reports": [
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-21T15:08:22Z",
-     "headline": "French government websites down after hacking alert",
-     "url": "https://www.thelocal.fr/20261021/french-government-websites-down-after-hacking-alert"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-21T18:03:25Z",
-     "headline": "Government Websites Shut Down After Vulnerability Triggers Security Scare",
-     "url": "https://www.tovima.com/society/government-websites-shut-down-after-vulnerability-triggers-security-scare/"
+     "time": "2026-10-19T14:13:23Z",
+     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
     },
     {
      "outlet": "France 24 English",
      "country": "FRA",
-     "time": "2026-10-22T04:17:49Z",
-     "headline": "'Backbone of the web': What is PHP and how has it raised AI hacking fears?",
-     "url": "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears"
+     "time": "2026-10-19T14:16:05Z",
+     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
     },
     {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T05:36:32Z",
-     "headline": "Websites down: What is PHP and how has it raised AI hacking fears?",
-     "url": "https://www.dawn.com/news/2038965/websites-down-what-is-php-and-how-has-it-raised-ai-hacking-fears"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T06:43:11Z",
-     "headline": "Websites Down: What Is PHP And How Has It Raised AI Hacking Fears?",
-     "url": "https://www.channelstv.com/2026/10/22/websites-down-what-is-php-and-how-has-it-raised-ai-hacking-fears/"
-    },
-    {
-     "outlet": "Yle News — page reader",
-     "country": "FIN",
-     "time": "2026-10-22T07:07:53Z",
-     "headline": "Finland temporarily shuts down government websites as a precaution for critical vulnerabilities",
-     "url": "https://yle.fi/a/74-20252600"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T07:47:55Z",
-     "headline": "Websites down: what is PHP and how has it raised AI hacking fears?",
-     "url": "https://www.vanguardngr.com/2026/10/websites-down-what-is-php-and-how-has-it-raised-ai-hacking-fears/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T10:12:07Z",
-     "headline": "What is PHP and how has it raised hacking fears?",
-     "url": "https://www.rte.ie/news/technology/2026/1022/1596430-php-security-flaw/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-22T11:17:29Z",
-     "headline": "Millions of hacking attempts as companies, governments rush to patch flaws",
-     "url": "https://cyprus-mail.com/2026/10/22/millions-of-hacking-attempts-as-companies-governments-rush-to-patch-flaws"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:46:07Z",
-     "headline": "Millions of hacking attempts as companies, governments rush to patch PHP flaws",
-     "url": "https://www.brecorder.com/news/40445469/millions-of-hacking-attempts-as-companies-governments-rush-to-patch-php-flaws"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T14:22:54Z",
-     "headline": "Hacking attempts surge as websites race to patch PHP issues",
-     "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:52Z",
-     "headline": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
-     "url": "https://www.koreaherald.com/article/10912068"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-23T09:37:38Z",
-     "headline": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
-    }
-   ]
-  },
-  {
-   "id": 17892,
-   "title": "Heineken document reveals worries over weight-loss drugs and beer sales",
-   "category": "Health & Science",
-   "importance": 5.39,
-   "risk": 2.23,
-   "confidence": 0.76,
-   "status": "spreading",
-   "outlets": 5,
-   "countries": [
-    "NLD",
-    "GRC",
-    "SGP",
-    "GBR",
-    "CYP"
-   ],
-   "first_seen": "2026-10-22T07:05:38Z",
-   "last_seen": "2026-10-23T09:13:13Z",
-   "page": "event/17892.html",
-   "reports": [
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-22T07:05:38Z",
-     "headline": "Heineken must pay 111 million euros to Greek rival over market abuse",
-     "url": "https://nltimes.nl/2026/10/21/heineken-must-pay-111-million-euros-greek-rival-market-abuse"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T09:30:27Z",
-     "headline": "Heineken Ordered to Pay €111M to Greek Brewer",
-     "url": "https://www.tovima.com/finance/heineken-ordered-to-pay-e111m-to-greek-brewer/"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-19T17:24:28Z",
+     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-23T08:55:00Z",
-     "headline": "Heineken document reveals worries over weight-loss drugs and beer sales",
-     "url": "https://www.straitstimes.com/world/europe/heineken-document-reveals-worries-over-weight-loss-drugs-and-beer-sales"
+     "time": "2026-10-22T09:06:35Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
     },
     {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T09:08:36Z",
-     "headline": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
-     "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T10:06:12Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
     },
     {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:13:13Z",
-     "headline": "Heineken warns weight-loss drugs could hit beer sales in British pubs",
-     "url": "https://cyprus-mail.com/2026/10/23/heineken-warns-weight-loss-drugs-could-hit-beer-sales-in-british-pubs"
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T02:21:54Z",
+     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
+     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T08:44:07Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T09:48:00Z",
+     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
+     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:02:00Z",
+     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T10:30:00Z",
+     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
+     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
     }
    ]
   }
