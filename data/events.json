@@ -1,261 +1,17 @@
 {
- "generated": "2026-10-23T18:41:19Z",
+ "generated": "2026-10-23T18:57:19Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
   {
-   "id": 23500,
-   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-   "category": "Energy & Environment",
-   "importance": 8.39,
-   "risk": 2.94,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 27,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK",
-    "IND",
-    "IRQ",
-    "SAU",
-    "CHN",
-    "ARM",
-    "USA",
-    "ARE",
-    "THA",
-    "SGP",
-    "ISR"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T18:07:07Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T12:01:36Z",
-     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
-     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
-     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:49:38Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
-     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:54:00Z",
-     "headline": "US set to receive first Russian diesel shipment since 2022",
-     "url": "https://www.azernews.az/region/266084.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:02:22Z",
-     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
-     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T13:14:00Z",
-     "headline": "Kremlin spox reports on sending of first tanker with Russian diesel fuel to US",
-     "url": "https://news.am/en/news/1069877"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-23T13:26:19Z",
-     "headline": "The first Russian diesel tanker under Trump’s deal with Putin is headed to New York, the first such shipment since 2023",
-     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
-    },
-    {
-     "outlet": "OilPrice.com",
-     "country": "GBR",
-     "time": "2026-10-23T13:30:00Z",
-     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T13:36:59Z",
-     "headline": "Tanker with Russian diesel heads to New York under Trump deal",
-     "url": "https://gulfnews.com/world/americas/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal-2-1.500721325"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T13:52:53Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
-     "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Tanker with Russian diesel heads to New York",
-     "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T14:32:26Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "FreightWaves",
-     "country": "USA",
-     "time": "2026-10-23T14:37:51Z",
-     "headline": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
-     "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T15:03:07Z",
-     "headline": "Russia begins diesel shipments under Trump agreement",
-     "url": "https://shafaq.com/en/World/Russia-begins-diesel-shipments-under-Trump-agreement"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T16:18:12Z",
-     "headline": "Inside the legal design of America's Russia sanctions U-turn",
-     "url": "https://kyivindependent.com/inside-the-legal-design-of-americas-russia-sanctions-u-turn-2/"
-    },
-    {
-     "outlet": "gCaptain",
-     "country": "USA",
-     "time": "2026-10-23T16:34:11Z",
-     "headline": "First Russian Diesel From Putin-Trump Deal Heading for US",
-     "url": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T16:52:57Z",
-     "headline": "Initial shipment of Russian diesel heads to the US after Trump-Putin deal",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/23/initial-shipment-of-russian-diesel-heads-to-the-us-after-trump-putin-deal/"
-    },
-    {
-     "outlet": "gCaptain",
-     "country": "USA",
-     "time": "2026-10-23T17:08:24Z",
-     "headline": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
-     "url": "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:31:12Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US",
-     "url": "https://cyprus-mail.com/2026/10/23/first-russian-diesel-from-putin-trump-deal-heading-for-us"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T18:07:07Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.jpost.com/international/article-912669"
-    }
-   ]
-  },
-  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.38,
-   "risk": 7.35,
+   "importance": 8.42,
+   "risk": 7.36,
    "confidence": 0.9,
    "status": "fading",
-   "outlets": 44,
+   "outlets": 45,
    "countries": [
     "PAK",
     "IND",
@@ -281,10 +37,11 @@
     "IRQ",
     "IRN",
     "KWT",
-    "LKA"
+    "LKA",
+    "GHA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T18:36:36Z",
+   "last_seen": "2026-10-23T18:49:49Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -566,6 +323,250 @@
      "time": "2026-10-23T13:46:30Z",
      "headline": "Six killed in attack at church in Jordan, authorities say",
      "url": "https://www.al-monitor.com/originals/2026/10/six-killed-attack-church-jordan-authorities-say"
+    }
+   ]
+  },
+  {
+   "id": 23500,
+   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+   "category": "Energy & Environment",
+   "importance": 8.39,
+   "risk": 2.94,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 27,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK",
+    "IND",
+    "IRQ",
+    "SAU",
+    "CHN",
+    "ARM",
+    "USA",
+    "ARE",
+    "THA",
+    "SGP",
+    "ISR"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T18:07:07Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T12:01:36Z",
+     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
+     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:49:38Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
+     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:54:00Z",
+     "headline": "US set to receive first Russian diesel shipment since 2022",
+     "url": "https://www.azernews.az/region/266084.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:02:22Z",
+     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
+     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T13:14:00Z",
+     "headline": "Kremlin spox reports on sending of first tanker with Russian diesel fuel to US",
+     "url": "https://news.am/en/news/1069877"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T13:26:19Z",
+     "headline": "The first Russian diesel tanker under Trump’s deal with Putin is headed to New York, the first such shipment since 2023",
+     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
+    },
+    {
+     "outlet": "OilPrice.com",
+     "country": "GBR",
+     "time": "2026-10-23T13:30:00Z",
+     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T13:36:59Z",
+     "headline": "Tanker with Russian diesel heads to New York under Trump deal",
+     "url": "https://gulfnews.com/world/americas/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal-2-1.500721325"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T13:52:53Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
+     "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Tanker with Russian diesel heads to New York",
+     "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T14:32:26Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "FreightWaves",
+     "country": "USA",
+     "time": "2026-10-23T14:37:51Z",
+     "headline": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+     "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T15:03:07Z",
+     "headline": "Russia begins diesel shipments under Trump agreement",
+     "url": "https://shafaq.com/en/World/Russia-begins-diesel-shipments-under-Trump-agreement"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T16:18:12Z",
+     "headline": "Inside the legal design of America's Russia sanctions U-turn",
+     "url": "https://kyivindependent.com/inside-the-legal-design-of-americas-russia-sanctions-u-turn-2/"
+    },
+    {
+     "outlet": "gCaptain",
+     "country": "USA",
+     "time": "2026-10-23T16:34:11Z",
+     "headline": "First Russian Diesel From Putin-Trump Deal Heading for US",
+     "url": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T16:52:57Z",
+     "headline": "Initial shipment of Russian diesel heads to the US after Trump-Putin deal",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/23/initial-shipment-of-russian-diesel-heads-to-the-us-after-trump-putin-deal/"
+    },
+    {
+     "outlet": "gCaptain",
+     "country": "USA",
+     "time": "2026-10-23T17:08:24Z",
+     "headline": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
+     "url": "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:31:12Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US",
+     "url": "https://cyprus-mail.com/2026/10/23/first-russian-diesel-from-putin-trump-deal-heading-for-us"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T18:07:07Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.jpost.com/international/article-912669"
     }
    ]
   },
@@ -5735,7 +5736,7 @@
      "outlet": "BBC News",
      "country": "GBR",
      "time": "2026-10-23T11:09:36Z",
-     "headline": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+     "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -8944,14 +8945,129 @@
    ]
   },
   {
+   "id": 16031,
+   "title": "Malaysia bans civil servants from using navigation app, citing data risks",
+   "category": "Trade & Industry",
+   "importance": 5.92,
+   "risk": 2.76,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 9,
+   "countries": [
+    "ISR",
+    "USA",
+    "MYS",
+    "CYP",
+    "SGP",
+    "JPN",
+    "IRQ"
+   ],
+   "first_seen": "2026-10-21T08:25:48Z",
+   "last_seen": "2026-10-23T10:24:07Z",
+   "page": "event/16031.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-21T08:25:48Z",
+     "headline": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
+     "url": "https://www.haaretz.com/israel-news/tech-news/2026-10-21/ty-article/malaysia-bans-civil-servants-from-using-mapping-app-waze-citing-links-to-israel/000001a1-5d58-da49-abe9-5ff81efa0000"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-21T12:33:27Z",
+     "headline": "Malaysia bans civil servants from using navigation app, citing data risks",
+     "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-22T05:53:45Z",
+     "headline": "TuJu app to go beyond highways and cover ordinary roads, says digital minister",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/tuju-app-to-go-beyond-highways-and-cover-ordinary-roads-says-digital-minister/240157"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-22T05:58:06Z",
+     "headline": "Which way to go? TuJu offers a locally-developed navigation app built around Malaysian highways and traffic info",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/which-way-to-go-tuju-offers-a-locally-developed-navigation-app-built-around-malaysian-highways-and-traffic-info/240160"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-22T06:02:14Z",
+     "headline": "Malaysia bans Waze, citing threat of Israeli data misuse",
+     "url": "https://cyprus-mail.com/2026/10/22/malaysia-bans-waze-citing-threat-of-israeli-data-misuse"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T08:59:00Z",
+     "headline": "Waze rejects data security allegations after Malaysia bans civil servants from using app",
+     "url": "https://www.channelnewsasia.com/asia/waze-data-security-allegations-malaysia-ban-6481901"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T16:42:34Z",
+     "headline": "Malaysia concerned over Waze data falling into Israeli hands",
+     "url": "https://www.newarab.com/news/malaysia-concerned-over-waze-data-falling-israeli-hands"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-23T03:13:00Z",
+     "headline": "Malaysian PM Anwar Bans Civil Servants From Using Israel-developed Navigation App",
+     "url": "https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T05:36:00Z",
+     "headline": "Malaysia Limits Waze Use as Government Raises Security Concerns",
+     "url": "https://www.kurdistan24.net/en/story/947967/malaysia-limits-waze-use-as-government-raises-security-concerns"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:28:01Z",
+     "headline": "M'sia govt urges citizens to delete Waze citing Israeli links, bans civil servants from using app",
+     "url": "https://mothership.sg/2026/10/malaysia-bans-waze-civil-servant/"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T07:29:31Z",
+     "headline": "Anwar says nationwide Waze ban needs careful study first",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/anwar-says-waze-ban-was-spontaneous-decision-over-israeli-links/240314"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T08:29:44Z",
+     "headline": "BDS Malaysia backs civil service Waze ban, urges public boycott of navigation app",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/bds-malaysia-backs-civil-service-waze-ban-urges-public-boycott-of-navigation-app/240325"
+    },
+    {
+     "outlet": "Malay Mail",
+     "country": "MYS",
+     "time": "2026-10-23T10:24:07Z",
+     "headline": "‘Completely false’: Waze rejects Malaysia’s data security claims after civil servant ban",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/completely-false-waze-rejects-malaysias-data-security-claims-after-civil-servant-ban/240348"
+    }
+   ]
+  },
+  {
    "id": 2857,
    "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
    "category": "Geopolitics",
-   "importance": 5.97,
-   "risk": 1.45,
+   "importance": 5.92,
+   "risk": 1.6,
    "confidence": 0.91,
-   "status": "fading",
-   "outlets": 20,
+   "status": "peaking",
+   "outlets": 21,
    "countries": [
     "ARG",
     "USA",
@@ -8967,7 +9083,8 @@
     "FRA",
     "AZE",
     "TWN",
-    "CUB"
+    "CUB",
+    "OMN"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
    "last_seen": "2026-10-23T17:42:10Z",
@@ -9252,121 +9369,6 @@
      "time": "2026-10-23T12:17:20Z",
      "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
      "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
-    }
-   ]
-  },
-  {
-   "id": 16031,
-   "title": "Malaysia bans civil servants from using navigation app, citing data risks",
-   "category": "Trade & Industry",
-   "importance": 5.92,
-   "risk": 2.76,
-   "confidence": 0.84,
-   "status": "spreading",
-   "outlets": 9,
-   "countries": [
-    "ISR",
-    "USA",
-    "MYS",
-    "CYP",
-    "SGP",
-    "JPN",
-    "IRQ"
-   ],
-   "first_seen": "2026-10-21T08:25:48Z",
-   "last_seen": "2026-10-23T10:24:07Z",
-   "page": "event/16031.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-21T08:25:48Z",
-     "headline": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
-     "url": "https://www.haaretz.com/israel-news/tech-news/2026-10-21/ty-article/malaysia-bans-civil-servants-from-using-mapping-app-waze-citing-links-to-israel/000001a1-5d58-da49-abe9-5ff81efa0000"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-21T12:33:27Z",
-     "headline": "Malaysia bans civil servants from using navigation app, citing data risks",
-     "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691"
-    },
-    {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-22T05:53:45Z",
-     "headline": "TuJu app to go beyond highways and cover ordinary roads, says digital minister",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/tuju-app-to-go-beyond-highways-and-cover-ordinary-roads-says-digital-minister/240157"
-    },
-    {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-22T05:58:06Z",
-     "headline": "Which way to go? TuJu offers a locally-developed navigation app built around Malaysian highways and traffic info",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/which-way-to-go-tuju-offers-a-locally-developed-navigation-app-built-around-malaysian-highways-and-traffic-info/240160"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-22T06:02:14Z",
-     "headline": "Malaysia bans Waze, citing threat of Israeli data misuse",
-     "url": "https://cyprus-mail.com/2026/10/22/malaysia-bans-waze-citing-threat-of-israeli-data-misuse"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T08:59:00Z",
-     "headline": "Waze rejects data security allegations after Malaysia bans civil servants from using app",
-     "url": "https://www.channelnewsasia.com/asia/waze-data-security-allegations-malaysia-ban-6481901"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T16:42:34Z",
-     "headline": "Malaysia concerned over Waze data falling into Israeli hands",
-     "url": "https://www.newarab.com/news/malaysia-concerned-over-waze-data-falling-israeli-hands"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-23T03:13:00Z",
-     "headline": "Malaysian PM Anwar Bans Civil Servants From Using Israel-developed Navigation App",
-     "url": "https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T05:36:00Z",
-     "headline": "Malaysia Limits Waze Use as Government Raises Security Concerns",
-     "url": "https://www.kurdistan24.net/en/story/947967/malaysia-limits-waze-use-as-government-raises-security-concerns"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:28:01Z",
-     "headline": "M'sia govt urges citizens to delete Waze citing Israeli links, bans civil servants from using app",
-     "url": "https://mothership.sg/2026/10/malaysia-bans-waze-civil-servant/"
-    },
-    {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-23T07:29:31Z",
-     "headline": "Anwar says nationwide Waze ban needs careful study first",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/anwar-says-waze-ban-was-spontaneous-decision-over-israeli-links/240314"
-    },
-    {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-23T08:29:44Z",
-     "headline": "BDS Malaysia backs civil service Waze ban, urges public boycott of navigation app",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/bds-malaysia-backs-civil-service-waze-ban-urges-public-boycott-of-navigation-app/240325"
-    },
-    {
-     "outlet": "Malay Mail",
-     "country": "MYS",
-     "time": "2026-10-23T10:24:07Z",
-     "headline": "‘Completely false’: Waze rejects Malaysia’s data security claims after civil servant ban",
-     "url": "https://www.malaymail.com/news/malaysia/2026/10/23/completely-false-waze-rejects-malaysias-data-security-claims-after-civil-servant-ban/240348"
     }
    ]
   },
