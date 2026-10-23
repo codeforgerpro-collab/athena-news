@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T13:15:52Z",
+ "generated": "2026-10-23T13:37:52Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -7,11 +7,11 @@
    "id": 22696,
    "title": "Netanyahu orders lockdown of West Bank after fatal attack",
    "category": "Economy & Markets",
-   "importance": 8.36,
+   "importance": 8.37,
    "risk": 6.61,
    "confidence": 0.87,
    "status": "fading",
-   "outlets": 36,
+   "outlets": 37,
    "countries": [
     "SAU",
     "IRQ",
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T12:57:54Z",
+   "last_seen": "2026-10-23T13:26:40Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -82,6 +82,13 @@
      "time": "2026-10-23T05:06:35Z",
      "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ as attack kills 2 soldiers",
      "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-as-attack-kills-2-soldiers-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack kills 2 soldiers",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-kills-2-soldiers-3007835"
     },
     {
      "outlet": "Shafaq News (English)",
@@ -157,7 +164,7 @@
      "outlet": "ABC News Australia",
      "country": "AUS",
      "time": "2026-10-23T08:18:27Z",
-     "headline": "Israel orders military to prepare West Bank closure after attack",
+     "headline": "Two Israeli soldiers killed in attack on West Bank military checkpoint",
      "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
     },
     {
@@ -187,6 +194,13 @@
      "time": "2026-10-23T08:30:24Z",
      "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
      "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T08:30:24Z",
+     "headline": "PM warns of major West Bank military operation after attack kills Israeli soldiers",
+     "url": "https://www.al-monitor.com/originals/2026/10/pm-warns-major-west-bank-military-operation-after-attack-kills-israeli-soldiers"
     },
     {
      "outlet": "The Independent",
@@ -306,20 +320,6 @@
      "time": "2026-10-23T10:10:00Z",
      "headline": "Netanyahu orders West Bank closure as attack wounds five Israelis before election",
      "url": "https://www.straitstimes.com/world/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T10:13:49Z",
-     "headline": "Israel orders closure of occupied West Bank after two suspected attackers killed",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-orders-occupied-west-bank-closure/dlaq5dlui"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:39:46Z",
-     "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-     "url": "https://www.myjoyonline.com/five-israelis-wounded-and-two-suspected-palestinian-attackers-killed-in-west-bank-shooting/"
     }
    ]
   },
@@ -645,6 +645,244 @@
      "time": "2026-10-23T06:41:41Z",
      "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
      "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
+    }
+   ]
+  },
+  {
+   "id": 24515,
+   "title": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+   "category": "Geopolitics",
+   "importance": 7.64,
+   "risk": 6.88,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 26,
+   "countries": [
+    "IND",
+    "ARE",
+    "AUS",
+    "ISR",
+    "AZE",
+    "TUR",
+    "ARM",
+    "ZAF",
+    "SAU",
+    "RUS",
+    "USA",
+    "CYP",
+    "GBR",
+    "SGP",
+    "DEU",
+    "GRC",
+    "PAK",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T12:02:22Z",
+   "last_seen": "2026-10-23T14:09:21Z",
+   "page": "event/24515.html",
+   "reports": [
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:02:22Z",
+     "headline": "Gunmen open fire inside church in Jordan, 7 killed",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T12:04:37Z",
+     "headline": "At least seven killed in shooting at church in Jordan's Karak province",
+     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Seven killed, 10 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T12:14:53Z",
+     "headline": "Gunmen open fire at church in Jordan, killing at least 7",
+     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T12:16:24Z",
+     "headline": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:17:48Z",
+     "headline": "Worshippers killed in shooting at church in Jordan",
+     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
+     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T12:25:11Z",
+     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
+     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T12:28:00Z",
+     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
+     "url": "https://news.am/en/news/1069872"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T12:29:00Z",
+     "headline": "Seven killed as gunmen open fire inside Jordan church",
+     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:30:17Z",
+     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
+     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
+     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:32:00Z",
+     "headline": "Seven killed in attack on funeral procession near church in Jordan",
+     "url": "https://www.azernews.az/region/266088.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T12:35:16Z",
+     "headline": "7 Killed in Armed Attack on Church in Jordan's Hammoud Village",
+     "url": "https://english.aawsat.com/node/5332722"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:48:54Z",
+     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
+     "url": "https://tass.com/emergencies/2206933"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:49:35Z",
+     "headline": "Gunmen Open Fire at Church in Jordan, Killing Several People",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "7 killed in church shooting in southern Jordan: state TV",
+     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T12:53:06Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
+     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T12:55:19Z",
+     "headline": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T12:57:00Z",
+     "headline": "At least seven dead after shooting at church in Jordan - reports",
+     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:33Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "7 killed in church shooting in southern Jordan: State TV",
+     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T13:07:00Z",
+     "headline": "Jordan: Karak church shooting leaves 7 dead",
+     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:15:32Z",
+     "headline": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
+     "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T13:20:08Z",
+     "headline": "7 Killed in Greek Orthodox Church Funeral Shooting in Jordan’s Karak",
+     "url": "https://greekcitytimes.com/2026/10/24/jordan-church-shooting-karak-funeral/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:27:27Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T14:09:21Z",
+     "headline": "Seven killed in Jordan church shooting",
+     "url": "https://punchng.com/seven-killed-in-jordan-church-shooting/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -976,6 +1214,146 @@
    ]
   },
   {
+   "id": 23500,
+   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+   "category": "Energy & Environment",
+   "importance": 7.34,
+   "risk": 2.3,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK",
+    "IND",
+    "IRQ",
+    "SAU",
+    "CHN"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T13:30:00Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T12:01:36Z",
+     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
+     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:49:38Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
+     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:54:00Z",
+     "headline": "US set to receive first Russian diesel shipment since 2022",
+     "url": "https://www.azernews.az/region/266084.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:02:22Z",
+     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
+     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
+    },
+    {
+     "outlet": "OilPrice.com",
+     "country": "GBR",
+     "time": "2026-10-23T13:30:00Z",
+     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -1006,7 +1384,7 @@
     "QAT"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T12:17:20Z",
+   "last_seen": "2026-10-23T13:37:22Z",
    "page": "event/19215.html",
    "reports": [
     {
@@ -1211,354 +1589,13 @@
      "time": "2026-10-23T12:17:20Z",
      "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 23500,
-   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-   "category": "Energy & Environment",
-   "importance": 7.3,
-   "risk": 2.29,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK",
-    "IND",
-    "IRQ",
-    "SAU",
-    "CHN"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T13:02:22Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
     },
     {
      "outlet": "Daily Mirror",
      "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T12:01:36Z",
-     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
-     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
-     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:49:38Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
-     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:54:00Z",
-     "headline": "US set to receive first Russian diesel shipment since 2022",
-     "url": "https://www.azernews.az/region/266084.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:02:22Z",
-     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
-     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
-    }
-   ]
-  },
-  {
-   "id": 24515,
-   "title": "Reports in Jordan: At least seven killed after gunmen open fire at church",
-   "category": "Geopolitics",
-   "importance": 7.29,
-   "risk": 6.76,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 23,
-   "countries": [
-    "IND",
-    "ARE",
-    "AUS",
-    "ISR",
-    "AZE",
-    "TUR",
-    "ARM",
-    "ZAF",
-    "SAU",
-    "RUS",
-    "USA",
-    "CYP",
-    "GBR",
-    "SGP",
-    "DEU",
-    "NGA"
-   ],
-   "first_seen": "2026-10-23T12:02:22Z",
-   "last_seen": "2026-10-23T14:09:21Z",
-   "page": "event/24515.html",
-   "reports": [
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:02:22Z",
-     "headline": "Gunmen open fire inside church in Jordan, 7 killed",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T12:04:37Z",
-     "headline": "At least seven killed in shooting at church in Jordan's Karak province",
-     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Seven killed, 10 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T12:14:53Z",
-     "headline": "Breaking: Gunmen open fire at church in Jordan, killing at least 7",
-     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T12:16:24Z",
-     "headline": "Reports in Jordan: At least seven killed after gunmen open fire at church",
-     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:17:48Z",
-     "headline": "Worshippers killed in shooting at church in Jordan",
-     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
-     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T12:25:11Z",
-     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
-     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T12:28:00Z",
-     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
-     "url": "https://news.am/en/news/1069872"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T12:29:00Z",
-     "headline": "Seven killed as gunmen open fire inside Jordan church",
-     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:30:17Z",
-     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
-     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
-     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:32:00Z",
-     "headline": "Seven killed in attack on funeral procession near church in Jordan",
-     "url": "https://www.azernews.az/region/266088.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T12:35:16Z",
-     "headline": "7 Killed in Armed Attack on Church in Jordan's Hammoud Village",
-     "url": "https://english.aawsat.com/node/5332722"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:48:54Z",
-     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
-     "url": "https://tass.com/emergencies/2206933"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:49:35Z",
-     "headline": "Gunmen Open Fire at Church in Jordan, Killing Several People",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T12:50:03Z",
-     "headline": "7 killed in church shooting in southern Jordan: state TV",
-     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T12:53:06Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
-     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T12:55:19Z",
-     "headline": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T12:57:00Z",
-     "headline": "At least seven dead after shooting at church in Jordan - reports",
-     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:33Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
-     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:00:10Z",
-     "headline": "7 killed in church shooting in southern Jordan: State TV",
-     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T13:07:00Z",
-     "headline": "Jordan: Karak church shooting leaves 7 dead",
-     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T14:09:21Z",
-     "headline": "Seven killed in Jordan church shooting",
-     "url": "https://punchng.com/seven-killed-in-jordan-church-shooting/?utm_source=rss.punchng.com&utm_medium=web"
+     "time": "2026-10-23T13:37:22Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.dailymirror.lk/international/Hundreds-of-flights-cancelled-as-Typhoon-Champi-shuts-Taiwan/107-353281"
     }
    ]
   },
@@ -2323,7 +2360,7 @@
      "outlet": "France 24 English",
      "country": "FRA",
      "time": "2026-10-23T11:08:26Z",
-     "headline": "One killed, four injured, including child, in drive-by shooting in Paris suburb",
+     "headline": "One killed, four including child injured in drive-by shooting in Paris suburb",
      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
     },
     {
@@ -8236,173 +8273,110 @@
    ]
   },
   {
-   "id": 16141,
-   "title": "What is PHP and why did it take government websites offline?",
-   "category": "Technology & Cyber",
-   "importance": 5.83,
-   "risk": 4.48,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 15,
+   "id": 16086,
+   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "category": "Geopolitics",
+   "importance": 5.84,
+   "risk": 6.64,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 10,
    "countries": [
+    "BGR",
+    "SAU",
+    "UKR",
     "SGP",
-    "THA",
-    "DEU",
-    "FRA",
-    "QAT",
-    "JPN",
-    "GBR",
-    "KOR",
-    "TUR",
-    "LKA",
-    "NLD",
+    "AZE",
     "IND",
-    "IRL",
-    "BEL"
+    "TUR"
    ],
-   "first_seen": "2026-10-21T13:46:25Z",
-   "last_seen": "2026-10-22T09:56:48Z",
-   "page": "event/16141.html",
+   "first_seen": "2026-10-20T13:00:00Z",
+   "last_seen": "2026-10-23T13:18:00Z",
+   "page": "event/16086.html",
    "reports": [
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T13:46:25Z",
-     "headline": "Government websites go dark as vulnerabilities in programming language send shudder across internet",
-     "url": "https://www.straitstimes.com/world/government-websites-go-dark-as-vulnerabilities-in-programming-language-send-shudder-across-internet"
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-20T13:00:00Z",
+     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
+     "url": "https://www.novinite.com/view_news.php?id=241156"
     },
     {
-     "outlet": "Bangkok Post",
-     "country": "THA",
-     "time": "2026-10-21T14:42:00Z",
-     "headline": "PHP glitch sends shudders across internet",
-     "url": "https://www.bangkokpost.com/life/tech/3341105/php-glitch-sends-shudders-across-internet"
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:04:05Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T14:51:24Z",
-     "headline": "PHP developers issue updates fixing vulnerabilities that saw websites go offline",
-     "url": "https://www.straitstimes.com/world/php-developers-issue-new-version-to-fix-critical-vulnerabilities"
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:29Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T15:51:28Z",
-     "headline": "Explainer: What is PHP and why did it take government websites offline?",
-     "url": "https://www.straitstimes.com/world/explainer-what-is-php-and-why-did-it-take-government-websites-offline"
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:41Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
     },
     {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-21T16:56:00Z",
-     "headline": "PHP developers say key patches available after global scare",
-     "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf"
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
     },
     {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-21T17:15:51Z",
-     "headline": "Government and corporate websites go dark as AI exposes critical security flaws",
-     "url": "https://www.france24.com/en/technology/20261021-government-and-corporate-websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T00:10:27Z",
-     "headline": "World leaders warn of security flaws found in PHP programming language",
-     "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-22T03:15:31Z",
-     "headline": "Vulnerabilities found in widely used PHP programming language",
-     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0na/017000c"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:10:00Z",
-     "headline": "Cloudflare sees millions of exploit attempts after PHP disclosure",
-     "url": "https://www.channelnewsasia.com/world/cloudfare-hack-exploit-attempts-php-websites-6481421"
-    },
-    {
-     "outlet": "Bangkok Post",
-     "country": "THA",
-     "time": "2026-10-22T04:45:00Z",
-     "headline": "World wide web worry: PHP drama explained",
-     "url": "https://www.bangkokpost.com/life/tech/3341568/world-wide-web-worry-php-drama-explained"
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T10:40:50Z",
+     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
+     "url": "https://www.kyivpost.com/post/87976"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-22T04:46:00Z",
-     "headline": "Cloudflare sees millions of exploit attempts after PHP disclosure",
-     "url": "https://www.straitstimes.com/world/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure"
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T06:24:59Z",
-     "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-     "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T11:23:00Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
     },
     {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "PHP security flaws alert Korean government, firms",
-     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alert-korean-government-firms?utm_source=rss"
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T11:32:00Z",
+     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
     },
     {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "What is PHP and why did it take government websites offline?",
-     "url": "https://www.koreatimes.co.kr/world/20261022/what-is-php-and-why-did-it-take-government-websites-offline?utm_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:27Z",
-     "headline": "Websites shut down globally as PHP flaws trigger millions of attack attempts",
-     "url": "https://www.turkiyetoday.com/business/websites-shut-down-globally-as-php-flaws-trigger-millions-of-attack-attempts-3230794"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-22T07:03:35Z",
-     "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-     "url": "https://www.dailymirror.lk/international/What-is-PHP-and-why-did-it-spark-a-global-cyber-security-scramble-/107-353155"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-22T07:05:38Z",
-     "headline": "Some important Dutch websites still offline after PHP issues",
-     "url": "https://nltimes.nl/2026/10/22/important-dutch-websites-still-offline-php-issues"
-    },
-    {
-     "outlet": "Indian Express",
+     "outlet": "Times of India",
      "country": "IND",
-     "time": "2026-10-22T07:56:24Z",
-     "headline": "PHP security alert: What US and Indian government warnings mean for websites",
-     "url": "https://indianexpress.com/article/technology/cert-in-php-vulnerability-alert-india-cybersecurity-warning-us-nsa-php-alert-10931962/"
+     "time": "2026-10-23T12:24:17Z",
+     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
+     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
     },
     {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T09:53:59Z",
-     "headline": "Companies and govts step up cyber defences after PHP flaw",
-     "url": "https://www.rte.ie/news/2026/1022/1596428-php-ai-issue/"
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:44:56Z",
+     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
+     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
     },
     {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T09:56:48Z",
-     "headline": "Hackers launch ‘millions’ of attempts to exploit global PHP cyber flaw",
-     "url": "https://www.politico.eu/article/hackers-launch-millions-of-attempts-to-exploit-global-php-cyber-flaw/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:18:00Z",
+     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
     }
    ]
   },
@@ -8730,107 +8704,6 @@
      "time": "2026-10-22T22:46:34Z",
      "headline": "US Calls for Greece-Turkey Talks After Libya Backs Maritime Deal",
      "url": "https://greekcitytimes.com/2026/10/23/us-greece-turkey-maritime-disputes-negotiations/"
-    }
-   ]
-  },
-  {
-   "id": 16086,
-   "title": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-   "category": "Geopolitics",
-   "importance": 5.78,
-   "risk": 6.6,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 10,
-   "countries": [
-    "BGR",
-    "SAU",
-    "UKR",
-    "SGP",
-    "AZE",
-    "IND",
-    "TUR"
-   ],
-   "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T12:44:56Z",
-   "page": "event/16086.html",
-   "reports": [
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-20T13:00:00Z",
-     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
-     "url": "https://www.novinite.com/view_news.php?id=241156"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:04:05Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:29Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:41Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T10:40:50Z",
-     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
-     "url": "https://www.kyivpost.com/post/87976"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T11:23:00Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T11:32:00Z",
-     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
-     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:24:17Z",
-     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
-     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:44:56Z",
-     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
-     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
     }
    ]
   },
@@ -9171,6 +9044,115 @@
      "time": "2026-10-23T10:48:24Z",
      "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
      "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
+    }
+   ]
+  },
+  {
+   "id": 23821,
+   "title": "Austria expels four Russian diplomats on security grounds",
+   "category": "Geopolitics",
+   "importance": 5.73,
+   "risk": 4.95,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 11,
+   "countries": [
+    "RUS",
+    "ZAF",
+    "UKR",
+    "TUR",
+    "ARM",
+    "SGP",
+    "ISR",
+    "USA"
+   ],
+   "first_seen": "2026-10-23T09:07:44Z",
+   "last_seen": "2026-10-23T13:18:57Z",
+   "page": "event/23821.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T09:07:44Z",
+     "headline": "Russia to inevitably respond to expulsion of diplomats from Austria — MFA",
+     "url": "https://tass.com/politics/2206729"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:27Z",
+     "headline": "Austria expels four Vienna-based Russian diplomats on security grounds",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-austria-expels-four-vienna-based-russian-diplomats-on-security-grounds/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T09:28:49Z",
+     "headline": "Austria Expels Four Russian Diplomats: Foreign Ministry",
+     "url": "https://www.kyivpost.com/post/87957"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T09:29:00Z",
+     "headline": "Austria expels four Russian diplomats",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059384/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T09:35:39Z",
+     "headline": "Russia Vows Retaliation After Austria Expels Its Diplomats",
+     "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:06:24Z",
+     "headline": "Austria expells 4 Russian diplomats on security grounds",
+     "url": "https://www.aa.com.tr/en/asia-pacific/austria-expells-4-russian-diplomats-on-security-grounds-/4098352"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:06:24Z",
+     "headline": "Austria expels 4 Russian diplomats on security grounds",
+     "url": "https://www.aa.com.tr/en/politics/austria-expels-4-russian-diplomats-on-security-grounds-/4098352"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:18:49Z",
+     "headline": "Austria expels 4 Russian diplomats, Moscow vows response",
+     "url": "https://kyivindependent.com/austria-expels-4-russian-diplomats-moscow-vows-response/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T10:52:00Z",
+     "headline": "Austria declares 4 Russian diplomats personae non gratae",
+     "url": "https://news.am/en/news/1069817"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:34:36Z",
+     "headline": "Austria foreign ministry expels four Russian diplomats from Vienna over suspected espionage",
+     "url": "https://www.jpost.com/international/article-912653"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:04:10Z",
+     "headline": "What is known about Austria declaring four Russian diplomats personae non gratae",
+     "url": "https://tass.com/politics/2206947"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:18:57Z",
+     "headline": "Austria expels 4 Russian diplomats linked to espionage, official says",
+     "url": "https://abcnews.com/International/wireStory/austria-expels-4-russian-diplomats-linked-espionage-official-137506289"
     }
    ]
   },
@@ -10058,6 +10040,70 @@
      "time": "2026-10-22T19:41:50Z",
      "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
      "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
+    }
+   ]
+  },
+  {
+   "id": 22459,
+   "title": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
+   "category": "Energy & Environment",
+   "importance": 5.67,
+   "risk": 0.0,
+   "confidence": 0.79,
+   "status": "spreading",
+   "outlets": 6,
+   "countries": [
+    "GHA",
+    "SAU",
+    "SGP",
+    "CYP",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T05:56:50Z",
+   "last_seen": "2026-10-23T14:03:19Z",
+   "page": "event/22459.html",
+   "reports": [
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T05:56:50Z",
+     "headline": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+     "url": "https://www.myjoyonline.com/gasps-as-prince-william-makes-surprise-appearance-on-graham-norton-show/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T09:19:41Z",
+     "headline": "Prince William, Wannabe DJ and Film-Lover, Appears on UK Chat Show",
+     "url": "https://english.aawsat.com/node/5332639"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:01:45Z",
+     "headline": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
+     "url": "https://www.straitstimes.com/world/europe/prince-william-wannabe-dj-shares-his-off-duty-passions-on-graham-norton-show"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:36:22Z",
+     "headline": "Prince William, wannabe DJ and film-lover, to appear on UK chat show",
+     "url": "https://cyprus-mail.com/2026/10/23/prince-william-wannabe-dj-and-film-lover-to-appear-on-uk-chat-show"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:22:42Z",
+     "headline": "I once wanted to be a DJ – UK’s Prince William",
+     "url": "https://www.vanguardngr.com/2026/10/i-once-wanted-to-be-a-dj-uks-prince-william/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T14:03:19Z",
+     "headline": "UK’s Prince William reveals childhood ambition to become a DJ",
+     "url": "https://punchng.com/uks-prince-william-reveals-childhood-ambition-to-become-a-dj/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -11647,150 +11693,6 @@
      "time": "2026-10-23T11:13:37Z",
      "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
      "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
-    }
-   ]
-  },
-  {
-   "id": 13220,
-   "title": "Saudi Arabia postpones its 'Davos in the Desert' after attacks",
-   "category": "Business",
-   "importance": 5.58,
-   "risk": 2.29,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "ARE",
-    "GBR",
-    "USA",
-    "SAU",
-    "SGP",
-    "IRQ",
-    "PAK",
-    "NGA"
-   ],
-   "first_seen": "2026-10-19T03:02:28Z",
-   "last_seen": "2026-10-23T08:19:15Z",
-   "page": "event/13220.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-19T03:02:28Z",
-     "headline": "Middle East conflicts: Trump backs Netanyahu as Iran issues warning, Saudi-Houthi strikes escalate",
-     "url": "https://gulfnews.com/world/mena/middle-east-live-trump-backs-netanyahu-as-iran-issues-warning-saudi-houthi-strikes-escalate-1.500715444"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:29:25Z",
-     "headline": "Financial Times: Saudi Arabia postpones in-person 'Davos in the Desert' amid Houthi attacks",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/financial-times-saudi-arabia-postpones-person-davos-desert-amid-houthi"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-19T15:36:52Z",
-     "headline": "Saudi Arabia to postpone in-person ‘Davos in the desert’ after Houthi attacks: report",
-     "url": "https://www.independent.co.uk/news/world/middle-east/saudi-postpone-investment-conference-houthi-attacks-b3069345.html"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-19T15:42:03Z",
-     "headline": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
-     "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-19T15:49:15Z",
-     "headline": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
-     "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-19T16:10:02Z",
-     "headline": "FII Institute postpones 10th annual conference to 2027",
-     "url": "https://www.arabnews.com/business/fii-institute-postpones-10th-annual-conference-to-2027-3007192"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-19T17:01:26Z",
-     "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-     "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T17:10:53Z",
-     "headline": "Saudi flagship investment conference pushed to 2027 after Houthi attacks",
-     "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-postpones-its-davos-in-the-desert-conference-after-attacks"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-19T17:46:28Z",
-     "headline": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-postpones-its-davos-desert-conference-after-attacks"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T18:01:04Z",
-     "headline": "Saudi Arabia postpones FII conference till 2027",
-     "url": "https://shafaq.com/en/Middle-East/Saudi-Arabia-postpones-FII-conference-till-2027"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T18:39:41Z",
-     "headline": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks",
-     "url": "https://www.brecorder.com/news/40444968/saudi-arabia-postpones-its-davos-in-the-desert-conference-after-attacks"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-19T19:22:07Z",
-     "headline": "Saudi postpones top investment conference to 2027 after Houthi attacks",
-     "url": "https://www.vanguardngr.com/2026/10/saudi-postpones-top-investment-conference-to-2027-after-houthi-attacks/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T04:21:40Z",
-     "headline": "Saudi Arabia Postpones 10th Edition of Future Investment Initiative to 2027",
-     "url": "https://english.aawsat.com/node/5331387"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-20T08:37:32Z",
-     "headline": "Saudi Arabia postpones its 'Davos in the Desert' after attacks",
-     "url": "https://www.newarab.com/news/saudi-arabia-postpones-its-davos-desert-after-attacks"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-21T08:40:51Z",
-     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T04:51:52Z",
-     "headline": "Saudi Arabia postpones two notable forums to 2027",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-postpones-un-global-forums-2027"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T08:19:15Z",
-     "headline": "Saudi Arabia postpones UN World Data Forum and Saudi Statistics Forum to 2027",
-     "url": "https://www.arabnews.com/business/saudi-arabia-postpones-un-world-data-forum-and-saudi-statistics-forum-to-2027-3007870"
     }
    ]
   }
