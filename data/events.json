@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T21:06:27Z",
+ "generated": "2026-10-23T21:22:27Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -327,6 +327,327 @@
    ]
   },
   {
+   "id": 24812,
+   "title": "Officials confirm ceasefire for Russian-held Oleshky",
+   "category": "Geopolitics",
+   "importance": 8.37,
+   "risk": 2.72,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 44,
+   "countries": [
+    "PAK",
+    "CHN",
+    "AZE",
+    "SGP",
+    "UKR",
+    "QAT",
+    "TUR",
+    "USA",
+    "RUS",
+    "CYP",
+    "IND",
+    "GBR",
+    "ISR",
+    "IRL",
+    "NGA",
+    "OMN",
+    "BGR",
+    "CAN",
+    "ARE",
+    "KOR",
+    "IRQ",
+    "SAU",
+    "DEU",
+    "AUS"
+   ],
+   "first_seen": "2026-10-23T09:12:24Z",
+   "last_seen": "2026-10-23T21:00:00Z",
+   "page": "event/24812.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T09:12:24Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump: White House",
+     "url": "https://tribune.com.pk/story/2636538/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:30:50Z",
+     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
+     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T13:36:00Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:36:47Z",
+     "headline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:38:06Z",
+     "headline": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
+     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:39:06Z",
+     "headline": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:39:49Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:41:00Z",
+     "headline": "White House claims Melania Trump has secured ceasefire in Oleshky",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059437/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T13:43:22Z",
+     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
+     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T13:49:34Z",
+     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
+     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:55:00Z",
+     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:58:22Z",
+     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
+     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:04:01Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
+     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T14:05:11Z",
+     "headline": "Melania Trump helps forge ceasefire deal in Russian-occupied Ukrainian city so aid can be delivered",
+     "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:05:21Z",
+     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
+     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
+    },
+    {
+     "outlet": "Novaya Gazeta Europe (EN)",
+     "country": "RUS",
+     "time": "2026-10-23T14:09:45Z",
+     "headline": "Russia and Ukraine agreed to ceasefire in occupied Oleshky, White House says",
+     "url": "https://novayagazeta.eu/articles/2026/10/23/russia-and-ukraine-agreed-to-ceasefire-in-occupied-oleshky-white-house-says-en-news"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T14:10:29Z",
+     "headline": "Russia-Ukraine war: Melania's 'intervention' secures one-city ceasefire",
+     "url": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T14:13:33Z",
+     "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T14:30:30Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912658"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T14:36:18Z",
+     "headline": "Melania Trump Brokers Ceasefire in Occupied Ukraine’s Oleshky",
+     "url": "https://www.themoscowtimes.com/2026/10/23/melania-trump-brokers-ceasefire-in-occupied-ukraines-oleshky-a94069"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T14:37:40Z",
+     "headline": "Officials confirm ceasefire for Russian-held Oleshky",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T14:46:41Z",
+     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
+     "url": "https://www.vanguardngr.com/2026/10/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:50:50Z",
+     "headline": "Melania Trump claims ceasefire secured in Ukraine’s Oleshky",
+     "url": "https://www.omanobserver.om/article/1198426/world/melania-trump-claims-ceasefire-secured-in-ukraines-oleshky"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T14:59:00Z",
+     "headline": "Melania Trump announces localized ceasefire between Russia and Ukraine for Oleshky",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177544-melania-trump-announces-localized-ceasefire-between-russia-and-ukraine-for-oleshky.html"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-23T15:02:40Z",
+     "headline": "Melania Trump brokers localized Russia-Ukraine ceasefire, White House says",
+     "url": "https://thehill.com/policy/international/6167822-melania-trump-oleshky-ceasefire/"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T15:09:21Z",
+     "headline": "White House says Melania Trump brokered a Russia-Ukraine ceasefire—but just in one city",
+     "url": "https://fortune.com/2026/10/23/melania-trump-russia-ukraine-localized-ceasefire/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T15:14:00Z",
+     "headline": "White House Says Russia, Ukraine Agree to Oleshky Truce",
+     "url": "https://www.kyivpost.com/post/88006"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T15:15:00Z",
+     "headline": "Russia, Ukraine agree to ceasefire in Alyoshki — White House",
+     "url": "https://tass.com/politics/2207035"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T15:26:03Z",
+     "headline": "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
+     "url": "https://www.ndtv.com/world-news/situation-dire-melania-trump-says-she-secured-ceasefire-in-ukrainian-city-12226918#publisher=newsstand"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T15:30:12Z",
+     "headline": "Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing",
+     "url": "https://cyprus-mail.com/2026/10/23/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T15:30:23Z",
+     "headline": "Melania Trump Brokers Russia-Ukraine Ceasefire in Oleshky",
+     "url": "https://www.novinite.com/view_news.php?id=241230"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T15:37:12Z",
+     "headline": "Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing",
+     "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T15:38:40Z",
+     "headline": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
+     "url": "https://tass.com/politics/2207063"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:40:00Z",
+     "headline": "Ukraine confirms local ceasefire to enable evacuation from Oleshky",
+     "url": "https://www.ukrinform.net/rubric-ato/4177572-ukraine-confirms-local-ceasefire-to-enable-evacuation-from-oleshky.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:45:54Z",
+     "headline": "Melania's focus is ‘to save children,’ Trump says after Oleshky truce deal",
+     "url": "https://www.aa.com.tr/en/americas/melanias-focus-is-to-save-children-trump-says-after-oleshky-truce-deal/4098842"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T15:46:23Z",
+     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
+     "url": "https://punchng.com/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:48:00Z",
+     "headline": "Kremlin confirms ceasefire will be declared in Oleshky",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059456/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:48:24Z",
+     "headline": "Kremlin welcomes Melania Trump’s efforts on Oleshky truce",
+     "url": "https://www.aa.com.tr/en/americas/kremlin-welcomes-melania-trump-s-efforts-on-oleshky-truce/4098850"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T15:49:07Z",
+     "headline": "How Melania Trump helped broker Oleshky ceasefire between Russia, Ukraine. White House reveals",
+     "url": "https://indianexpress.com/article/world/melania-trump-brokered-russia-ukraine-ceasefire-oleshky-evacuation-10934246/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T15:53:31Z",
+     "headline": "Melania Trump claims to have secured ceasefire for single Ukrainian town in surprising peace breakthrough",
+     "url": "https://www.independent.co.uk/news/world/europe/melania-trump-ceasefire-oleshky-ukraine-russia-b3072365.html"
+    }
+   ]
+  },
+  {
    "id": 22696,
    "title": "Israel demolishes homes in West Bank after fatal attack",
    "category": "Economy & Markets",
@@ -647,334 +968,14 @@
    ]
   },
   {
-   "id": 24812,
-   "title": "Officials confirm ceasefire for Russian-held Oleshky",
-   "category": "Geopolitics",
-   "importance": 8.32,
-   "risk": 2.72,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 43,
-   "countries": [
-    "PAK",
-    "CHN",
-    "AZE",
-    "SGP",
-    "UKR",
-    "QAT",
-    "TUR",
-    "USA",
-    "RUS",
-    "CYP",
-    "IND",
-    "GBR",
-    "ISR",
-    "IRL",
-    "NGA",
-    "OMN",
-    "CAN",
-    "ARE",
-    "KOR",
-    "IRQ",
-    "SAU",
-    "DEU",
-    "AUS"
-   ],
-   "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T20:02:21Z",
-   "page": "event/24812.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T09:12:24Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump: White House",
-     "url": "https://tribune.com.pk/story/2636538/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:30:50Z",
-     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
-     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T13:36:00Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:36:47Z",
-     "headline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
-     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:38:06Z",
-     "headline": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
-     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:39:06Z",
-     "headline": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T13:39:49Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T13:41:00Z",
-     "headline": "White House claims Melania Trump has secured ceasefire in Oleshky",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059437/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T13:43:22Z",
-     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
-     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T13:49:34Z",
-     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
-     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:55:00Z",
-     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
-     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T13:58:22Z",
-     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
-     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:04:01Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
-     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T14:05:11Z",
-     "headline": "Melania Trump helps forge ceasefire deal in Russian-occupied Ukrainian city so aid can be delivered",
-     "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:05:21Z",
-     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
-     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
-    },
-    {
-     "outlet": "Novaya Gazeta Europe (EN)",
-     "country": "RUS",
-     "time": "2026-10-23T14:09:45Z",
-     "headline": "Russia and Ukraine agreed to ceasefire in occupied Oleshky, White House says",
-     "url": "https://novayagazeta.eu/articles/2026/10/23/russia-and-ukraine-agreed-to-ceasefire-in-occupied-oleshky-white-house-says-en-news"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T14:10:29Z",
-     "headline": "Russia-Ukraine war: Melania's 'intervention' secures one-city ceasefire",
-     "url": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T14:13:33Z",
-     "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T14:30:30Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912658"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-23T14:36:18Z",
-     "headline": "Melania Trump Brokers Ceasefire in Occupied Ukraine’s Oleshky",
-     "url": "https://www.themoscowtimes.com/2026/10/23/melania-trump-brokers-ceasefire-in-occupied-ukraines-oleshky-a94069"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T14:37:40Z",
-     "headline": "Officials confirm ceasefire for Russian-held Oleshky",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T14:46:41Z",
-     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
-     "url": "https://www.vanguardngr.com/2026/10/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:50:50Z",
-     "headline": "Melania Trump claims ceasefire secured in Ukraine’s Oleshky",
-     "url": "https://www.omanobserver.om/article/1198426/world/melania-trump-claims-ceasefire-secured-in-ukraines-oleshky"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T14:59:00Z",
-     "headline": "Melania Trump announces localized ceasefire between Russia and Ukraine for Oleshky",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177544-melania-trump-announces-localized-ceasefire-between-russia-and-ukraine-for-oleshky.html"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-23T15:02:40Z",
-     "headline": "Melania Trump brokers localized Russia-Ukraine ceasefire, White House says",
-     "url": "https://thehill.com/policy/international/6167822-melania-trump-oleshky-ceasefire/"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-23T15:09:21Z",
-     "headline": "White House says Melania Trump brokered a Russia-Ukraine ceasefire—but just in one city",
-     "url": "https://fortune.com/2026/10/23/melania-trump-russia-ukraine-localized-ceasefire/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T15:14:00Z",
-     "headline": "White House Says Russia, Ukraine Agree to Oleshky Truce",
-     "url": "https://www.kyivpost.com/post/88006"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T15:15:00Z",
-     "headline": "Russia, Ukraine agree to ceasefire in Alyoshki — White House",
-     "url": "https://tass.com/politics/2207035"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T15:26:03Z",
-     "headline": "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
-     "url": "https://www.ndtv.com/world-news/situation-dire-melania-trump-says-she-secured-ceasefire-in-ukrainian-city-12226918#publisher=newsstand"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T15:30:12Z",
-     "headline": "Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing",
-     "url": "https://cyprus-mail.com/2026/10/23/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T15:30:23Z",
-     "headline": "Melania Trump Brokers Russia-Ukraine Ceasefire in Oleshky",
-     "url": "https://www.novinite.com/view_news.php?id=241230"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T15:37:12Z",
-     "headline": "Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing",
-     "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T15:38:40Z",
-     "headline": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
-     "url": "https://tass.com/politics/2207063"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T15:40:00Z",
-     "headline": "Ukraine confirms local ceasefire to enable evacuation from Oleshky",
-     "url": "https://www.ukrinform.net/rubric-ato/4177572-ukraine-confirms-local-ceasefire-to-enable-evacuation-from-oleshky.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:45:54Z",
-     "headline": "Melania's focus is ‘to save children,’ Trump says after Oleshky truce deal",
-     "url": "https://www.aa.com.tr/en/americas/melanias-focus-is-to-save-children-trump-says-after-oleshky-truce-deal/4098842"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T15:46:23Z",
-     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
-     "url": "https://punchng.com/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T15:48:00Z",
-     "headline": "Kremlin confirms ceasefire will be declared in Oleshky",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059456/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:48:24Z",
-     "headline": "Kremlin welcomes Melania Trump’s efforts on Oleshky truce",
-     "url": "https://www.aa.com.tr/en/americas/kremlin-welcomes-melania-trump-s-efforts-on-oleshky-truce/4098850"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T15:49:07Z",
-     "headline": "How Melania Trump helped broker Oleshky ceasefire between Russia, Ukraine. White House reveals",
-     "url": "https://indianexpress.com/article/world/melania-trump-brokered-russia-ukraine-ceasefire-oleshky-evacuation-10934246/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T15:53:31Z",
-     "headline": "Melania Trump claims to have secured ceasefire for single Ukrainian town in surprising peace breakthrough",
-     "url": "https://www.independent.co.uk/news/world/europe/melania-trump-ceasefire-oleshky-ukraine-russia-b3072365.html"
-    }
-   ]
-  },
-  {
    "id": 23500,
    "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
-   "importance": 8.27,
-   "risk": 3.26,
+   "importance": 7.83,
+   "risk": 3.08,
    "confidence": 0.86,
    "status": "peaking",
-   "outlets": 28,
+   "outlets": 29,
    "countries": [
     "AZE",
     "GBR",
@@ -993,10 +994,11 @@
     "THA",
     "SGP",
     "ISR",
-    "BGD"
+    "BGD",
+    "NZL"
    ],
    "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T19:24:44Z",
+   "last_seen": "2026-10-23T21:01:34Z",
    "page": "event/23500.html",
    "reports": [
     {
@@ -1556,10 +1558,10 @@
    "id": 9153,
    "title": "IRGC say tanker on fire after hitting mine in Strait of Hormuz",
    "category": "Trade & Industry",
-   "importance": 7.35,
-   "risk": 3.51,
+   "importance": 7.41,
+   "risk": 3.52,
    "confidence": 0.88,
-   "status": "peaking",
+   "status": "spreading",
    "outlets": 36,
    "countries": [
     "ARE",
@@ -1588,7 +1590,7 @@
     "AUS"
    ],
    "first_seen": "2026-10-17T04:27:36Z",
-   "last_seen": "2026-10-23T20:35:25Z",
+   "last_seen": "2026-10-23T21:17:50Z",
    "page": "event/9153.html",
    "reports": [
     {
@@ -1877,11 +1879,11 @@
    "id": 1869,
    "title": "Kenya confirms second Ebola case, a relative of first patient",
    "category": "Health & Science",
-   "importance": 7.25,
-   "risk": 7.4,
+   "importance": 7.39,
+   "risk": 7.5,
    "confidence": 0.93,
    "status": "spreading",
-   "outlets": 39,
+   "outlets": 40,
    "countries": [
     "KEN",
     "AUS",
@@ -1908,7 +1910,7 @@
     "SWE"
    ],
    "first_seen": "2026-10-12T17:52:48Z",
-   "last_seen": "2026-10-23T21:06:28Z",
+   "last_seen": "2026-10-23T21:12:34Z",
    "page": "event/1869.html",
    "reports": [
     {
@@ -5047,195 +5049,6 @@
    ]
   },
   {
-   "id": 16086,
-   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-   "category": "Geopolitics",
-   "importance": 6.68,
-   "risk": 6.84,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 16,
-   "countries": [
-    "BGR",
-    "SAU",
-    "UKR",
-    "SGP",
-    "AZE",
-    "IND",
-    "TUR",
-    "BEL",
-    "RUS",
-    "DEU",
-    "QAT"
-   ],
-   "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T17:26:13Z",
-   "page": "event/16086.html",
-   "reports": [
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-20T13:00:00Z",
-     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
-     "url": "https://www.novinite.com/view_news.php?id=241156"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:04:05Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:29Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:41Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T10:06:00Z",
-     "headline": "Black Sea: Drone Strike Sinks Ship off Romania, Leaving One Dead and Three Missing (UPDATED)",
-     "url": "https://www.novinite.com/view_news.php?id=241217"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T10:40:50Z",
-     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
-     "url": "https://www.kyivpost.com/post/87976"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T11:23:00Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T11:32:00Z",
-     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
-     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T12:18:25Z",
-     "headline": "Romania's President: Russia Escalating the War After Drone Incident Near Constanța",
-     "url": "https://www.novinite.com/view_news.php?id=241221"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:24:17Z",
-     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
-     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:44:56Z",
-     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
-     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-23T13:07:28Z",
-     "headline": "Romania blames Russia for new deadly attack on ship",
-     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T13:18:00Z",
-     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:48:45Z",
-     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
-     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-23T14:21:15Z",
-     "headline": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
-     "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:25:00Z",
-     "headline": "Romania blames Russia for ship attack in the Black Sea",
-     "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T14:38:33Z",
-     "headline": "Romania Blames Russia for Drone Strike That Sank Black Sea Ship",
-     "url": "https://www.kyivpost.com/post/88003"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T15:18:00Z",
-     "headline": "Ukrainian sailor killed and three missing as vessel sinks off Romanian coast after drone attack",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059450/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T15:59:00Z",
-     "headline": "Ukrainian sailor killed as vessel sinks near Constanta, four others hospitalized – MFA",
-     "url": "https://www.ukrinform.net/rubric-society/4177573-ukrainian-sailor-killed-as-vessel-sinks-near-constanta-four-others-hospitalized-mfa.html"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T17:14:40Z",
-     "headline": "Romania blames Russia for drone strike that sinks cargo ship in Black Sea, killing one sailor and leaving three missing",
-     "url": "https://meduza.io/en/news/2026/10/23/romania-blames-russia-for-drone-strike-that-sinks-cargo-ship-in-black-sea-killing-one-sailor-and-leaving-three-missing"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:26:13Z",
-     "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
-     "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 16208,
    "title": "Sisi: Egypt would defend Saudi territory, rules out Yemen attack",
    "category": "Geopolitics",
@@ -7899,6 +7712,195 @@
    ]
   },
   {
+   "id": 16086,
+   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "category": "Geopolitics",
+   "importance": 6.18,
+   "risk": 6.13,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 16,
+   "countries": [
+    "BGR",
+    "SAU",
+    "UKR",
+    "SGP",
+    "AZE",
+    "IND",
+    "TUR",
+    "BEL",
+    "RUS",
+    "DEU",
+    "QAT"
+   ],
+   "first_seen": "2026-10-20T13:00:00Z",
+   "last_seen": "2026-10-23T17:26:13Z",
+   "page": "event/16086.html",
+   "reports": [
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-20T13:00:00Z",
+     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
+     "url": "https://www.novinite.com/view_news.php?id=241156"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:04:05Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:29Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:41Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T10:06:00Z",
+     "headline": "Black Sea: Drone Strike Sinks Ship off Romania, Leaving One Dead and Three Missing (UPDATED)",
+     "url": "https://www.novinite.com/view_news.php?id=241217"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T10:40:50Z",
+     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
+     "url": "https://www.kyivpost.com/post/87976"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T11:23:00Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T11:32:00Z",
+     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T12:18:25Z",
+     "headline": "Romania's President: Russia Escalating the War After Drone Incident Near Constanța",
+     "url": "https://www.novinite.com/view_news.php?id=241221"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:24:17Z",
+     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
+     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:44:56Z",
+     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
+     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-23T13:07:28Z",
+     "headline": "Romania blames Russia for new deadly attack on ship",
+     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:18:00Z",
+     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:48:45Z",
+     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
+     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T14:21:15Z",
+     "headline": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
+     "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:25:00Z",
+     "headline": "Romania blames Russia for ship attack in the Black Sea",
+     "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T14:38:33Z",
+     "headline": "Romania Blames Russia for Drone Strike That Sank Black Sea Ship",
+     "url": "https://www.kyivpost.com/post/88003"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:18:00Z",
+     "headline": "Ukrainian sailor killed and three missing as vessel sinks off Romanian coast after drone attack",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059450/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:59:00Z",
+     "headline": "Ukrainian sailor killed as vessel sinks near Constanta, four others hospitalized – MFA",
+     "url": "https://www.ukrinform.net/rubric-society/4177573-ukrainian-sailor-killed-as-vessel-sinks-near-constanta-four-others-hospitalized-mfa.html"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T17:14:40Z",
+     "headline": "Romania blames Russia for drone strike that sinks cargo ship in Black Sea, killing one sailor and leaving three missing",
+     "url": "https://meduza.io/en/news/2026/10/23/romania-blames-russia-for-drone-strike-that-sinks-cargo-ship-in-black-sea-killing-one-sailor-and-leaving-three-missing"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:26:13Z",
+     "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
+     "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
+    }
+   ]
+  },
+  {
    "id": 16067,
    "title": "Russia strikes Kyiv as Ukraine launches hundreds of drones at Moscow",
    "category": "Geopolitics",
@@ -10442,6 +10444,263 @@
    ]
   },
   {
+   "id": 23496,
+   "title": "Many feared trapped after Kenya building collapse",
+   "category": "Trade & Industry",
+   "importance": 5.81,
+   "risk": 7.01,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 25,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
+    "USA",
+    "DEU",
+    "ZAF",
+    "OMN",
+    "KWT",
+    "KOR",
+    "QAT",
+    "IND",
+    "NZL"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-23T20:50:01Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:57:00Z",
+     "headline": "NAIROBI",
+     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T15:50:00Z",
+     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T15:52:25Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-23T16:27:13Z",
+     "headline": "Several feared trapped in Eastleigh building collapse",
+     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:01:05Z",
+     "headline": "Many feared trapped after Kenya building collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:49:04Z",
+     "headline": "Several people missing after multistorey building collapses in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T19:02:08Z",
+     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
+     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T20:31:50Z",
+     "headline": "Building collapse in Nairobi search for survivors under way",
+     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T20:50:01Z",
+     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
+     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -11348,256 +11607,6 @@
      "time": "2026-10-23T18:34:58Z",
      "headline": "Apple's foldable iPhone hits stores with US$2,000 price tag and scarce supply",
      "url": "https://www.channelnewsasia.com/world/iphone-duo-foldable-apple-launch-ternus-6487866"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Many feared trapped after Kenya building collapse",
-   "category": "Trade & Industry",
-   "importance": 5.73,
-   "risk": 6.47,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 24,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF",
-    "OMN",
-    "KWT",
-    "KOR",
-    "QAT",
-    "IND",
-    "NZL"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-23T20:50:01Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:57:00Z",
-     "headline": "NAIROBI",
-     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T15:50:00Z",
-     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T15:52:03Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T15:52:25Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-23T16:27:13Z",
-     "headline": "Several feared trapped in Eastleigh building collapse",
-     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:01:05Z",
-     "headline": "Many feared trapped after Kenya building collapse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:49:04Z",
-     "headline": "Several people missing after multistorey building collapses in Kenya",
-     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T19:02:08Z",
-     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
-     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T20:50:01Z",
-     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
-     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
     }
    ]
   },
