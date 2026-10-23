@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T14:41:53Z",
+ "generated": "2026-10-23T15:03:53Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T14:32:41Z",
+   "last_seen": "2026-10-23T14:46:49Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -173,6 +173,13 @@
      "time": "2026-10-23T08:25:00Z",
      "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
      "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T08:25:00Z",
+     "headline": "Israel orders home demolitions after soldiers killed in West Bank",
+     "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"
     },
     {
      "outlet": "Xinhua (English) — page reader",
@@ -313,13 +320,6 @@
      "time": "2026-10-23T10:09:14Z",
      "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
      "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:10:00Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds five Israelis before election",
-     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
     }
    ]
   },
@@ -327,11 +327,11 @@
    "id": 23500,
    "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
-   "importance": 8.09,
+   "importance": 8.11,
    "risk": 2.72,
    "confidence": 0.87,
    "status": "spreading",
-   "outlets": 21,
+   "outlets": 22,
    "countries": [
     "AZE",
     "GBR",
@@ -351,7 +351,7 @@
     "SGP"
    ],
    "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T14:32:26Z",
+   "last_seen": "2026-10-23T14:46:49Z",
    "page": "event/23500.html",
    "reports": [
     {
@@ -514,11 +514,11 @@
    "id": 24515,
    "title": "Six killed, 28 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 7.92,
-   "risk": 6.89,
+   "importance": 7.97,
+   "risk": 6.91,
    "confidence": 0.89,
    "status": "spreading",
-   "outlets": 35,
+   "outlets": 36,
    "countries": [
     "IND",
     "ARE",
@@ -540,10 +540,11 @@
     "QAT",
     "NZL",
     "NGA",
-    "FRA"
+    "FRA",
+    "IRQ"
    ],
    "first_seen": "2026-10-23T12:02:22Z",
-   "last_seen": "2026-10-23T14:36:05Z",
+   "last_seen": "2026-10-23T14:44:51Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -676,7 +677,7 @@
      "outlet": "The New York Times (World)",
      "country": "USA",
      "time": "2026-10-23T12:49:35Z",
-     "headline": "Gunmen Open Fire at Church in Jordan, Killing Several People",
+     "headline": "Gunmen Open Fire at Church in Jordan, Killing at Least Six",
      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
     },
     {
@@ -718,15 +719,22 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T12:57:33Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "headline": "Six killed in attack at church in Jordan, authorities say",
      "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 7 at church in southern Jordan",
+     "headline": "Gunmen kill 6 at church in southern Jordan",
      "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "Gunmen kill 6 at church in southern Jordan",
+     "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
     },
     {
      "outlet": "DW English",
@@ -818,13 +826,204 @@
      "time": "2026-10-23T14:09:21Z",
      "headline": "Seven killed in Jordan church shooting",
      "url": "https://punchng.com/seven-killed-in-jordan-church-shooting/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Society & Law",
+   "importance": 7.55,
+   "risk": 6.43,
+   "confidence": 0.84,
+   "status": "fading",
+   "outlets": 20,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T14:24:56Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after fatal shooting in Paris suburb",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
     },
     {
      "outlet": "France 24 English",
      "country": "FRA",
-     "time": "2026-10-23T14:16:29Z",
-     "headline": "Several killed, dozens wounded in Jordan church shooting",
-     "url": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting"
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed in shooting near Paris, French prime minister says",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:48:00Z",
+     "headline": "Deadly shooting in Paris suburb may be terrorist act, officials say",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T13:48:46Z",
+     "headline": "One person killed in deadly shooting in Paris suburbs",
+     "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T14:14:43Z",
+     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T14:24:56Z",
+     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
+     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
     }
    ]
   },
@@ -1156,193 +1355,188 @@
    ]
   },
   {
-   "id": 23956,
-   "title": "France: 1 killed, 4 wounded after shooting near Paris",
-   "category": "Society & Law",
-   "importance": 7.36,
-   "risk": 6.42,
-   "confidence": 0.83,
-   "status": "fading",
-   "outlets": 19,
+   "id": 24812,
+   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+   "category": "Geopolitics",
+   "importance": 7.39,
+   "risk": 2.76,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 21,
    "countries": [
-    "GBR",
     "CHN",
     "AZE",
-    "SAU",
     "SGP",
+    "UKR",
+    "QAT",
+    "PAK",
+    "TUR",
     "USA",
+    "RUS",
     "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
+    "IND",
+    "GBR",
     "ISR",
-    "BEL"
+    "IRL",
+    "NGA"
    ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T14:24:56Z",
-   "page": "event/23956.html",
+   "first_seen": "2026-10-23T13:30:50Z",
+   "last_seen": "2026-10-23T15:46:23Z",
+   "page": "event/24812.html",
    "reports": [
     {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after fatal shooting in Paris suburb",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
      "outlet": "Xinhua (English) — page reader",
      "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+     "time": "2026-10-23T13:30:50Z",
+     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
+     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
     },
     {
      "outlet": "APA (English)",
      "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+     "time": "2026-10-23T13:36:00Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+     "time": "2026-10-23T13:36:47Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
     },
     {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:38:06Z",
+     "headline": "Breaking: Russia, Ukraine agree to Oleshky ceasefire mediated by Melania Trump, White House says",
+     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
     },
     {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:39:06Z",
+     "headline": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
     },
     {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:39:49Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
     },
     {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:41:00Z",
+     "headline": "White House claims Melania Trump secured ceasefire in Oleshky",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059437/"
     },
     {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T13:43:22Z",
+     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
+     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed in shooting near Paris, French prime minister says",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T12:06:24Z",
-     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T12:55:18Z",
-     "headline": "One killed and four injured in drive-by shooting in Paris suburb",
-     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T13:49:34Z",
+     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
+     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
     },
     {
      "outlet": "CBS News (World)",
      "country": "USA",
-     "time": "2026-10-23T13:48:00Z",
-     "headline": "Deadly shooting in Paris suburb may be terrorist act, officials say",
-     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
+     "time": "2026-10-23T13:55:00Z",
+     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
     },
     {
-     "outlet": "Haaretz (English)",
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:58:22Z",
+     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
+     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:04:01Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
+     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T14:05:11Z",
+     "headline": "Melania Trump helps secure a ceasefire deal in Russian-occupied Oleshky, the White House says",
+     "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:05:21Z",
+     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
+     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
+    },
+    {
+     "outlet": "Novaya Gazeta Europe (EN)",
+     "country": "RUS",
+     "time": "2026-10-23T14:09:45Z",
+     "headline": "Russia and Ukraine agreed to ceasefire in occupied Oleshky, White House says",
+     "url": "https://novayagazeta.eu/articles/2026/10/23/russia-and-ukraine-agreed-to-ceasefire-in-occupied-oleshky-white-house-says-en-news"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T14:10:29Z",
+     "headline": "Russia-Ukraine war: Melania's 'intervention' secures one-city ceasefire",
+     "url": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T14:13:33Z",
+     "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
      "country": "ISR",
-     "time": "2026-10-23T14:14:43Z",
-     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
+     "time": "2026-10-23T14:30:30Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912658"
     },
     {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T14:24:56Z",
-     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
-     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T14:36:18Z",
+     "headline": "Melania Trump Brokers Ceasefire in Occupied Ukraine’s Oleshky",
+     "url": "https://www.themoscowtimes.com/2026/10/23/melania-trump-brokers-ceasefire-in-occupied-ukraines-oleshky-a94069"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T14:37:40Z",
+     "headline": "Melania Trump secures ceasefire in Ukrainian city Oleshky",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T14:46:41Z",
+     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
+     "url": "https://www.vanguardngr.com/2026/10/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T15:46:23Z",
+     "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
+     "url": "https://punchng.com/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -2564,170 +2758,6 @@
    ]
   },
   {
-   "id": 24812,
-   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-   "category": "Geopolitics",
-   "importance": 7.07,
-   "risk": 2.78,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 18,
-   "countries": [
-    "CHN",
-    "AZE",
-    "SGP",
-    "UKR",
-    "QAT",
-    "PAK",
-    "TUR",
-    "USA",
-    "RUS",
-    "CYP",
-    "IND",
-    "GBR",
-    "ISR",
-    "IRL"
-   ],
-   "first_seen": "2026-10-23T13:30:50Z",
-   "last_seen": "2026-10-23T14:37:40Z",
-   "page": "event/24812.html",
-   "reports": [
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:30:50Z",
-     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
-     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T13:36:00Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:36:47Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:38:06Z",
-     "headline": "Breaking: Russia, Ukraine agree to Oleshky ceasefire mediated by Melania Trump, White House says",
-     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:39:06Z",
-     "headline": "Melania Trump ‘secured ceasefire’ in Ukrainian city Oleshky: White House",
-     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T13:39:49Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T13:41:00Z",
-     "headline": "White House claims Melania Trump secured ceasefire in Oleshky",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059437/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T13:43:22Z",
-     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
-     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T13:49:34Z",
-     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
-     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:55:00Z",
-     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
-     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T13:58:22Z",
-     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
-     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:04:01Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
-     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T14:05:11Z",
-     "headline": "Melania Trump helps secure a ceasefire deal in Russian-occupied Oleshky, the White House says",
-     "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:05:21Z",
-     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
-     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
-    },
-    {
-     "outlet": "Novaya Gazeta Europe (EN)",
-     "country": "RUS",
-     "time": "2026-10-23T14:09:45Z",
-     "headline": "Russia and Ukraine agreed to ceasefire in occupied Oleshky, White House says",
-     "url": "https://novayagazeta.eu/articles/2026/10/23/russia-and-ukraine-agreed-to-ceasefire-in-occupied-oleshky-white-house-says-en-news"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T14:10:29Z",
-     "headline": "Russia-Ukraine war: Melania's 'intervention' secures one-city ceasefire",
-     "url": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T14:13:33Z",
-     "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T14:30:30Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912658"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T14:37:40Z",
-     "headline": "Melania Trump secures ceasefire in Ukrainian city Oleshky",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/"
-    }
-   ]
-  },
-  {
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
@@ -3275,6 +3305,472 @@
    ]
   },
   {
+   "id": 1869,
+   "title": "Kenya confirms second Ebola case, a relative of first patient",
+   "category": "Health & Science",
+   "importance": 6.8,
+   "risk": 6.73,
+   "confidence": 0.93,
+   "status": "fading",
+   "outlets": 38,
+   "countries": [
+    "KEN",
+    "AUS",
+    "USA",
+    "CAN",
+    "CHN",
+    "DEU",
+    "NGA",
+    "QAT",
+    "CYP",
+    "ZAF",
+    "FRA",
+    "GBR",
+    "JAM",
+    "TUR",
+    "KWT",
+    "NZL",
+    "AZE",
+    "SAU",
+    "RUS",
+    "SGP",
+    "SSD",
+    "GHA",
+    "SWE"
+   ],
+   "first_seen": "2026-10-12T17:52:48Z",
+   "last_seen": "2026-10-23T14:42:20Z",
+   "page": "event/1869.html",
+   "reports": [
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-12T17:52:48Z",
+     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
+     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-14T07:44:08Z",
+     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
+     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
+    },
+    {
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-14T13:00:00Z",
+     "headline": "Ebola doesn’t stop at a border",
+     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-14T16:20:55Z",
+     "headline": "Kenya confirms second Ebola case, a relative of first patient",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-14T18:19:29Z",
+     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
+     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-15T07:08:20Z",
+     "headline": "Kenya reports second Ebola case, family member of first patient",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
+    },
+    {
+     "outlet": "STAT News",
+     "country": "USA",
+     "time": "2026-10-15T11:55:17Z",
+     "headline": "Kenya reports second Ebola case",
+     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-15T12:00:00Z",
+     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-15T16:48:40Z",
+     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
+     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-15T17:38:52Z",
+     "headline": "Second Ebola Infection Announced in Kenya",
+     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
+    },
+    {
+     "outlet": "AllAfrica",
+     "country": "AFR",
+     "time": "2026-10-16T04:58:07Z",
+     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
+     "url": "https://allafrica.com/stories/202610160014.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-16T10:41:00Z",
+     "headline": "How prepared is Kenya for an Ebola outbreak?",
+     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T13:51:54Z",
+     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-16T15:29:48Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-16T15:37:08Z",
+     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
+     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-16T15:56:38Z",
+     "headline": "Health ministry confirms third Ebola case in Kenya",
+     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-16T16:01:38Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-16T17:10:41Z",
+     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
+     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-16T18:34:28Z",
+     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T18:55:57Z",
+     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T18:57:40Z",
+     "headline": "Kenya records third Ebola case, linked to first patient who died",
+     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-16T19:03:00Z",
+     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
+     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T08:00:00Z",
+     "headline": "Kenya records third Ebola case in the country: health ministry",
+     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-17T10:56:48Z",
+     "headline": "Kenya reports third Ebola case, contact tracing continues",
+     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-17T12:46:30Z",
+     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
+     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total now at seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-17T14:51:11Z",
+     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
+     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four More Ebola Cases Detected In Kenya",
+     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
+     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-17T15:19:59Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-17T15:22:42Z",
+     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
+     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-17T15:25:16Z",
+     "headline": "Kenya confirms 4 new Ebola cases",
+     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T16:19:13Z",
+     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
+     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T16:48:46Z",
+     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
+     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-17T17:08:00Z",
+     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
+     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-17T17:28:08Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-17T17:53:00Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-17T18:18:42Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-17T19:41:02Z",
+     "headline": "Kenya Confirms Four New Ebola Cases",
+     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+    }
+   ]
+  },
+  {
+   "id": 16086,
+   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "category": "Geopolitics",
+   "importance": 6.79,
+   "risk": 6.98,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "BGR",
+    "SAU",
+    "UKR",
+    "SGP",
+    "AZE",
+    "IND",
+    "TUR",
+    "BEL",
+    "RUS",
+    "DEU"
+   ],
+   "first_seen": "2026-10-20T13:00:00Z",
+   "last_seen": "2026-10-23T14:38:33Z",
+   "page": "event/16086.html",
+   "reports": [
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-20T13:00:00Z",
+     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
+     "url": "https://www.novinite.com/view_news.php?id=241156"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:04:05Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:29Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:41Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T10:40:50Z",
+     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
+     "url": "https://www.kyivpost.com/post/87976"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T11:23:00Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T11:32:00Z",
+     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:24:17Z",
+     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
+     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:44:56Z",
+     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
+     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-23T13:07:28Z",
+     "headline": "Romania blames Russia for new deadly attack on ship",
+     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:18:00Z",
+     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:48:45Z",
+     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
+     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T14:21:15Z",
+     "headline": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
+     "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:25:00Z",
+     "headline": "Romania blames Russia for ship attack in the Black Sea",
+     "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T14:38:33Z",
+     "headline": "Romania Blames Russia for Drone Strike That Sank Black Sea Ship",
+     "url": "https://www.kyivpost.com/post/88003"
+    }
+   ]
+  },
+  {
    "id": 16048,
    "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
    "category": "Society & Law",
@@ -3757,145 +4253,6 @@
    ]
   },
   {
-   "id": 16086,
-   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-   "category": "Geopolitics",
-   "importance": 6.73,
-   "risk": 6.94,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "BGR",
-    "SAU",
-    "UKR",
-    "SGP",
-    "AZE",
-    "IND",
-    "TUR",
-    "BEL",
-    "RUS",
-    "DEU"
-   ],
-   "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T14:25:00Z",
-   "page": "event/16086.html",
-   "reports": [
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-20T13:00:00Z",
-     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
-     "url": "https://www.novinite.com/view_news.php?id=241156"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:04:05Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:29Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:41Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T10:40:50Z",
-     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
-     "url": "https://www.kyivpost.com/post/87976"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T11:23:00Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T11:32:00Z",
-     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
-     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:24:17Z",
-     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
-     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:44:56Z",
-     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
-     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-23T13:07:28Z",
-     "headline": "Romania blames Russia for new deadly attack on ship",
-     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T13:18:00Z",
-     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:48:45Z",
-     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
-     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-23T14:21:15Z",
-     "headline": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
-     "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:25:00Z",
-     "headline": "Romania blames Russia for ship attack in the Black Sea",
-     "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
    "id": 16034,
    "title": "Iran Says Seven Vessels Hit Near Strait of Hormuz, Warns US of wider response",
    "category": "Trade & Industry",
@@ -4054,325 +4411,6 @@
      "time": "2026-10-22T17:58:04Z",
      "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 1869,
-   "title": "Kenya confirms second Ebola case, a relative of first patient",
-   "category": "Health & Science",
-   "importance": 6.69,
-   "risk": 6.67,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 37,
-   "countries": [
-    "KEN",
-    "AUS",
-    "USA",
-    "CAN",
-    "CHN",
-    "DEU",
-    "NGA",
-    "QAT",
-    "CYP",
-    "ZAF",
-    "FRA",
-    "GBR",
-    "JAM",
-    "TUR",
-    "KWT",
-    "NZL",
-    "AZE",
-    "SAU",
-    "RUS",
-    "SGP",
-    "SSD",
-    "GHA"
-   ],
-   "first_seen": "2026-10-12T17:52:48Z",
-   "last_seen": "2026-10-22T12:31:51Z",
-   "page": "event/1869.html",
-   "reports": [
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-12T17:52:48Z",
-     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
-     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-14T07:44:08Z",
-     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
-     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
-    },
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-14T13:00:00Z",
-     "headline": "Ebola doesn’t stop at a border",
-     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-14T16:20:55Z",
-     "headline": "Kenya confirms second Ebola case, a relative of first patient",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-14T18:19:29Z",
-     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
-     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-15T07:08:20Z",
-     "headline": "Kenya reports second Ebola case, family member of first patient",
-     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
-    },
-    {
-     "outlet": "STAT News",
-     "country": "USA",
-     "time": "2026-10-15T11:55:17Z",
-     "headline": "Kenya reports second Ebola case",
-     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-15T12:00:00Z",
-     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-15T16:48:40Z",
-     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
-     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-15T17:38:52Z",
-     "headline": "Second Ebola Infection Announced in Kenya",
-     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
-    },
-    {
-     "outlet": "AllAfrica",
-     "country": "AFR",
-     "time": "2026-10-16T04:58:07Z",
-     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
-     "url": "https://allafrica.com/stories/202610160014.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-16T10:41:00Z",
-     "headline": "How prepared is Kenya for an Ebola outbreak?",
-     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T13:51:54Z",
-     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-16T15:29:48Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-16T15:37:08Z",
-     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
-     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-16T15:56:38Z",
-     "headline": "Health ministry confirms third Ebola case in Kenya",
-     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-16T16:01:38Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-16T17:10:41Z",
-     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
-     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-16T18:34:28Z",
-     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T18:55:57Z",
-     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T18:57:40Z",
-     "headline": "Kenya records third Ebola case, linked to first patient who died",
-     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-16T19:03:00Z",
-     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
-     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T08:00:00Z",
-     "headline": "Kenya records third Ebola case in the country: health ministry",
-     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-17T10:56:48Z",
-     "headline": "Kenya reports third Ebola case, contact tracing continues",
-     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-17T12:46:30Z",
-     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
-     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total now at seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-17T14:51:11Z",
-     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
-     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four More Ebola Cases Detected In Kenya",
-     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
-     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-17T15:19:59Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-17T15:22:42Z",
-     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
-     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-17T15:25:16Z",
-     "headline": "Kenya confirms 4 new Ebola cases",
-     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T16:19:13Z",
-     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
-     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T16:48:46Z",
-     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
-     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-17T17:08:00Z",
-     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
-     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-17T17:28:08Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-17T17:53:00Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-17T18:18:42Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-17T19:41:02Z",
-     "headline": "Kenya Confirms Four New Ebola Cases",
-     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
     }
    ]
   },
@@ -5089,6 +5127,175 @@
      "time": "2026-10-23T06:59:37Z",
      "headline": "Australians light candles for critically injured Helen Haines",
      "url": "https://www.abc.net.au/news/2026-10-23/helen-haines-candle-vigil-critical-injuries-hospital-update/107302886"
+    }
+   ]
+  },
+  {
+   "id": 22319,
+   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+   "category": "Society & Law",
+   "importance": 6.45,
+   "risk": 2.14,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA",
+    "ZAF",
+    "CAN"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T14:48:01Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T14:11:26Z",
+     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:18:00Z",
+     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
+     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:45:07Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:47:18Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-23T14:48:01Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
+     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
     }
    ]
   },
@@ -7221,153 +7428,6 @@
    ]
   },
   {
-   "id": 22319,
-   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-   "category": "Society & Law",
-   "importance": 6.13,
-   "risk": 2.06,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
-    "TUR",
-    "SGP",
-    "THA",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T14:18:00Z",
-   "page": "event/22319.html",
-   "reports": [
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
-     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T14:11:26Z",
-     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:18:00Z",
-     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
-     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
-    }
-   ]
-  },
-  {
    "id": 16067,
    "title": "Russia strikes Kyiv as Ukraine launches hundreds of drones at Moscow",
    "category": "Geopolitics",
@@ -8526,78 +8586,6 @@
    ]
   },
   {
-   "id": 22459,
-   "title": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
-   "category": "Energy & Environment",
-   "importance": 5.93,
-   "risk": 0.0,
-   "confidence": 0.81,
-   "status": "peaking",
-   "outlets": 7,
-   "countries": [
-    "GHA",
-    "SAU",
-    "SGP",
-    "CYP",
-    "NGA",
-    "ARE"
-   ],
-   "first_seen": "2026-10-23T05:56:50Z",
-   "last_seen": "2026-10-23T14:18:36Z",
-   "page": "event/22459.html",
-   "reports": [
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T05:56:50Z",
-     "headline": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-     "url": "https://www.myjoyonline.com/gasps-as-prince-william-makes-surprise-appearance-on-graham-norton-show/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T09:19:41Z",
-     "headline": "Prince William, Wannabe DJ and Film-Lover, Appears on UK Chat Show",
-     "url": "https://english.aawsat.com/node/5332639"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:01:45Z",
-     "headline": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
-     "url": "https://www.straitstimes.com/world/europe/prince-william-wannabe-dj-shares-his-off-duty-passions-on-graham-norton-show"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:36:22Z",
-     "headline": "Prince William, wannabe DJ and film-lover, to appear on UK chat show",
-     "url": "https://cyprus-mail.com/2026/10/23/prince-william-wannabe-dj-and-film-lover-to-appear-on-uk-chat-show"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:22:42Z",
-     "headline": "I once wanted to be a DJ – UK’s Prince William",
-     "url": "https://www.vanguardngr.com/2026/10/i-once-wanted-to-be-a-dj-uks-prince-william/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T14:03:19Z",
-     "headline": "UK’s Prince William reveals childhood ambition to become a DJ",
-     "url": "https://punchng.com/uks-prince-william-reveals-childhood-ambition-to-become-a-dj/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T14:18:36Z",
-     "headline": "Prince William reveals he once wanted to be a policeman or DJ",
-     "url": "https://gulfnews.com/world/offbeat/prince-william-reveals-he-once-wanted-to-be-a-policeman-or-dj-1.500721271"
-    }
-   ]
-  },
-  {
    "id": 16031,
    "title": "Malaysia bans civil servants from using navigation app, citing data risks",
    "category": "Trade & Industry",
@@ -8709,6 +8697,123 @@
      "time": "2026-10-23T10:24:07Z",
      "headline": "‘Completely false’: Waze rejects Malaysia’s data security claims after civil servant ban",
      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/completely-false-waze-rejects-malaysias-data-security-claims-after-civil-servant-ban/240348"
+    }
+   ]
+  },
+  {
+   "id": 23821,
+   "title": "Austria expels four Russian diplomats on security grounds",
+   "category": "Geopolitics",
+   "importance": 5.92,
+   "risk": 4.39,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 12,
+   "countries": [
+    "RUS",
+    "ZAF",
+    "UKR",
+    "TUR",
+    "ARM",
+    "SGP",
+    "ISR",
+    "USA",
+    "AZE"
+   ],
+   "first_seen": "2026-10-23T09:07:44Z",
+   "last_seen": "2026-10-23T14:43:00Z",
+   "page": "event/23821.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T09:07:44Z",
+     "headline": "Russia to inevitably respond to expulsion of diplomats from Austria — MFA",
+     "url": "https://tass.com/politics/2206729"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:27Z",
+     "headline": "Austria expels four Vienna-based Russian diplomats on security grounds",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-austria-expels-four-vienna-based-russian-diplomats-on-security-grounds/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T09:28:49Z",
+     "headline": "Austria Expels Four Russian Diplomats: Foreign Ministry",
+     "url": "https://www.kyivpost.com/post/87957"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T09:29:00Z",
+     "headline": "Austria expels four Russian diplomats",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059384/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T09:35:39Z",
+     "headline": "Russia Vows Retaliation After Austria Expels Its Diplomats",
+     "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:06:24Z",
+     "headline": "Austria expells 4 Russian diplomats on security grounds",
+     "url": "https://www.aa.com.tr/en/asia-pacific/austria-expells-4-russian-diplomats-on-security-grounds-/4098352"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:06:24Z",
+     "headline": "Austria expels 4 Russian diplomats on security grounds",
+     "url": "https://www.aa.com.tr/en/politics/austria-expels-4-russian-diplomats-on-security-grounds-/4098352"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:18:49Z",
+     "headline": "Austria expels 4 Russian diplomats, Moscow vows response",
+     "url": "https://kyivindependent.com/austria-expels-4-russian-diplomats-moscow-vows-response/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T10:52:00Z",
+     "headline": "Austria declares 4 Russian diplomats personae non gratae",
+     "url": "https://news.am/en/news/1069817"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:34:36Z",
+     "headline": "Austria foreign ministry expels four Russian diplomats from Vienna over suspected espionage",
+     "url": "https://www.jpost.com/international/article-912653"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:04:10Z",
+     "headline": "What is known about Austria declaring four Russian diplomats personae non gratae",
+     "url": "https://tass.com/politics/2206947"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:18:57Z",
+     "headline": "Austria expels 4 Russian diplomats linked to espionage, official says",
+     "url": "https://abcnews.com/International/wireStory/austria-expels-4-russian-diplomats-linked-espionage-official-137506289"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:43:00Z",
+     "headline": "Russia slams Austria's decision to expel envoys",
+     "url": "https://www.azernews.az/region/266085.html"
     }
    ]
   },
@@ -8908,180 +9013,6 @@
      "time": "2026-10-23T10:58:34Z",
      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
      "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Several feared trapped as multi-storey building collapses in Nairobi",
-   "category": "Trade & Industry",
-   "importance": 5.87,
-   "risk": 7.32,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "TZA",
-    "USA",
-    "DEU",
-    "FRA",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-23T14:33:01Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Several feared trapped as multi-storey building collapses in Nairobi",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
     }
    ]
   },
@@ -9803,6 +9734,180 @@
    ]
   },
   {
+   "id": 23496,
+   "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+   "category": "Trade & Industry",
+   "importance": 5.81,
+   "risk": 7.32,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "TZA",
+    "USA",
+    "DEU",
+    "FRA",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-23T14:33:01Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -10305,7 +10410,7 @@
      "outlet": "Guardian Business",
      "country": "GBR",
      "time": "2026-10-23T02:16:26Z",
-     "headline": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
+     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
     },
     {
@@ -10342,115 +10447,6 @@
      "time": "2026-10-23T10:48:24Z",
      "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
      "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
-    }
-   ]
-  },
-  {
-   "id": 23821,
-   "title": "Austria expels four Russian diplomats on security grounds",
-   "category": "Geopolitics",
-   "importance": 5.73,
-   "risk": 4.95,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 11,
-   "countries": [
-    "RUS",
-    "ZAF",
-    "UKR",
-    "TUR",
-    "ARM",
-    "SGP",
-    "ISR",
-    "USA"
-   ],
-   "first_seen": "2026-10-23T09:07:44Z",
-   "last_seen": "2026-10-23T13:18:57Z",
-   "page": "event/23821.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T09:07:44Z",
-     "headline": "Russia to inevitably respond to expulsion of diplomats from Austria — MFA",
-     "url": "https://tass.com/politics/2206729"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:27Z",
-     "headline": "Austria expels four Vienna-based Russian diplomats on security grounds",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-austria-expels-four-vienna-based-russian-diplomats-on-security-grounds/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T09:28:49Z",
-     "headline": "Austria Expels Four Russian Diplomats: Foreign Ministry",
-     "url": "https://www.kyivpost.com/post/87957"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T09:29:00Z",
-     "headline": "Austria expels four Russian diplomats",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059384/"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-23T09:35:39Z",
-     "headline": "Russia Vows Retaliation After Austria Expels Its Diplomats",
-     "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:06:24Z",
-     "headline": "Austria expells 4 Russian diplomats on security grounds",
-     "url": "https://www.aa.com.tr/en/asia-pacific/austria-expells-4-russian-diplomats-on-security-grounds-/4098352"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:06:24Z",
-     "headline": "Austria expels 4 Russian diplomats on security grounds",
-     "url": "https://www.aa.com.tr/en/politics/austria-expels-4-russian-diplomats-on-security-grounds-/4098352"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T10:18:49Z",
-     "headline": "Austria expels 4 Russian diplomats, Moscow vows response",
-     "url": "https://kyivindependent.com/austria-expels-4-russian-diplomats-moscow-vows-response/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T10:52:00Z",
-     "headline": "Austria declares 4 Russian diplomats personae non gratae",
-     "url": "https://news.am/en/news/1069817"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:34:36Z",
-     "headline": "Austria foreign ministry expels four Russian diplomats from Vienna over suspected espionage",
-     "url": "https://www.jpost.com/international/article-912653"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T13:04:10Z",
-     "headline": "What is known about Austria declaring four Russian diplomats personae non gratae",
-     "url": "https://tass.com/politics/2206947"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:18:57Z",
-     "headline": "Austria expels 4 Russian diplomats linked to espionage, official says",
-     "url": "https://abcnews.com/International/wireStory/austria-expels-4-russian-diplomats-linked-espionage-official-137506289"
     }
    ]
   },
@@ -11975,6 +11971,145 @@
      "time": "2026-10-23T08:35:15Z",
      "headline": "First human case of Shamonda virus: What is it, what are the risks",
      "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
+    }
+   ]
+  },
+  {
+   "id": 12369,
+   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "category": "Geopolitics",
+   "importance": 5.63,
+   "risk": 4.5,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 12,
+   "countries": [
+    "USA",
+    "IRQ",
+    "PAK",
+    "RUS",
+    "IND",
+    "AZE",
+    "TUR",
+    "IRN",
+    "ARM",
+    "ISR"
+   ],
+   "first_seen": "2026-10-17T21:04:33Z",
+   "last_seen": "2026-10-22T18:12:21Z",
+   "page": "event/12369.html",
+   "reports": [
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-17T21:04:33Z",
+     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T16:47:19Z",
+     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
+     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T16:55:10Z",
+     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T17:02:28Z",
+     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-19T17:25:01Z",
+     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
+     "url": "https://tass.com/world/2204325"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-19T17:32:00Z",
+     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-19T17:36:00Z",
+     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
+     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:42:37Z",
+     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
+     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T12:11:32Z",
+     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T12:18:00Z",
+     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
+     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:49:02Z",
+     "headline": "Houthis target Saudi Arabian Defense Ministry building",
+     "url": "https://www.azernews.az/region/266023.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:50:14Z",
+     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:22:48Z",
+     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
+     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T13:54:02Z",
+     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-22T14:34:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
+     "url": "https://news.am/en/news/1069685"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T18:12:21Z",
+     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
+     "url": "https://www.jpost.com/middle-east/article-912598"
     }
    ]
   }
