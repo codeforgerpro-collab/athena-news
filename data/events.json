@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T12:55:52Z",
+ "generated": "2026-10-23T13:15:52Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,9 +8,9 @@
    "title": "Netanyahu orders lockdown of West Bank after fatal attack",
    "category": "Economy & Markets",
    "importance": 8.36,
-   "risk": 7.29,
-   "confidence": 0.88,
-   "status": "peaking",
+   "risk": 6.61,
+   "confidence": 0.87,
+   "status": "fading",
    "outlets": 36,
    "countries": [
     "SAU",
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T12:45:00Z",
+   "last_seen": "2026-10-23T12:57:54Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -1215,6 +1215,354 @@
    ]
   },
   {
+   "id": 23500,
+   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+   "category": "Energy & Environment",
+   "importance": 7.3,
+   "risk": 2.29,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK",
+    "IND",
+    "IRQ",
+    "SAU",
+    "CHN"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T13:02:22Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T12:01:36Z",
+     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
+     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:49:38Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
+     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:54:00Z",
+     "headline": "US set to receive first Russian diesel shipment since 2022",
+     "url": "https://www.azernews.az/region/266084.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:02:22Z",
+     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
+     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
+    }
+   ]
+  },
+  {
+   "id": 24515,
+   "title": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+   "category": "Geopolitics",
+   "importance": 7.29,
+   "risk": 6.76,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 23,
+   "countries": [
+    "IND",
+    "ARE",
+    "AUS",
+    "ISR",
+    "AZE",
+    "TUR",
+    "ARM",
+    "ZAF",
+    "SAU",
+    "RUS",
+    "USA",
+    "CYP",
+    "GBR",
+    "SGP",
+    "DEU",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T12:02:22Z",
+   "last_seen": "2026-10-23T14:09:21Z",
+   "page": "event/24515.html",
+   "reports": [
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:02:22Z",
+     "headline": "Gunmen open fire inside church in Jordan, 7 killed",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T12:04:37Z",
+     "headline": "At least seven killed in shooting at church in Jordan's Karak province",
+     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Seven killed, 10 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T12:14:53Z",
+     "headline": "Breaking: Gunmen open fire at church in Jordan, killing at least 7",
+     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T12:16:24Z",
+     "headline": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:17:48Z",
+     "headline": "Worshippers killed in shooting at church in Jordan",
+     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
+     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T12:25:11Z",
+     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
+     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T12:28:00Z",
+     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
+     "url": "https://news.am/en/news/1069872"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T12:29:00Z",
+     "headline": "Seven killed as gunmen open fire inside Jordan church",
+     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:30:17Z",
+     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
+     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
+     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:32:00Z",
+     "headline": "Seven killed in attack on funeral procession near church in Jordan",
+     "url": "https://www.azernews.az/region/266088.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T12:35:16Z",
+     "headline": "7 Killed in Armed Attack on Church in Jordan's Hammoud Village",
+     "url": "https://english.aawsat.com/node/5332722"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:48:54Z",
+     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
+     "url": "https://tass.com/emergencies/2206933"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:49:35Z",
+     "headline": "Gunmen Open Fire at Church in Jordan, Killing Several People",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "7 killed in church shooting in southern Jordan: state TV",
+     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T12:53:06Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
+     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T12:55:19Z",
+     "headline": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T12:57:00Z",
+     "headline": "At least seven dead after shooting at church in Jordan - reports",
+     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:33Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "7 killed in church shooting in southern Jordan: State TV",
+     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T13:07:00Z",
+     "headline": "Jordan: Karak church shooting leaves 7 dead",
+     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T14:09:21Z",
+     "headline": "Seven killed in Jordan church shooting",
+     "url": "https://punchng.com/seven-killed-in-jordan-church-shooting/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
    "id": 9153,
    "title": "IRGC say tanker on fire after hitting mine in Strait of Hormuz",
    "category": "Trade & Industry",
@@ -1868,13 +2216,13 @@
   },
   {
    "id": 23956,
-   "title": "One killed, four injured in drive-by shooting near Paris",
+   "title": "Gunman fires from car near Paris, killing 1; police arrest suspect",
    "category": "Society & Law",
-   "importance": 7.03,
+   "importance": 7.12,
    "risk": 7.1,
    "confidence": 0.84,
    "status": "spreading",
-   "outlets": 16,
+   "outlets": 17,
    "countries": [
     "GBR",
     "CHN",
@@ -1891,7 +2239,7 @@
     "BEL"
    ],
    "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T12:06:24Z",
+   "last_seen": "2026-10-23T12:55:18Z",
    "page": "event/23956.html",
    "reports": [
     {
@@ -1961,7 +2309,7 @@
      "outlet": "Stuff",
      "country": "NZL",
      "time": "2026-10-23T10:56:55Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
      "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
     },
     {
@@ -2026,6 +2374,13 @@
      "time": "2026-10-23T12:06:24Z",
      "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
      "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
     }
    ]
   },
@@ -2573,116 +2928,6 @@
      "time": "2026-10-22T11:16:42Z",
      "headline": "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
      "url": "https://www.thehindu.com/business/Economy/oil-hits-near-six-month-high-as-houthi-attacks-rattle-saudi-arabia/article71611009.ece"
-    }
-   ]
-  },
-  {
-   "id": 23500,
-   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
-   "category": "Trade & Industry",
-   "importance": 6.84,
-   "risk": 2.25,
-   "confidence": 0.85,
-   "status": "peaking",
-   "outlets": 11,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK",
-    "IRQ",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T12:49:38Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
-     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:49:38Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
-     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
     }
    ]
   },
@@ -4083,155 +4328,6 @@
    ]
   },
   {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.53,
-   "risk": 4.19,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 16,
-   "countries": [
-    "GRC",
-    "PAK",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR",
-    "CHN"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T11:50:29Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T05:14:17Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-23T10:00:46Z",
-     "headline": "Greece adopts law to ban social media access to minors under 15",
-     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:50:29Z",
-     "headline": "Greek parliament approves social media ban for under-15s from January",
-     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
-    }
-   ]
-  },
-  {
    "id": 12569,
    "title": "Australian lawmaker Helen Haines in critical condition after vehicle ramming attack",
    "category": "Society & Law",
@@ -4511,6 +4607,163 @@
      "time": "2026-10-23T06:59:37Z",
      "headline": "Australians light candles for critically injured Helen Haines",
      "url": "https://www.abc.net.au/news/2026-10-23/helen-haines-candle-vigil-critical-injuries-hospital-update/107302886"
+    }
+   ]
+  },
+  {
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
+   "importance": 6.44,
+   "risk": 4.15,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 17,
+   "countries": [
+    "GRC",
+    "PAK",
+    "SGP",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "DEU",
+    "ZAF",
+    "LKA",
+    "TUR",
+    "CHN",
+    "QAT"
+   ],
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T12:55:16Z",
+   "page": "event/17849.html",
+   "reports": [
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:14:17Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:50:29Z",
+     "headline": "Greek parliament approves social media ban for under-15s from January",
+     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Greece joins push to ban social media for minors",
+     "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss"
     }
    ]
   },
@@ -8157,11 +8410,11 @@
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
-   "importance": 5.82,
-   "risk": 2.69,
+   "importance": 5.79,
+   "risk": 2.51,
    "confidence": 0.85,
-   "status": "peaking",
-   "outlets": 14,
+   "status": "fading",
+   "outlets": 15,
    "countries": [
     "IND",
     "NLD",
@@ -8177,7 +8430,7 @@
     "NPL"
    ],
    "first_seen": "2026-10-21T10:36:53Z",
-   "last_seen": "2026-10-23T06:41:41Z",
+   "last_seen": "2026-10-23T09:32:02Z",
    "page": "event/16728.html",
    "reports": [
     {
@@ -8284,6 +8537,13 @@
      "time": "2026-10-23T06:41:41Z",
      "headline": "Hacking attempts surge as firms race to patch PHP flaws",
      "url": "https://kathmandupost.com/world/2026/10/23/hacking-attempts-surge-as-firms-race-to-patch-php-flaws"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T09:32:02Z",
+     "headline": "'Haven't seen this in a long time': Microsoft CEO on massive PHP flaw patch rush",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-have-not-seen-anything-like-this-in-a-long-long-time-microsoft-ceo-satya-nadella-as-companies-governments-rush-to-patch-php-flaws/articleshow/135141735.cms"
     }
    ]
   },
@@ -8668,6 +8928,130 @@
    ]
   },
   {
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+   "category": "Geopolitics",
+   "importance": 5.77,
+   "risk": 3.91,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
+    "SAU",
+    "UKR",
+    "QAT"
+   ],
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-23T12:54:44Z",
+   "page": "event/21280.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    }
+   ]
+  },
+  {
    "id": 16185,
    "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
    "category": "Geopolitics",
@@ -8912,6 +9296,130 @@
      "time": "2026-10-22T07:03:59Z",
      "headline": "Three tourists die, two missing after swimming in Cox’s Bazar sea",
      "url": "https://www.thedailystar.net/news/accidents-and-fires/news/three-tourists-die-two-missing-after-swimming-coxs-bazar-sea-4304531"
+    }
+   ]
+  },
+  {
+   "id": 22319,
+   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+   "category": "Society & Law",
+   "importance": 5.71,
+   "risk": 1.98,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T12:55:00Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
     }
    ]
   },
@@ -10302,6 +10810,318 @@
    ]
   },
   {
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
+   "importance": 5.63,
+   "risk": 1.77,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 19,
+   "countries": [
+    "ARG",
+    "USA",
+    "SGP",
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB"
+   ],
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-23T12:44:47Z",
+   "page": "event/2857.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
+    },
+    {
+     "outlet": "Democracy Now!",
+     "country": "USA",
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
+    }
+   ]
+  },
+  {
    "id": 16361,
    "title": "Australian MP loses both legs after car attack",
    "category": "Society & Law",
@@ -10971,770 +11791,6 @@
      "time": "2026-10-23T08:19:15Z",
      "headline": "Saudi Arabia postpones UN World Data Forum and Saudi Statistics Forum to 2027",
      "url": "https://www.arabnews.com/business/saudi-arabia-postpones-un-world-data-forum-and-saudi-statistics-forum-to-2027-3007870"
-    }
-   ]
-  },
-  {
-   "id": 17224,
-   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-   "category": "Society & Law",
-   "importance": 5.54,
-   "risk": 3.15,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "NZL",
-    "GHA",
-    "ARE",
-    "NGA",
-    "UGA",
-    "SAU",
-    "ZAF",
-    "SGP",
-    "TWN",
-    "PAK",
-    "CYP",
-    "IND"
-   ],
-   "first_seen": "2026-10-21T19:19:19Z",
-   "last_seen": "2026-10-23T11:44:35Z",
-   "page": "event/17224.html",
-   "reports": [
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-21T19:19:19Z",
-     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
-     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T01:54:00Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T02:44:14Z",
-     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T06:51:35Z",
-     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-22T08:06:43Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T08:08:07Z",
-     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
-     "url": "https://english.aawsat.com/node/5332254"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T08:34:33Z",
-     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
-     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T09:29:00Z",
-     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
-     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T17:55:54Z",
-     "headline": "Fernandes to remain Man Utd captain despite outburst",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:01:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:17:41Z",
-     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
-     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Bruno Fernandes takes aim at Carrick",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T06:43:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:49:17Z",
-     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
-     "url": "https://english.aawsat.com/node/5332601"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T07:32:46Z",
-     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
-     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T07:54:57Z",
-     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
-     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T11:44:35Z",
-     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
-     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
-    }
-   ]
-  },
-  {
-   "id": 24515,
-   "title": "Reports in Jordan: At least seven killed after gunmen open fire at church",
-   "category": "Geopolitics",
-   "importance": 5.54,
-   "risk": 6.22,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "IND",
-    "ARE",
-    "AUS",
-    "ISR",
-    "AZE",
-    "TUR",
-    "ZAF",
-    "SAU",
-    "RUS",
-    "USA"
-   ],
-   "first_seen": "2026-10-23T12:02:22Z",
-   "last_seen": "2026-10-23T12:49:35Z",
-   "page": "event/24515.html",
-   "reports": [
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:02:22Z",
-     "headline": "Gunmen open fire inside church in Jordan, 7 killed",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T12:04:37Z",
-     "headline": "At least seven killed in shooting at church in Jordan's Karak province",
-     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Seven killed, 10 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T12:14:53Z",
-     "headline": "Breaking: Shooter opens fire at church in Jordan",
-     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T12:16:24Z",
-     "headline": "Reports in Jordan: At least seven killed after gunmen open fire at church",
-     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:17:48Z",
-     "headline": "Worshippers killed in shooting at church in Jordan",
-     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
-     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T12:25:11Z",
-     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
-     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T12:29:00Z",
-     "headline": "Seven killed as gunmen open fire inside Jordan church",
-     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:30:17Z",
-     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
-     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
-     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:32:00Z",
-     "headline": "Seven killed in attack on funeral procession near church in Jordan",
-     "url": "https://www.azernews.az/region/266088.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T12:35:16Z",
-     "headline": "7 Killed in Armed Attack on Church in Jordan's Hammoud Village",
-     "url": "https://english.aawsat.com/node/5332722"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:48:54Z",
-     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
-     "url": "https://tass.com/emergencies/2206933"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:49:35Z",
-     "headline": "Gunmen Open Fire at Church in Jordan, Killing Several People",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
-    }
-   ]
-  },
-  {
-   "id": 6450,
-   "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-   "category": "Geopolitics",
-   "importance": 5.53,
-   "risk": 1.82,
-   "confidence": 0.83,
-   "status": "peaking",
-   "outlets": 8,
-   "countries": [
-    "IRN",
-    "OMN",
-    "UZB",
-    "PHL",
-    "SGP",
-    "KOR",
-    "HKG",
-    "JPN"
-   ],
-   "first_seen": "2026-10-16T07:26:52Z",
-   "last_seen": "2026-10-23T11:38:51Z",
-   "page": "event/6450.html",
-   "reports": [
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:26:52Z",
-     "headline": "Iran’s wheelchair basketball start on high in Nagoya 2026",
-     "url": "https://www.tehrantimes.com/news/531101/Iran-s-wheelchair-basketball-start-on-high-in-Nagoya-2026"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:51:18Z",
-     "headline": "Iran blind football lose to Thailand at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531103/Iran-blind-football-lose-to-Thailand-at-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T13:55:48Z",
-     "headline": "Women’s wheelchair basketball fall to Japan in Nagoya",
-     "url": "https://www.tehrantimes.com/news/531121/Women-s-wheelchair-basketball-fall-to-Japan-in-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T06:10:05Z",
-     "headline": "2026 Nagoya: Iran’s men’s wheelchair basketball beat S. Korea",
-     "url": "https://www.tehrantimes.com/news/531138/2026-Nagoya-Iran-s-men-s-wheelchair-basketball-beat-S-Korea"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T07:33:49Z",
-     "headline": "Iran blind football defeat South Korea in 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531140/Iran-blind-football-defeat-South-Korea-in-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T10:36:23Z",
-     "headline": "Iran women’s wheelchair basketball suffer loss against Thailand",
-     "url": "https://www.tehrantimes.com/news/531141/Iran-women-s-wheelchair-basketball-suffer-loss-against-Thailand"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-18T12:01:07Z",
-     "headline": "Al Hubaishi launches Oman’s Asian Para Games campaign",
-     "url": "https://www.omanobserver.om/article/1198007/sports/other-sports/al-hubaishi-launches-omans-asian-para-games-campaign"
-    },
-    {
-     "outlet": "Gazeta.uz (English)",
-     "country": "UZB",
-     "time": "2026-10-19T05:10:00Z",
-     "headline": "Photo report: Opening ceremony of 5th Asian Para Games Aichi-Nagoya 2026",
-     "url": "https://www.gazeta.uz/en/2026/10/19/v-asian-para-games/"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:31:22Z",
-     "headline": "Iran blind football beat China: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531223/Iran-blind-football-beat-China-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:41:54Z",
-     "headline": "Iran rout Qatar in goalball at Nagoya Para Asian Games",
-     "url": "https://www.tehrantimes.com/news/531224/Iran-rout-Qatar-10-0-in-goalball-at-Nagoya-Para-Asian-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T09:30:50Z",
-     "headline": "Iranian girl Jami takes gold in taekwondo at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531225/Iranian-girl-Jami-takes-gold-in-taekwondo-at-2026-Asian-Para"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:15:20Z",
-     "headline": "Iranian women para-athletes win gold and silver: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531226/Iranian-women-para-athletes-win-gold-and-silver-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:46:40Z",
-     "headline": "Men’s wheelchair basketball defeat the Philippines: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531227/Men-s-wheelchair-basketball-defeat-the-Philippines-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:31:56Z",
-     "headline": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531229/Women-s-wheelchair-basketball-beat-Cambodia-at-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:48:55Z",
-     "headline": "Para swimmer Zeighaminejad seizes Iran’s third gold at Nagoya",
-     "url": "https://www.tehrantimes.com/news/531240/Para-swimmer-Zeighaminejad-seizes-Iran-s-third-gold-at-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:49:53Z",
-     "headline": "Fewer Athletes, Same Big Ambitions: Iran Chases Para Games Glory",
-     "url": "https://www.tehrantimes.com/news/531241/Fewer-Athletes-Same-Big-Ambitions-Iran-Chases-Para-Games-Glory"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-19T13:34:50Z",
-     "headline": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
-     "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:38:00Z",
-     "headline": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
-     "url": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:33Z",
-     "headline": "Cho Eun-hye wins Korea's first Asian Para Games fencing gold",
-     "url": "https://www.koreaherald.com/article/10911552"
-    },
-    {
-     "outlet": "RTHK English",
-     "country": "HKG",
-     "time": "2026-10-22T08:44:58Z",
-     "headline": "HK wins silver in women's épée at Asian Para Games",
-     "url": "https://news.rthk.hk/rthk/en/component/k2/1874937-20261022.htm"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T11:00:12Z",
-     "headline": "Oda wins Asian Para Games wheelchair tennis gold, Paralympic berth",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0sp/054000c"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-23T11:38:51Z",
-     "headline": "Men’s wheelchair basketball bag silver at 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531401/Men-s-wheelchair-basketball-bag-silver-at-2026-Nagoya"
-    }
-   ]
-  },
-  {
-   "id": 2857,
-   "title": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-   "category": "Geopolitics",
-   "importance": 5.51,
-   "risk": 1.61,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
-    "IRL",
-    "DEU",
-    "ZAF",
-    "FRA",
-    "AZE",
-    "TWN",
-    "CUB"
-   ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-23T09:00:00Z",
-   "page": "event/2857.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
-     "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
     }
    ]
   }
