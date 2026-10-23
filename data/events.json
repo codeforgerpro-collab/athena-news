@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T13:37:52Z",
+ "generated": "2026-10-23T14:11:52Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -7,11 +7,11 @@
    "id": 22696,
    "title": "Netanyahu orders lockdown of West Bank after fatal attack",
    "category": "Economy & Markets",
-   "importance": 8.37,
+   "importance": 8.39,
    "risk": 6.61,
    "confidence": 0.87,
    "status": "fading",
-   "outlets": 37,
+   "outlets": 38,
    "countries": [
     "SAU",
     "IRQ",
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T13:26:40Z",
+   "last_seen": "2026-10-23T13:43:05Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -213,7 +213,7 @@
      "outlet": "France 24 English",
      "country": "FRA",
      "time": "2026-10-23T08:35:17Z",
-     "headline": "Netanyahu orders army to prepare for full West Bank closure after attack",
+     "headline": "Israel’s PM Netanyahu vows to ‘destroy’ Hebron after 2 soldiers killed in ‘terrorist attack’",
      "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
     },
     {
@@ -324,339 +324,185 @@
    ]
   },
   {
-   "id": 8843,
-   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+   "id": 23500,
+   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
-   "importance": 7.65,
-   "risk": 6.54,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 39,
+   "importance": 8.0,
+   "risk": 2.72,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 19,
    "countries": [
-    "ARE",
-    "KGZ",
-    "IRN",
-    "ISL",
-    "NAM",
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
     "PAK",
     "IND",
-    "AZE",
-    "USA",
-    "KOR",
-    "FRA",
-    "RUS",
+    "IRQ",
     "SAU",
-    "NGA",
-    "DEU",
-    "VNM",
-    "GHA",
-    "CAN",
-    "QAT",
-    "IRL",
-    "GBR",
-    "TUR",
-    "AFG",
-    "ZAF",
-    "NPL",
-    "CYP",
     "CHN",
-    "LKA"
+    "USA",
+    "ARE",
+    "THA"
    ],
-   "first_seen": "2026-10-16T18:49:30Z",
-   "last_seen": "2026-10-23T11:24:30Z",
-   "page": "event/8843.html",
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T13:59:38Z",
+   "page": "event/23500.html",
    "reports": [
     {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T18:49:30Z",
-     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
-     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-17T08:22:47Z",
-     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
-     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-17T08:35:45Z",
-     "headline": "Earthquake hits Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-19T03:46:29Z",
-     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:44:10Z",
-     "headline": "Over 95 earthquakes hit Iran in a week",
-     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
-    },
-    {
-     "outlet": "RÚV English",
-     "country": "ISL",
-     "time": "2026-10-19T15:39:49Z",
-     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
-     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-22T10:49:02Z",
-     "headline": "Earthquake reported near Kamanjab",
-     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:49:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
-     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T14:52:10Z",
-     "headline": "Earthquake of magnitude 7.0 hits Tibet",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
-    },
-    {
      "outlet": "APA (English)",
      "country": "AZE",
-     "time": "2026-10-22T15:26:00Z",
-     "headline": "Magnitude 7 earthquake strikes China",
-     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
     },
     {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-22T16:26:26Z",
-     "headline": "A magnitude 7 earthquake shakes China's Tibet",
-     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T19:52:04Z",
-     "headline": "Magnitude 7 earthquake strikes China's Tibet",
-     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T19:57:44Z",
-     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
-     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T20:44:00Z",
-     "headline": "16 people died in the earthquake in Tibet",
-     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T20:46:51Z",
-     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
-     "url": "https://tass.com/emergencies/2206591"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:49:40Z",
-     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
-     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T21:09:38Z",
-     "headline": "Strong earthquake strikes China’s remote Tibet region",
-     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T21:30:51Z",
-     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
-     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T23:21:42Z",
-     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
-     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T23:24:00Z",
-     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
-     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T23:37:52Z",
-     "headline": "At least 16 dead in Tibet quake: China state media",
-     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T23:50:00Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T00:23:04Z",
-     "headline": "Tibet earthquake kills at least 16",
-     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T00:33:16Z",
-     "headline": "Tibet rocked by 7.0-magnitude earthquake",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T01:35:00Z",
-     "headline": "16 dead, dozens injured in Tibet earthquake",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T01:47:31Z",
-     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
-     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T02:05:24Z",
-     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
-     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T03:20:23Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
-     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T04:02:07Z",
-     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
-     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
-    },
-    {
-     "outlet": "The Guardian",
+     "outlet": "The Independent",
      "country": "GBR",
-     "time": "2026-10-23T04:04:35Z",
-     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T04:22:00Z",
-     "headline": "China earthquake kills 16, injures 46",
-     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-23T04:29:21Z",
-     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
-     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
     },
     {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T04:59:21Z",
-     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
     },
     {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T05:01:22Z",
-     "headline": "At least 16 people killed by powerful earthquake in Tibet",
-     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T05:16:37Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-23T05:43:50Z",
-     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
-     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:00:00Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
-    },
-    {
-     "outlet": "Dawn",
+     "outlet": "Business Recorder",
      "country": "PAK",
-     "time": "2026-10-23T06:08:51Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
     },
     {
-     "outlet": "Asharq Al-Awsat (English)",
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T12:01:36Z",
+     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
+     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    },
+    {
+     "outlet": "Arab News",
      "country": "SAU",
-     "time": "2026-10-23T06:19:53Z",
-     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
-     "url": "https://english.aawsat.com/node/5332593"
+     "time": "2026-10-23T12:49:38Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
+     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
     },
     {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
-     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:54:00Z",
+     "headline": "US set to receive first Russian diesel shipment since 2022",
+     "url": "https://www.azernews.az/region/266084.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:02:22Z",
+     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
+     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T13:26:19Z",
+     "headline": "The first Russian diesel tanker under Trump’s deal with Putin is headed to New York, the first such shipment since 2023",
+     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
+    },
+    {
+     "outlet": "OilPrice.com",
+     "country": "GBR",
+     "time": "2026-10-23T13:30:00Z",
+     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T13:36:59Z",
+     "headline": "Tanker with Russian diesel heads to New York under Trump deal",
+     "url": "https://gulfnews.com/world/americas/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal-2-1.500721325"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T13:52:53Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
+     "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Tanker with Russian diesel heads to New York",
+     "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
     }
    ]
   },
   {
    "id": 24515,
-   "title": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+   "title": "Six killed, 28 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 7.64,
-   "risk": 6.88,
-   "confidence": 0.92,
+   "importance": 7.82,
+   "risk": 6.89,
+   "confidence": 0.9,
    "status": "spreading",
-   "outlets": 26,
+   "outlets": 31,
    "countries": [
     "IND",
     "ARE",
@@ -675,6 +521,8 @@
     "DEU",
     "GRC",
     "PAK",
+    "QAT",
+    "NZL",
     "NGA"
    ],
    "first_seen": "2026-10-23T12:02:22Z",
@@ -685,7 +533,7 @@
      "outlet": "Times of India",
      "country": "IND",
      "time": "2026-10-23T12:02:22Z",
-     "headline": "Gunmen open fire inside church in Jordan, 7 killed",
+     "headline": "Gunmen open fire inside church in Jordan, 6 killed",
      "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
     },
     {
@@ -699,21 +547,21 @@
      "outlet": "Gulf News",
      "country": "ARE",
      "time": "2026-10-23T12:08:48Z",
-     "headline": "Seven killed, 10 injured in church shooting during funeral in Jordan",
+     "headline": "Six killed, 28 injured in church shooting during funeral in Jordan",
      "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
     },
     {
      "outlet": "ABC News Australia",
      "country": "AUS",
      "time": "2026-10-23T12:14:53Z",
-     "headline": "Gunmen open fire at church in Jordan, killing at least 7",
+     "headline": "Gunmen open fire at church in Jordan, killing at least six",
      "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
     },
     {
      "outlet": "Haaretz (English)",
      "country": "ISR",
      "time": "2026-10-23T12:16:24Z",
-     "headline": "Reports in Jordan: At least seven killed after gunmen open fire at church",
+     "headline": "Six killed, 28 wounded in attack at funeral in Jordan's Karak, officials say",
      "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
     },
     {
@@ -780,6 +628,13 @@
      "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
     },
     {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 6 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-6-people-3007892"
+    },
+    {
      "outlet": "AzerNews",
      "country": "AZE",
      "time": "2026-10-23T12:32:00Z",
@@ -825,14 +680,14 @@
      "outlet": "BBC News",
      "country": "GBR",
      "time": "2026-10-23T12:55:19Z",
-     "headline": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+     "headline": "Six shot dead by gunmen at church funeral in Jordan, officials say",
      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
     },
     {
      "outlet": "Sky News (World)",
      "country": "GBR",
      "time": "2026-10-23T12:57:00Z",
-     "headline": "At least seven dead after shooting at church in Jordan - reports",
+     "headline": "Six dead and 28 injured after shooting at church in Jordan",
      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
     },
     {
@@ -846,7 +701,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T13:00:10Z",
-     "headline": "7 killed in church shooting in southern Jordan: State TV",
+     "headline": "Gunmen kill 7 at church in southern Jordan",
      "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
     },
     {
@@ -864,6 +719,13 @@
      "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
     },
     {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 7 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
+    },
+    {
      "outlet": "Greek City Times",
      "country": "GRC",
      "time": "2026-10-23T13:20:08Z",
@@ -876,6 +738,48 @@
      "time": "2026-10-23T13:27:27Z",
      "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
      "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:32:40Z",
+     "headline": "At least seven killed after gunmen open fire at church in Jordan",
+     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:39:27Z",
+     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T13:44:41Z",
+     "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
+     "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:47:54Z",
+     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
+     "url": "https://tass.com/world/2206981"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T13:50:00Z",
+     "headline": "Jordan: Karak church shooting leaves 6 dead, dozens injured",
+     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-6-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T13:54:07Z",
+     "headline": "Gunmen open fire inside a church in Jordan, several dead",
+     "url": "https://www.stuff.co.nz/world-news/361050498/gunmen-open-fire-inside-church-jordan-causing-deaths"
     },
     {
      "outlet": "Punch",
@@ -1214,392 +1118,6 @@
    ]
   },
   {
-   "id": 23500,
-   "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-   "category": "Energy & Environment",
-   "importance": 7.34,
-   "risk": 2.3,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK",
-    "IND",
-    "IRQ",
-    "SAU",
-    "CHN"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T13:30:00Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T12:01:36Z",
-     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
-     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
-     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:49:38Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
-     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:54:00Z",
-     "headline": "US set to receive first Russian diesel shipment since 2022",
-     "url": "https://www.azernews.az/region/266084.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:02:22Z",
-     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
-     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
-    },
-    {
-     "outlet": "OilPrice.com",
-     "country": "GBR",
-     "time": "2026-10-23T13:30:00Z",
-     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
-    }
-   ]
-  },
-  {
-   "id": 19215,
-   "title": "Taiwan shuts down as Typhoon Champi approaches",
-   "category": "Energy & Environment",
-   "importance": 7.32,
-   "risk": 6.6,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 25,
-   "countries": [
-    "THA",
-    "VNM",
-    "GBR",
-    "HKG",
-    "SAU",
-    "TUR",
-    "USA",
-    "ARE",
-    "PHL",
-    "FRA",
-    "TWN",
-    "KOR",
-    "DEU",
-    "ZAF",
-    "PAK",
-    "AUS",
-    "GHA",
-    "CAN",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T13:37:22Z",
-   "page": "event/19215.html",
-   "reports": [
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T07:07:13Z",
-     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
-     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T08:11:57Z",
-     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
-     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
-    },
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:06Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-22T08:42:48Z",
-     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T08:44:12Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:45:29Z",
-     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
-     "url": "https://english.aawsat.com/node/5332289"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:26:22Z",
-     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
-     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T17:39:10Z",
-     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T02:13:54Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-23T02:29:29Z",
-     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
-     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T03:00:54Z",
-     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
-     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T03:37:36Z",
-     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
-     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T04:15:11Z",
-     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
-     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T06:39:58Z",
-     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T06:40:00Z",
-     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
-     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
-     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:41:35Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:41:55Z",
-     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
-     "url": "https://english.aawsat.com/node/5332598"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:46:00Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T07:30:03Z",
-     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:05:49Z",
-     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
-     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T08:45:58Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:47:36Z",
-     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
-     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:20Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:24:59Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:53:27Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:53:38Z",
-     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
-     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T13:37:22Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.dailymirror.lk/international/Hundreds-of-flights-cancelled-as-Typhoon-Champi-shuts-Taiwan/107-353281"
-    }
-   ]
-  },
-  {
    "id": 9153,
    "title": "IRGC say tanker on fire after hitting mine in Strait of Hormuz",
    "category": "Trade & Industry",
@@ -1917,6 +1435,748 @@
      "time": "2026-10-20T14:47:15Z",
      "headline": "Iran Says Burning Tanker Found In Hormuz Restricted Zone, CENTCOM Rejected",
      "url": "https://www.kurdistan24.net/en/story/947421/iran-says-burning-tanker-found-in-hormuz-restricted-zone-centcom-rejected"
+    }
+   ]
+  },
+  {
+   "id": 8843,
+   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+   "category": "Energy & Environment",
+   "importance": 7.27,
+   "risk": 6.4,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 39,
+   "countries": [
+    "ARE",
+    "KGZ",
+    "IRN",
+    "ISL",
+    "NAM",
+    "PAK",
+    "IND",
+    "AZE",
+    "USA",
+    "KOR",
+    "FRA",
+    "RUS",
+    "SAU",
+    "NGA",
+    "DEU",
+    "VNM",
+    "GHA",
+    "CAN",
+    "QAT",
+    "IRL",
+    "GBR",
+    "TUR",
+    "AFG",
+    "ZAF",
+    "NPL",
+    "CYP",
+    "CHN",
+    "LKA"
+   ],
+   "first_seen": "2026-10-16T18:49:30Z",
+   "last_seen": "2026-10-23T13:36:37Z",
+   "page": "event/8843.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T18:49:30Z",
+     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
+     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-17T08:22:47Z",
+     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
+     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-17T08:35:45Z",
+     "headline": "Earthquake hits Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-19T03:46:29Z",
+     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T11:44:10Z",
+     "headline": "Over 95 earthquakes hit Iran in a week",
+     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
+    },
+    {
+     "outlet": "RÚV English",
+     "country": "ISL",
+     "time": "2026-10-19T15:39:49Z",
+     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
+     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-22T10:49:02Z",
+     "headline": "Earthquake reported near Kamanjab",
+     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T11:49:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
+     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T14:52:10Z",
+     "headline": "Earthquake of magnitude 7.0 hits Tibet",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T15:26:00Z",
+     "headline": "Magnitude 7 earthquake strikes China",
+     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-22T16:26:26Z",
+     "headline": "A magnitude 7 earthquake shakes China's Tibet",
+     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T19:52:04Z",
+     "headline": "Magnitude 7 earthquake strikes China's Tibet",
+     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T19:57:44Z",
+     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T20:44:00Z",
+     "headline": "16 people died in the earthquake in Tibet",
+     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T20:46:51Z",
+     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
+     "url": "https://tass.com/emergencies/2206591"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:49:40Z",
+     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
+     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T21:09:38Z",
+     "headline": "Strong earthquake strikes China’s remote Tibet region",
+     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T21:30:51Z",
+     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
+     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T23:21:42Z",
+     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T23:24:00Z",
+     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T23:37:52Z",
+     "headline": "At least 16 dead in Tibet quake: China state media",
+     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T23:50:00Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T00:23:04Z",
+     "headline": "Tibet earthquake kills at least 16",
+     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T00:33:16Z",
+     "headline": "Tibet rocked by 7.0-magnitude earthquake",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T01:35:00Z",
+     "headline": "16 dead, dozens injured in Tibet earthquake",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T01:47:31Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T02:05:24Z",
+     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
+     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T03:20:23Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
+     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T04:02:07Z",
+     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
+     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T04:04:35Z",
+     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T04:22:00Z",
+     "headline": "China earthquake kills 16, injures 46",
+     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T04:29:21Z",
+     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
+     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T04:59:21Z",
+     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T05:01:22Z",
+     "headline": "At least 16 people killed by powerful earthquake in Tibet",
+     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T05:16:37Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-23T05:43:50Z",
+     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
+     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:00:00Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T06:08:51Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:19:53Z",
+     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
+     "url": "https://english.aawsat.com/node/5332593"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
+     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
+    }
+   ]
+  },
+  {
+   "id": 19215,
+   "title": "Taiwan shuts down as Typhoon Champi approaches",
+   "category": "Energy & Environment",
+   "importance": 7.26,
+   "risk": 7.03,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 26,
+   "countries": [
+    "THA",
+    "VNM",
+    "GBR",
+    "HKG",
+    "SAU",
+    "TUR",
+    "USA",
+    "ARE",
+    "PHL",
+    "FRA",
+    "TWN",
+    "KOR",
+    "DEU",
+    "ZAF",
+    "PAK",
+    "AUS",
+    "GHA",
+    "CAN",
+    "QAT",
+    "LKA"
+   ],
+   "first_seen": "2026-10-22T07:07:13Z",
+   "last_seen": "2026-10-23T13:37:22Z",
+   "page": "event/19215.html",
+   "reports": [
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T07:07:13Z",
+     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
+     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T08:11:57Z",
+     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
+     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
+    },
+    {
+     "outlet": "Phys.org",
+     "country": "GBR",
+     "time": "2026-10-22T08:38:06Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-22T08:42:48Z",
+     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T08:44:12Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T09:45:29Z",
+     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
+     "url": "https://english.aawsat.com/node/5332289"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:26:22Z",
+     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
+     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T17:39:10Z",
+     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T02:13:54Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-23T02:29:29Z",
+     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
+     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T03:00:54Z",
+     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
+     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T03:37:36Z",
+     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
+     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T04:15:11Z",
+     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
+     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
+     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T06:39:58Z",
+     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T06:40:00Z",
+     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
+     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:41:35Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:41:55Z",
+     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
+     "url": "https://english.aawsat.com/node/5332598"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:46:00Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T07:30:03Z",
+     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
+     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:05:49Z",
+     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
+     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T08:45:58Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:47:36Z",
+     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
+     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:20Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:24:59Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:53:27Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:53:38Z",
+     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
+     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 23956,
+   "title": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+   "category": "Society & Law",
+   "importance": 7.21,
+   "risk": 7.1,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T13:48:00Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after fatal shooting in Paris suburb",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "One killed, four including child injured in drive-by shooting in Paris suburb",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "Anti-terror police investigate as one person killed in shooting near Paris",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed in shooting near Paris, French prime minister says",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:48:00Z",
+     "headline": "Deadly shooting in Paris suburb may be terrorist act, officials say",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
     }
    ]
   },
@@ -2248,176 +2508,6 @@
      "time": "2026-10-15T12:11:30Z",
      "headline": "Pope doing physical therapy, good recovery of the operated lung",
      "url": "https://www.ansa.it/english/news/2026/10/15/pope-doing-physical-therapy-good-recovery-of-the-operated-lung_8680a00a-b2b0-4e37-8be4-3fbd945ffb0e.html"
-    }
-   ]
-  },
-  {
-   "id": 23956,
-   "title": "Gunman fires from car near Paris, killing 1; police arrest suspect",
-   "category": "Society & Law",
-   "importance": 7.12,
-   "risk": 7.1,
-   "confidence": 0.84,
-   "status": "spreading",
-   "outlets": 17,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR",
-    "BEL"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T12:55:18Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after fatal shooting in Paris suburb",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "One killed, four including child injured in drive-by shooting in Paris suburb",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "Anti-terror police investigate as one person killed in shooting near Paris",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed in shooting near Paris, French prime minister says",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T12:06:24Z",
-     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T12:55:18Z",
-     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
-     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
     }
    ]
   },
@@ -3438,7 +3528,7 @@
      "outlet": "The Independent",
      "country": "GBR",
      "time": "2026-10-23T05:48:26Z",
-     "headline": "Ukraine-Russia war latest: Kyiv’s Starlink access remains limited despite Trump and Musk’s claims",
+     "headline": "Ukraine-Russia war latest: Melania Trump claims to have secured ceasefire for single Ukrainian town",
      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-musk-zelensky-starlink-b3071932.html"
     },
     {
@@ -6519,6 +6609,129 @@
    ]
   },
   {
+   "id": 16086,
+   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "category": "Geopolitics",
+   "importance": 6.25,
+   "risk": 6.78,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "BGR",
+    "SAU",
+    "UKR",
+    "SGP",
+    "AZE",
+    "IND",
+    "TUR",
+    "BEL"
+   ],
+   "first_seen": "2026-10-20T13:00:00Z",
+   "last_seen": "2026-10-23T13:48:45Z",
+   "page": "event/16086.html",
+   "reports": [
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-20T13:00:00Z",
+     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
+     "url": "https://www.novinite.com/view_news.php?id=241156"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:04:05Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:29Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:41Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T10:40:50Z",
+     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
+     "url": "https://www.kyivpost.com/post/87976"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T11:23:00Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T11:32:00Z",
+     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:24:17Z",
+     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
+     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:44:56Z",
+     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
+     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-23T13:07:28Z",
+     "headline": "Romania blames Russia for new deadly attack on ship",
+     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:18:00Z",
+     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:48:45Z",
+     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
+     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
+    }
+   ]
+  },
+  {
    "id": 17145,
    "title": "Global summit on children's well-being opens in Samarkand",
    "category": "Geopolitics",
@@ -6956,273 +7169,6 @@
    ]
   },
   {
-   "id": 6981,
-   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-   "category": "Business",
-   "importance": 6.08,
-   "risk": 1.22,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 20,
-   "countries": [
-    "ARE",
-    "ZAF",
-    "SGP",
-    "USA",
-    "COL",
-    "PAK",
-    "TWN",
-    "IND",
-    "SAU",
-    "KOR",
-    "NLD",
-    "CYP"
-   ],
-   "first_seen": "2026-10-16T09:13:27Z",
-   "last_seen": "2026-10-23T11:54:00Z",
-   "page": "event/6981.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T09:13:27Z",
-     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-16T13:13:00Z",
-     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T14:17:00Z",
-     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
-     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-16T22:31:26Z",
-     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-17T04:01:00Z",
-     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
-     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-17T11:27:08Z",
-     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T13:00:00Z",
-     "headline": "iPhone Duo orders open in South Africa at R48k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
-    },
-    {
-     "outlet": "News24",
-     "country": "ZAF",
-     "time": "2026-10-19T15:52:21Z",
-     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
-     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T12:28:35Z",
-     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T14:57:30Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Apple’s iPhone factories will not make India the next China",
-     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:51:22Z",
-     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:52:45Z",
-     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
-     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T03:30:19Z",
-     "headline": "6 things to know before you buy the iPhone Duo",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T07:20:48Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T08:46:00Z",
-     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T11:22:04Z",
-     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
-     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:27:10Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T01:10:00Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:26:45Z",
-     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
-     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:41:12Z",
-     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
-     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:54:14Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T05:07:00Z",
-     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T05:56:19Z",
-     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
-     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T06:12:57Z",
-     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
-     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:32:24Z",
-     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
-     "url": "https://english.aawsat.com/node/5332596"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:50Z",
-     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
-     "url": "https://www.koreaherald.com/article/10912978"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:18:36Z",
-     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
-     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:59:01Z",
-     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
-     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:23:31Z",
-     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
-     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T08:54:10Z",
-     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
-     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T11:07:09Z",
-     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
-     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T11:14:58Z",
-     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
-     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-23T11:54:00Z",
-     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
-     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
-    }
-   ]
-  },
-  {
    "id": 12372,
    "title": "Houthi missile strike kills at least 40 in Yemen’s Shabwa province",
    "category": "Geopolitics",
@@ -7479,6 +7425,117 @@
      "time": "2026-10-22T03:55:04Z",
      "headline": "Two civilians killed from Houthi attacks in Yemen’s Taiz",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-civilians-killed-houthi-attacks-yemens-taiz"
+    }
+   ]
+  },
+  {
+   "id": 24812,
+   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+   "category": "Geopolitics",
+   "importance": 6.03,
+   "risk": 2.19,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 11,
+   "countries": [
+    "CHN",
+    "AZE",
+    "SGP",
+    "UKR",
+    "QAT",
+    "PAK",
+    "TUR",
+    "USA",
+    "RUS",
+    "CYP"
+   ],
+   "first_seen": "2026-10-23T13:30:50Z",
+   "last_seen": "2026-10-23T14:05:21Z",
+   "page": "event/24812.html",
+   "reports": [
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:30:50Z",
+     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
+     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T13:36:00Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:36:47Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:38:06Z",
+     "headline": "Breaking: Russia, Ukraine agree to Oleshky ceasefire mediated by Melania Trump, White House says",
+     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:39:06Z",
+     "headline": "White House says Melania Trump ‘secured a ceasefire’ in Ukraine’s Oleshky",
+     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:39:49Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T13:43:22Z",
+     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
+     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T13:49:34Z",
+     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
+     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:55:00Z",
+     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:58:22Z",
+     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
+     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:04:01Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
+     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:05:21Z",
+     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
+     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
     }
    ]
   },
@@ -8161,6 +8218,138 @@
    ]
   },
   {
+   "id": 22319,
+   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+   "category": "Society & Law",
+   "importance": 5.89,
+   "risk": 2.01,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T13:59:38Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    }
+   ]
+  },
+  {
    "id": 21874,
    "title": "Alien and Top Gun actor Tom Skerritt dies at 93",
    "category": "Society & Law",
@@ -8273,110 +8462,407 @@
    ]
   },
   {
-   "id": 16086,
-   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
    "category": "Geopolitics",
-   "importance": 5.84,
-   "risk": 6.64,
-   "confidence": 0.86,
+   "importance": 5.83,
+   "risk": 3.88,
+   "confidence": 0.92,
    "status": "spreading",
-   "outlets": 10,
+   "outlets": 12,
    "countries": [
-    "BGR",
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
     "SAU",
     "UKR",
-    "SGP",
-    "AZE",
-    "IND",
-    "TUR"
+    "QAT"
    ],
-   "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T13:18:00Z",
-   "page": "event/16086.html",
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-23T14:00:00Z",
+   "page": "event/21280.html",
    "reports": [
     {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-20T13:00:00Z",
-     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
-     "url": "https://www.novinite.com/view_news.php?id=241156"
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
     },
     {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:04:05Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
     },
     {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:29Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
     },
     {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:41Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T10:40:50Z",
-     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
-     "url": "https://www.kyivpost.com/post/87976"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
     },
     {
      "outlet": "APA (English)",
      "country": "AZE",
-     "time": "2026-10-23T11:23:00Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
     },
     {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T11:32:00Z",
-     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
-     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:24:17Z",
-     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
-     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-23T12:44:56Z",
-     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
-     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
     },
     {
-     "outlet": "Ukrinform (English)",
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
      "country": "UKR",
-     "time": "2026-10-23T13:18:00Z",
-     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:00:00Z",
+     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
+     "url": "https://www.azernews.az/region/266090.html"
+    }
+   ]
+  },
+  {
+   "id": 6981,
+   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+   "category": "Business",
+   "importance": 5.83,
+   "risk": 1.33,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 20,
+   "countries": [
+    "ARE",
+    "ZAF",
+    "SGP",
+    "USA",
+    "COL",
+    "PAK",
+    "TWN",
+    "IND",
+    "SAU",
+    "KOR",
+    "NLD",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T09:13:27Z",
+   "last_seen": "2026-10-23T14:04:00Z",
+   "page": "event/6981.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T09:13:27Z",
+     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-16T13:13:00Z",
+     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-16T14:17:00Z",
+     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
+     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-16T22:31:26Z",
+     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-17T04:01:00Z",
+     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
+     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-17T11:27:08Z",
+     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:00:00Z",
+     "headline": "iPhone Duo orders open in South Africa at R48k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-19T15:52:21Z",
+     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
+     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T12:28:35Z",
+     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T14:57:30Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T00:00:00Z",
+     "headline": "Apple’s iPhone factories will not make India the next China",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:51:22Z",
+     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
+     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:52:45Z",
+     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
+     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T03:30:19Z",
+     "headline": "6 things to know before you buy the iPhone Duo",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T07:20:48Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T08:46:00Z",
+     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T11:22:04Z",
+     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:27:10Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T01:10:00Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:26:45Z",
+     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
+     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:41:12Z",
+     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
+     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:54:14Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T05:07:00Z",
+     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T05:56:19Z",
+     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
+     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T06:12:57Z",
+     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
+     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:32:24Z",
+     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
+     "url": "https://english.aawsat.com/node/5332596"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T06:40:50Z",
+     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
+     "url": "https://www.koreaherald.com/article/10912978"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:18:36Z",
+     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
+     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:59:01Z",
+     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
+     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:23:31Z",
+     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
+     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T08:54:10Z",
+     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
+     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T11:07:09Z",
+     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
+     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T11:14:58Z",
+     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
+     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-23T11:54:00Z",
+     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
+     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:04:00Z",
+     "headline": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed",
+     "url": "https://iol.co.za/technology/2026-10-23-iphone-duo-south-africa-launch-apples-r48000-foldable-reviewed/"
     }
    ]
   },
@@ -8801,130 +9287,6 @@
    ]
   },
   {
-   "id": 21280,
-   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-   "category": "Geopolitics",
-   "importance": 5.77,
-   "risk": 3.91,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "RUS",
-    "AZE",
-    "AFG",
-    "TUR",
-    "NGA",
-    "CHN",
-    "SAU",
-    "UKR",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-23T12:54:44Z",
-   "page": "event/21280.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T12:24:01Z",
-     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
-     "url": "https://tass.com/politics/2206267"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:53:00Z",
-     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
-     "url": "https://www.azernews.az/region/266020.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T17:09:14Z",
-     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
-     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:06Z",
-     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
-     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T09:57:00Z",
-     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:20:46Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:31:40Z",
-     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
-     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:39:35Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:52:05Z",
-     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T11:04:40Z",
-     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
-     "url": "https://tass.com/politics/2206847"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:02:52Z",
-     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
-     "url": "https://tass.com/politics/2206883"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:42:49Z",
-     "headline": "Russia, Ukraine and the US set for November peace talks",
-     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T12:49:49Z",
-     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
-     "url": "https://www.kyivpost.com/post/87990"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:54:44Z",
-     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 16185,
    "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
    "category": "Geopolitics",
@@ -9282,130 +9644,6 @@
    ]
   },
   {
-   "id": 22319,
-   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-   "category": "Society & Law",
-   "importance": 5.71,
-   "risk": 1.98,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
-    "TUR",
-    "SGP"
-   ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T12:55:00Z",
-   "page": "event/22319.html",
-   "reports": [
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
-    }
-   ]
-  },
-  {
    "id": 1512,
    "title": "Formula 1 to Return to Africa with Rwanda Grand Prix in Early 2030s",
    "category": "Geopolitics",
@@ -9539,6 +9777,147 @@
      "time": "2026-10-22T07:17:59Z",
      "headline": "A small but powerful African nation is bringing Formula 1 back to the continent. Not everyone is celebrating",
      "url": "https://www.egyptindependent.com/a-small-but-powerful-african-nation-is-bringing-formula-1-back-to-the-continent-not-everyone-is-celebrating/"
+    }
+   ]
+  },
+  {
+   "id": 21203,
+   "title": "Judge orders Trump to sit for deposition in BBC lawsuit",
+   "category": "Geopolitics",
+   "importance": 5.7,
+   "risk": 1.96,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 16,
+   "countries": [
+    "FRA",
+    "SGP",
+    "GBR",
+    "AUS",
+    "NZL",
+    "USA",
+    "IND",
+    "NGA",
+    "IRL",
+    "ZAF",
+    "TUR",
+    "QAT"
+   ],
+   "first_seen": "2026-10-22T16:33:42Z",
+   "last_seen": "2026-10-23T13:17:46Z",
+   "page": "event/21203.html",
+   "reports": [
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T16:33:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
+     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T16:41:41Z",
+     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
+     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T17:14:04Z",
+     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-22T17:14:25Z",
+     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
+     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-22T17:18:12Z",
+     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-22T17:30:57Z",
+     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
+     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-22T17:40:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T17:58:04Z",
+     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
+     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T18:47:59Z",
+     "headline": "BBC defamation suit: Trump get December deadline to testify",
+     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:06:13Z",
+     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
+     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-22T20:49:25Z",
+     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
+     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T03:43:44Z",
+     "headline": "Trump ordered to testify in BBC defamation case",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:50:00Z",
+     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
+     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-23T08:44:19Z",
+     "headline": "Morning news brief",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T11:13:37Z",
+     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
+     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:17:46Z",
+     "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
     }
    ]
   },
@@ -11285,132 +11664,6 @@
    ]
   },
   {
-   "id": 21291,
-   "title": "This summer’s heat was Europe’s deadliest on record, scientists say",
-   "category": "Health & Science",
-   "importance": 5.62,
-   "risk": 7.3,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "GBR",
-    "BEL",
-    "IRL",
-    "SGP",
-    "ARE",
-    "IND",
-    "KOR",
-    "ARM",
-    "AZE",
-    "USA",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T19:20:02Z",
-   "last_seen": "2026-10-23T11:01:54Z",
-   "page": "event/21291.html",
-   "reports": [
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T19:20:02Z",
-     "headline": "We must prepare entire cities for extreme heat. Our new study reveals how",
-     "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "This summer’s heat was Europe’s deadliest on record, scientists say",
-     "url": "https://www.politico.eu/article/this-summer-was-europes-deadliest-on-record-scientists-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Over 50,000 heat deaths in European cities this summer",
-     "url": "https://www.rte.ie/news/environment/2026/1023/1596522-heat-related-deaths-europe/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:54Z",
-     "headline": "Europe suffers deadliest summer on record with over 50,000 deaths linked to extreme weather",
-     "url": "https://www.independent.co.uk/news/world/europe/europe-hot-weather-climate-change-deaths-b3071657.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T00:08:00Z",
-     "headline": "Summer heat’s toll on Europe: 50,000 deaths and a $24.3b GDP hit",
-     "url": "https://www.straitstimes.com/world/europe/summer-heats-toll-on-europe-50000-deaths-and-a-24-3b-gdp-hit"
-    },
-    {
-     "outlet": "Guardian Environment",
-     "country": "GBR",
-     "time": "2026-10-23T04:01:01Z",
-     "headline": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
-     "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T05:00:01Z",
-     "headline": "Europe's summer heatwaves 'caused 50,000 excess deaths'",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/europes-summer-heatwaves-caused-50000-excess-heat-deaths/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T05:40:16Z",
-     "headline": "For Europe, a summer of record heat and 50,000 estimated deaths",
-     "url": "https://indianexpress.com/article/india/europe-heat-deaths-50000-climate-change-2026-10933301/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-     "url": "https://www.koreatimes.co.kr/world/20261023/europes-killer-heat-this-summer-claims-50000-lives-climate-change-blamed-for-two-thirds-of-deaths?utm_source=rss"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T07:34:00Z",
-     "headline": "More than 50,000 people died in Europe due to extreme heat this summer, researchers find",
-     "url": "https://news.am/en/news/1069774"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T07:43:00Z",
-     "headline": "Heatwaves in Europe kill at least 50,000 people in summer 2026",
-     "url": "https://www.azernews.az/region/266048.html"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-23T08:17:06Z",
-     "headline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-23T10:08:23Z",
-     "headline": "Europe’s deadliest summer in decades: More than 50,000 heat-related deaths in 2026, new analysis finds",
-     "url": "https://en.protothema.gr/2026/10/23/europes-deadliest-summer-in-decades-more-than-50000-heat-related-deaths-in-2026-new-analysis-finds/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T11:01:54Z",
-     "headline": "Europe records deadliest heat season in 26 years",
-     "url": "https://www.turkiyetoday.com/region/europe-records-deadliest-heat-season-in-26-years-3230873"
-    }
-   ]
-  },
-  {
    "id": 13603,
    "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
    "category": "Society & Law",
@@ -11560,139 +11813,6 @@
      "time": "2026-10-22T18:17:29Z",
      "headline": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
      "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 21203,
-   "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-   "category": "Society & Law",
-   "importance": 5.6,
-   "risk": 1.92,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 15,
-   "countries": [
-    "FRA",
-    "SGP",
-    "GBR",
-    "AUS",
-    "NZL",
-    "USA",
-    "IND",
-    "NGA",
-    "IRL",
-    "ZAF",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T16:33:42Z",
-   "last_seen": "2026-10-23T11:13:37Z",
-   "page": "event/21203.html",
-   "reports": [
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T16:33:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
-     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T16:41:41Z",
-     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
-     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T17:14:04Z",
-     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T17:14:25Z",
-     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
-     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T17:18:12Z",
-     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-22T17:30:57Z",
-     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
-     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T17:40:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T17:58:04Z",
-     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
-     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T18:47:59Z",
-     "headline": "BBC defamation suit: Trump get December deadline to testify",
-     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:06:13Z",
-     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
-     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-22T20:49:25Z",
-     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
-     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T03:43:44Z",
-     "headline": "Trump ordered to testify in BBC defamation case",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:50:00Z",
-     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
-     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-23T08:44:19Z",
-     "headline": "Morning news brief",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T11:13:37Z",
-     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
-     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
     }
    ]
   }
