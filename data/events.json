@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:09:17Z",
+ "generated": "2026-10-23T18:25:18Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -251,11 +251,11 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.36,
+   "importance": 8.37,
    "risk": 7.35,
    "confidence": 0.9,
    "status": "fading",
-   "outlets": 42,
+   "outlets": 43,
    "countries": [
     "PAK",
     "IND",
@@ -284,7 +284,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T17:57:01Z",
+   "last_seen": "2026-10-23T18:20:06Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -893,11 +893,11 @@
    "id": 24812,
    "title": "Melania Trump claims ceasefire in Russian-held Oleshky",
    "category": "Geopolitics",
-   "importance": 8.16,
+   "importance": 8.21,
    "risk": 3.09,
    "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 39,
+   "status": "peaking",
+   "outlets": 40,
    "countries": [
     "PAK",
     "CHN",
@@ -918,10 +918,11 @@
     "ARE",
     "KOR",
     "IRQ",
-    "SAU"
+    "SAU",
+    "DEU"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T17:53:55Z",
+   "last_seen": "2026-10-23T18:17:00Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1166,7 +1167,7 @@
      "outlet": "Ukrainska Pravda (English)",
      "country": "UKR",
      "time": "2026-10-23T15:48:00Z",
-     "headline": "Kremlin confirms ceasefire to be declared in Oleshky",
+     "headline": "Kremlin confirms ceasefire will be declared in Oleshky",
      "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059456/"
     },
     {
@@ -5630,7 +5631,7 @@
      "outlet": "The Jerusalem Post",
      "country": "ISR",
      "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "headline": "France investigates suspected Islamophobic shooting of girl near Paris as terrorism",
      "url": "https://www.jpost.com/international/article-912650"
     },
     {
@@ -5696,9 +5697,9 @@
    "title": "Many feared trapped after Kenya building collapse",
    "category": "Trade & Industry",
    "importance": 6.49,
-   "risk": 7.41,
+   "risk": 6.66,
    "confidence": 0.91,
-   "status": "peaking",
+   "status": "fading",
    "outlets": 21,
    "countries": [
     "NGA",
@@ -5716,7 +5717,7 @@
     "QAT"
    ],
    "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-23T17:01:05Z",
+   "last_seen": "2026-10-23T17:49:04Z",
    "page": "event/23496.html",
    "reports": [
     {
@@ -5907,155 +5908,13 @@
      "time": "2026-10-23T17:01:05Z",
      "headline": "Many feared trapped after Kenya building collapse",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 21280,
-   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-   "category": "Geopolitics",
-   "importance": 6.4,
-   "risk": 3.87,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 16,
-   "countries": [
-    "RUS",
-    "AZE",
-    "AFG",
-    "TUR",
-    "NGA",
-    "CHN",
-    "SAU",
-    "UKR",
-    "QAT",
-    "SGP",
-    "PAK",
-    "CYP",
-    "USA"
-   ],
-   "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-23T16:46:32Z",
-   "page": "event/21280.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T12:24:01Z",
-     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
-     "url": "https://tass.com/politics/2206267"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:53:00Z",
-     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
-     "url": "https://www.azernews.az/region/266020.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T17:09:14Z",
-     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
-     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:06Z",
-     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
-     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T09:57:00Z",
-     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:20:46Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:31:40Z",
-     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
-     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:39:35Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:52:05Z",
-     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T11:04:40Z",
-     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
-     "url": "https://tass.com/politics/2206847"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:02:52Z",
-     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
-     "url": "https://tass.com/politics/2206883"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:42:49Z",
-     "headline": "Russia, Ukraine and the US set for November peace talks",
-     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T12:49:49Z",
-     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
-     "url": "https://www.kyivpost.com/post/87990"
     },
     {
      "outlet": "Al Jazeera English",
      "country": "QAT",
-     "time": "2026-10-23T12:54:44Z",
-     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T14:00:00Z",
-     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
-     "url": "https://www.azernews.az/region/266090.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:21:52Z",
-     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
-     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T16:23:50Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+     "time": "2026-10-23T17:49:04Z",
+     "headline": "Many feared trapped after multistorey building collapses in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
     }
    ]
   },
@@ -6839,6 +6698,169 @@
      "time": "2026-10-23T17:35:14Z",
      "headline": "Why I kept my children away from my father – Meghan",
      "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+   "category": "Geopolitics",
+   "importance": 6.34,
+   "risk": 3.76,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
+    "SAU",
+    "UKR",
+    "QAT",
+    "SGP",
+    "PAK",
+    "CYP",
+    "USA"
+   ],
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-23T18:11:00Z",
+   "page": "event/21280.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:00:00Z",
+     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
+     "url": "https://www.azernews.az/region/266090.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:21:52Z",
+     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T16:23:50Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T16:46:32Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.al-monitor.com/originals/2026/10/zelenskiy-says-ukrainian-russian-and-us-negotiators-meet-early-november-abu-dhabi"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T18:11:00Z",
+     "headline": "Zelenskyy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://en.apa.az/europe/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi-531925"
     }
    ]
   },
@@ -8647,6 +8669,147 @@
    ]
   },
   {
+   "id": 25322,
+   "title": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+   "category": "Health & Science",
+   "importance": 6.05,
+   "risk": 1.64,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "GHA",
+    "SGP",
+    "ZAF",
+    "ARE",
+    "NGA",
+    "GBR",
+    "IRL",
+    "AZE",
+    "SAU",
+    "IND",
+    "TUR",
+    "QAT"
+   ],
+   "first_seen": "2026-10-23T15:53:22Z",
+   "last_seen": "2026-10-23T18:10:34Z",
+   "page": "event/25322.html",
+   "reports": [
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T15:53:22Z",
+     "headline": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
+     "url": "https://www.myjoyonline.com/breaking-bayern-munich-boss-vincent-kompany-taken-to-hospital-after-collapse/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T15:56:47Z",
+     "headline": "Bayern coach Kompany taken to hospital-reports",
+     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-reports-6487336"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T15:56:47Z",
+     "headline": "Bayern coach Kompany taken to hospital after collapsing during training session",
+     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T16:04:00Z",
+     "headline": "Bayern coach Kompany taken to hospital: Reports",
+     "url": "https://www.sabcnews.com/sabcnews/bayern-coach-kompany-taken-to-hospital-reports/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T16:46:09Z",
+     "headline": "Bayern Munich coach Vincent Kompany in hospital after collapsing: Club",
+     "url": "https://gulfnews.com/sport/football/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing-club-1.500721578"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T16:48:54Z",
+     "headline": "Kompany hospitalised after collapsing at Bayern training ground",
+     "url": "https://www.vanguardngr.com/2026/10/kompany-hospitalised-after-collapsing-at-bayern-training-ground/"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T16:55:00Z",
+     "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+     "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T17:00:50Z",
+     "headline": "Kompany taken to hospital after collapsing at training",
+     "url": "https://www.rte.ie/sport/soccer/2026/1023/1596659-kompany-taken-to-hospital-after-collapsing-at-training/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T17:12:00Z",
+     "headline": "Vincent Kompany hospitalised after collapse at Bayern Munich training",
+     "url": "https://en.apa.az/football/vincent-kompany-hospitalised-after-collapse-at-bayern-munich-training-531919"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T17:12:21Z",
+     "headline": "Bayern Munich Coach Vincent Kompany In Hospital After Collapsing",
+     "url": "https://www.channelstv.com/2026/10/23/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:16:52Z",
+     "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
+     "url": "https://www.arabnews.com/football/bayern-munich-coach-vincent-kompany-hospitalized-after-collapsing-at-training-3007937"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T17:26:08Z",
+     "headline": "Bayern Munich coach collapses after training session, taken to hospital",
+     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bayern-munich-coach-collapses-after-training-session-taken-to-hospital/articleshow/135151476.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T17:41:59Z",
+     "headline": "Bayern Munich coach Kompany hospitalized after collapsing during training",
+     "url": "https://www.aa.com.tr/en/sports/bayern-munich-coach-kompany-hospitalized-after-collapsing-during-training/4098949"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:44:05Z",
+     "headline": "Bayern coach Kompany taken to hospital after collapsing during training",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T17:44:16Z",
+     "headline": "Bayern Munich coach Kompany collapses during training, hospitalised",
+     "url": "https://punchng.com/just-in-bayern-munich-coach-kompany-collapses-during-training-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T18:10:34Z",
+     "headline": "Bayern Munich boss Vincent Kompany hospitalised after collapsing at training",
+     "url": "https://indianexpress.com/article/sports/football/bayern-munich-vincent-kompany-hospitalised-collapsing-training-10934361/"
+    }
+   ]
+  },
+  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -9474,6 +9637,304 @@
    ]
   },
   {
+   "id": 16877,
+   "title": "Websites go dark as AI exposes critical security flaws",
+   "category": "Technology & Cyber",
+   "importance": 5.88,
+   "risk": 4.65,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 27,
+   "countries": [
+    "IRL",
+    "PAK",
+    "CAN",
+    "USA",
+    "FRA",
+    "OMN",
+    "GBR",
+    "URY",
+    "ZAF",
+    "NGA",
+    "KOR",
+    "NPL",
+    "PHL",
+    "DEU",
+    "SGP",
+    "MOZ",
+    "BGD",
+    "ARE",
+    "TUR",
+    "SSD",
+    "LTU",
+    "SAU"
+   ],
+   "first_seen": "2026-10-21T07:46:45Z",
+   "last_seen": "2026-10-23T17:05:00Z",
+   "page": "event/16877.html",
+   "reports": [
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-21T07:46:45Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-21T10:25:05Z",
+     "headline": "Government websites in Europe, elsewhere go dark as software flaw sparks security scramble",
+     "url": "https://tribune.com.pk/story/2636150/government-websites-in-europe-elsewhere-go-dark-as-software-flaw-sparks-security-scramble"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T13:48:03Z",
+     "headline": "Ottawa taking down some federal websites over critical global vulnerability",
+     "url": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/"
+    },
+    {
+     "outlet": "Krebs on Security",
+     "country": "USA",
+     "time": "2026-10-21T15:26:07Z",
+     "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
+     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T16:58:44Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-21T17:16:01Z",
+     "headline": "Websites go dark as AI exposes critical security flaws worldwide",
+     "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T01:13:37Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198215/scitech/technology/websites-go-dark-as-ai-exposes-critical-security-flaws"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T02:00:00Z",
+     "headline": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
+     "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-22T02:14:00Z",
+     "headline": "Global alert over two critical PHP flaws forces government websites offline",
+     "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T03:30:41Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198223/business/markets/websites-go-dark-as-ai-exposes-critical-security-flaws"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-22T04:56:51Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T06:31:17Z",
+     "headline": "Websites Go Dark As AI Exposes Critical Security Flaws",
+     "url": "https://www.channelstv.com/2026/10/22/websites-go-dark-as-ai-exposes-critical-security-flaws/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "Websites go dark worldwide as AI exposes critical security flaws",
+     "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws?utm_source=rss"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-22T07:22:22Z",
+     "headline": "What is PHP, and why are security flaws putting European government websites at risk?",
+     "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-22T07:39:01Z",
+     "headline": "Asian governments step up cyber defenses after PHP flaw",
+     "url": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T08:25:25Z",
+     "headline": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
+     "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/"
+    },
+    {
+     "outlet": "The Local Germany",
+     "country": "DEU",
+     "time": "2026-10-22T08:35:54Z",
+     "headline": "Thousands of websites offline across Germany due to security flaw",
+     "url": "https://www.thelocal.de/20261022/thousands-of-websites-offline-across-germany-due-to-security-flaw"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T08:37:02Z",
+     "headline": "PHP security flaws alarm Korean government, companies",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alarm-korean-government-companies?utm_source=rss"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T08:47:45Z",
+     "headline": "Websites go dark after AI exposes major programming language security flaw",
+     "url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T09:06:38Z",
+     "headline": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet",
+     "url": "https://www.straitstimes.com/world/websites-go-dark-worldwide-as-ai-uncovers-flaws-in-code-powering-much-of-the-internet"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T09:14:07Z",
+     "headline": "What is PHP, the programming language that forced government websites offline over critical security flaws?",
+     "url": "https://en.protothema.gr/2026/10/22/what-is-php-the-programming-language-that-forced-government-websites-offline-over-critical-security-flaws/"
+    },
+    {
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T09:16:43Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://clubofmozambique.com/news/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-22T10:01:11Z",
+     "headline": "How two PHP flaws brought down websites around the world",
+     "url": "https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T11:26:32Z",
+     "headline": "Governments, companies take websites offline over PHP flaws",
+     "url": "https://www.straitstimes.com/world/governments-companies-take-websites-offline-over-php-flaws"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-22T11:36:38Z",
+     "headline": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T11:48:14Z",
+     "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T12:13:46Z",
+     "headline": "UK orders dozens of official websites offline after flaw warnings",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/uk-orders-dozens-of-official-websites-offline-after-flaw-warnings/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-22T13:02:45Z",
+     "headline": "Turkey issues cyber warning as website flaws spark global alarm",
+     "url": "https://www.turkishminute.com/2026/10/22/turkey-issues-cyber-warning-as-website-flaws-spark-global-alarm/"
+    },
+    {
+     "outlet": "Eye Radio",
+     "country": "SSD",
+     "time": "2026-10-22T13:46:25Z",
+     "headline": "National Communication Authority warns South Sudanese websites of global cybersecurity threat",
+     "url": "https://eyeradio.org/national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat/?utm_source=rss&utm_medium=rss&utm_campaign=national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:25:25Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198392/business/economy/websites-go-dark-as-ai-exposes-critical-security-flaws"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T15:55:08Z",
+     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
+    },
+    {
+     "outlet": "LRT English",
+     "country": "LTU",
+     "time": "2026-10-22T19:54:19Z",
+     "headline": "Around 100 Lithuanian websites vulnerable to critical PHP flaw, cybersecurity chief says",
+     "url": "https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Banks and government agencies take websites offline over PHP security flaws",
+     "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Nepal takes government websites offline over critical PHP flaws",
+     "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:32:20Z",
+     "headline": "Websites Go Dark as AI Exposes Critical Security Flaws",
+     "url": "https://english.aawsat.com/node/5332613"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T13:59:56Z",
+     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+     "url": "https://www.omanobserver.om/article/1198417/business/what-is-php-why-are-government-and-business-websites-going-offline"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T17:05:00Z",
+     "headline": "OFFLINE: SA’s Presidency website taken down as cybersecurity flaw sparks warnings across the world",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-sas-presidency-website-taken-down-as-cybersecurity-flaw-sparks-warnings-across-the-world/"
+    }
+   ]
+  },
+  {
    "id": 21874,
    "title": "Alien and Top Gun actor Tom Skerritt dies at 93",
    "category": "Society & Law",
@@ -9954,297 +10415,6 @@
    ]
   },
   {
-   "id": 16877,
-   "title": "Websites go dark as AI exposes critical security flaws",
-   "category": "Technology & Cyber",
-   "importance": 5.81,
-   "risk": 4.64,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 27,
-   "countries": [
-    "IRL",
-    "PAK",
-    "CAN",
-    "USA",
-    "FRA",
-    "OMN",
-    "GBR",
-    "URY",
-    "ZAF",
-    "NGA",
-    "KOR",
-    "NPL",
-    "PHL",
-    "DEU",
-    "SGP",
-    "MOZ",
-    "BGD",
-    "ARE",
-    "TUR",
-    "SSD",
-    "LTU",
-    "SAU"
-   ],
-   "first_seen": "2026-10-21T07:46:45Z",
-   "last_seen": "2026-10-23T17:05:00Z",
-   "page": "event/16877.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T07:46:45Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-21T10:25:05Z",
-     "headline": "Government websites in Europe, elsewhere go dark as software flaw sparks security scramble",
-     "url": "https://tribune.com.pk/story/2636150/government-websites-in-europe-elsewhere-go-dark-as-software-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T13:48:03Z",
-     "headline": "Ottawa taking down some federal websites over critical global vulnerability",
-     "url": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/"
-    },
-    {
-     "outlet": "Krebs on Security",
-     "country": "USA",
-     "time": "2026-10-21T15:26:07Z",
-     "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
-     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T16:58:44Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-21T17:16:01Z",
-     "headline": "Websites go dark as AI exposes critical security flaws worldwide",
-     "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T01:13:37Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198215/scitech/technology/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T02:00:00Z",
-     "headline": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
-     "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-22T02:14:00Z",
-     "headline": "Global alert over two critical PHP flaws forces government websites offline",
-     "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T03:30:41Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198223/business/markets/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T04:56:51Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T06:31:17Z",
-     "headline": "Websites Go Dark As AI Exposes Critical Security Flaws",
-     "url": "https://www.channelstv.com/2026/10/22/websites-go-dark-as-ai-exposes-critical-security-flaws/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Websites go dark worldwide as AI exposes critical security flaws",
-     "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws?utm_source=rss"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T07:22:22Z",
-     "headline": "What is PHP, and why are security flaws putting European government websites at risk?",
-     "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-22T07:39:01Z",
-     "headline": "Asian governments step up cyber defenses after PHP flaw",
-     "url": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T08:25:25Z",
-     "headline": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
-     "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/"
-    },
-    {
-     "outlet": "The Local Germany",
-     "country": "DEU",
-     "time": "2026-10-22T08:35:54Z",
-     "headline": "Thousands of websites offline across Germany due to security flaw",
-     "url": "https://www.thelocal.de/20261022/thousands-of-websites-offline-across-germany-due-to-security-flaw"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T08:37:02Z",
-     "headline": "PHP security flaws alarm Korean government, companies",
-     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alarm-korean-government-companies?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T08:47:45Z",
-     "headline": "Websites go dark after AI exposes major programming language security flaw",
-     "url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:38Z",
-     "headline": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet",
-     "url": "https://www.straitstimes.com/world/websites-go-dark-worldwide-as-ai-uncovers-flaws-in-code-powering-much-of-the-internet"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T09:14:07Z",
-     "headline": "What is PHP, the programming language that forced government websites offline over critical security flaws?",
-     "url": "https://en.protothema.gr/2026/10/22/what-is-php-the-programming-language-that-forced-government-websites-offline-over-critical-security-flaws/"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T09:16:43Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://clubofmozambique.com/news/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T10:01:11Z",
-     "headline": "How two PHP flaws brought down websites around the world",
-     "url": "https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T11:26:32Z",
-     "headline": "Governments, companies take websites offline over PHP flaws",
-     "url": "https://www.straitstimes.com/world/governments-companies-take-websites-offline-over-php-flaws"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T11:36:38Z",
-     "headline": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T11:48:14Z",
-     "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T12:13:46Z",
-     "headline": "UK orders dozens of official websites offline after flaw warnings",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/uk-orders-dozens-of-official-websites-offline-after-flaw-warnings/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-22T13:02:45Z",
-     "headline": "Turkey issues cyber warning as website flaws spark global alarm",
-     "url": "https://www.turkishminute.com/2026/10/22/turkey-issues-cyber-warning-as-website-flaws-spark-global-alarm/"
-    },
-    {
-     "outlet": "Eye Radio",
-     "country": "SSD",
-     "time": "2026-10-22T13:46:25Z",
-     "headline": "National Communication Authority warns South Sudanese websites of global cybersecurity threat",
-     "url": "https://eyeradio.org/national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat/?utm_source=rss&utm_medium=rss&utm_campaign=national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:25:25Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198392/business/economy/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T15:55:08Z",
-     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
-    },
-    {
-     "outlet": "LRT English",
-     "country": "LTU",
-     "time": "2026-10-22T19:54:19Z",
-     "headline": "Around 100 Lithuanian websites vulnerable to critical PHP flaw, cybersecurity chief says",
-     "url": "https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Banks and government agencies take websites offline over PHP security flaws",
-     "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Nepal takes government websites offline over critical PHP flaws",
-     "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:32:20Z",
-     "headline": "Websites Go Dark as AI Exposes Critical Security Flaws",
-     "url": "https://english.aawsat.com/node/5332613"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T17:05:00Z",
-     "headline": "OFFLINE: SA’s Presidency website taken down as cybersecurity flaw sparks warnings across the world",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-sas-presidency-website-taken-down-as-cybersecurity-flaw-sparks-warnings-across-the-world/"
-    }
-   ]
-  },
-  {
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
@@ -10542,132 +10712,6 @@
      "time": "2026-10-23T09:32:02Z",
      "headline": "'Haven't seen this in a long time': Microsoft CEO on massive PHP flaw patch rush",
      "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-have-not-seen-anything-like-this-in-a-long-long-time-microsoft-ceo-satya-nadella-as-companies-governments-rush-to-patch-php-flaws/articleshow/135141735.cms"
-    }
-   ]
-  },
-  {
-   "id": 25322,
-   "title": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
-   "category": "Health & Science",
-   "importance": 5.79,
-   "risk": 1.61,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "GHA",
-    "SGP",
-    "ZAF",
-    "ARE",
-    "NGA",
-    "GBR",
-    "IRL",
-    "AZE",
-    "SAU",
-    "IND",
-    "TUR"
-   ],
-   "first_seen": "2026-10-23T15:53:22Z",
-   "last_seen": "2026-10-23T17:44:16Z",
-   "page": "event/25322.html",
-   "reports": [
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T15:53:22Z",
-     "headline": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
-     "url": "https://www.myjoyonline.com/breaking-bayern-munich-boss-vincent-kompany-taken-to-hospital-after-collapse/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital-reports",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-reports-6487336"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital after collapsing during training session",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T16:04:00Z",
-     "headline": "Bayern coach Kompany taken to hospital: Reports",
-     "url": "https://www.sabcnews.com/sabcnews/bayern-coach-kompany-taken-to-hospital-reports/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T16:46:09Z",
-     "headline": "Bayern Munich coach Vincent Kompany in hospital after collapsing: Club",
-     "url": "https://gulfnews.com/sport/football/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing-club-1.500721578"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T16:48:54Z",
-     "headline": "Kompany hospitalised after collapsing at Bayern training ground",
-     "url": "https://www.vanguardngr.com/2026/10/kompany-hospitalised-after-collapsing-at-bayern-training-ground/"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T16:55:00Z",
-     "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
-     "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T17:00:50Z",
-     "headline": "Kompany taken to hospital after collapsing at training",
-     "url": "https://www.rte.ie/sport/soccer/2026/1023/1596659-kompany-taken-to-hospital-after-collapsing-at-training/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T17:12:00Z",
-     "headline": "Vincent Kompany hospitalised after collapse at Bayern Munich training",
-     "url": "https://en.apa.az/football/vincent-kompany-hospitalised-after-collapse-at-bayern-munich-training-531919"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T17:12:21Z",
-     "headline": "Bayern Munich Coach Vincent Kompany In Hospital After Collapsing",
-     "url": "https://www.channelstv.com/2026/10/23/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:16:52Z",
-     "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
-     "url": "https://www.arabnews.com/football/bayern-munich-coach-vincent-kompany-hospitalized-after-collapsing-at-training-3007937"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T17:26:08Z",
-     "headline": "Bayern Munich coach collapses after training session, taken to hospital",
-     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bayern-munich-coach-collapses-after-training-session-taken-to-hospital/articleshow/135151476.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T17:41:59Z",
-     "headline": "Bayern Munich coach Kompany hospitalized after collapsing during training",
-     "url": "https://www.aa.com.tr/en/sports/bayern-munich-coach-kompany-hospitalized-after-collapsing-during-training/4098949"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T17:44:16Z",
-     "headline": "Bayern Munich coach Kompany collapses during training, hospitalised",
-     "url": "https://punchng.com/just-in-bayern-munich-coach-kompany-collapses-during-training-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
