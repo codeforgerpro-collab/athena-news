@@ -1,337 +1,17 @@
 {
- "generated": "2026-10-23T17:01:17Z",
+ "generated": "2026-10-23T17:20:16Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
   {
-   "id": 22696,
-   "title": "Israel demolishes homes in West Bank after fatal attack",
-   "category": "Economy & Markets",
-   "importance": 8.35,
-   "risk": 7.28,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 40,
-   "countries": [
-    "SAU",
-    "IRQ",
-    "ISR",
-    "CHN",
-    "AZE",
-    "GBR",
-    "TUR",
-    "USA",
-    "IRL",
-    "PAK",
-    "AUS",
-    "DEU",
-    "NZL",
-    "FRA",
-    "SGP",
-    "QAT",
-    "ARE",
-    "IND",
-    "IRN",
-    "MAR",
-    "GHA",
-    "NGA",
-    "RUS"
-   ],
-   "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T16:31:00Z",
-   "page": "event/22696.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israel military: two suspected attackers killed after shooting attack near Judea junction",
-     "url": "https://www.arabnews.com/middle-east/israel-military-two-suspected-attackers-killed-after-shooting-attack-near-judea-junction-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israeli military says killed two after West Bank shooting",
-     "url": "https://www.arabnews.com/middle-east/israeli-military-says-killed-two-after-west-bank-shooting-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "West Bank attack wounds 5 as Israel PM cancels events",
-     "url": "https://www.arabnews.com/middle-east/west-bank-attack-wounds-5-as-israel-pm-cancels-events-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ as attack kills 2 soldiers",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-as-attack-kills-2-soldiers-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack kills 2 soldiers",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-kills-2-soldiers-3007835"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T05:35:47Z",
-     "headline": "Two gunmen killed in attack on Israeli post near al-Khalil",
-     "url": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:05:24Z",
-     "headline": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
-     "url": "https://english.aawsat.com/node/5332586"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T07:01:49Z",
-     "headline": "Netanyahu says U.S. aid at current scale 'over,' floats crypto as possible sanctions bypass",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article-live/.free/netanyahu-cancels-all-friday-campaign-events-due-to-west-bank-shooting-attack/000001a1-65f1-d6e1-abb7-77ffe02e0002"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T07:11:50Z",
-     "headline": "5 Israelis wounded, 2 Palestinians killed in West Bank shooting",
-     "url": "https://english.news.cn/20261023/1a90957840f04132aba6610fb13a3046/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:16:00Z",
-     "headline": "Five Israelis wounded, two Palestinians killed in West Bank shooting",
-     "url": "https://en.apa.az/asia/five-israelis-wounded-two-palestinians-killed-in-west-bank-shooting-531778"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T08:03:00Z",
-     "headline": "Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting",
-     "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:04:10Z",
-     "headline": "Netanyahu says Israel preparing 'full closure' of West Bank in response to attack",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-says-israel-preparing-full-closure-of-west-bank-in-response-to-attack-3230861"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T08:10:44Z",
-     "headline": "Israel demolishes homes in West Bank after fatal attack",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T08:14:27Z",
-     "headline": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
-     "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:18:27Z",
-     "headline": "Two Israeli soldiers killed in attack on West Bank military checkpoint",
-     "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T08:25:00Z",
-     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
-     "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T08:25:00Z",
-     "headline": "Israel orders home demolitions after soldiers killed in West Bank",
-     "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T08:25:07Z",
-     "headline": "Urgent: Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/adc8518b9ed545e3ad0cf4ca207bda7f/c.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T08:27:20Z",
-     "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-     "url": "https://www.stuff.co.nz/world-news/361050482/netanyahus-office-orders-closure-west-bank-after-soldiers"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T08:30:24Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T08:30:24Z",
-     "headline": "PM warns of major West Bank military operation after attack kills Israeli soldiers",
-     "url": "https://www.al-monitor.com/originals/2026/10/pm-warns-major-west-bank-military-operation-after-attack-kills-israeli-soldiers"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:33:59Z",
-     "headline": "Israel orders army to prepare for full closure of West Bank after attack",
-     "url": "https://www.independent.co.uk/news/world/middle-east/israel-west-bank-hebron-attack-b3072022.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T08:35:17Z",
-     "headline": "Israel’s PM Netanyahu vows to ‘destroy’ Hebron after 2 soldiers killed in ‘terrorist attack’",
-     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:47:16Z",
-     "headline": "Israel orders ‘full lockdown’ of West Bank after deadly shootings",
-     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:09:51Z",
-     "headline": "Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/199a2a2ff1584241a32b75a981d8cb1d/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T09:11:28Z",
-     "headline": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:12:38Z",
-     "headline": "Israeli military kills two in gun battle in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T09:18:58Z",
-     "headline": "Netanyahu orders West Bank lockdown after Hebron checkpoint shooting",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/23/netanyahu-orders-west-bank-lockdown-after-hebron-checkpoint-shooting/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:26:58Z",
-     "headline": "Israeli premier orders ‘closure’ of Hebron, ‘full lockdown’ of occupied West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T09:27:04Z",
-     "headline": "Israel Closes West Bank After Military Kills \"2 Terrorists\" For Shooting",
-     "url": "https://www.ndtv.com/world-news/israel-closes-west-bank-after-military-kills-2-terrorists-for-shooting-5-injured-12224818#publisher=newsstand"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T09:28:42Z",
-     "headline": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T09:29:06Z",
-     "headline": "Netanyahu orders West Bank lockdown after deadly attack days before election",
-     "url": "https://gulfnews.com/world/mena/netanyahu-orders-west-bank-lockdown-after-deadly-attack-days-before-election-1.500720835"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T09:44:40Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-23T09:58:07Z",
-     "headline": "6 Israeli soldiers wounded in Palestinian op. in West Bank",
-     "url": "https://en.mehrnews.com/news/248832/6-Israeli-soldiers-wounded-in-Palestinian-op-in-West-Bank"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T10:03:56Z",
-     "headline": "Israel army says launches 'offensive counter-terrorism operations' in West Bank",
-     "url": "https://en.hespress.com/147834-israel-army-says-launches-offensive-counter-terrorism-operations-in-west-bank.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:05:10Z",
-     "headline": "Israel prepares full West Bank lockdown after Hebron shooting",
-     "url": "https://www.middleeasteye.net/news/israel-prepares-full-west-bank-lockdown-after-hebron-shooting"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:09:14Z",
-     "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
-     "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
-    }
-   ]
-  },
-  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.34,
-   "risk": 7.34,
-   "confidence": 0.89,
+   "importance": 8.36,
+   "risk": 7.35,
+   "confidence": 0.9,
    "status": "fading",
-   "outlets": 41,
+   "outlets": 42,
    "countries": [
     "PAK",
     "IND",
@@ -360,7 +40,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T16:29:13Z",
+   "last_seen": "2026-10-23T17:14:46Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -646,14 +326,334 @@
    ]
   },
   {
+   "id": 22696,
+   "title": "Israel demolishes homes in West Bank after fatal attack",
+   "category": "Economy & Markets",
+   "importance": 8.35,
+   "risk": 7.28,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 40,
+   "countries": [
+    "SAU",
+    "IRQ",
+    "ISR",
+    "CHN",
+    "AZE",
+    "GBR",
+    "TUR",
+    "USA",
+    "IRL",
+    "PAK",
+    "AUS",
+    "DEU",
+    "NZL",
+    "FRA",
+    "SGP",
+    "QAT",
+    "ARE",
+    "IND",
+    "IRN",
+    "MAR",
+    "GHA",
+    "NGA",
+    "RUS"
+   ],
+   "first_seen": "2026-10-23T05:06:35Z",
+   "last_seen": "2026-10-23T16:31:00Z",
+   "page": "event/22696.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Israel military: two suspected attackers killed after shooting attack near Judea junction",
+     "url": "https://www.arabnews.com/middle-east/israel-military-two-suspected-attackers-killed-after-shooting-attack-near-judea-junction-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Israeli military says killed two after West Bank shooting",
+     "url": "https://www.arabnews.com/middle-east/israeli-military-says-killed-two-after-west-bank-shooting-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "West Bank attack wounds 5 as Israel PM cancels events",
+     "url": "https://www.arabnews.com/middle-east/west-bank-attack-wounds-5-as-israel-pm-cancels-events-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ as attack kills 2 soldiers",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-as-attack-kills-2-soldiers-3007835"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T05:06:35Z",
+     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack kills 2 soldiers",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-kills-2-soldiers-3007835"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T05:35:47Z",
+     "headline": "Two gunmen killed in attack on Israeli post near al-Khalil",
+     "url": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:05:24Z",
+     "headline": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
+     "url": "https://english.aawsat.com/node/5332586"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T07:01:49Z",
+     "headline": "Election panel orders Likud to pull signs of Eisenkot bloc party leaders with Arab MKs",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article-live/.free/netanyahu-cancels-all-friday-campaign-events-due-to-west-bank-shooting-attack/000001a1-65f1-d6e1-abb7-77ffe02e0002"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T07:11:50Z",
+     "headline": "5 Israelis wounded, 2 Palestinians killed in West Bank shooting",
+     "url": "https://english.news.cn/20261023/1a90957840f04132aba6610fb13a3046/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:16:00Z",
+     "headline": "Five Israelis wounded, two Palestinians killed in West Bank shooting",
+     "url": "https://en.apa.az/asia/five-israelis-wounded-two-palestinians-killed-in-west-bank-shooting-531778"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T08:03:00Z",
+     "headline": "Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting",
+     "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:04:10Z",
+     "headline": "Netanyahu says Israel preparing 'full closure' of West Bank in response to attack",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-says-israel-preparing-full-closure-of-west-bank-in-response-to-attack-3230861"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T08:10:44Z",
+     "headline": "Israel demolishes homes in West Bank after fatal attack",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T08:14:27Z",
+     "headline": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+     "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:18:27Z",
+     "headline": "Two Israeli soldiers killed in attack on West Bank military checkpoint",
+     "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T08:25:00Z",
+     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+     "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T08:25:00Z",
+     "headline": "Israel orders home demolitions after soldiers killed in West Bank",
+     "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T08:25:07Z",
+     "headline": "Urgent: Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
+     "url": "https://english.news.cn/20261023/adc8518b9ed545e3ad0cf4ca207bda7f/c.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T08:27:20Z",
+     "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "url": "https://www.stuff.co.nz/world-news/361050482/netanyahus-office-orders-closure-west-bank-after-soldiers"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T08:30:24Z",
+     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T08:30:24Z",
+     "headline": "PM warns of major West Bank military operation after attack kills Israeli soldiers",
+     "url": "https://www.al-monitor.com/originals/2026/10/pm-warns-major-west-bank-military-operation-after-attack-kills-israeli-soldiers"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:33:59Z",
+     "headline": "Israel orders army to prepare for full closure of West Bank after attack",
+     "url": "https://www.independent.co.uk/news/world/middle-east/israel-west-bank-hebron-attack-b3072022.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T08:35:17Z",
+     "headline": "Israel’s PM Netanyahu vows to ‘destroy’ Hebron after 2 soldiers killed in ‘terrorist attack’",
+     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:47:16Z",
+     "headline": "Israel orders ‘full lockdown’ of West Bank after deadly shootings",
+     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:09:51Z",
+     "headline": "Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
+     "url": "https://english.news.cn/20261023/199a2a2ff1584241a32b75a981d8cb1d/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T09:11:28Z",
+     "headline": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:12:38Z",
+     "headline": "Israeli military kills two in gun battle in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T09:18:58Z",
+     "headline": "Netanyahu orders West Bank lockdown after Hebron checkpoint shooting",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/23/netanyahu-orders-west-bank-lockdown-after-hebron-checkpoint-shooting/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:26:58Z",
+     "headline": "Israeli premier orders ‘closure’ of Hebron, ‘full lockdown’ of occupied West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T09:27:04Z",
+     "headline": "Israel Closes West Bank After Military Kills \"2 Terrorists\" For Shooting",
+     "url": "https://www.ndtv.com/world-news/israel-closes-west-bank-after-military-kills-2-terrorists-for-shooting-5-injured-12224818#publisher=newsstand"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T09:28:42Z",
+     "headline": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T09:29:06Z",
+     "headline": "Netanyahu orders West Bank lockdown after deadly attack days before election",
+     "url": "https://gulfnews.com/world/mena/netanyahu-orders-west-bank-lockdown-after-deadly-attack-days-before-election-1.500720835"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T09:44:40Z",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-23T09:58:07Z",
+     "headline": "6 Israeli soldiers wounded in Palestinian op. in West Bank",
+     "url": "https://en.mehrnews.com/news/248832/6-Israeli-soldiers-wounded-in-Palestinian-op-in-West-Bank"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T10:03:56Z",
+     "headline": "Israel army says launches 'offensive counter-terrorism operations' in West Bank",
+     "url": "https://en.hespress.com/147834-israel-army-says-launches-offensive-counter-terrorism-operations-in-west-bank.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T10:05:10Z",
+     "headline": "Israel prepares full West Bank lockdown after Hebron shooting",
+     "url": "https://www.middleeasteye.net/news/israel-prepares-full-west-bank-lockdown-after-hebron-shooting"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:09:14Z",
+     "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
+     "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
+    }
+   ]
+  },
+  {
    "id": 23500,
    "title": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
    "category": "Energy & Environment",
-   "importance": 8.22,
-   "risk": 3.02,
+   "importance": 8.3,
+   "risk": 2.96,
    "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 24,
+   "status": "fading",
+   "outlets": 25,
    "countries": [
     "AZE",
     "GBR",
@@ -673,7 +673,7 @@
     "SGP"
    ],
    "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T16:18:12Z",
+   "last_seen": "2026-10-23T16:52:57Z",
    "page": "event/23500.html",
    "reports": [
     {
@@ -850,6 +850,13 @@
      "time": "2026-10-23T16:18:12Z",
      "headline": "Inside the legal design of America's Russia sanctions U-turn",
      "url": "https://kyivindependent.com/inside-the-legal-design-of-americas-russia-sanctions-u-turn-2/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T16:52:57Z",
+     "headline": "Initial shipment of Russian diesel heads to the US after Trump-Putin deal",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/23/initial-shipment-of-russian-diesel-heads-to-the-us-after-trump-putin-deal/"
     }
    ]
   },
@@ -857,11 +864,11 @@
    "id": 24812,
    "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
    "category": "Geopolitics",
-   "importance": 8.13,
-   "risk": 2.69,
+   "importance": 8.15,
+   "risk": 2.68,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 37,
+   "outlets": 38,
    "countries": [
     "PAK",
     "CHN",
@@ -885,7 +892,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T16:43:37Z",
+   "last_seen": "2026-10-23T17:06:43Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1158,15 +1165,15 @@
      "outlet": "CBC News",
      "country": "CAN",
      "time": "2026-10-23T16:02:35Z",
-     "headline": "Melania Trump brokers humanitarian ceasefire for ravaged Ukraine city Oleshky",
+     "headline": "Melania Trump, Pope Leo broker humanitarian ceasefire for ravaged Ukraine city Oleshky",
      "url": "https://www.cbc.ca/news/world/ukraine-war-limited-ceasefire-oleshky-melania-trump-9.7393085?cmp=rss"
     },
     {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T16:14:19Z",
-     "headline": "Melania Trump says she negotiated ceasefire in Russian-held Ukrainian city",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/23/melania-trump-ceasefire-ukraine-russia/"
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T16:13:00Z",
+     "headline": "Ukraine confirms Oleshky ceasefire for aid and civilian evacuations",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059463/"
     }
    ]
   },
@@ -1279,7 +1286,7 @@
      "outlet": "France 24 English",
      "country": "FRA",
      "time": "2026-10-23T11:08:26Z",
-     "headline": "France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+     "headline": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
     },
     {
@@ -3250,10 +3257,10 @@
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
-   "importance": 6.93,
-   "risk": 5.63,
+   "importance": 6.99,
+   "risk": 5.92,
    "confidence": 0.89,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 38,
    "countries": [
     "SAU",
@@ -5045,11 +5052,11 @@
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
-   "importance": 6.66,
-   "risk": 6.89,
+   "importance": 6.63,
+   "risk": 6.85,
    "confidence": 0.89,
    "status": "peaking",
-   "outlets": 14,
+   "outlets": 15,
    "countries": [
     "BGR",
     "SAU",
@@ -5063,7 +5070,7 @@
     "DEU"
    ],
    "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T15:59:00Z",
+   "last_seen": "2026-10-23T17:14:40Z",
    "page": "event/16086.html",
    "reports": [
     {
@@ -5198,6 +5205,13 @@
      "time": "2026-10-23T15:59:00Z",
      "headline": "Ukrainian sailor killed as vessel sinks near Constanta, four others hospitalized – MFA",
      "url": "https://www.ukrinform.net/rubric-society/4177573-ukrainian-sailor-killed-as-vessel-sinks-near-constanta-four-others-hospitalized-mfa.html"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T17:14:40Z",
+     "headline": "Romania blames Russia for drone strike that sinks cargo ship in Black Sea, killing one sailor and leaving three missing",
+     "url": "https://meduza.io/en/news/2026/10/23/romania-blames-russia-for-drone-strike-that-sinks-cargo-ship-in-black-sea-killing-one-sailor-and-leaving-three-missing"
     }
    ]
   },
@@ -5825,6 +5839,225 @@
    ]
   },
   {
+   "id": 23496,
+   "title": "Many feared trapped after Kenya building collapse",
+   "category": "Trade & Industry",
+   "importance": 6.49,
+   "risk": 7.41,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 21,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
+    "USA",
+    "DEU",
+    "ZAF",
+    "KWT",
+    "KOR",
+    "QAT"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-23T17:01:05Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T15:50:00Z",
+     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T15:52:25Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-23T16:27:13Z",
+     "headline": "Several feared trapped in Eastleigh building collapse",
+     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:01:05Z",
+     "headline": "Many feared trapped after Kenya building collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
+    }
+   ]
+  },
+  {
    "id": 21280,
    "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
    "category": "Geopolitics",
@@ -5961,7 +6194,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T16:21:52Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
      "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
     },
     {
@@ -6939,210 +7172,6 @@
    ]
   },
   {
-   "id": 23496,
-   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-   "category": "Trade & Industry",
-   "importance": 6.32,
-   "risk": 7.39,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 19,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF",
-    "KWT",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-23T15:52:25Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T15:50:00Z",
-     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T15:52:03Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T15:52:25Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
-    }
-   ]
-  },
-  {
    "id": 16146,
    "title": "American Stephen Hubbard released by Russia, Trump confirms",
    "category": "Geopolitics",
@@ -7718,170 +7747,6 @@
      "time": "2026-10-22T19:54:19Z",
      "headline": "Germany arrests Ukrainian man suspected of spying on Lithuania brigade",
      "url": "https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade"
-    }
-   ]
-  },
-  {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.25,
-   "risk": 4.1,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "GRC",
-    "PAK",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR",
-    "CHN",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T14:30:40Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T05:14:17Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-23T10:00:46Z",
-     "headline": "Greece adopts law to ban social media access to minors under 15",
-     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:50:29Z",
-     "headline": "Greek parliament approves social media ban for under-15s from January",
-     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Greece joins push to ban social media for minors",
-     "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T14:30:40Z",
-     "headline": "Greece’s Social Media Ban for Under-15s Faces Eight Key Tests",
-     "url": "https://www.tovima.com/society/greeces-social-media-ban-for-under-15s-faces-eight-key-tests/"
     }
    ]
   },
@@ -8583,6 +8448,183 @@
    ]
   },
   {
+   "id": 16259,
+   "title": "UAE diplomat Lana Nusseibeh enters race for UN chief",
+   "category": "Geopolitics",
+   "importance": 6.06,
+   "risk": 3.77,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "ARE",
+    "SAU",
+    "USA",
+    "SGP",
+    "TUR",
+    "ISR",
+    "ZAF",
+    "ALB",
+    "FRA",
+    "KAZ",
+    "AZE",
+    "AFG",
+    "CYP"
+   ],
+   "first_seen": "2026-10-21T20:00:32Z",
+   "last_seen": "2026-10-23T17:00:28Z",
+   "page": "event/16259.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T20:00:32Z",
+     "headline": "UAE's Lana Nusseibeh enters race to be next UN secretary general",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/21/lana-nusseibeh-un-secretary-general/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T20:10:58Z",
+     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.arabnews.com/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief-3007609"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-21T20:30:26Z",
+     "headline": "UAE nominates official to lead UN",
+     "url": "https://www.al-monitor.com/originals/2026/10/uae-nominates-official-lead-un"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T20:41:25Z",
+     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.straitstimes.com/world/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-21T20:46:26Z",
+     "headline": "Exclusive-Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.al-monitor.com/originals/2026/10/exclusive-senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-21T23:12:30Z",
+     "headline": "UAE's Lana Nusseibeh announces bid for UN secretary-general",
+     "url": "https://www.aa.com.tr/en/world/uaes-lana-nusseibeh-announces-bid-for-un-secretary-general/4096577"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-21T23:21:21Z",
+     "headline": "UAE nominates Lana Nusseibeh to succeed Guterres as UN secretary-general",
+     "url": "https://www.jpost.com/international/article-912466"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T03:17:03Z",
+     "headline": "Lana Nusseibeh announces candidacy for United Nations Secretary-General",
+     "url": "https://gulfnews.com/uae/government/uaes-lana-nusseibeh-enters-race-to-become-next-un-secretary-general-1.500719042"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-22T03:51:31Z",
+     "headline": "UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.sabcnews.com/sabcnews/uae-diplomat-lana-nusseibeh-enters-race-for-un-chief/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T05:33:11Z",
+     "headline": "US pulls staff from Saudi Arabia, UAE's Nusseibeh in UN race, and Middle East oil exports recover",
+     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T07:34:20Z",
+     "headline": "Gargash hails UAE talent as Lana Nusseibeh nominated for UN chief",
+     "url": "https://gulfnews.com/uae/government/gargash-hails-uae-talent-as-lana-nusseibeh-nominated-for-un-chief-1.500719449"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:01:07Z",
+     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
+     "url": "https://www.middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T12:16:54Z",
+     "headline": "Who is Lana Nusseibeh, the UAE nominee for UN General Secretary?",
+     "url": "https://www.newarab.com/news/who-lana-nusseibeh-uae-nominee-un-general-secretary"
+    },
+    {
+     "outlet": "Euronews Albania (EN)",
+     "country": "ALB",
+     "time": "2026-10-22T19:32:21Z",
+     "headline": "PM Rama Endorses Lana Nusseibeh for UN Secretary-General: “A Woman of Exceptional Calibre”",
+     "url": "https://euronews.al/en/rama-backs-lana-nusseibehs-candidacy-to-lead-the-un-a-woman-of-exceptional-calibre/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T21:18:37Z",
+     "headline": "Emirati diplomat could become next UN chief despite human rights concerns",
+     "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:35:42Z",
+     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-nominates-diplomat-lead-un-amid-criticism-over-sudan-and-israel"
+    },
+    {
+     "outlet": "The Astana Times",
+     "country": "KAZ",
+     "time": "2026-10-23T06:18:40Z",
+     "headline": "Kazakhstan Backs UAE Nominee Lana Nusseibeh for UN Secretary-General",
+     "url": "https://astanatimes.com/2026/10/kazakhstan-backs-uae-nominee-lana-nusseibeh-for-un-secretary-general/"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T08:10:00Z",
+     "headline": "Lana Nusseibeh nominated for UN chief amid scrutiny over Sudan conflict and Epstein relation",
+     "url": "https://www.azernews.az/region/266053.html"
+    },
+    {
+     "outlet": "Amu TV",
+     "country": "AFG",
+     "time": "2026-10-23T15:43:51Z",
+     "headline": "UAE diplomat with key Afghanistan role enters race for UN chief",
+     "url": "https://amu.tv/255057/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T16:12:26Z",
+     "headline": "UN chief race enters decisive phase as new contender arrives",
+     "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:00:28Z",
+     "headline": "Cyprus throws weight behind UAE’s Nusseibeh for UN secretary-general",
+     "url": "https://cyprus-mail.com/2026/10/23/cyprus-throws-weight-behind-uaes-nusseibeh-for-un-secretary-general"
+    }
+   ]
+  },
+  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -8697,290 +8739,6 @@
      "time": "2026-10-23T06:37:02Z",
      "headline": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
      "url": "https://www.koreatimes.co.kr/world/20261023/airbnb-guests-no-longer-have-to-wash-the-dishes-or-strip-the-beds-at-checkout?utm_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 16877,
-   "title": "Websites go dark as AI exposes critical security flaws",
-   "category": "Technology & Cyber",
-   "importance": 5.94,
-   "risk": 4.97,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 27,
-   "countries": [
-    "IRL",
-    "PAK",
-    "CAN",
-    "USA",
-    "FRA",
-    "OMN",
-    "GBR",
-    "URY",
-    "ZAF",
-    "NGA",
-    "KOR",
-    "NPL",
-    "PHL",
-    "DEU",
-    "SGP",
-    "MOZ",
-    "BGD",
-    "ARE",
-    "TUR",
-    "SSD",
-    "LTU",
-    "SAU"
-   ],
-   "first_seen": "2026-10-21T07:46:45Z",
-   "last_seen": "2026-10-23T07:32:20Z",
-   "page": "event/16877.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T07:46:45Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-21T10:25:05Z",
-     "headline": "Government websites in Europe, elsewhere go dark as software flaw sparks security scramble",
-     "url": "https://tribune.com.pk/story/2636150/government-websites-in-europe-elsewhere-go-dark-as-software-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T13:48:03Z",
-     "headline": "Ottawa taking down some federal websites over critical global vulnerability",
-     "url": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/"
-    },
-    {
-     "outlet": "Krebs on Security",
-     "country": "USA",
-     "time": "2026-10-21T15:26:07Z",
-     "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
-     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T16:58:44Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-21T17:16:01Z",
-     "headline": "Websites go dark as AI exposes critical security flaws worldwide",
-     "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T01:13:37Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198215/scitech/technology/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T02:00:00Z",
-     "headline": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
-     "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-22T02:14:00Z",
-     "headline": "Global alert over two critical PHP flaws forces government websites offline",
-     "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T03:30:41Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198223/business/markets/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T04:56:51Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T06:31:17Z",
-     "headline": "Websites Go Dark As AI Exposes Critical Security Flaws",
-     "url": "https://www.channelstv.com/2026/10/22/websites-go-dark-as-ai-exposes-critical-security-flaws/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Websites go dark worldwide as AI exposes critical security flaws",
-     "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws?utm_source=rss"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T07:22:22Z",
-     "headline": "What is PHP, and why are security flaws putting European government websites at risk?",
-     "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-22T07:39:01Z",
-     "headline": "Asian governments step up cyber defenses after PHP flaw",
-     "url": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T08:25:25Z",
-     "headline": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
-     "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/"
-    },
-    {
-     "outlet": "The Local Germany",
-     "country": "DEU",
-     "time": "2026-10-22T08:35:54Z",
-     "headline": "Thousands of websites offline across Germany due to security flaw",
-     "url": "https://www.thelocal.de/20261022/thousands-of-websites-offline-across-germany-due-to-security-flaw"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T08:37:02Z",
-     "headline": "PHP security flaws alarm Korean government, companies",
-     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alarm-korean-government-companies?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T08:47:45Z",
-     "headline": "Websites go dark after AI exposes major programming language security flaw",
-     "url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:38Z",
-     "headline": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet",
-     "url": "https://www.straitstimes.com/world/websites-go-dark-worldwide-as-ai-uncovers-flaws-in-code-powering-much-of-the-internet"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T09:14:07Z",
-     "headline": "What is PHP, the programming language that forced government websites offline over critical security flaws?",
-     "url": "https://en.protothema.gr/2026/10/22/what-is-php-the-programming-language-that-forced-government-websites-offline-over-critical-security-flaws/"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T09:16:43Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://clubofmozambique.com/news/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T10:01:11Z",
-     "headline": "How two PHP flaws brought down websites around the world",
-     "url": "https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T11:26:32Z",
-     "headline": "Governments, companies take websites offline over PHP flaws",
-     "url": "https://www.straitstimes.com/world/governments-companies-take-websites-offline-over-php-flaws"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T11:36:38Z",
-     "headline": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T11:48:14Z",
-     "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T12:13:46Z",
-     "headline": "UK orders dozens of official websites offline after flaw warnings",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/uk-orders-dozens-of-official-websites-offline-after-flaw-warnings/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-22T13:02:45Z",
-     "headline": "Turkey issues cyber warning as website flaws spark global alarm",
-     "url": "https://www.turkishminute.com/2026/10/22/turkey-issues-cyber-warning-as-website-flaws-spark-global-alarm/"
-    },
-    {
-     "outlet": "Eye Radio",
-     "country": "SSD",
-     "time": "2026-10-22T13:46:25Z",
-     "headline": "National Communication Authority warns South Sudanese websites of global cybersecurity threat",
-     "url": "https://eyeradio.org/national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat/?utm_source=rss&utm_medium=rss&utm_campaign=national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:25:25Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198392/business/economy/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T15:55:08Z",
-     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
-    },
-    {
-     "outlet": "LRT English",
-     "country": "LTU",
-     "time": "2026-10-22T19:54:19Z",
-     "headline": "Around 100 Lithuanian websites vulnerable to critical PHP flaw, cybersecurity chief says",
-     "url": "https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Banks and government agencies take websites offline over PHP security flaws",
-     "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Nepal takes government websites offline over critical PHP flaws",
-     "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:32:20Z",
-     "headline": "Websites Go Dark as AI Exposes Critical Security Flaws",
-     "url": "https://english.aawsat.com/node/5332613"
     }
    ]
   },
@@ -9100,6 +8858,177 @@
    ]
   },
   {
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
+   "importance": 5.9,
+   "risk": 4.27,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "GRC",
+    "PAK",
+    "SGP",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "DEU",
+    "ZAF",
+    "LKA",
+    "TUR",
+    "CHN",
+    "QAT"
+   ],
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T17:10:50Z",
+   "page": "event/17849.html",
+   "reports": [
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:14:17Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:50:29Z",
+     "headline": "Greek parliament approves social media ban for under-15s from January",
+     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Greece joins push to ban social media for minors",
+     "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T14:30:40Z",
+     "headline": "Greece’s Social Media Ban for Under-15s Faces Eight Key Tests",
+     "url": "https://www.tovima.com/society/greeces-social-media-ban-for-under-15s-faces-eight-key-tests/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T17:10:50Z",
+     "headline": "Türkiye warns of scams ahead of social media ban for under-15s",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-warns-of-scams-ahead-of-social-media-ban-for-under-15s-3230898"
+    }
+   ]
+  },
+  {
    "id": 21230,
    "title": "Serbia: Tens of thousands rally ahead of elections",
    "category": "Geopolitics",
@@ -9199,6 +9128,318 @@
      "time": "2026-10-23T16:43:51Z",
      "headline": "Protest to polls: election arrives for Serbia's student movement",
      "url": "https://www.arabnews.com/world/protest-to-polls-election-arrives-for-serbias-student-movement-3007919"
+    }
+   ]
+  },
+  {
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
+   "importance": 5.88,
+   "risk": 1.66,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "ARG",
+    "USA",
+    "SGP",
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB"
+   ],
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-23T16:57:34Z",
+   "page": "event/2857.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
+    },
+    {
+     "outlet": "Democracy Now!",
+     "country": "USA",
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -9311,6 +9552,101 @@
      "time": "2026-10-23T10:58:34Z",
      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
      "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
+    }
+   ]
+  },
+  {
+   "id": 8134,
+   "title": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+   "category": "Trade & Industry",
+   "importance": 5.86,
+   "risk": 6.84,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 9,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-23T17:10:20Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
     }
    ]
   },
@@ -9683,314 +10019,293 @@
    ]
   },
   {
-   "id": 2857,
-   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-   "category": "Geopolitics",
-   "importance": 5.82,
-   "risk": 1.82,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 19,
+   "id": 16877,
+   "title": "Websites go dark as AI exposes critical security flaws",
+   "category": "Technology & Cyber",
+   "importance": 5.81,
+   "risk": 4.64,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 27,
    "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
     "IRL",
-    "DEU",
-    "ZAF",
+    "PAK",
+    "CAN",
+    "USA",
     "FRA",
-    "AZE",
-    "TWN",
-    "CUB"
+    "OMN",
+    "GBR",
+    "URY",
+    "ZAF",
+    "NGA",
+    "KOR",
+    "NPL",
+    "PHL",
+    "DEU",
+    "SGP",
+    "MOZ",
+    "BGD",
+    "ARE",
+    "TUR",
+    "SSD",
+    "LTU",
+    "SAU"
    ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-23T14:18:58Z",
-   "page": "event/2857.html",
+   "first_seen": "2026-10-21T07:46:45Z",
+   "last_seen": "2026-10-23T17:05:00Z",
+   "page": "event/16877.html",
    "reports": [
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-21T07:46:45Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
     },
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-21T10:25:05Z",
+     "headline": "Government websites in Europe, elsewhere go dark as software flaw sparks security scramble",
+     "url": "https://tribune.com.pk/story/2636150/government-websites-in-europe-elsewhere-go-dark-as-software-flaw-sparks-security-scramble"
     },
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T13:48:03Z",
+     "headline": "Ottawa taking down some federal websites over critical global vulnerability",
+     "url": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/"
     },
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
+     "outlet": "Krebs on Security",
      "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+     "time": "2026-10-21T15:26:07Z",
+     "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
+     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
     },
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T16:58:44Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
     },
     {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-21T17:16:01Z",
+     "headline": "Websites go dark as AI exposes critical security flaws worldwide",
+     "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws"
     },
     {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T01:13:37Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198215/scitech/technology/websites-go-dark-as-ai-exposes-critical-security-flaws"
     },
     {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T02:00:00Z",
+     "headline": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
+     "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102"
     },
     {
      "outlet": "MercoPress",
      "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+     "time": "2026-10-22T02:14:00Z",
+     "headline": "Global alert over two critical PHP flaws forces government websites offline",
+     "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
     },
     {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T03:30:41Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198223/business/markets/websites-go-dark-as-ai-exposes-critical-security-flaws"
     },
     {
      "outlet": "Daily Maverick",
      "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+     "time": "2026-10-22T04:56:51Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T06:31:17Z",
+     "headline": "Websites Go Dark As AI Exposes Critical Security Flaws",
+     "url": "https://www.channelstv.com/2026/10/22/websites-go-dark-as-ai-exposes-critical-security-flaws/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "Websites go dark worldwide as AI exposes critical security flaws",
+     "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws?utm_source=rss"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-22T07:22:22Z",
+     "headline": "What is PHP, and why are security flaws putting European government websites at risk?",
+     "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-22T07:39:01Z",
+     "headline": "Asian governments step up cyber defenses after PHP flaw",
+     "url": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T08:25:25Z",
+     "headline": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
+     "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/"
+    },
+    {
+     "outlet": "The Local Germany",
+     "country": "DEU",
+     "time": "2026-10-22T08:35:54Z",
+     "headline": "Thousands of websites offline across Germany due to security flaw",
+     "url": "https://www.thelocal.de/20261022/thousands-of-websites-offline-across-germany-due-to-security-flaw"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T08:37:02Z",
+     "headline": "PHP security flaws alarm Korean government, companies",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alarm-korean-government-companies?utm_source=rss"
     },
     {
      "outlet": "Euronews English",
      "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+     "time": "2026-10-22T08:47:45Z",
+     "headline": "Websites go dark after AI exposes major programming language security flaw",
+     "url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+     "time": "2026-10-22T09:06:38Z",
+     "headline": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet",
+     "url": "https://www.straitstimes.com/world/websites-go-dark-worldwide-as-ai-uncovers-flaws-in-code-powering-much-of-the-internet"
     },
     {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T09:14:07Z",
+     "headline": "What is PHP, the programming language that forced government websites offline over critical security flaws?",
+     "url": "https://en.protothema.gr/2026/10/22/what-is-php-the-programming-language-that-forced-government-websites-offline-over-critical-security-flaws/"
     },
     {
-     "outlet": "NPR World",
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T09:16:43Z",
+     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://clubofmozambique.com/news/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-22T10:01:11Z",
+     "headline": "How two PHP flaws brought down websites around the world",
+     "url": "https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T11:26:32Z",
+     "headline": "Governments, companies take websites offline over PHP flaws",
+     "url": "https://www.straitstimes.com/world/governments-companies-take-websites-offline-over-php-flaws"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-22T11:36:38Z",
+     "headline": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+    },
+    {
+     "outlet": "The New York Times (World)",
      "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+     "time": "2026-10-22T11:48:14Z",
+     "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
     },
     {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T12:13:46Z",
+     "headline": "UK orders dozens of official websites offline after flaw warnings",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/uk-orders-dozens-of-official-websites-offline-after-flaw-warnings/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-22T13:02:45Z",
+     "headline": "Turkey issues cyber warning as website flaws spark global alarm",
+     "url": "https://www.turkishminute.com/2026/10/22/turkey-issues-cyber-warning-as-website-flaws-spark-global-alarm/"
+    },
+    {
+     "outlet": "Eye Radio",
+     "country": "SSD",
+     "time": "2026-10-22T13:46:25Z",
+     "headline": "National Communication Authority warns South Sudanese websites of global cybersecurity threat",
+     "url": "https://eyeradio.org/national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat/?utm_source=rss&utm_medium=rss&utm_campaign=national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:25:25Z",
+     "headline": "Websites go dark as AI exposes critical security flaws",
+     "url": "https://www.omanobserver.om/article/1198392/business/economy/websites-go-dark-as-ai-exposes-critical-security-flaws"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T15:55:08Z",
+     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
+    },
+    {
+     "outlet": "LRT English",
+     "country": "LTU",
+     "time": "2026-10-22T19:54:19Z",
+     "headline": "Around 100 Lithuanian websites vulnerable to critical PHP flaw, cybersecurity chief says",
+     "url": "https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Banks and government agencies take websites offline over PHP security flaws",
+     "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Nepal takes government websites offline over critical PHP flaws",
+     "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:32:20Z",
+     "headline": "Websites Go Dark as AI Exposes Critical Security Flaws",
+     "url": "https://english.aawsat.com/node/5332613"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T17:05:00Z",
+     "headline": "OFFLINE: SA’s Presidency website taken down as cybersecurity flaw sparks warnings across the world",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-sas-presidency-website-taken-down-as-cybersecurity-flaw-sparks-warnings-across-the-world/"
     }
    ]
   },
@@ -11891,298 +12206,6 @@
      "time": "2026-10-23T16:14:20Z",
      "headline": "Austria expels four Russian diplomats on security grounds",
      "url": "https://www.arabnews.com/world/austria-expels-four-russian-diplomats-on-security-grounds-3007913"
-    }
-   ]
-  },
-  {
-   "id": 17952,
-   "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
-   "category": "Geopolitics",
-   "importance": 5.66,
-   "risk": 2.19,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "UGA",
-    "NZL",
-    "IND",
-    "SGP",
-    "GBR",
-    "TUR",
-    "ZAF",
-    "THA",
-    "USA",
-    "CHN",
-    "ARE"
-   ],
-   "first_seen": "2026-10-21T19:57:41Z",
-   "last_seen": "2026-10-23T09:18:43Z",
-   "page": "event/17952.html",
-   "reports": [
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-21T19:57:41Z",
-     "headline": "Google staff resign in backlash over its AI contracts with military",
-     "url": "https://nilepost.co.ug/news/380575/google-staff-resign-in-backlash-over-its-ai-contracts-with-military"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:30:27Z",
-     "headline": "Defence Force chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.stuff.co.nz/nz-news/361050375/defence-force-chief-resigns-over-inappropriate-relationship"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T04:02:32Z",
-     "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T04:33:00Z",
-     "headline": "New Zealand's top military officer resigns over 'inappropriate relationship'",
-     "url": "https://www.channelnewsasia.com/world/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-6485241"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T04:44:44Z",
-     "headline": "New Zealand’s military chief steps down over ‘inappropriate relationship’",
-     "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-military-tony-davies-relationship-resigns-b3071931.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T05:12:47Z",
-     "headline": "Fenz boss resigns, a month after minister called for him to go",
-     "url": "https://www.stuff.co.nz/politics/361050425/fenz-boss-resigns-more-month-after-minister-called-him-go"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T05:26:11Z",
-     "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
-     "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T05:47:51Z",
-     "headline": "New Zealand’s top military commander resigns after admitting to ‘inappropriate relationship’",
-     "url": "https://www.aa.com.tr/en/asia-pacific/new-zealand-s-top-military-commander-resigns-after-admitting-to-inappropriate-relationship-/4097941"
-    },
-    {
-     "outlet": "RNZ National",
-     "country": "NZL",
-     "time": "2026-10-23T06:03:00Z",
-     "headline": "Fire and Emergency New Zealand chief executive Kerry Gregory resigns",
-     "url": "https://www.rnz.co.nz/news/political/2104751/fire-and-emergency-new-zealand-chief-executive-kerry-gregory-resigns"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:37:00Z",
-     "headline": "New Zealand military chief resigns over 'inappropriate relationship'",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-zealand-military-chief-resigns-over-inappropriate-relationship/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "NZ military chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.bangkokpost.com/world/3342273/nz-military-chief-resigns-over-inappropriate-relationship"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:40:32Z",
-     "headline": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
-     "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T08:00:24Z",
-     "headline": "New Zealand fire agency chief executive resigns",
-     "url": "https://english.news.cn/20261023/1a6c375f02284608a1d07aa26c93424f/c.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:01:17Z",
-     "headline": "New Zealand military chief resigns over ‘inappropriate relationship’",
-     "url": "https://gulfnews.com/world/oceania/new-zealand-military-chief-resigns-over-inappropriate-relationship-2-1.500720852"
-    },
-    {
-     "outlet": "Defense News",
-     "country": "USA",
-     "time": "2026-10-23T09:18:43Z",
-     "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
-     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
-    }
-   ]
-  },
-  {
-   "id": 16037,
-   "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-   "category": "Business",
-   "importance": 5.65,
-   "risk": 1.44,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "USA",
-    "AUS",
-    "ARE",
-    "GBR",
-    "CYP",
-    "KOR",
-    "IND",
-    "ZAF",
-    "NLD"
-   ],
-   "first_seen": "2026-10-20T16:17:54Z",
-   "last_seen": "2026-10-23T07:43:00Z",
-   "page": "event/16037.html",
-   "reports": [
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-20T16:17:54Z",
-     "headline": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
-     "url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-21T03:12:07Z",
-     "headline": "Elon Musk has hinted at a SpaceX-Tesla mega merger. Could it really happen?",
-     "url": "https://www.sbs.com.au/news/article/spacex-tesla-merger-elon-musk/cdmssm35e"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T06:53:59Z",
-     "headline": "What a merger of SpaceX and Tesla would mean",
-     "url": "https://www.thenationalnews.com/business/markets/2026/10/21/what-a-merger-of-spacex-and-tesla-would-mean/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T08:42:49Z",
-     "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-21T16:08:50Z",
-     "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-     "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-21T20:57:22Z",
-     "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-     "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-21T23:03:16Z",
-     "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-     "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T23:04:03Z",
-     "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-21T23:06:24Z",
-     "headline": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-     "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-22T05:42:19Z",
-     "headline": "Musk’s comments complicate $3.5 trillion SpaceX-Tesla merger talks",
-     "url": "https://cyprus-mail.com/2026/10/22/musks-comments-complicate-3-5-trillion-spacex-tesla-merger-talks"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-22T07:00:00Z",
-     "headline": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
-     "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Musk's public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
-     "url": "https://www.koreatimes.co.kr/world/20261022/musks-public-endorsement-of-spacex-tesla-deal-may-throw-a-wrench-in-talks?utm_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T07:27:53Z",
-     "headline": "Elon Musk's Public Endorsement Of SpaceX-Tesla Merger Worries Insiders",
-     "url": "https://www.ndtv.com/world-news/elon-musks-public-endorsement-of-spacex-tesla-merger-worries-insiders-12219003#publisher=newsstand"
-    },
-    {
-     "outlet": "News24",
-     "country": "ZAF",
-     "time": "2026-10-22T08:43:32Z",
-     "headline": "News24 | SpaceX-Tesla merger a ‘good idea’, says Musk – but China will be a thorny issue",
-     "url": "https://www.news24.com/business/companies/spacex-tesla-merger-a-good-idea-says-musk-but-china-will-be-a-thorny-issue-20261022-0469"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-22T09:00:00Z",
-     "headline": "Elon Musk’s flying Roadster was an ad for a SpaceX and Tesla merger after all",
-     "url": "https://www.fastcompany.com/91627503/elon-musks-flying-roadster-was-an-ad-for-a-spacex-and-tesla-merger-after-all"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-22T10:43:29Z",
-     "headline": "The biggest hurdle to a SpaceX merger with Tesla isn’t Elon Musk. It’s Tesla’s shareholders",
-     "url": "https://fortune.com/2026/10/22/biggest-hurdle-spacex-merger-tesla-elon-musk-shareholders/"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-22T11:16:13Z",
-     "headline": "Musk’s backing for a SpaceX-Tesla merger rattled insiders, Reuters reports",
-     "url": "https://thenextweb.com/news/spacex-tesla-merger-musk-insiders-reuters"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-22T19:09:11Z",
-     "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-     "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T07:43:00Z",
-     "headline": "Elon Musk wants to merge SpaceX and Tesla: Why it matters and what happens next",
-     "url": "https://iol.co.za/business/economy/2026-10-23-elon-musk-wants-to-merge-spacex-and-tesla-why-it-matters-and-what-happens-next/"
     }
    ]
   }
