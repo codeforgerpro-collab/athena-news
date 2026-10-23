@@ -18,6 +18,25 @@
     try{var q="?p="+encodeURIComponent(location.pathname)+"&t="+encodeURIComponent(document.title)+"&r="+encodeURIComponent(document.referrer||"")
       +"&s="+encodeURIComponent(screen.width+","+screen.height+","+(window.devicePixelRatio||1))+"&rnd="+Math.random().toString(36).slice(2);
       var im=new Image();im.src=c.getAttribute("content")+q;}catch(e){}}
+  // the rolling news bar (data/breaking.json): breaking events, or the latest important updates when nothing new broke
+  var tk=document.getElementById("ticker");
+  if(tk&&window.fetch)fetch(tk.getAttribute("data-root")+"data/breaking.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
+    var it=(j&&j.items)||[];if(!it.length)return;
+    var brk=it.every(function(x){return x.kind==="breaking";}),root=tk.getAttribute("data-root")+tk.getAttribute("data-prefix");
+    function esc(x){return String(x==null?"":x).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+    function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":"";}
+    var one=it.map(function(x){var a=ago(x.time)||"";return '<a class="ti" href="'+esc(root+x.page)+'">'+(!brk&&x.kind==="breaking"?'<em class="tn">'+(L?"Νέο":"New")+'</em>':'')+'<time datetime="'+esc(x.time)+'">'+esc(a)+'</time><b>'+esc(x.title)+'</b>'
+      +'<span class="rk '+rc(x.risk)+'">'+(L?"Κίνδυνος ":"Risk ")+x.risk.toFixed(1)+'</span></a>';}).join("");
+    var lbl=brk?(L?"Έκτακτο":"Breaking"):(L?"Τελευταία":"Latest");
+    tk.className="ticker"+(brk?"":" latest");tk.setAttribute("role","region");tk.setAttribute("aria-label",lbl);
+    tk.innerHTML='<div class="wrap"><div class="tl"><i></i>'+lbl+'<span>· '+it.length+'</span></div><div class="tv"><div class="tt">'+one+'<span aria-hidden="true" style="display:inline-flex">'+one+'</span></div></div>'
+      +'<button class="tp" type="button" aria-label="'+(L?"Παύση":"Pause")+'" title="'+(L?"Παύση / συνέχεια":"Pause / play")+'">❚❚</button></div>';
+    [].forEach.call(tk.querySelectorAll('[aria-hidden] a'),function(a){a.tabIndex=-1;});
+    var tt=tk.querySelector(".tt");tk.hidden=false;
+    var dv=document.querySelector(".dev");if(dv)dv.hidden=true;                             // the bar replaces the static "developing" strip
+    tt.style.setProperty("--tkd",Math.max(25,Math.round(tt.scrollWidth/2/60))+"s");          // ~60 px a second, whatever the number of items
+    var pb=tk.querySelector(".tp");pb.addEventListener("click",function(){var p=tk.classList.toggle("paused");pb.textContent=p?"▶":"❚❚";});
+  }).catch(function(){});
   [].forEach.call(document.querySelectorAll("time[datetime]"),function(t){var a=ago(t.getAttribute("datetime"));
     if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fmt.format(new Date(t.getAttribute("datetime")));}
     if(fmt)t.title=fmt.format(new Date(t.getAttribute("datetime")));});

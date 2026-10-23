@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:39:11Z",
+ "generated": "2026-10-23T11:58:02Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -2405,6 +2405,161 @@
    ]
   },
   {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Geopolitics",
+   "importance": 6.87,
+   "risk": 7.04,
+   "confidence": 0.85,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T11:37:09Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after attacker 'with automatic weapon' kills one and injures four near Paris",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "At least one dead and four injured in Paris suburb shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed in shooting near Paris, French Prime Minister says",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    }
+   ]
+  },
+  {
    "id": 16048,
    "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
    "category": "Society & Law",
@@ -2881,7 +3036,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-23T08:00:11Z",
-     "headline": "French interior minister says authorities will be ‘uncompromising’ with ‘vandals’ ahead of weekend protests – Europe live",
+     "headline": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
     }
    ]
@@ -3045,147 +3200,6 @@
      "time": "2026-10-22T17:58:04Z",
      "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 23956,
-   "title": "France: 1 killed, 4 wounded after shooting near Paris",
-   "category": "Society & Law",
-   "importance": 6.71,
-   "risk": 6.95,
-   "confidence": 0.85,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T11:35:25Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after one killed and several injured in Paris drive-by shooting",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "One dead and four injured in Paris drive-by shooting",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in Paris shooting",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "French prosecutors investigate Paris shooting as suspected terror attack",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "At least one dead and four injured in Paris suburb shooting",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
-     "url": "https://www.jpost.com/international/article-912650"
     }
    ]
   },
@@ -4225,6 +4239,148 @@
    ]
   },
   {
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
+   "importance": 6.5,
+   "risk": 4.65,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 15,
+   "countries": [
+    "GRC",
+    "SGP",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "PAK",
+    "DEU",
+    "ZAF",
+    "LKA",
+    "TUR",
+    "CHN"
+   ],
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T11:50:29Z",
+   "page": "event/17849.html",
+   "reports": [
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:50:29Z",
+     "headline": "Greek parliament approves social media ban for under-15s from January",
+     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
+    }
+   ]
+  },
+  {
    "id": 16293,
    "title": "Canada opens free trade talks with Turkiye",
    "category": "Geopolitics",
@@ -4404,6 +4560,100 @@
      "time": "2026-10-23T08:50:48Z",
      "headline": "Carney rejects US election interference claims, says Canada will never be 51st state",
      "url": "https://www.aa.com.tr/en/americas/carney-rejects-us-election-interference-claims-says-canada-will-never-be-51st-state/4098242"
+    }
+   ]
+  },
+  {
+   "id": 23500,
+   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
+   "category": "Energy & Environment",
+   "importance": 6.43,
+   "risk": 2.15,
+   "confidence": 0.84,
+   "status": "peaking",
+   "outlets": 9,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T11:42:30Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
     }
    ]
   },
@@ -4629,93 +4879,6 @@
      "time": "2026-10-22T19:18:00Z",
      "headline": "Albania's student protests are only getting bigger",
      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
-   "id": 23500,
-   "title": "Russian diesel heads to US after Putin-Trump deal, data shows",
-   "category": "Energy & Environment",
-   "importance": 6.37,
-   "risk": 2.08,
-   "confidence": 0.84,
-   "status": "spreading",
-   "outlets": 9,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T11:18:10Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
     }
    ]
   },
@@ -5039,140 +5202,6 @@
      "time": "2026-10-23T09:00:00Z",
      "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
-    }
-   ]
-  },
-  {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.34,
-   "risk": 4.6,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "GRC",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "PAK",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T10:00:46Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-23T10:00:46Z",
-     "headline": "Greece adopts law to ban social media access to minors under 15",
-     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
     }
    ]
   },
@@ -9746,7 +9775,7 @@
      "outlet": "Indian Express",
      "country": "IND",
      "time": "2026-10-23T02:08:07Z",
-     "headline": "Shamonda Virus: Why the first human infection in France matters",
+     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
      "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
     },
     {
@@ -10815,6 +10844,185 @@
    ]
   },
   {
+   "id": 6450,
+   "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
+   "category": "Geopolitics",
+   "importance": 5.53,
+   "risk": 1.82,
+   "confidence": 0.83,
+   "status": "peaking",
+   "outlets": 8,
+   "countries": [
+    "IRN",
+    "OMN",
+    "UZB",
+    "PHL",
+    "SGP",
+    "KOR",
+    "HKG",
+    "JPN"
+   ],
+   "first_seen": "2026-10-16T07:26:52Z",
+   "last_seen": "2026-10-23T11:38:51Z",
+   "page": "event/6450.html",
+   "reports": [
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-16T07:26:52Z",
+     "headline": "Iran’s wheelchair basketball start on high in Nagoya 2026",
+     "url": "https://www.tehrantimes.com/news/531101/Iran-s-wheelchair-basketball-start-on-high-in-Nagoya-2026"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-16T07:51:18Z",
+     "headline": "Iran blind football lose to Thailand at 2026 Asian Para Games",
+     "url": "https://www.tehrantimes.com/news/531103/Iran-blind-football-lose-to-Thailand-at-2026-Asian-Para-Games"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-16T13:55:48Z",
+     "headline": "Women’s wheelchair basketball fall to Japan in Nagoya",
+     "url": "https://www.tehrantimes.com/news/531121/Women-s-wheelchair-basketball-fall-to-Japan-in-Nagoya"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-17T06:10:05Z",
+     "headline": "2026 Nagoya: Iran’s men’s wheelchair basketball beat S. Korea",
+     "url": "https://www.tehrantimes.com/news/531138/2026-Nagoya-Iran-s-men-s-wheelchair-basketball-beat-S-Korea"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-17T07:33:49Z",
+     "headline": "Iran blind football defeat South Korea in 2026 Asian Para Games",
+     "url": "https://www.tehrantimes.com/news/531140/Iran-blind-football-defeat-South-Korea-in-2026-Asian-Para-Games"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-17T10:36:23Z",
+     "headline": "Iran women’s wheelchair basketball suffer loss against Thailand",
+     "url": "https://www.tehrantimes.com/news/531141/Iran-women-s-wheelchair-basketball-suffer-loss-against-Thailand"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-18T12:01:07Z",
+     "headline": "Al Hubaishi launches Oman’s Asian Para Games campaign",
+     "url": "https://www.omanobserver.om/article/1198007/sports/other-sports/al-hubaishi-launches-omans-asian-para-games-campaign"
+    },
+    {
+     "outlet": "Gazeta.uz (English)",
+     "country": "UZB",
+     "time": "2026-10-19T05:10:00Z",
+     "headline": "Photo report: Opening ceremony of 5th Asian Para Games Aichi-Nagoya 2026",
+     "url": "https://www.gazeta.uz/en/2026/10/19/v-asian-para-games/"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T08:31:22Z",
+     "headline": "Iran blind football beat China: 2026 Nagoya",
+     "url": "https://www.tehrantimes.com/news/531223/Iran-blind-football-beat-China-2026-Nagoya"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T08:41:54Z",
+     "headline": "Iran rout Qatar in goalball at Nagoya Para Asian Games",
+     "url": "https://www.tehrantimes.com/news/531224/Iran-rout-Qatar-10-0-in-goalball-at-Nagoya-Para-Asian-Games"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T09:30:50Z",
+     "headline": "Iranian girl Jami takes gold in taekwondo at 2026 Asian Para Games",
+     "url": "https://www.tehrantimes.com/news/531225/Iranian-girl-Jami-takes-gold-in-taekwondo-at-2026-Asian-Para"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T10:15:20Z",
+     "headline": "Iranian women para-athletes win gold and silver: 2026 Nagoya",
+     "url": "https://www.tehrantimes.com/news/531226/Iranian-women-para-athletes-win-gold-and-silver-2026-Nagoya"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T10:46:40Z",
+     "headline": "Men’s wheelchair basketball defeat the Philippines: 2026 Nagoya",
+     "url": "https://www.tehrantimes.com/news/531227/Men-s-wheelchair-basketball-defeat-the-Philippines-2026-Nagoya"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T11:31:56Z",
+     "headline": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
+     "url": "https://www.tehrantimes.com/news/531229/Women-s-wheelchair-basketball-beat-Cambodia-at-Asian-Para-Games"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T12:48:55Z",
+     "headline": "Para swimmer Zeighaminejad seizes Iran’s third gold at Nagoya",
+     "url": "https://www.tehrantimes.com/news/531240/Para-swimmer-Zeighaminejad-seizes-Iran-s-third-gold-at-Nagoya"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T12:49:53Z",
+     "headline": "Fewer Athletes, Same Big Ambitions: Iran Chases Para Games Glory",
+     "url": "https://www.tehrantimes.com/news/531241/Fewer-Athletes-Same-Big-Ambitions-Iran-Chases-Para-Games-Glory"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-19T13:34:50Z",
+     "headline": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
+     "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T04:38:00Z",
+     "headline": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
+     "url": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-22T07:03:33Z",
+     "headline": "Cho Eun-hye wins Korea's first Asian Para Games fencing gold",
+     "url": "https://www.koreaherald.com/article/10911552"
+    },
+    {
+     "outlet": "RTHK English",
+     "country": "HKG",
+     "time": "2026-10-22T08:44:58Z",
+     "headline": "HK wins silver in women's épée at Asian Para Games",
+     "url": "https://news.rthk.hk/rthk/en/component/k2/1874937-20261022.htm"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-23T11:00:12Z",
+     "headline": "Oda wins Asian Para Games wheelchair tennis gold, Paralympic berth",
+     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0sp/054000c"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-23T11:38:51Z",
+     "headline": "Men’s wheelchair basketball bag silver at 2026 Nagoya",
+     "url": "https://www.tehrantimes.com/news/531401/Men-s-wheelchair-basketball-bag-silver-at-2026-Nagoya"
+    }
+   ]
+  },
+  {
    "id": 2857,
    "title": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
    "category": "Geopolitics",
@@ -11741,137 +11949,6 @@
      "time": "2026-10-23T08:00:49Z",
      "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
      "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-    }
-   ]
-  },
-  {
-   "id": 13172,
-   "title": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
-   "category": "Geopolitics",
-   "importance": 5.46,
-   "risk": 1.33,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 11,
-   "countries": [
-    "URY",
-    "USA",
-    "FRA",
-    "TUR",
-    "QAT",
-    "SGP",
-    "MOZ",
-    "BRA",
-    "NLD"
-   ],
-   "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-23T10:30:00Z",
-   "page": "event/13172.html",
-   "reports": [
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-18T19:43:00Z",
-     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
-     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-19T06:15:00Z",
-     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
-     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T08:03:24Z",
-     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
-     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T09:21:10Z",
-     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
-     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-19T14:13:23Z",
-     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-19T14:16:05Z",
-     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
-     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T17:24:28Z",
-     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:35Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T10:06:12Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T02:21:54Z",
-     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
-     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T08:44:07Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T09:48:00Z",
-     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
-     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:02:00Z",
-     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T10:30:00Z",
-     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
-     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
     }
    ]
   }
