@@ -1,0 +1,22 @@
+{
+ "name": "ATHENA News Room",
+ "short_name": "ATHENA",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#14233b",
+ "theme_color": "#14233b",
+ "lang": "en",
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
