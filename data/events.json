@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:25:18Z",
+ "generated": "2026-10-23T18:41:19Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -251,11 +251,11 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.37,
+   "importance": 8.38,
    "risk": 7.35,
    "confidence": 0.9,
    "status": "fading",
-   "outlets": 43,
+   "outlets": 44,
    "countries": [
     "PAK",
     "IND",
@@ -284,7 +284,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T18:20:06Z",
+   "last_seen": "2026-10-23T18:36:36Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -487,7 +487,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 6 at church in southern Jordan",
+     "headline": "Gunmen kill 7 at Jordan church, king vows retaliation",
      "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
     },
     {
@@ -950,7 +950,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T13:36:47Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+     "headline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
      "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
     },
     {
@@ -1202,7 +1202,7 @@
      "outlet": "Ukrainska Pravda (English)",
      "country": "UKR",
      "time": "2026-10-23T16:13:00Z",
-     "headline": "Ukraine confirms Oleshky ceasefire for aid and civilian evacuations",
+     "headline": "Ukraine confirms Oleshky ceasefire for aid delivery and civilian evacuations",
      "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059463/"
     }
    ]
@@ -4408,7 +4408,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-23T00:27:09Z",
-     "headline": "Trilateral peace talks planned for next month - Zelensky",
+     "headline": "Ukraine and Russia confirm talks on peace to take place",
      "url": "https://www.rte.ie/news/world/2026/1023/1596527-ukraine-starlink-trump/"
     },
     {
@@ -5052,6 +5052,138 @@
      "time": "2026-10-23T17:26:13Z",
      "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 8134,
+   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+   "category": "Trade & Industry",
+   "importance": 6.62,
+   "risk": 7.13,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "SGP",
+    "CYP",
+    "ISR",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-23T18:21:13Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T17:22:07Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:25:01Z",
+     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T17:46:29Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T18:04:24Z",
+     "headline": "Iran threatens to sever Gulf internet cables in retaliation for renewed US, Israeli attacks",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T18:21:13Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.sabcnews.com/sabcnews/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
     }
    ]
   },
@@ -6865,130 +6997,6 @@
    ]
   },
   {
-   "id": 8134,
-   "title": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-   "category": "Trade & Industry",
-   "importance": 6.33,
-   "risk": 7.05,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "IRQ",
-    "IRN",
-    "KWT",
-    "ARM",
-    "OMN",
-    "USA",
-    "SGP",
-    "CYP",
-    "ISR"
-   ],
-   "first_seen": "2026-10-16T14:30:51Z",
-   "last_seen": "2026-10-23T18:04:24Z",
-   "page": "event/8134.html",
-   "reports": [
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T14:30:51Z",
-     "headline": "Iran’s undersea cable threat raises risks for Iraq",
-     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-17T12:29:27Z",
-     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
-     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T19:28:00Z",
-     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
-     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-20T05:39:00Z",
-     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
-     "url": "https://news.am/en/news/1068984"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T05:14:43Z",
-     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-21T11:33:57Z",
-     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
-     "url": "https://www.iranintl.com/en/202610216166"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T09:32:45Z",
-     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
-     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T13:32:06Z",
-     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
-     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:10:20Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T17:22:07Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:25:01Z",
-     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T17:46:29Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T18:04:24Z",
-     "headline": "Iran threatens to sever Gulf internet cables in retaliation for renewed US, Israeli attacks",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
-    }
-   ]
-  },
-  {
    "id": 12406,
    "title": "WFP cuts aid to 500,000 Palestinians in Gaza",
    "category": "Geopolitics",
@@ -8741,7 +8749,7 @@
      "outlet": "Sky News (World)",
      "country": "GBR",
      "time": "2026-10-23T16:55:00Z",
-     "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+     "headline": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
      "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
     },
     {
@@ -10137,280 +10145,6 @@
      "time": "2026-10-23T15:51:51Z",
      "headline": "Carney dismisses US accusations of Canadian election interference",
      "url": "https://www.straitstimes.com/world/carney-dismisses-us-accusations-of-canadian-election-interference"
-    }
-   ]
-  },
-  {
-   "id": 6981,
-   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-   "category": "Business",
-   "importance": 5.83,
-   "risk": 1.33,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 20,
-   "countries": [
-    "ARE",
-    "ZAF",
-    "SGP",
-    "USA",
-    "COL",
-    "PAK",
-    "TWN",
-    "IND",
-    "SAU",
-    "KOR",
-    "NLD",
-    "CYP"
-   ],
-   "first_seen": "2026-10-16T09:13:27Z",
-   "last_seen": "2026-10-23T14:04:00Z",
-   "page": "event/6981.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T09:13:27Z",
-     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-16T13:13:00Z",
-     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T14:17:00Z",
-     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
-     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-16T22:31:26Z",
-     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-17T04:01:00Z",
-     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
-     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-17T11:27:08Z",
-     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T13:00:00Z",
-     "headline": "iPhone Duo orders open in South Africa at R48k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
-    },
-    {
-     "outlet": "News24",
-     "country": "ZAF",
-     "time": "2026-10-19T15:52:21Z",
-     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
-     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T12:28:35Z",
-     "headline": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T14:57:30Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Apple’s iPhone factories will not make India the next China",
-     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:51:22Z",
-     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:52:45Z",
-     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
-     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T03:30:19Z",
-     "headline": "6 things to know before you buy the iPhone Duo",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T07:20:48Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T08:46:00Z",
-     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T11:22:04Z",
-     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
-     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:27:10Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T01:10:00Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:26:45Z",
-     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
-     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:41:12Z",
-     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
-     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:54:14Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T05:07:00Z",
-     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T05:56:19Z",
-     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
-     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T06:12:57Z",
-     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
-     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:32:24Z",
-     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
-     "url": "https://english.aawsat.com/node/5332596"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:50Z",
-     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
-     "url": "https://www.koreaherald.com/article/10912978"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:18:36Z",
-     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
-     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:59:01Z",
-     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
-     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:23:31Z",
-     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
-     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T08:54:10Z",
-     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
-     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T11:07:09Z",
-     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
-     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T11:14:58Z",
-     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
-     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-23T11:54:00Z",
-     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
-     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:04:00Z",
-     "headline": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed",
-     "url": "https://iol.co.za/technology/2026-10-23-iphone-duo-south-africa-launch-apples-r48000-foldable-reviewed/"
     }
    ]
   },
@@ -12356,6 +12090,165 @@
      "time": "2026-10-23T09:18:43Z",
      "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
      "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
+    }
+   ]
+  },
+  {
+   "id": 16037,
+   "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+   "category": "Business",
+   "importance": 5.65,
+   "risk": 1.44,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "USA",
+    "AUS",
+    "ARE",
+    "GBR",
+    "CYP",
+    "KOR",
+    "IND",
+    "ZAF",
+    "NLD"
+   ],
+   "first_seen": "2026-10-20T16:17:54Z",
+   "last_seen": "2026-10-23T07:43:00Z",
+   "page": "event/16037.html",
+   "reports": [
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-20T16:17:54Z",
+     "headline": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+     "url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-21T03:12:07Z",
+     "headline": "Elon Musk has hinted at a SpaceX-Tesla mega merger. Could it really happen?",
+     "url": "https://www.sbs.com.au/news/article/spacex-tesla-merger-elon-musk/cdmssm35e"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T06:53:59Z",
+     "headline": "What a merger of SpaceX and Tesla would mean",
+     "url": "https://www.thenationalnews.com/business/markets/2026/10/21/what-a-merger-of-spacex-and-tesla-would-mean/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T08:42:49Z",
+     "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-21T16:08:50Z",
+     "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+     "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-21T20:57:22Z",
+     "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+     "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-21T23:03:16Z",
+     "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+     "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T23:04:03Z",
+     "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-21T23:06:24Z",
+     "headline": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+     "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-22T05:42:19Z",
+     "headline": "Musk’s comments complicate $3.5 trillion SpaceX-Tesla merger talks",
+     "url": "https://cyprus-mail.com/2026/10/22/musks-comments-complicate-3-5-trillion-spacex-tesla-merger-talks"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-22T07:00:00Z",
+     "headline": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
+     "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "Musk's public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
+     "url": "https://www.koreatimes.co.kr/world/20261022/musks-public-endorsement-of-spacex-tesla-deal-may-throw-a-wrench-in-talks?utm_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T07:27:53Z",
+     "headline": "Elon Musk's Public Endorsement Of SpaceX-Tesla Merger Worries Insiders",
+     "url": "https://www.ndtv.com/world-news/elon-musks-public-endorsement-of-spacex-tesla-merger-worries-insiders-12219003#publisher=newsstand"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-22T08:43:32Z",
+     "headline": "News24 | SpaceX-Tesla merger a ‘good idea’, says Musk – but China will be a thorny issue",
+     "url": "https://www.news24.com/business/companies/spacex-tesla-merger-a-good-idea-says-musk-but-china-will-be-a-thorny-issue-20261022-0469"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-22T09:00:00Z",
+     "headline": "Elon Musk’s flying Roadster was an ad for a SpaceX and Tesla merger after all",
+     "url": "https://www.fastcompany.com/91627503/elon-musks-flying-roadster-was-an-ad-for-a-spacex-and-tesla-merger-after-all"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-22T10:43:29Z",
+     "headline": "The biggest hurdle to a SpaceX merger with Tesla isn’t Elon Musk. It’s Tesla’s shareholders",
+     "url": "https://fortune.com/2026/10/22/biggest-hurdle-spacex-merger-tesla-elon-musk-shareholders/"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-22T11:16:13Z",
+     "headline": "Musk’s backing for a SpaceX-Tesla merger rattled insiders, Reuters reports",
+     "url": "https://thenextweb.com/news/spacex-tesla-merger-musk-insiders-reuters"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-22T19:09:11Z",
+     "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+     "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T07:43:00Z",
+     "headline": "Elon Musk wants to merge SpaceX and Tesla: Why it matters and what happens next",
+     "url": "https://iol.co.za/business/economy/2026-10-23-elon-musk-wants-to-merge-spacex-and-tesla-why-it-matters-and-what-happens-next/"
     }
    ]
   }
