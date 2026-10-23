@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T20:34:25Z",
+ "generated": "2026-10-23T20:50:26Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -7,7 +7,7 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.42,
+   "importance": 8.36,
    "risk": 8.11,
    "confidence": 0.9,
    "status": "peaking",
@@ -1554,12 +1554,12 @@
   },
   {
    "id": 9153,
-   "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
+   "title": "IRGC say tanker on fire after hitting mine in Strait of Hormuz",
    "category": "Trade & Industry",
-   "importance": 7.28,
-   "risk": 3.32,
+   "importance": 7.35,
+   "risk": 3.51,
    "confidence": 0.88,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 36,
    "countries": [
     "ARE",
@@ -1588,7 +1588,7 @@
     "AUS"
    ],
    "first_seen": "2026-10-17T04:27:36Z",
-   "last_seen": "2026-10-23T20:27:11Z",
+   "last_seen": "2026-10-23T20:35:25Z",
    "page": "event/9153.html",
    "reports": [
     {
@@ -4546,7 +4546,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war with US and Israel resumes, officials say",
      "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
     },
     {
@@ -8305,319 +8305,6 @@
    ]
   },
   {
-   "id": 2857,
-   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-   "category": "Geopolitics",
-   "importance": 6.07,
-   "risk": 1.93,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 22,
-   "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
-    "IRL",
-    "DEU",
-    "ZAF",
-    "FRA",
-    "AZE",
-    "TWN",
-    "CUB",
-    "OMN"
-   ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-23T19:49:44Z",
-   "page": "event/2857.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
-     "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
-    }
-   ]
-  },
-  {
    "id": 12372,
    "title": "Houthi missile strike kills at least 40 in Yemen’s Shabwa province",
    "category": "Geopolitics",
@@ -9196,6 +8883,320 @@
    ]
   },
   {
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
+   "importance": 6.02,
+   "risk": 1.9,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 23,
+   "countries": [
+    "ARG",
+    "USA",
+    "SGP",
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB",
+    "OMN",
+    "NGA"
+   ],
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-23T21:30:57Z",
+   "page": "event/2857.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
+    },
+    {
+     "outlet": "Democracy Now!",
+     "country": "USA",
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
+    }
+   ]
+  },
+  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -9318,6 +9319,138 @@
      "time": "2026-10-23T18:00:00Z",
      "headline": "Airbnb host floats 'dishes and utensils fee' as guest chore ban sparks debate",
      "url": "https://www.abc.net.au/news/2026-10-24/airbnb-checkout-chores-ban-backlash/107300484"
+    }
+   ]
+  },
+  {
+   "id": 18349,
+   "title": "US could strike Iran this weekend, envoy says",
+   "category": "Geopolitics",
+   "importance": 5.97,
+   "risk": 3.88,
+   "confidence": 0.94,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "ARE",
+    "QAT",
+    "IRQ",
+    "SAU",
+    "NGA",
+    "KOR",
+    "IND",
+    "RUS",
+    "TUR",
+    "GRC"
+   ],
+   "first_seen": "2026-10-20T19:02:14Z",
+   "last_seen": "2026-10-23T20:44:02Z",
+   "page": "event/18349.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-20T19:02:14Z",
+     "headline": "Iran not an 'evil regime', US ambassador Tom Barrack says",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T10:51:11Z",
+     "headline": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T11:12:51Z",
+     "headline": "Syria's Sharaa meets US envoy Barrack amid Israeli attacks",
+     "url": "https://www.newarab.com/news/syrias-sharaa-meets-us-envoy-barrack-amid-israeli-attacks"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T17:25:33Z",
+     "headline": "Barrack Warns Of Possible US Strike On Iran ‘This Weekend’",
+     "url": "https://www.kurdistan24.net/en/story/948076/barrack-warns-of-possible-us-strike-on-iran-this-weekend"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:41:17Z",
+     "headline": "US could strike Iran this weekend, envoy says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-could-strike-iran-weekend-envoy-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T18:31:20Z",
+     "headline": "US could strike Iran this weekend, envoy says",
+     "url": "https://www.arabnews.com/middle-east/us-could-strike-iran-this-weekend-envoy-says-3007955"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T18:31:56Z",
+     "headline": "US could strike Iran this weekend, envoy says",
+     "url": "https://www.vanguardngr.com/2026/10/us-could-strike-iran-this-weekend-envoy-says/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T18:37:03Z",
+     "headline": "US could strike Iran this weekend, envoy says",
+     "url": "https://www.koreatimes.co.kr/world/20261024/us-could-strike-iran-this-weekend-envoy-says?utm_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T18:46:06Z",
+     "headline": "US Could \"Absolutely\" Strike Iran This Weekend, Says Envoy",
+     "url": "https://www.ndtv.com/world-news/us-could-absolutely-strike-iran-this-weekend-says-envoy-12227693#publisher=newsstand"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T19:01:50Z",
+     "headline": "Tom Barrack signals possible Iran strikes this weekend",
+     "url": "https://shafaq.com/en/World/Tom-Barrack-signals-possible-Iran-strikes-this-weekend"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T19:24:54Z",
+     "headline": "Trump denies his envoy’s statement about potential strike on Iran this weekend",
+     "url": "https://tass.com/world/2207161"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T19:26:34Z",
+     "headline": "US could strike Iran weekend – Envoy",
+     "url": "https://punchng.com/us-could-strike-iran-weekend-envoy/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T19:50:46Z",
+     "headline": "Trump: US could launch another military operation against Iran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-could-launch-another-military-operation-against-iran"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T20:11:08Z",
+     "headline": "US envoy suggests Iran strikes possible this weekend, Trump says he's unaware",
+     "url": "https://www.aa.com.tr/en/americas/us-envoy-suggests-iran-strikes-possible-this-weekend-trump-says-hes-unaware/4099059"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T20:44:02Z",
+     "headline": "Trump Dismisses Envoy Tom Barrack’s Claim of Possible US Strike on Iran This Weekend",
+     "url": "https://greekcitytimes.com/2026/10/24/trump-dismisses-envoy-tom-barracks-claim-of-possible-us-strike-on-iran-this-weekend/"
     }
    ]
   },
@@ -12297,277 +12430,6 @@
      "time": "2026-10-23T19:45:30Z",
      "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
      "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
-    }
-   ]
-  },
-  {
-   "id": 16809,
-   "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
-   "category": "Geopolitics",
-   "importance": 5.67,
-   "risk": 6.24,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "SAU",
-    "UKR",
-    "RUS",
-    "CHN",
-    "IRQ",
-    "CAN",
-    "USA",
-    "GBR",
-    "AZE"
-   ],
-   "first_seen": "2026-10-20T08:20:46Z",
-   "last_seen": "2026-10-22T19:41:50Z",
-   "page": "event/16809.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T08:20:46Z",
-     "headline": "Zelensky Meets Witkoff as US-Ukraine Relations Sink to New Lows",
-     "url": "https://english.aawsat.com/node/5331462"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T09:52:06Z",
-     "headline": "Witkoff to Meet Zelensky, European Leaders in Oslo Before Moscow Trip",
-     "url": "https://www.kyivpost.com/post/87601"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-20T18:00:00Z",
-     "headline": "Kremlin Hopes Witkoff Will ‘Brief’ Putin on Talks With Ukraine and Europe",
-     "url": "https://www.themoscowtimes.com/2026/10/20/kremlin-hopes-witkoff-will-brief-putin-on-talks-with-ukraine-and-europe-a94029"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T18:59:57Z",
-     "headline": "US Restores Intelligence to Ukraine as Witkoff Carries Peace Proposals to Putin",
-     "url": "https://www.kyivpost.com/post/87670"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T20:30:04Z",
-     "headline": "Trump Says Ukraine ‘Has to Want to Make a Deal’ as Witkoff Heads to Russia",
-     "url": "https://www.kyivpost.com/post/87673"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T05:29:21Z",
-     "headline": "US special envoy Witkoff to arrive in Russia: reports",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq4xa2jb6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T05:54:28Z",
-     "headline": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq6krSzoYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T07:13:45Z",
-     "headline": "Witkoff arrives in St. Petersburg for talks with Putin, where he’s expected to present an ‘updated plan’ to end the war",
-     "url": "https://meduza.io/en/news/2026/10/21/witkoff-arrives-in-st-petersburg-for-talks-with-putin-where-he-s-expected-to-present-an-updated-plan-to-end-the-war"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T08:08:16Z",
-     "headline": "Witkoff Arrives in St. Petersburg for Putin Talks as US and Ukraine Agree on Peace Proposals",
-     "url": "https://www.kyivpost.com/post/87704"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-21T08:48:25Z",
-     "headline": "US Envoy Witkoff Arrives In St. Petersburg",
-     "url": "https://www.kurdistan24.net/en/story/947586/us-envoy-witkoff-arrives-in-st-petersburg-for-talks-with-russian-officials"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T08:56:22Z",
-     "headline": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rqjkq8gqn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-21T09:30:47Z",
-     "headline": "Witkoff Meets Putin In St. Petersburg: Foundation For Ukraine Ceasefire Exists",
-     "url": "https://www.kurdistan24.net/en/story/947601/witkoff-meets-putin-in-st-petersburg-foundation-for-ukraine-ceasefire-exists"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-21T11:40:03Z",
-     "headline": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
-     "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616?cmp=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-21T11:58:13Z",
-     "headline": "Putin, Witkoff meet in Russia for Ukraine war talks",
-     "url": "https://www.newarab.com/news/putin-witkoff-meet-russia-ukraine-war-talks"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T12:13:10Z",
-     "headline": "Trump Envoy Witkoff Calls Putin a ‘Humanist’ Amid Deadly Russian Attacks on Ukraine",
-     "url": "https://www.kyivpost.com/post/87749"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-21T13:58:20Z",
-     "headline": "Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
-     "url": "https://kyivindependent.com/kremlin-ready-to-resume-trilateral-peace-talks-with-us-ukraine-putin-claims/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:20:38Z",
-     "headline": "Putin and U.S. envoy Witkoff hold talks in St. Petersburg as Washington pushes a new plan to end the war in Ukraine",
-     "url": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T16:07:09Z",
-     "headline": "‘We Need to Move On’: Zelensky Won’t Wait in Oslo for Witkoff After Putin Meeting",
-     "url": "https://www.kyivpost.com/post/87773"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T17:15:19Z",
-     "headline": "Russia says Ukraine must make \"necessary decisions\" to end the war",
-     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
-    },
-    {
-     "outlet": "Interfax-Ukraine (English)",
-     "country": "UKR",
-     "time": "2026-10-21T17:47:33Z",
-     "headline": "Talks in St. Petersburg, Oslo constructive; work under way to organise US-Russia-Ukraine trilateral meeting – Witkoff",
-     "url": "https://en.interfax.com.ua/news/general/1224154.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-21T17:57:48Z",
-     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-     "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-21T18:13:00Z",
-     "headline": "Witkoff says trilateral talks between the US, Russia, and Ukraine to continue at technical level",
-     "url": "https://www.ukrinform.net/rubric-polytics/4176846-witkoff-says-trilateral-talks-between-the-us-russia-and-ukraine-to-continue-at-technical-level.html"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-21T18:15:43Z",
-     "headline": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-     "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-21T19:36:12Z",
-     "headline": "Trilateral talks could be held in early November following Witkoff–Putin meeting, Zelensky says",
-     "url": "https://www.ukrinform.net/rubric-polytics/4176864-trilateral-talks-could-be-held-in-early-november-following-witkoffputin-meeting-zelensky-says.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T20:39:58Z",
-     "headline": "Zelensky Confirms Trilateral Talks With US, Russia Could Take Place by Early November",
-     "url": "https://www.kyivpost.com/post/87793"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T02:39:02Z",
-     "headline": "Witkoff Reveals US Treasury Working With Putin’s Envoy on Economic Ties",
-     "url": "https://www.kyivpost.com/post/87800"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T04:00:00Z",
-     "headline": "Witkoff: US, Russia, Ukraine to continue technical talks",
-     "url": "https://www.azernews.az/region/265976.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T09:34:36Z",
-     "headline": "Putin meets U.S. special envoy Witkoff in St. Petersburg",
-     "url": "https://english.news.cn/20261022/33b106ca99b845c3bd7c80396b8beaed/c.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T11:19:37Z",
-     "headline": "Putin the Humanist? 10 Ways Russia Has Shown Its ‘Humanity’ in Ukraine",
-     "url": "https://www.kyivpost.com/post/87867"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T12:47:13Z",
-     "headline": "Witkoff Meets Putin: Any Progress on Ukraine?",
-     "url": "https://www.kyivpost.com/post/87876"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T14:06:50Z",
-     "headline": "Witkoff feels optimistic after meeting with Putin — Vance",
-     "url": "https://tass.com/world/2206351"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-22T15:20:31Z",
-     "headline": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
-     "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-22T16:21:00Z",
-     "headline": "UK rejects Witkoff’s characterization of Putin as “humanitarian”",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177215-uk-rejects-witkoffs-characterization-of-putin-as-humanitarian.html"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T17:27:00Z",
-     "headline": "UK rejects Witkoff's description of Putin as 'humanitarian'",
-     "url": "https://www.azernews.az/region/266034.html"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-22T19:41:50Z",
-     "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
-     "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
     }
    ]
   }
