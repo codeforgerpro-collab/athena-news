@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:33:53Z",
+ "generated": "2026-10-23T15:56:53Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -290,7 +290,7 @@
      "outlet": "BBC News",
      "country": "GBR",
      "time": "2026-10-23T09:44:40Z",
-     "headline": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -324,215 +324,14 @@
    ]
   },
   {
-   "id": 23500,
-   "title": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-   "category": "Energy & Environment",
-   "importance": 8.22,
-   "risk": 2.7,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 24,
-   "countries": [
-    "AZE",
-    "GBR",
-    "LKA",
-    "TUR",
-    "CYP",
-    "UKR",
-    "PAK",
-    "IND",
-    "IRQ",
-    "SAU",
-    "CHN",
-    "ARM",
-    "USA",
-    "ARE",
-    "THA",
-    "SGP"
-   ],
-   "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T15:03:07Z",
-   "page": "event/23500.html",
-   "reports": [
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:25:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:05:18Z",
-     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
-     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T08:06:49Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:18:09Z",
-     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
-     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T08:40:00Z",
-     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
-     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:55:44Z",
-     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
-     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:20:06Z",
-     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:07:05Z",
-     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
-     "url": "https://www.kyivpost.com/post/87980"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T11:18:10Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T11:42:30Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
-     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T12:01:36Z",
-     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
-     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
-     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:49:38Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
-     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:54:00Z",
-     "headline": "US set to receive first Russian diesel shipment since 2022",
-     "url": "https://www.azernews.az/region/266084.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:02:22Z",
-     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
-     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T13:14:00Z",
-     "headline": "Kremlin spox reports on sending of first tanker with Russian diesel fuel to US",
-     "url": "https://news.am/en/news/1069877"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-23T13:26:19Z",
-     "headline": "The first Russian diesel tanker under Trump’s deal with Putin is headed to New York, the first such shipment since 2023",
-     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
-    },
-    {
-     "outlet": "OilPrice.com",
-     "country": "GBR",
-     "time": "2026-10-23T13:30:00Z",
-     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T13:36:59Z",
-     "headline": "Tanker with Russian diesel heads to New York under Trump deal",
-     "url": "https://gulfnews.com/world/americas/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal-2-1.500721325"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T13:52:53Z",
-     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
-     "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Tanker with Russian diesel heads to New York",
-     "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T14:32:26Z",
-     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
-     "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
-    },
-    {
-     "outlet": "FreightWaves",
-     "country": "USA",
-     "time": "2026-10-23T14:37:51Z",
-     "headline": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
-     "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T15:03:07Z",
-     "headline": "Russia begins diesel shipments under Trump agreement",
-     "url": "https://shafaq.com/en/World/Russia-begins-diesel-shipments-under-Trump-agreement"
-    }
-   ]
-  },
-  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 7.99,
-   "risk": 7.95,
+   "importance": 8.33,
+   "risk": 8.09,
    "confidence": 0.89,
    "status": "spreading",
-   "outlets": 37,
+   "outlets": 40,
    "countries": [
     "PAK",
     "IND",
@@ -555,10 +354,13 @@
     "NZL",
     "NGA",
     "FRA",
-    "IRQ"
+    "IRQ",
+    "IRN",
+    "KWT",
+    "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T15:18:06Z",
+   "last_seen": "2026-10-23T15:46:20Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -810,7 +612,7 @@
      "outlet": "CBS News (World)",
      "country": "USA",
      "time": "2026-10-23T13:39:27Z",
-     "headline": "Gunmen kill at least 6 in attack on Jordan church, authorities say",
+     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
     },
     {
@@ -819,6 +621,13 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:46:30Z",
+     "headline": "Six killed in attack at church in Jordan, authorities say",
+     "url": "https://www.al-monitor.com/originals/2026/10/six-killed-attack-church-jordan-authorities-say"
     },
     {
      "outlet": "TASS (English)",
@@ -833,25 +642,219 @@
      "time": "2026-10-23T13:50:00Z",
      "headline": "Jordan: Karak church shooting leaves 6 dead, dozens injured",
      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-6-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "id": 23500,
+   "title": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+   "category": "Energy & Environment",
+   "importance": 8.22,
+   "risk": 2.7,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 24,
+   "countries": [
+    "AZE",
+    "GBR",
+    "LKA",
+    "TUR",
+    "CYP",
+    "UKR",
+    "PAK",
+    "IND",
+    "IRQ",
+    "SAU",
+    "CHN",
+    "ARM",
+    "USA",
+    "ARE",
+    "THA",
+    "SGP"
+   ],
+   "first_seen": "2026-10-23T07:25:00Z",
+   "last_seen": "2026-10-23T15:03:07Z",
+   "page": "event/23500.html",
+   "reports": [
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T07:25:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://en.apa.az/cis-countries/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows-531782"
     },
     {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T13:54:07Z",
-     "headline": "Gunmen open fire at church during funeral in Jordan, killing seven",
-     "url": "https://www.stuff.co.nz/world-news/361050498/gunmen-open-fire-inside-church-jordan-causing-deaths"
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T08:05:18Z",
+     "headline": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/russian-diesel-tanker-trump-new-york-b3072005.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T08:06:49Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://www.dailymirror.lk/international/Russian-diesel-heads-to-US-after-Putin-Trump-deal--data-shows/107-353255"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T08:18:09Z",
+     "headline": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
+     "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T08:40:00Z",
+     "headline": "Russian diesel heads to US after Putin-Trump deal, data shows",
+     "url": "https://cyprus-mail.com/2026/10/23/russian-diesel-heads-to-us-after-putin-trump-deal-data-shows"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:55:44Z",
+     "headline": "First tanker with Russian diesel under Trump deal heads to US, Reuters reports",
+     "url": "https://kyivindependent.com/first-tanker-with-russian-diesel-under-trump-deal-heads-to-us-reuters-reports/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:20:06Z",
+     "headline": "Kremlin says ‘1st tanker’ carrying Russian diesel fuel as part of deal with US has departed",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-1st-tanker-carrying-russian-diesel-fuel-as-part-of-deal-with-us-has-departed/4098372"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:07:05Z",
+     "headline": "Russian Diesel Tanker Heads to New York After Trump-Putin Deal",
+     "url": "https://www.kyivpost.com/post/87980"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T11:18:10Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.brecorder.com/news/40445630/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T11:42:30Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests",
+     "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ukraine-vladimir-putin-kremlin-moscow-b3072175.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T12:01:36Z",
+     "headline": "Russian Diesel Tanker Leaves For US After Trump's Oil Deal With Moscow",
+     "url": "https://www.ndtv.com/world-news/russian-diesel-tanker-leaves-for-us-after-donald-trumps-oil-deal-with-moscow-12225713#publisher=newsstand"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+     "url": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:49:38Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine’s protests",
+     "url": "https://www.arabnews.com/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests-3007895"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:54:00Z",
+     "headline": "US set to receive first Russian diesel shipment since 2022",
+     "url": "https://www.azernews.az/region/266084.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:02:22Z",
+     "headline": "First Russian diesel tanker heads for U.S. under agreements: Kremlin",
+     "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T13:14:00Z",
+     "headline": "Kremlin spox reports on sending of first tanker with Russian diesel fuel to US",
+     "url": "https://news.am/en/news/1069877"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T13:26:19Z",
+     "headline": "The first Russian diesel tanker under Trump’s deal with Putin is headed to New York, the first such shipment since 2023",
+     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
+    },
+    {
+     "outlet": "OilPrice.com",
+     "country": "GBR",
+     "time": "2026-10-23T13:30:00Z",
+     "headline": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T13:36:59Z",
+     "headline": "Tanker with Russian diesel heads to New York under Trump deal",
+     "url": "https://gulfnews.com/world/americas/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal-2-1.500721325"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T13:52:53Z",
+     "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
+     "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Tanker with Russian diesel heads to New York",
+     "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T14:32:26Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
+    },
+    {
+     "outlet": "FreightWaves",
+     "country": "USA",
+     "time": "2026-10-23T14:37:51Z",
+     "headline": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+     "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T15:03:07Z",
+     "headline": "Russia begins diesel shipments under Trump agreement",
+     "url": "https://shafaq.com/en/World/Russia-begins-diesel-shipments-under-Trump-agreement"
     }
    ]
   },
   {
    "id": 24812,
-   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+   "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
    "category": "Geopolitics",
-   "importance": 7.62,
-   "risk": 2.72,
+   "importance": 7.68,
+   "risk": 2.68,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 26,
+   "outlets": 29,
    "countries": [
     "PAK",
     "CHN",
@@ -870,7 +873,7 @@
     "NGA"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T15:46:23Z",
+   "last_seen": "2026-10-23T15:49:07Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1042,6 +1045,13 @@
      "url": "https://thehill.com/policy/international/6167822-melania-trump-oleshky-ceasefire/"
     },
     {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T15:09:21Z",
+     "headline": "White House says Melania Trump brokered a Russia-Ukraine ceasefire—but just in one city",
+     "url": "https://fortune.com/2026/10/23/melania-trump-russia-ukraine-localized-ceasefire/"
+    },
+    {
      "outlet": "Kyiv Post",
      "country": "UKR",
      "time": "2026-10-23T15:14:00Z",
@@ -1056,6 +1066,13 @@
      "url": "https://tass.com/politics/2207035"
     },
     {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T15:26:03Z",
+     "headline": "\"Situation Dire\": Melania Trump Says She Secured Ceasefire In Ukrainian City",
+     "url": "https://www.ndtv.com/world-news/situation-dire-melania-trump-says-she-secured-ceasefire-in-ukrainian-city-12226918#publisher=newsstand"
+    },
+    {
      "outlet": "Cyprus Mail",
      "country": "CYP",
      "time": "2026-10-23T15:30:12Z",
@@ -1063,11 +1080,53 @@
      "url": "https://cyprus-mail.com/2026/10/23/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
     },
     {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T15:37:12Z",
+     "headline": "Kremlin confirms Oleshky ceasefire, says working with Ukraine on evacuation timing",
+     "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T15:38:40Z",
+     "headline": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
+     "url": "https://tass.com/politics/2207063"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:40:00Z",
+     "headline": "Ukraine confirms local ceasefire to enable evacuation from Oleshky",
+     "url": "https://www.ukrinform.net/rubric-ato/4177572-ukraine-confirms-local-ceasefire-to-enable-evacuation-from-oleshky.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:45:54Z",
+     "headline": "Melania's focus is ‘to save children,’ Trump says after Oleshky truce deal",
+     "url": "https://www.aa.com.tr/en/americas/melanias-focus-is-to-save-children-trump-says-after-oleshky-truce-deal/4098842"
+    },
+    {
      "outlet": "Punch",
      "country": "NGA",
      "time": "2026-10-23T15:46:23Z",
      "headline": "Melania Trump says secured ceasefire in Ukrainian city of Oleshky",
      "url": "https://punchng.com/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:48:24Z",
+     "headline": "Kremlin welcomes Melania Trump’s efforts on Oleshky truce",
+     "url": "https://www.aa.com.tr/en/americas/kremlin-welcomes-melania-trump-s-efforts-on-oleshky-truce/4098850"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T15:49:07Z",
+     "headline": "How Melania Trump helped broker Oleshky ceasefire between Russia, Ukraine. White House reveals",
+     "url": "https://indianexpress.com/article/world/melania-trump-brokered-russia-ukraine-ceasefire-oleshky-evacuation-10934246/"
     }
    ]
   },
@@ -7828,6 +7887,195 @@
    ]
   },
   {
+   "id": 23496,
+   "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+   "category": "Trade & Industry",
+   "importance": 6.07,
+   "risk": 7.35,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
+    "USA",
+    "DEU",
+    "ZAF",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-23T15:52:03Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    }
+   ]
+  },
+  {
    "id": 12372,
    "title": "Houthi missile strike kills at least 40 in Yemen’s Shabwa province",
    "category": "Geopolitics",
@@ -8883,274 +9131,6 @@
    ]
   },
   {
-   "id": 23981,
-   "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-   "category": "Geopolitics",
-   "importance": 5.91,
-   "risk": 0.0,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 10,
-   "countries": [
-    "PAK",
-    "TUR",
-    "SGP",
-    "CYP",
-    "CAN",
-    "USA",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T05:00:54Z",
-   "last_seen": "2026-10-23T14:21:28Z",
-   "page": "event/23981.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T05:00:54Z",
-     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
-     "url": "https://tribune.com.pk/story/2636496/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:50:48Z",
-     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
-     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098242"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T09:51:45Z",
-     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-     "url": "https://www.straitstimes.com/world/europe/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:59:24Z",
-     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-     "url": "https://cyprus-mail.com/2026/10/23/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:43:04Z",
-     "headline": "Carney defends doing business with countries that don’t share Canada’s values",
-     "url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771?cmp=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T11:04:27Z",
-     "headline": "Canada needs Turkish defense expertise to protect Canadians: Carney",
-     "url": "https://www.turkiyetoday.com/world/canada-needs-turkish-defense-expertise-to-protect-canadians-carney-3230872"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T12:15:51Z",
-     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
-     "url": "https://www.hurriyetdailynews.com/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier-228518"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-23T13:56:52Z",
-     "headline": "Carney sees growing chances for Canadian role in Turkey’s nuclear plans",
-     "url": "https://www.turkishminute.com/2026/10/23/carney-sees-growing-chances-for-canadian-role-in-turkeys-nuclear-plans/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T14:21:28Z",
-     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
-     "url": "https://www.arabnews.com/middle-east/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye-3007901"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-   "category": "Trade & Industry",
-   "importance": 5.9,
-   "risk": 7.32,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-23T14:33:01Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    }
-   ]
-  },
-  {
    "id": 21874,
    "title": "Alien and Top Gun actor Tom Skerritt dies at 93",
    "category": "Society & Law",
@@ -9259,6 +9239,100 @@
      "time": "2026-10-23T10:58:34Z",
      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
      "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
+    }
+   ]
+  },
+  {
+   "id": 23981,
+   "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+   "category": "Geopolitics",
+   "importance": 5.85,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 10,
+   "countries": [
+    "PAK",
+    "TUR",
+    "SGP",
+    "CYP",
+    "CAN",
+    "USA",
+    "SAU"
+   ],
+   "first_seen": "2026-10-23T05:00:54Z",
+   "last_seen": "2026-10-23T15:51:51Z",
+   "page": "event/23981.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:00:54Z",
+     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
+     "url": "https://tribune.com.pk/story/2636496/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:50:48Z",
+     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
+     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098242"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T09:51:45Z",
+     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+     "url": "https://www.straitstimes.com/world/europe/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T09:59:24Z",
+     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+     "url": "https://cyprus-mail.com/2026/10/23/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:43:04Z",
+     "headline": "Carney defends doing business with countries that don’t share Canada’s values",
+     "url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771?cmp=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T11:04:27Z",
+     "headline": "Canada needs Turkish defense expertise to protect Canadians: Carney",
+     "url": "https://www.turkiyetoday.com/world/canada-needs-turkish-defense-expertise-to-protect-canadians-carney-3230872"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T12:15:51Z",
+     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
+     "url": "https://www.hurriyetdailynews.com/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier-228518"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-23T13:56:52Z",
+     "headline": "Carney sees growing chances for Canadian role in Turkey’s nuclear plans",
+     "url": "https://www.turkishminute.com/2026/10/23/carney-sees-growing-chances-for-canadian-role-in-turkeys-nuclear-plans/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T14:21:28Z",
+     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
+     "url": "https://www.arabnews.com/middle-east/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye-3007901"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T15:51:51Z",
+     "headline": "Carney dismisses US accusations of Canadian election interference",
+     "url": "https://www.straitstimes.com/world/carney-dismisses-us-accusations-of-canadian-election-interference"
     }
    ]
   },
@@ -12055,141 +12129,189 @@
    ]
   },
   {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "id": 15200,
+   "title": "Top European, Mideast diplomats to meet in İstanbul Friday",
    "category": "Geopolitics",
-   "importance": 5.63,
-   "risk": 4.5,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 12,
+   "importance": 5.65,
+   "risk": 6.66,
+   "confidence": 0.92,
+   "status": "peaking",
+   "outlets": 15,
    "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
     "TUR",
+    "PAK",
+    "SGP",
+    "SAU",
+    "USA",
+    "CYP",
+    "QAT",
     "IRN",
-    "ARM",
-    "ISR"
+    "ARE"
    ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-22T18:12:21Z",
-   "page": "event/12369.html",
+   "first_seen": "2026-10-19T09:38:00Z",
+   "last_seen": "2026-10-23T15:35:32Z",
+   "page": "event/15200.html",
    "reports": [
     {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-19T09:38:00Z",
+     "headline": "Fidan to meet EU top diplomat, Rutte in Brussels",
+     "url": "https://www.hurriyetdailynews.com/fidan-to-meet-eu-chief-rutte-in-brussels-228306"
     },
     {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-20T06:01:05Z",
+     "headline": "Turkish ministers in Brussels for security, migration talks",
+     "url": "https://www.hurriyetdailynews.com/turkish-ministers-in-brussels-for-security-migration-talks-228341"
     },
     {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
+     "outlet": "Express Tribune",
      "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+     "time": "2026-10-22T05:44:41Z",
+     "headline": "Turkish foreign minister to host top diplomats in R4, R4+E3 meetings in Istanbul on Friday",
+     "url": "https://tribune.com.pk/story/2636314/turkish-foreign-minister-to-host-top-diplomats-in-r4-r4e3-meetings-in-istanbul-on-friday"
     },
     {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T09:11:41Z",
+     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
+     "url": "https://www.straitstimes.com/world/turkey-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflicts-source-says"
     },
     {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-22T09:31:00Z",
+     "headline": "Top European, Mideast diplomats to meet in İstanbul Friday",
+     "url": "https://www.turkishminute.com/2026/10/22/top-european-mideast-diplomats-to-meet-in-istanbul-friday/"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T09:38:49Z",
+     "headline": "Top European, Mideast diplomats to meet in Istanbul Friday: Turkish diplomatic source",
+     "url": "https://www.arabnews.com/middle-east/top-european-mideast-diplomats-to-meet-in-istanbul-friday-turkish-diplomatic-source-3007682"
     },
     {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T09:46:31Z",
+     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
+     "url": "https://www.al-monitor.com/originals/2026/10/turkey-host-regional-and-european-foreign-ministers-talks-regional-conflicts"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-22T10:19:43Z",
+     "headline": "Türkiye to host key summit with regional, European powers",
+     "url": "https://www.hurriyetdailynews.com/turkiye-to-host-key-summit-with-regional-european-powers-228472"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T10:39:18Z",
+     "headline": "Turkish foreign minister to host top diplomats in R4, R4+E3 meetings in Istanbul on Friday",
+     "url": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-to-host-top-diplomats-in-r4-r4-e3-meetings-in-istanbul-on-friday/4097039"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-22T11:20:38Z",
+     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts",
+     "url": "https://cyprus-mail.com/2026/10/22/turkey-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflicts"
     },
     {
      "outlet": "Türkiye Today",
      "country": "TUR",
      "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+     "headline": "Türkiye to host regional, European foreign ministers for talks on regional conflicts",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflic-3230826"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
+     "outlet": "Dawn",
      "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+     "time": "2026-10-22T18:54:55Z",
+     "headline": "Pakistan, Egypt, Saudi Arabia, Turkiye to meet European trio in Istanbul",
+     "url": "https://www.dawn.com/news/2039053/pakistan-egypt-saudi-arabia-turkiye-to-meet-european-trio-in-istanbul"
     },
     {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T00:00:00Z",
+     "headline": "Iran war live: European, Middle East FMs in Istanbul for security talks",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
     },
     {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-23T02:40:01Z",
+     "headline": "Istanbul meeting: A new division of labor in the Iran war?",
+     "url": "https://www.iranintl.com/en/202610232329"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T04:56:50Z",
+     "headline": "Istanbul Hosts Middle East, European FMs to Discuss Regional Crises",
+     "url": "https://english.aawsat.com/node/5332571"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T05:41:32Z",
+     "headline": "Istanbul to host European, regional ministers for crisis talks",
+     "url": "https://www.hurriyetdailynews.com/istanbul-to-host-european-regional-ministers-for-crisis-talks-228494"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T08:50:14Z",
+     "headline": "European, Mideast foreign ministers hold talks in Istanbul",
+     "url": "https://www.newarab.com/news/european-mideast-foreign-ministers-hold-talks-istanbul"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-23T11:17:39Z",
+     "headline": "European, Mideast foreign ministers discuss regional crises in İstanbul",
+     "url": "https://www.turkishminute.com/2026/10/23/european-mideast-foreign-ministers-discuss-regional-crises-in-istanbul/"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T11:51:23Z",
+     "headline": "Regional powers, European heavyweights meet in Istanbul for 1st joint talks",
+     "url": "https://www.hurriyetdailynews.com/regional-powers-european-heavyweights-meet-in-istanbul-for-1st-joint-talks-228515"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T12:30:28Z",
+     "headline": "European, Mideast foreign ministers hold talks in Istanbul",
+     "url": "https://www.al-monitor.com/originals/2026/10/european-mideast-foreign-ministers-hold-talks-istanbul"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T14:43:44Z",
+     "headline": "European and Middle Eastern powers hold key talks on Strait of Hormuz and Yemen crises",
+     "url": "https://gulfnews.com/world/mena/european-and-middle-eastern-powers-hold-key-talks-on-strait-of-hormuz-and-yemen-crises-1.500720913"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:17:14Z",
+     "headline": "R4+E3 foreign ministers' meeting begins in Istanbul with Italy's participation",
+     "url": "https://www.aa.com.tr/en/europe/r4-e3-foreign-ministers-meeting-begins-in-istanbul-with-italys-participation/4098817"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:35:32Z",
+     "headline": "Turkish foreign minister warns new attack on Iran would escalate regional conflict",
+     "url": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-warns-new-attack-on-iran-would-escalate-regional-conflict/4098832"
     }
    ]
   }
