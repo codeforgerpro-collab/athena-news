@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:53:56Z",
+ "generated": "2026-10-23T17:01:17Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -227,7 +227,7 @@
      "outlet": "NBC News (World)",
      "country": "USA",
      "time": "2026-10-23T08:47:16Z",
-     "headline": "Israel orders ‘full lockdown’ of occupied West Bank after 2 soldiers killed in shooting attack",
+     "headline": "Israel orders ‘full lockdown’ of West Bank after deadly shootings",
      "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
     },
     {
@@ -327,11 +327,11 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.33,
-   "risk": 8.09,
+   "importance": 8.34,
+   "risk": 7.34,
    "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 40,
+   "status": "fading",
+   "outlets": 41,
    "countries": [
     "PAK",
     "IND",
@@ -857,11 +857,11 @@
    "id": 24812,
    "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
    "category": "Geopolitics",
-   "importance": 8.02,
+   "importance": 8.13,
    "risk": 2.69,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 36,
+   "outlets": 37,
    "countries": [
     "PAK",
     "CHN",
@@ -920,7 +920,7 @@
      "outlet": "Kyiv Independent",
      "country": "UKR",
      "time": "2026-10-23T13:38:06Z",
-     "headline": "Breaking: Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
+     "headline": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
      "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
     },
     {
@@ -1081,7 +1081,7 @@
      "outlet": "NDTV",
      "country": "IND",
      "time": "2026-10-23T15:26:03Z",
-     "headline": "\"Situation Dire\": Melania Trump Says She Secured Ceasefire In Ukrainian City",
+     "headline": "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
      "url": "https://www.ndtv.com/world-news/situation-dire-melania-trump-says-she-secured-ceasefire-in-ukrainian-city-12226918#publisher=newsstand"
     },
     {
@@ -1279,7 +1279,7 @@
      "outlet": "France 24 English",
      "country": "FRA",
      "time": "2026-10-23T11:08:26Z",
-     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "headline": "France’s Macron arrives in Trappes after ‘racist terrorist attack’",
      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
     },
     {
@@ -3250,10 +3250,10 @@
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
-   "importance": 6.99,
-   "risk": 5.98,
+   "importance": 6.93,
+   "risk": 5.63,
    "confidence": 0.89,
-   "status": "peaking",
+   "status": "fading",
    "outlets": 38,
    "countries": [
     "SAU",
@@ -5825,6 +5825,155 @@
    ]
   },
   {
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+   "category": "Geopolitics",
+   "importance": 6.4,
+   "risk": 3.87,
+   "confidence": 0.93,
+   "status": "peaking",
+   "outlets": 16,
+   "countries": [
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
+    "SAU",
+    "UKR",
+    "QAT",
+    "SGP",
+    "PAK",
+    "CYP",
+    "USA"
+   ],
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-23T16:46:32Z",
+   "page": "event/21280.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:00:00Z",
+     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
+     "url": "https://www.azernews.az/region/266090.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:21:52Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T16:23:50Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    }
+   ]
+  },
+  {
    "id": 979,
    "title": "Albania’s prime minister vows not to resign over student-led protests",
    "category": "Society & Law",
@@ -8170,153 +8319,6 @@
      "time": "2026-10-22T07:07:13Z",
      "headline": "Seoul sees no signs of new North Korean weapons on border",
      "url": "https://www.bangkokpost.com/world/3341583/seoul-sees-no-signs-of-new-north-korean-weapons-on-border"
-    }
-   ]
-  },
-  {
-   "id": 21280,
-   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-   "category": "Geopolitics",
-   "importance": 6.07,
-   "risk": 3.47,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "RUS",
-    "AZE",
-    "AFG",
-    "TUR",
-    "NGA",
-    "CHN",
-    "SAU",
-    "UKR",
-    "QAT",
-    "SGP",
-    "PAK"
-   ],
-   "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-23T16:23:50Z",
-   "page": "event/21280.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T12:24:01Z",
-     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
-     "url": "https://tass.com/politics/2206267"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:53:00Z",
-     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
-     "url": "https://www.azernews.az/region/266020.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T17:09:14Z",
-     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
-     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:06Z",
-     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
-     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T09:57:00Z",
-     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:20:46Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:31:40Z",
-     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
-     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:39:35Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:52:05Z",
-     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T11:04:40Z",
-     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
-     "url": "https://tass.com/politics/2206847"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:02:52Z",
-     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
-     "url": "https://tass.com/politics/2206883"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:42:49Z",
-     "headline": "Russia, Ukraine and the US set for November peace talks",
-     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T12:49:49Z",
-     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
-     "url": "https://www.kyivpost.com/post/87990"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:54:44Z",
-     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T14:00:00Z",
-     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
-     "url": "https://www.azernews.az/region/266090.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:21:52Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T16:23:50Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
     }
    ]
   },
@@ -10737,6 +10739,107 @@
    ]
   },
   {
+   "id": 20291,
+   "title": "Greece, Egypt in talks to extend maritime zone further east",
+   "category": "Geopolitics",
+   "importance": 5.72,
+   "risk": 1.15,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 11,
+   "countries": [
+    "USA",
+    "SGP",
+    "GRC",
+    "SAU",
+    "TUR",
+    "EGY",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T09:21:49Z",
+   "last_seen": "2026-10-23T16:32:53Z",
+   "page": "event/20291.html",
+   "reports": [
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-22T09:21:49Z",
+     "headline": "Libyan Deal Paves Way for Broader Turkish Drilling in Mediterranean",
+     "url": "https://www.rigzone.com/news/wire/libyan_deal_paves_way_for_broader_turkish_drilling_in_mediterranean-22-oct-2026-184902-article/?rss=true"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T13:11:39Z",
+     "headline": "Greece and Egypt to begin talks on extending their maritime boundary",
+     "url": "https://en.protothema.gr/2026/10/22/greece-and-egypt-to-begin-talks-on-extending-their-maritime-boundary/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T15:37:07Z",
+     "headline": "Greece, Egypt in talks to extend maritime zone further east",
+     "url": "https://www.straitstimes.com/world/europe/greece-egypt-in-talks-to-extend-maritime-zone-further-east"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T15:47:10Z",
+     "headline": "Greece, Egypt in talks to extend maritime zone further east",
+     "url": "https://www.al-monitor.com/originals/2026/10/greece-egypt-talks-extend-maritime-zone-further-east"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-22T17:21:15Z",
+     "headline": "Greece, Egypt discuss to extend their Exclusive Economic Zone in Med East",
+     "url": "https://www.keeptalkinggreece.com/2026/10/22/greece-egypt-discuss-extension-of-exclusive-economic-zone-in-the-east/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:36:57Z",
+     "headline": "Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
+     "url": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T12:34:31Z",
+     "headline": "Greece, Egypt seek to extend maritime deal eastward amid Türkiye-Libya pact",
+     "url": "https://www.hurriyetdailynews.com/greece-egypt-seek-to-extend-maritime-deal-eastward-amid-turkiye-libya-pact-228523"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-23T12:48:17Z",
+     "headline": "In talks with Turkey, Egypt holds firm on Mediterranean sovereignty",
+     "url": "https://www.egyptindependent.com/in-talks-with-turkey-egypt-holds-firm-on-mediterranean-sovereignty/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T13:30:47Z",
+     "headline": "Greece, Cyprus, France and Italy Complete EUNOMIA Exercise",
+     "url": "https://www.tovima.com/society/greece-cyprus-france-and-italy-complete-eunomia-exercise/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T15:01:05Z",
+     "headline": "Turkish Press: Libyan Ratification of Maritime MoU Undermines Greece’s Eastern Mediterranean Strategy",
+     "url": "https://greekcitytimes.com/2026/10/24/turkish-press-libyan-ratification/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T16:32:53Z",
+     "headline": "Cyprus ‘ready’ to delimit EEZ with Greece",
+     "url": "https://cyprus-mail.com/2026/10/23/cyprus-ready-to-delimit-eez-with-greece"
+    }
+   ]
+  },
+  {
    "id": 9132,
    "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
    "category": "Health & Science",
@@ -10758,7 +10861,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-17T04:10:09Z",
-   "last_seen": "2026-10-22T07:03:59Z",
+   "last_seen": "2026-10-23T16:59:35Z",
    "page": "event/9132.html",
    "reports": [
     {
@@ -10858,107 +10961,13 @@
      "time": "2026-10-22T07:03:59Z",
      "headline": "Three tourists die, two missing after swimming in Cox’s Bazar sea",
      "url": "https://www.thedailystar.net/news/accidents-and-fires/news/three-tourists-die-two-missing-after-swimming-coxs-bazar-sea-4304531"
-    }
-   ]
-  },
-  {
-   "id": 20291,
-   "title": "Greece, Egypt in talks to extend maritime zone further east",
-   "category": "Geopolitics",
-   "importance": 5.72,
-   "risk": 1.15,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 11,
-   "countries": [
-    "USA",
-    "SGP",
-    "GRC",
-    "SAU",
-    "TUR",
-    "EGY",
-    "CYP"
-   ],
-   "first_seen": "2026-10-22T09:21:49Z",
-   "last_seen": "2026-10-23T16:32:53Z",
-   "page": "event/20291.html",
-   "reports": [
-    {
-     "outlet": "Rigzone",
-     "country": "USA",
-     "time": "2026-10-22T09:21:49Z",
-     "headline": "Libyan Deal Paves Way for Broader Turkish Drilling in Mediterranean",
-     "url": "https://www.rigzone.com/news/wire/libyan_deal_paves_way_for_broader_turkish_drilling_in_mediterranean-22-oct-2026-184902-article/?rss=true"
     },
     {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T13:11:39Z",
-     "headline": "Greece and Egypt to begin talks on extending their maritime boundary",
-     "url": "https://en.protothema.gr/2026/10/22/greece-and-egypt-to-begin-talks-on-extending-their-maritime-boundary/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T15:37:07Z",
-     "headline": "Greece, Egypt in talks to extend maritime zone further east",
-     "url": "https://www.straitstimes.com/world/europe/greece-egypt-in-talks-to-extend-maritime-zone-further-east"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T15:47:10Z",
-     "headline": "Greece, Egypt in talks to extend maritime zone further east",
-     "url": "https://www.al-monitor.com/originals/2026/10/greece-egypt-talks-extend-maritime-zone-further-east"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-22T17:21:15Z",
-     "headline": "Greece, Egypt discuss to extend their Exclusive Economic Zone in Med East",
-     "url": "https://www.keeptalkinggreece.com/2026/10/22/greece-egypt-discuss-extension-of-exclusive-economic-zone-in-the-east/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:36:57Z",
-     "headline": "Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
-     "url": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T12:34:31Z",
-     "headline": "Greece, Egypt seek to extend maritime deal eastward amid Türkiye-Libya pact",
-     "url": "https://www.hurriyetdailynews.com/greece-egypt-seek-to-extend-maritime-deal-eastward-amid-turkiye-libya-pact-228523"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-23T12:48:17Z",
-     "headline": "In talks with Turkey, Egypt holds firm on Mediterranean sovereignty",
-     "url": "https://www.egyptindependent.com/in-talks-with-turkey-egypt-holds-firm-on-mediterranean-sovereignty/"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T13:30:47Z",
-     "headline": "Greece, Cyprus, France and Italy Complete EUNOMIA Exercise",
-     "url": "https://www.tovima.com/society/greece-cyprus-france-and-italy-complete-eunomia-exercise/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T15:01:05Z",
-     "headline": "Turkish Press: Libyan Ratification of Maritime MoU Undermines Greece’s Eastern Mediterranean Strategy",
-     "url": "https://greekcitytimes.com/2026/10/24/turkish-press-libyan-ratification/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T16:32:53Z",
-     "headline": "Cyprus ‘ready’ to delimit EEZ with Greece",
-     "url": "https://cyprus-mail.com/2026/10/23/cyprus-ready-to-delimit-eez-with-greece"
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-23T16:59:35Z",
+     "headline": "Fire at Cox’s Bazar hotel sparks panic among tourists",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-coxs-bazar-hotel-sparks-panic-among-tourists-4305841"
     }
    ]
   },
