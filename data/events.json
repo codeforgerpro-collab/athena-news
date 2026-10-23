@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:37:16Z",
+ "generated": "2026-10-23T17:53:17Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -40,7 +40,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T17:14:46Z",
+   "last_seen": "2026-10-23T17:24:44Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -649,11 +649,11 @@
    "id": 23500,
    "title": "Russian tanker heads for New York with 40,000 tons of diesel after Trump-Putin deal",
    "category": "Energy & Environment",
-   "importance": 8.24,
-   "risk": 2.95,
-   "confidence": 0.86,
+   "importance": 8.32,
+   "risk": 2.94,
+   "confidence": 0.87,
    "status": "fading",
-   "outlets": 25,
+   "outlets": 26,
    "countries": [
     "AZE",
     "GBR",
@@ -852,11 +852,25 @@
      "url": "https://kyivindependent.com/inside-the-legal-design-of-americas-russia-sanctions-u-turn-2/"
     },
     {
+     "outlet": "gCaptain",
+     "country": "USA",
+     "time": "2026-10-23T16:34:11Z",
+     "headline": "First Russian Diesel From Putin-Trump Deal Heading for US",
+     "url": "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/"
+    },
+    {
      "outlet": "The National",
      "country": "ARE",
      "time": "2026-10-23T16:52:57Z",
      "headline": "Initial shipment of Russian diesel heads to the US after Trump-Putin deal",
      "url": "https://www.thenationalnews.com/news/us/2026/10/23/initial-shipment-of-russian-diesel-heads-to-the-us-after-trump-putin-deal/"
+    },
+    {
+     "outlet": "gCaptain",
+     "country": "USA",
+     "time": "2026-10-23T17:08:24Z",
+     "headline": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
+     "url": "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/"
     },
     {
      "outlet": "Cyprus Mail",
@@ -869,13 +883,13 @@
   },
   {
    "id": 24812,
-   "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+   "title": "Melania Trump claims ceasefire in Russian-held Oleshky",
    "category": "Geopolitics",
-   "importance": 8.15,
+   "importance": 8.16,
    "risk": 2.68,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 38,
+   "outlets": 39,
    "countries": [
     "PAK",
     "CHN",
@@ -899,7 +913,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T17:23:24Z",
+   "last_seen": "2026-10-23T17:44:38Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -4583,7 +4597,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-23T00:27:09Z",
-     "headline": "Ukraine reports problems with Starshield military service",
+     "headline": "Trilateral peace talks planned for next month - Zelensky",
      "url": "https://www.rte.ie/news/world/2026/1023/1596527-ukraine-starlink-trump/"
     },
     {
@@ -5059,11 +5073,11 @@
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
-   "importance": 6.63,
-   "risk": 6.85,
-   "confidence": 0.89,
+   "importance": 6.68,
+   "risk": 6.84,
+   "confidence": 0.9,
    "status": "peaking",
-   "outlets": 15,
+   "outlets": 16,
    "countries": [
     "BGR",
     "SAU",
@@ -5074,10 +5088,11 @@
     "TUR",
     "BEL",
     "RUS",
-    "DEU"
+    "DEU",
+    "QAT"
    ],
    "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T17:14:40Z",
+   "last_seen": "2026-10-23T17:26:13Z",
    "page": "event/16086.html",
    "reports": [
     {
@@ -5219,197 +5234,13 @@
      "time": "2026-10-23T17:14:40Z",
      "headline": "Romania blames Russia for drone strike that sinks cargo ship in Black Sea, killing one sailor and leaving three missing",
      "url": "https://meduza.io/en/news/2026/10/23/romania-blames-russia-for-drone-strike-that-sinks-cargo-ship-in-black-sea-killing-one-sailor-and-leaving-three-missing"
-    }
-   ]
-  },
-  {
-   "id": 22319,
-   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-   "category": "Society & Law",
-   "importance": 6.57,
-   "risk": 2.14,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 18,
-   "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
-    "TUR",
-    "SGP",
-    "THA",
-    "ZAF",
-    "CAN",
-    "IND"
-   ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T17:35:14Z",
-   "page": "event/22319.html",
-   "reports": [
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
     },
     {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
-     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T14:11:26Z",
-     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:18:00Z",
-     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
-     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:45:07Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:47:18Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-23T14:48:01Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
-     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T14:52:58Z",
-     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
-     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T15:48:17Z",
-     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
-     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T17:35:14Z",
-     "headline": "Why I kept my children away from my father – Meghan",
-     "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:26:13Z",
+     "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
+     "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
     }
    ]
   },
@@ -6799,6 +6630,204 @@
    ]
   },
   {
+   "id": 22319,
+   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+   "category": "Society & Law",
+   "importance": 6.35,
+   "risk": 2.06,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 19,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA",
+    "ZAF",
+    "CAN",
+    "IND"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T17:35:14Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T14:11:26Z",
+     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:18:00Z",
+     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
+     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:45:07Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:47:18Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-23T14:48:01Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
+     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T14:52:58Z",
+     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
+     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T15:48:17Z",
+     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
+     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-23T17:32:47Z",
+     "headline": "Meghan Markle says she’s ‘deeply distressed’ in response to child pornography allegations against her father",
+     "url": "https://thehill.com/blogs/in-the-know/6168715-meghan-markle-father-investigation-response/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T17:35:14Z",
+     "headline": "Why I kept my children away from my father – Meghan",
+     "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
    "id": 12406,
    "title": "WFP cuts aid to 500,000 Palestinians in Gaza",
    "category": "Geopolitics",
@@ -7707,6 +7736,122 @@
    ]
   },
   {
+   "id": 8134,
+   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+   "category": "Trade & Industry",
+   "importance": 6.14,
+   "risk": 6.97,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 11,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-23T17:46:29Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T17:22:07Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:25:01Z",
+     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T17:46:29Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    }
+   ]
+  },
+  {
    "id": 16067,
    "title": "Russia strikes Kyiv as Ukraine launches hundreds of drones at Moscow",
    "category": "Geopolitics",
@@ -8479,111 +8624,314 @@
    ]
   },
   {
-   "id": 8134,
-   "title": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-   "category": "Trade & Industry",
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
    "importance": 5.97,
-   "risk": 6.89,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 10,
+   "risk": 1.45,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 20,
    "countries": [
-    "IRQ",
-    "IRN",
-    "KWT",
-    "ARM",
-    "OMN",
+    "ARG",
     "USA",
     "SGP",
-    "CYP"
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB"
    ],
-   "first_seen": "2026-10-16T14:30:51Z",
-   "last_seen": "2026-10-23T17:25:01Z",
-   "page": "event/8134.html",
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-23T17:42:10Z",
+   "page": "event/2857.html",
    "reports": [
     {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T14:30:51Z",
-     "headline": "Iran’s undersea cable threat raises risks for Iraq",
-     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
     },
     {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-17T12:29:27Z",
-     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
-     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
     },
     {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T19:28:00Z",
-     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
-     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
     },
     {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-20T05:39:00Z",
-     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
-     "url": "https://news.am/en/news/1068984"
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
     },
     {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T05:14:43Z",
-     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-21T11:33:57Z",
-     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
-     "url": "https://www.iranintl.com/en/202610216166"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T09:32:45Z",
-     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
-     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
-    },
-    {
-     "outlet": "Al-Monitor",
+     "outlet": "Democracy Now!",
      "country": "USA",
-     "time": "2026-10-22T13:32:06Z",
-     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
-     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
     },
     {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:10:20Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
     },
     {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T17:22:07Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
     },
     {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:25:01Z",
-     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -9091,318 +9439,6 @@
      "time": "2026-10-23T16:43:51Z",
      "headline": "Protest to polls: election arrives for Serbia's student movement",
      "url": "https://www.arabnews.com/world/protest-to-polls-election-arrives-for-serbias-student-movement-3007919"
-    }
-   ]
-  },
-  {
-   "id": 2857,
-   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-   "category": "Geopolitics",
-   "importance": 5.88,
-   "risk": 1.66,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
-    "IRL",
-    "DEU",
-    "ZAF",
-    "FRA",
-    "AZE",
-    "TWN",
-    "CUB"
-   ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-23T16:57:34Z",
-   "page": "event/2857.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
-     "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -10475,6 +10511,132 @@
      "time": "2026-10-23T09:32:02Z",
      "headline": "'Haven't seen this in a long time': Microsoft CEO on massive PHP flaw patch rush",
      "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-have-not-seen-anything-like-this-in-a-long-long-time-microsoft-ceo-satya-nadella-as-companies-governments-rush-to-patch-php-flaws/articleshow/135141735.cms"
+    }
+   ]
+  },
+  {
+   "id": 25322,
+   "title": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+   "category": "Health & Science",
+   "importance": 5.79,
+   "risk": 1.61,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "GHA",
+    "SGP",
+    "ZAF",
+    "ARE",
+    "NGA",
+    "GBR",
+    "IRL",
+    "AZE",
+    "SAU",
+    "IND",
+    "TUR"
+   ],
+   "first_seen": "2026-10-23T15:53:22Z",
+   "last_seen": "2026-10-23T17:44:16Z",
+   "page": "event/25322.html",
+   "reports": [
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T15:53:22Z",
+     "headline": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
+     "url": "https://www.myjoyonline.com/breaking-bayern-munich-boss-vincent-kompany-taken-to-hospital-after-collapse/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T15:56:47Z",
+     "headline": "Bayern coach Kompany taken to hospital-reports",
+     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-reports-6487336"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T15:56:47Z",
+     "headline": "Bayern coach Kompany taken to hospital after collapsing during training session",
+     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T16:04:00Z",
+     "headline": "Bayern coach Kompany taken to hospital: Reports",
+     "url": "https://www.sabcnews.com/sabcnews/bayern-coach-kompany-taken-to-hospital-reports/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T16:46:09Z",
+     "headline": "Bayern Munich coach Vincent Kompany in hospital after collapsing: Club",
+     "url": "https://gulfnews.com/sport/football/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing-club-1.500721578"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T16:48:54Z",
+     "headline": "Kompany hospitalised after collapsing at Bayern training ground",
+     "url": "https://www.vanguardngr.com/2026/10/kompany-hospitalised-after-collapsing-at-bayern-training-ground/"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T16:55:00Z",
+     "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+     "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T17:00:50Z",
+     "headline": "Kompany taken to hospital after collapsing at training",
+     "url": "https://www.rte.ie/sport/soccer/2026/1023/1596659-kompany-taken-to-hospital-after-collapsing-at-training/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T17:12:00Z",
+     "headline": "Vincent Kompany hospitalised after collapse at Bayern Munich training",
+     "url": "https://en.apa.az/football/vincent-kompany-hospitalised-after-collapse-at-bayern-munich-training-531919"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T17:12:21Z",
+     "headline": "Bayern Munich Coach Vincent Kompany In Hospital After Collapsing",
+     "url": "https://www.channelstv.com/2026/10/23/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:16:52Z",
+     "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
+     "url": "https://www.arabnews.com/football/bayern-munich-coach-vincent-kompany-hospitalized-after-collapsing-at-training-3007937"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T17:26:08Z",
+     "headline": "Bayern Munich coach collapses after training session, taken to hospital",
+     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bayern-munich-coach-collapses-after-training-session-taken-to-hospital/articleshow/135151476.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T17:41:59Z",
+     "headline": "Bayern Munich coach Kompany hospitalized after collapsing during training",
+     "url": "https://www.aa.com.tr/en/sports/bayern-munich-coach-kompany-hospitalized-after-collapsing-during-training/4098949"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T17:44:16Z",
+     "headline": "Bayern Munich coach Kompany collapses during training, hospitalised",
+     "url": "https://punchng.com/just-in-bayern-munich-coach-kompany-collapses-during-training-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -11986,131 +12148,6 @@
      "time": "2026-10-23T15:16:14Z",
      "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
      "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
-    }
-   ]
-  },
-  {
-   "id": 23821,
-   "title": "Austria expels four Russian diplomats on security grounds",
-   "category": "Geopolitics",
-   "importance": 5.67,
-   "risk": 4.54,
-   "confidence": 0.92,
-   "status": "peaking",
-   "outlets": 13,
-   "countries": [
-    "RUS",
-    "ZAF",
-    "UKR",
-    "TUR",
-    "ARM",
-    "SGP",
-    "ISR",
-    "USA",
-    "AZE",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T09:07:44Z",
-   "last_seen": "2026-10-23T16:14:20Z",
-   "page": "event/23821.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T09:07:44Z",
-     "headline": "Russia to inevitably respond to expulsion of diplomats from Austria — MFA",
-     "url": "https://tass.com/politics/2206729"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:27Z",
-     "headline": "Austria expels four Vienna-based Russian diplomats on security grounds",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-austria-expels-four-vienna-based-russian-diplomats-on-security-grounds/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T09:28:49Z",
-     "headline": "Austria Expels Four Russian Diplomats: Foreign Ministry",
-     "url": "https://www.kyivpost.com/post/87957"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T09:29:00Z",
-     "headline": "Austria expels four Russian diplomats",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059384/"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-23T09:35:39Z",
-     "headline": "Russia Vows Retaliation After Austria Expels Its Diplomats",
-     "url": "https://www.themoscowtimes.com/2026/10/23/russia-vows-retaliation-after-austria-expels-its-diplomats-a94064"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:06:24Z",
-     "headline": "Austria expells 4 Russian diplomats on security grounds",
-     "url": "https://www.aa.com.tr/en/asia-pacific/austria-expells-4-russian-diplomats-on-security-grounds-/4098352"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:06:24Z",
-     "headline": "Austria expels 4 Russian diplomats on security grounds",
-     "url": "https://www.aa.com.tr/en/politics/austria-expels-4-russian-diplomats-on-security-grounds-/4098352"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T10:18:49Z",
-     "headline": "Austria expels 4 Russian diplomats, Moscow vows response",
-     "url": "https://kyivindependent.com/austria-expels-4-russian-diplomats-moscow-vows-response/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T10:52:00Z",
-     "headline": "Austria declares 4 Russian diplomats personae non gratae",
-     "url": "https://news.am/en/news/1069817"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:34:36Z",
-     "headline": "Austria foreign ministry expels four Russian diplomats from Vienna over suspected espionage",
-     "url": "https://www.jpost.com/international/article-912653"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T13:04:10Z",
-     "headline": "What is known about Austria declaring four Russian diplomats personae non gratae",
-     "url": "https://tass.com/politics/2206947"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:18:57Z",
-     "headline": "Austria expels 4 Russian diplomats linked to espionage, official says",
-     "url": "https://abcnews.com/International/wireStory/austria-expels-4-russian-diplomats-linked-espionage-official-137506289"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T14:43:00Z",
-     "headline": "Russia slams Austria's decision to expel envoys",
-     "url": "https://www.azernews.az/region/266085.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T16:14:20Z",
-     "headline": "Austria expels four Russian diplomats on security grounds",
-     "url": "https://www.arabnews.com/world/austria-expels-four-russian-diplomats-on-security-grounds-3007913"
     }
    ]
   },
