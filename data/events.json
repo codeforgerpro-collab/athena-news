@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:31:54Z",
+ "generated": "2026-10-23T16:53:56Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -7,11 +7,11 @@
    "id": 22696,
    "title": "Israel demolishes homes in West Bank after fatal attack",
    "category": "Economy & Markets",
-   "importance": 8.4,
+   "importance": 8.35,
    "risk": 7.28,
    "confidence": 0.87,
    "status": "peaking",
-   "outlets": 39,
+   "outlets": 40,
    "countries": [
     "SAU",
     "IRQ",
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T15:56:28Z",
+   "last_seen": "2026-10-23T16:31:00Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -360,7 +360,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T16:09:40Z",
+   "last_seen": "2026-10-23T16:29:13Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -402,7 +402,7 @@
      "outlet": "ABC News Australia",
      "country": "AUS",
      "time": "2026-10-23T12:14:53Z",
-     "headline": "Gunmen open fire at church in Jordan, killing at least six",
+     "headline": "Gunmen open fire at church in Jordan, killing at least seven",
      "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
     },
     {
@@ -857,11 +857,11 @@
    "id": 24812,
    "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
    "category": "Geopolitics",
-   "importance": 7.89,
+   "importance": 8.02,
    "risk": 2.69,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 33,
+   "outlets": 36,
    "countries": [
     "PAK",
     "CHN",
@@ -880,10 +880,12 @@
     "NGA",
     "CAN",
     "ARE",
-    "KOR"
+    "KOR",
+    "IRQ",
+    "SAU"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-23T16:15:54Z",
+   "last_seen": "2026-10-23T16:43:37Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1125,6 +1127,13 @@
      "url": "https://punchng.com/melania-trump-says-secured-ceasefire-in-ukrainian-city-of-oleshky/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T15:48:00Z",
+     "headline": "Kremlin confirms ceasefire to be declared in Oleshky",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059456/"
+    },
+    {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
      "time": "2026-10-23T15:48:24Z",
@@ -1158,13 +1167,6 @@
      "time": "2026-10-23T16:14:19Z",
      "headline": "Melania Trump says she negotiated ceasefire in Russian-held Ukrainian city",
      "url": "https://www.thenationalnews.com/news/us/2026/10/23/melania-trump-ceasefire-ukraine-russia/"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T16:15:54Z",
-     "headline": "Melania Trump secures localized Russia-Ukraine ceasefire for humanitarian aid: White House",
-     "url": "https://en.yna.co.kr/view/AEN20261024000300315"
     }
    ]
   },
@@ -2015,331 +2017,6 @@
    ]
   },
   {
-   "id": 8843,
-   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
-   "category": "Energy & Environment",
-   "importance": 7.22,
-   "risk": 6.8,
-   "confidence": 0.92,
-   "status": "peaking",
-   "outlets": 40,
-   "countries": [
-    "ARE",
-    "KGZ",
-    "IRN",
-    "ISL",
-    "NAM",
-    "PAK",
-    "IND",
-    "AZE",
-    "USA",
-    "KOR",
-    "FRA",
-    "RUS",
-    "SAU",
-    "NGA",
-    "DEU",
-    "VNM",
-    "GHA",
-    "CAN",
-    "QAT",
-    "IRL",
-    "GBR",
-    "TUR",
-    "AFG",
-    "ZAF",
-    "NPL",
-    "CYP",
-    "CHN",
-    "LKA"
-   ],
-   "first_seen": "2026-10-16T18:49:30Z",
-   "last_seen": "2026-10-23T14:25:24Z",
-   "page": "event/8843.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T18:49:30Z",
-     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
-     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-17T08:22:47Z",
-     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
-     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-17T08:35:45Z",
-     "headline": "Earthquake hits Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-19T03:46:29Z",
-     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:44:10Z",
-     "headline": "Over 95 earthquakes hit Iran in a week",
-     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
-    },
-    {
-     "outlet": "RÚV English",
-     "country": "ISL",
-     "time": "2026-10-19T15:39:49Z",
-     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
-     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-22T10:49:02Z",
-     "headline": "Earthquake reported near Kamanjab",
-     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:49:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
-     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T14:52:10Z",
-     "headline": "Earthquake of magnitude 7.0 hits Tibet",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T15:26:00Z",
-     "headline": "Magnitude 7 earthquake strikes China",
-     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-22T16:26:26Z",
-     "headline": "A magnitude 7 earthquake shakes China's Tibet",
-     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T19:52:04Z",
-     "headline": "Magnitude 7 earthquake strikes China's Tibet",
-     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T19:57:44Z",
-     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
-     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T20:44:00Z",
-     "headline": "16 people died in the earthquake in Tibet",
-     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T20:46:51Z",
-     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
-     "url": "https://tass.com/emergencies/2206591"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:49:40Z",
-     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
-     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T21:09:38Z",
-     "headline": "Strong earthquake strikes China’s remote Tibet region",
-     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T21:30:51Z",
-     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
-     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T23:21:42Z",
-     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
-     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T23:24:00Z",
-     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
-     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T23:37:52Z",
-     "headline": "At least 16 dead in Tibet quake: China state media",
-     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T23:50:00Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T00:23:04Z",
-     "headline": "Tibet earthquake kills at least 16",
-     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T00:33:16Z",
-     "headline": "Tibet rocked by 7.0-magnitude earthquake",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T01:35:00Z",
-     "headline": "16 dead, dozens injured in Tibet earthquake",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T01:47:31Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T02:05:24Z",
-     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
-     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T03:20:23Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
-     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T04:02:07Z",
-     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
-     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T04:04:35Z",
-     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T04:22:00Z",
-     "headline": "China earthquake kills 16, injures 46",
-     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T04:29:21Z",
-     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
-     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T04:59:21Z",
-     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T05:01:22Z",
-     "headline": "At least 16 people killed by powerful earthquake in Tibet",
-     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T05:16:37Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-23T05:43:50Z",
-     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
-     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:00:00Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T06:08:51Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:19:53Z",
-     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
-     "url": "https://english.aawsat.com/node/5332593"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
-     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
-    }
-   ]
-  },
-  {
    "id": 9,
    "title": "Vatican Confirms Pope Leo XIV Has Lung Cancer After Surgery",
    "category": "Health & Science",
@@ -2671,14 +2348,340 @@
    ]
   },
   {
-   "id": 19215,
-   "title": "Taiwan shuts down as Typhoon Champi approaches",
+   "id": 8843,
+   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
    "category": "Energy & Environment",
-   "importance": 7.03,
-   "risk": 6.85,
+   "importance": 7.14,
+   "risk": 6.71,
+   "confidence": 0.92,
+   "status": "peaking",
+   "outlets": 41,
+   "countries": [
+    "ARE",
+    "KGZ",
+    "IRN",
+    "ISL",
+    "NAM",
+    "PAK",
+    "IND",
+    "AZE",
+    "USA",
+    "KOR",
+    "FRA",
+    "RUS",
+    "SAU",
+    "NGA",
+    "DEU",
+    "VNM",
+    "GHA",
+    "CAN",
+    "QAT",
+    "IRL",
+    "GBR",
+    "TUR",
+    "AFG",
+    "ZAF",
+    "NPL",
+    "CYP",
+    "CHN",
+    "LKA",
+    "TWN"
+   ],
+   "first_seen": "2026-10-16T18:49:30Z",
+   "last_seen": "2026-10-23T16:39:34Z",
+   "page": "event/8843.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T18:49:30Z",
+     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
+     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-17T08:22:47Z",
+     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
+     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-17T08:35:45Z",
+     "headline": "Earthquake hits Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-19T03:46:29Z",
+     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T11:44:10Z",
+     "headline": "Over 95 earthquakes hit Iran in a week",
+     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
+    },
+    {
+     "outlet": "RÚV English",
+     "country": "ISL",
+     "time": "2026-10-19T15:39:49Z",
+     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
+     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-22T10:49:02Z",
+     "headline": "Earthquake reported near Kamanjab",
+     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T11:49:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
+     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T14:52:10Z",
+     "headline": "Earthquake of magnitude 7.0 hits Tibet",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T15:26:00Z",
+     "headline": "Magnitude 7 earthquake strikes China",
+     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-22T16:26:26Z",
+     "headline": "A magnitude 7 earthquake shakes China's Tibet",
+     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T19:52:04Z",
+     "headline": "Magnitude 7 earthquake strikes China's Tibet",
+     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T19:57:44Z",
+     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T20:44:00Z",
+     "headline": "16 people died in the earthquake in Tibet",
+     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T20:46:51Z",
+     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
+     "url": "https://tass.com/emergencies/2206591"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:49:40Z",
+     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
+     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T21:09:38Z",
+     "headline": "Strong earthquake strikes China’s remote Tibet region",
+     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T21:30:51Z",
+     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
+     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T23:21:42Z",
+     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T23:24:00Z",
+     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T23:37:52Z",
+     "headline": "At least 16 dead in Tibet quake: China state media",
+     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T23:50:00Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T00:23:04Z",
+     "headline": "Tibet earthquake kills at least 16",
+     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T00:33:16Z",
+     "headline": "Tibet rocked by 7.0-magnitude earthquake",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T01:35:00Z",
+     "headline": "16 dead, dozens injured in Tibet earthquake",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T01:47:31Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T02:05:24Z",
+     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
+     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T03:20:23Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
+     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T04:02:07Z",
+     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
+     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T04:04:35Z",
+     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T04:22:00Z",
+     "headline": "China earthquake kills 16, injures 46",
+     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T04:29:21Z",
+     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
+     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T04:59:21Z",
+     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T05:01:22Z",
+     "headline": "At least 16 people killed by powerful earthquake in Tibet",
+     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T05:16:37Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-23T05:43:50Z",
+     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
+     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:00:00Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T06:08:51Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:19:53Z",
+     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
+     "url": "https://english.aawsat.com/node/5332593"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
+     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
+    }
+   ]
+  },
+  {
+   "id": 19215,
+   "title": "Typhoon Champi shuts down Taiwan",
+   "category": "Energy & Environment",
+   "importance": 7.11,
+   "risk": 6.9,
    "confidence": 0.86,
    "status": "peaking",
-   "outlets": 27,
+   "outlets": 28,
    "countries": [
     "THA",
     "VNM",
@@ -2702,7 +2705,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T16:12:18Z",
+   "last_seen": "2026-10-23T16:39:34Z",
    "page": "event/19215.html",
    "reports": [
     {
@@ -2914,6 +2917,13 @@
      "time": "2026-10-23T16:12:18Z",
      "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
      "url": "https://news.mongabay.com/short-article/2026/10/taiwan-shuts-schools-and-grounds-flights-as-typhoon-champi-brushes-by/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:34Z",
+     "headline": "Typhoon Champi shuts down Taiwan",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
     }
    ]
   },
@@ -3269,7 +3279,7 @@
     "IRN"
    ],
    "first_seen": "2026-10-13T07:56:26Z",
-   "last_seen": "2026-10-23T06:29:25Z",
+   "last_seen": "2026-10-23T16:47:14Z",
    "page": "event/1528.html",
    "reports": [
     {
@@ -5032,190 +5042,6 @@
    ]
   },
   {
-   "id": 22319,
-   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-   "category": "Society & Law",
-   "importance": 6.67,
-   "risk": 2.14,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
-    "TUR",
-    "SGP",
-    "THA",
-    "ZAF",
-    "CAN",
-    "IND"
-   ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T15:48:17Z",
-   "page": "event/22319.html",
-   "reports": [
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
-     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T14:11:26Z",
-     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:18:00Z",
-     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
-     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:45:07Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:47:18Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-23T14:48:01Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
-     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T14:52:58Z",
-     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
-     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T15:48:17Z",
-     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
-     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
-    }
-   ]
-  },
-  {
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
@@ -5372,6 +5198,197 @@
      "time": "2026-10-23T15:59:00Z",
      "headline": "Ukrainian sailor killed as vessel sinks near Constanta, four others hospitalized – MFA",
      "url": "https://www.ukrinform.net/rubric-society/4177573-ukrainian-sailor-killed-as-vessel-sinks-near-constanta-four-others-hospitalized-mfa.html"
+    }
+   ]
+  },
+  {
+   "id": 22319,
+   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+   "category": "Society & Law",
+   "importance": 6.57,
+   "risk": 2.14,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA",
+    "ZAF",
+    "CAN",
+    "IND"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T17:35:14Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T14:11:26Z",
+     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:18:00Z",
+     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
+     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:45:07Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:47:18Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-23T14:48:01Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
+     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T14:52:58Z",
+     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
+     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T15:48:17Z",
+     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
+     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T17:35:14Z",
+     "headline": "Why I kept my children away from my father – Meghan",
+     "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -8564,167 +8581,6 @@
    ]
   },
   {
-   "id": 22309,
-   "title": "S. Korea proposes military talks with N. Korea over border conflict issue",
-   "category": "Geopolitics",
-   "importance": 6.0,
-   "risk": 4.2,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "KOR",
-    "PAK",
-    "SAU",
-    "SGP",
-    "USA",
-    "THA",
-    "DEU",
-    "PRK",
-    "CHN",
-    "TUR",
-    "QAT"
-   ],
-   "first_seen": "2026-10-23T05:32:53Z",
-   "last_seen": "2026-10-23T10:20:31Z",
-   "page": "event/22309.html",
-   "reports": [
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T05:32:53Z",
-     "headline": "S. Korea proposes military talks with N. Korea to resolve border line issue",
-     "url": "https://en.yna.co.kr/view/AEN20261023005700315"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T05:50:29Z",
-     "headline": "South Korea proposes talks with North Korea on land border",
-     "url": "https://www.brecorder.com/news/40445594/south-korea-proposes-talks-with-north-korea-on-land-border"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:02:46Z",
-     "headline": "South Korea Proposes Talks with North Korea on Land Border Again",
-     "url": "https://english.aawsat.com/node/5332585"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:08:00Z",
-     "headline": "South Korea proposes holding border talks with North",
-     "url": "https://www.channelnewsasia.com/east-asia/south-korea-proposes-holding-border-talks-north-6485461"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "S. Korea proposes military talks with N. Korea over border conflict issue",
-     "url": "https://www.koreatimes.co.kr/southkorea/defense/20261023/s-korea-proposes-military-talks-with-n-korea-over-border-conflict-issue?utm_source=rss"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "N. Korea likely planted 960,000 land mines along inter-Korean border since 2024: lawmakers",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261023/n-korea-likely-planted-960000-land-mines-along-inter-korean-border-since-2024-lawmakers?utm_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T06:39:24Z",
-     "headline": "South Korea proposes holding border talks with North",
-     "url": "https://www.arabnews.com/world/south-korea-proposes-holding-border-talks-with-north-3007846"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:48Z",
-     "headline": "Seoul proposes military talks with Pyongyang as border tensions rise",
-     "url": "https://www.koreaherald.com/article/10913000"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T06:50:50Z",
-     "headline": "(LEAD) S. Korea proposes military talks with N. Korea to resolve border location issue",
-     "url": "https://en.yna.co.kr/view/AEN20261023005751315"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T07:18:42Z",
-     "headline": "South Korea proposes military talks with North Korea to calm rising border tensions",
-     "url": "https://abcnews.com/International/wireStory/south-korea-proposes-military-talks-north-korea-calm-137500902"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T07:45:49Z",
-     "headline": "(2nd LD) S. Korea proposes military talks with N. Korea to ease tensions along border",
-     "url": "https://en.yna.co.kr/view/AEN20261023005752315"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T07:46:09Z",
-     "headline": "South Korea proposes border talks with North",
-     "url": "https://www.bangkokpost.com/world/3342305/south-korea-proposes-border-talks-with-north"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T07:50:00Z",
-     "headline": "South Korea proposes military talks with North again",
-     "url": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-23T08:05:43Z",
-     "headline": "Seoul again proposes talks with North Korea on border lines amid rising tensions",
-     "url": "https://www.nknews.org/2026/10/seoul-again-proposes-talks-with-north-korea-on-border-lines-amid-rising-tensions/"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-23T08:16:34Z",
-     "headline": "Key developments on North Korea this week",
-     "url": "https://en.yna.co.kr/view/AEN20261023009500315"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:22:00Z",
-     "headline": "S. Korea proposes military talks with DPRK over border line issue",
-     "url": "https://english.news.cn/20261023/a25696c69cf340abad997726226bf0b0/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:28:50Z",
-     "headline": "Seoul offers military talks to Pyongyang amid tensions on Korean Peninsula",
-     "url": "https://www.aa.com.tr/en/asia-pacific/seoul-offers-military-talks-to-pyongyang-amid-tensions-on-korean-peninsula/4098301"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T09:40:15Z",
-     "headline": "S. Korea proposes military talks with N. Korea to ease tensions along border",
-     "url": "https://www.koreaherald.com/article/10913265"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T10:20:31Z",
-     "headline": "South Korea invites North for military talks over border",
-     "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -9238,6 +9094,109 @@
      "time": "2026-10-23T10:24:07Z",
      "headline": "‘Completely false’: Waze rejects Malaysia’s data security claims after civil servant ban",
      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/completely-false-waze-rejects-malaysias-data-security-claims-after-civil-servant-ban/240348"
+    }
+   ]
+  },
+  {
+   "id": 21230,
+   "title": "Serbia: Tens of thousands rally ahead of elections",
+   "category": "Geopolitics",
+   "importance": 5.89,
+   "risk": 5.23,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 10,
+   "countries": [
+    "BEL",
+    "IND",
+    "RUS",
+    "DEU",
+    "USA",
+    "GRC",
+    "NLD",
+    "TWN",
+    "SAU"
+   ],
+   "first_seen": "2026-10-22T18:23:03Z",
+   "last_seen": "2026-10-23T16:43:51Z",
+   "page": "event/21230.html",
+   "reports": [
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-22T18:23:03Z",
+     "headline": "Hundreds of thousands gather in Serbia student rally",
+     "url": "https://www.rapporteur.com/news/hundreds-of-thousands-gather-in-serbia-student-rally/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T18:57:28Z",
+     "headline": "Video: Thousands Gather To Protest As Serbian Ex-President Runs For PM",
+     "url": "https://www.ndtv.com/world-news/video-thousands-gather-to-protest-as-serbian-ex-president-runs-for-pm-12222470#publisher=newsstand"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-22T20:36:11Z",
+     "headline": "Exclusive: Rubio Receives Request To Sanction 4 Vucic-Linked Businessmen Ahead Of Serbia Elections",
+     "url": "https://www.rferl.org/a/serbia-vucic-businessmen-us-sanctions-wilson-rubio/33881862.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T01:44:07Z",
+     "headline": "Vucic promises not to impose sanctions against Russia",
+     "url": "https://tass.com/world/2206617"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T03:15:00Z",
+     "headline": "Serbia: Tens of thousands rally ahead of elections",
+     "url": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-23T05:49:50Z",
+     "headline": "Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears",
+     "url": "https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:03:19Z",
+     "headline": "Serbia’s longtime leader faces biggest political test as students mount election challenge",
+     "url": "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T14:06:29Z",
+     "headline": "Students seek to oust Serbia’s strongman in Sunday vote",
+     "url": "https://www.tovima.com/financial-times/students-seek-to-oust-serbias-strongman-in-sunday-vote/"
+    },
+    {
+     "outlet": "OCCRP",
+     "country": "NLD",
+     "time": "2026-10-23T14:48:00Z",
+     "headline": "Many in Serbia’s Youth Movement Fear a Rigged Election on Sunday",
+     "url": "https://www.occrp.org/en/news/many-in-serbias-youth-movement-fear-a-rigged-election-on-sunday"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:34Z",
+     "headline": "Gen Z protest movement could oust Serbia’s strongman",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/24/2003866516"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T16:43:51Z",
+     "headline": "Protest to polls: election arrives for Serbia's student movement",
+     "url": "https://www.arabnews.com/world/protest-to-polls-election-arrives-for-serbias-student-movement-3007919"
     }
    ]
   },
@@ -10903,6 +10862,107 @@
    ]
   },
   {
+   "id": 20291,
+   "title": "Greece, Egypt in talks to extend maritime zone further east",
+   "category": "Geopolitics",
+   "importance": 5.72,
+   "risk": 1.15,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 11,
+   "countries": [
+    "USA",
+    "SGP",
+    "GRC",
+    "SAU",
+    "TUR",
+    "EGY",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T09:21:49Z",
+   "last_seen": "2026-10-23T16:32:53Z",
+   "page": "event/20291.html",
+   "reports": [
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-22T09:21:49Z",
+     "headline": "Libyan Deal Paves Way for Broader Turkish Drilling in Mediterranean",
+     "url": "https://www.rigzone.com/news/wire/libyan_deal_paves_way_for_broader_turkish_drilling_in_mediterranean-22-oct-2026-184902-article/?rss=true"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T13:11:39Z",
+     "headline": "Greece and Egypt to begin talks on extending their maritime boundary",
+     "url": "https://en.protothema.gr/2026/10/22/greece-and-egypt-to-begin-talks-on-extending-their-maritime-boundary/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T15:37:07Z",
+     "headline": "Greece, Egypt in talks to extend maritime zone further east",
+     "url": "https://www.straitstimes.com/world/europe/greece-egypt-in-talks-to-extend-maritime-zone-further-east"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T15:47:10Z",
+     "headline": "Greece, Egypt in talks to extend maritime zone further east",
+     "url": "https://www.al-monitor.com/originals/2026/10/greece-egypt-talks-extend-maritime-zone-further-east"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-22T17:21:15Z",
+     "headline": "Greece, Egypt discuss to extend their Exclusive Economic Zone in Med East",
+     "url": "https://www.keeptalkinggreece.com/2026/10/22/greece-egypt-discuss-extension-of-exclusive-economic-zone-in-the-east/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:36:57Z",
+     "headline": "Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
+     "url": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T12:34:31Z",
+     "headline": "Greece, Egypt seek to extend maritime deal eastward amid Türkiye-Libya pact",
+     "url": "https://www.hurriyetdailynews.com/greece-egypt-seek-to-extend-maritime-deal-eastward-amid-turkiye-libya-pact-228523"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-23T12:48:17Z",
+     "headline": "In talks with Turkey, Egypt holds firm on Mediterranean sovereignty",
+     "url": "https://www.egyptindependent.com/in-talks-with-turkey-egypt-holds-firm-on-mediterranean-sovereignty/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T13:30:47Z",
+     "headline": "Greece, Cyprus, France and Italy Complete EUNOMIA Exercise",
+     "url": "https://www.tovima.com/society/greece-cyprus-france-and-italy-complete-eunomia-exercise/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T15:01:05Z",
+     "headline": "Turkish Press: Libyan Ratification of Maritime MoU Undermines Greece’s Eastern Mediterranean Strategy",
+     "url": "https://greekcitytimes.com/2026/10/24/turkish-press-libyan-ratification/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T16:32:53Z",
+     "headline": "Cyprus ‘ready’ to delimit EEZ with Greece",
+     "url": "https://cyprus-mail.com/2026/10/23/cyprus-ready-to-delimit-eez-with-greece"
+    }
+   ]
+  },
+  {
    "id": 1512,
    "title": "Formula 1 to Return to Africa with Rwanda Grand Prix in Early 2030s",
    "category": "Geopolitics",
@@ -12114,323 +12174,6 @@
      "time": "2026-10-23T07:43:00Z",
      "headline": "Elon Musk wants to merge SpaceX and Tesla: Why it matters and what happens next",
      "url": "https://iol.co.za/business/economy/2026-10-23-elon-musk-wants-to-merge-spacex-and-tesla-why-it-matters-and-what-happens-next/"
-    }
-   ]
-  },
-  {
-   "id": 19970,
-   "title": "France reports first human Shamonda virus case",
-   "category": "Health & Science",
-   "importance": 5.65,
-   "risk": 5.52,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 34,
-   "countries": [
-    "OMN",
-    "SGP",
-    "GBR",
-    "IND",
-    "IRL",
-    "AZE",
-    "SWE",
-    "TUR",
-    "ISR",
-    "BEL",
-    "FRA",
-    "CHN",
-    "NGA",
-    "PAK",
-    "QAT",
-    "ARE",
-    "USA",
-    "DEU",
-    "MAR",
-    "CAN"
-   ],
-   "first_seen": "2026-10-22T04:48:26Z",
-   "last_seen": "2026-10-23T08:35:15Z",
-   "page": "event/19970.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T04:48:26Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.omanobserver.om/article/1198225/scitech/science/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T08:36:24Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.straitstimes.com/world/europe/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:00Z",
-     "headline": "France reports first Shamonda virus case in human who later died",
-     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T08:41:45Z",
-     "headline": "Deadly Shamonda virus detected in human for first time in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-detected-symptoms-b3071284.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T08:46:33Z",
-     "headline": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
-     "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T09:04:32Z",
-     "headline": "France reports first death of human from Shamonda virus",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596411-shamonda-virus/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T09:13:00Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://en.apa.az/europe/france-reports-first-human-shamonda-virus-case-531619"
-    },
-    {
-     "outlet": "ECDC news",
-     "country": "SWE",
-     "time": "2026-10-22T09:13:22Z",
-     "headline": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
-     "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:36:59Z",
-     "headline": "France reports 1st human case of Shamonda virus after patient’s death",
-     "url": "https://www.aa.com.tr/en/europe/france-reports-1st-human-case-of-shamonda-virus-after-patient-s-death/4096943"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T09:38:19Z",
-     "headline": "French patient dies after Shamonda virus detected in human for first time",
-     "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-912535"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:44:12Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.channelnewsasia.com/world/france-reports-first-human-shamonda-virus-case-6482136"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-22T10:01:36Z",
-     "headline": "Europe on alert as France reports first human Shamonda virus case",
-     "url": "https://www.rapporteur.com/news/europe-on-alert-as-france-reports-first-human-shamonda-virus-case/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T10:06:31Z",
-     "headline": "Shamonda virus detected in human for first time in France; patient dies",
-     "url": "https://timesofindia.indiatimes.com/science/shamonda-virus-detected-in-human-for-first-time-in-france-patient-dies/articleshow/135115138.cms"
-    },
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-22T10:10:10Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.thelocal.fr/20261022/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:17:21Z",
-     "headline": "What is Shamonda virus? Symptoms and origin after first human case confirmed in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-symptoms-human-case-b3071325.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T10:52:17Z",
-     "headline": "France reports world's first documented case of human infection with Shamonda virus",
-     "url": "https://english.news.cn/20261022/37386b7727eb4381accce646b6b4b5e8/c.html"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T10:59:03Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.vanguardngr.com/2026/10/france-reports-first-human-shamonda-virus-case-says-no-health-risk/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T11:04:14Z",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:13:52Z",
-     "headline": "14 EU Countries Affected As France Reports First Case Of Human Shamonda Virus",
-     "url": "https://www.channelstv.com/2026/10/22/14-eu-countries-affected-as-france-reports-first-case-of-human-shamonda-virus/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:15:08Z",
-     "headline": "Human Shamonda Virus: Reported Case Has No Health Risk, Says France",
-     "url": "https://www.channelstv.com/2026/10/22/human-shamonda-virus-reported-case-has-no-health-risk-says-france/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:20:08Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://punchng.com/france-reports-first-human-shamonda-virus-case/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:24:15Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://tribune.com.pk/story/2636360/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T11:28:05Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T11:43:04Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://gulfnews.com/world/europe/france-reports-first-human-shamonda-virus-case-says-no-health-risk-3-1.500719806"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T11:45:00Z",
-     "headline": "France records first human case of Shamonda virus as patient dies",
-     "url": "https://en.protothema.gr/2026/10/22/france-records-first-human-case-of-shamonda-virus-as-patient-dies/"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-22T12:00:00Z",
-     "headline": "First human case of Shamonda virus reported in France as patient dies",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168652"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T12:22:56Z",
-     "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
-     "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T12:46:00Z",
-     "headline": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
-     "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-22T13:13:55Z",
-     "headline": "France reports first ever human Shamonda virus case in patient who died",
-     "url": "https://en.hespress.com/147788-france-reports-first-ever-human-shamonda-virus-case-in-patient-who-died.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T13:14:26Z",
-     "headline": "First known human case of Shamonda virus confirmed in France",
-     "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T13:28:00Z",
-     "headline": "First human case of livestock virus Shamonda unlikely to lead to wider spread, WHO says",
-     "url": "https://en.apa.az/america/first-human-case-of-livestock-virus-shamonda-unlikely-to-lead-to-wider-spread-who-says-531670"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T14:26:05Z",
-     "headline": "France reports first human case of livestock virus Shamonda in patient who later died",
-     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T14:41:38Z",
-     "headline": "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
-     "url": "https://www.straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T14:59:25Z",
-     "headline": "1st human case of livestock virus Shamonda reported in France",
-     "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T15:07:01Z",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T15:14:40Z",
-     "headline": "Shamonda virus: First human case reported in France; patient dies",
-     "url": "https://indianexpress.com/article/world/first-human-case-shamonda-virus-france-lyon-death-10932667/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:30:54Z",
-     "headline": "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
-     "url": "https://www.aa.com.tr/en/europe/who-investigates-transmission-public-health-risks-of-1st-human-case-of-shamonda-virus-in-france/4097666"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T17:52:59Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T02:08:07Z",
-     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
-     "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T08:35:15Z",
-     "headline": "First human case of Shamonda virus: What is it, what are the risks",
-     "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
     }
    ]
   }
