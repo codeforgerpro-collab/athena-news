@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:45:22Z",
+ "generated": "2026-10-23T20:01:24Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,9 +8,9 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "importance": 8.42,
-   "risk": 7.36,
+   "risk": 8.11,
    "confidence": 0.9,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 45,
    "countries": [
     "PAK",
@@ -283,6 +283,13 @@
      "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-6-killed-what"
     },
     {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 7 killed: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-7-killed-what"
+    },
+    {
      "outlet": "Greek City Times",
      "country": "GRC",
      "time": "2026-10-23T13:20:08Z",
@@ -316,13 +323,6 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:46:30Z",
-     "headline": "Six killed in attack at church in Jordan, authorities say",
-     "url": "https://www.al-monitor.com/originals/2026/10/six-killed-attack-church-jordan-authorities-say"
     }
    ]
   },
@@ -3654,8 +3654,8 @@
    "id": 1869,
    "title": "Kenya confirms second Ebola case, a relative of first patient",
    "category": "Health & Science",
-   "importance": 6.8,
-   "risk": 6.73,
+   "importance": 6.86,
+   "risk": 6.75,
    "confidence": 0.93,
    "status": "fading",
    "outlets": 38,
@@ -3685,7 +3685,7 @@
     "SWE"
    ],
    "first_seen": "2026-10-12T17:52:48Z",
-   "last_seen": "2026-10-23T14:42:20Z",
+   "last_seen": "2026-10-23T19:54:03Z",
    "page": "event/1869.html",
    "reports": [
     {
@@ -5789,7 +5789,7 @@
      "outlet": "The Jerusalem Post",
      "country": "ISR",
      "time": "2026-10-23T11:35:25Z",
-     "headline": "France investigates suspected Islamophobic shooting of girl near Paris as terrorism",
+     "headline": "Macron says Paris suburb shooting that killed one person was terrorist, racist act",
      "url": "https://www.jpost.com/international/article-912650"
     },
     {
@@ -6674,6 +6674,219 @@
      "time": "2026-10-23T19:02:08Z",
      "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
      "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
+    }
+   ]
+  },
+  {
+   "id": 22319,
+   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+   "category": "Society & Law",
+   "importance": 6.33,
+   "risk": 2.03,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 21,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA",
+    "ZAF",
+    "CAN",
+    "IND",
+    "JAM"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T19:37:57Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T14:11:26Z",
+     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:18:00Z",
+     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
+     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:45:07Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T14:47:18Z",
+     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
+     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-23T14:48:01Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
+     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T14:52:58Z",
+     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
+     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T15:48:17Z",
+     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
+     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-23T17:32:47Z",
+     "headline": "Meghan Markle says she’s 'deeply distressed' in response to child pornography allegations against her father",
+     "url": "https://thehill.com/blogs/in-the-know/6168715-meghan-markle-father-investigation-response/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T17:35:14Z",
+     "headline": "Why I kept my children away from my father – Meghan",
+     "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T18:49:30Z",
+     "headline": "Meghan Markle 'Distressed' Over Claims Her Father Had Child Abuse Images",
+     "url": "https://www.ndtv.com/world-news/meghan-markle-distressed-over-claims-her-father-thomas-markle-had-child-abuse-images-12227695#publisher=newsstand"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-23T19:37:57Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.jamaicaobserver.com/2026/10/23/meghan-markle-distressed-claims-father-child-abuse-images/"
     }
    ]
   },
@@ -7752,211 +7965,6 @@
      "time": "2026-10-23T12:36:02Z",
      "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
      "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
-    }
-   ]
-  },
-  {
-   "id": 22319,
-   "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-   "category": "Society & Law",
-   "importance": 6.18,
-   "risk": 1.78,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 20,
-   "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
-    "TUR",
-    "SGP",
-    "THA",
-    "ZAF",
-    "CAN",
-    "IND"
-   ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T18:49:30Z",
-   "page": "event/22319.html",
-   "reports": [
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
-     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T14:11:26Z",
-     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:18:00Z",
-     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
-     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:45:07Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-distressed-claim-father-thomas-child-abuse-images.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T14:47:18Z",
-     "headline": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
-     "url": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-23T14:48:01Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by child sex abuse image claims against dad",
-     "url": "https://globalnews.ca/news/12118338/meghan-markle-deeply-distressed-child-sex-abuse-image-claims-against-dad-thomas-markle/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T14:52:58Z",
-     "headline": "Meghan Markle ‘deeply distressed’ over child abuse allegations against father Thomas Markle",
-     "url": "https://indianexpress.com/article/world/meghan-markle-deeply-distressed-allegations-father-thomas-markle-philippines-10934164/"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T15:48:17Z",
-     "headline": "Meghan Markle reacts to \"disturbing\" child sex abuse accusations against estranged father",
-     "url": "https://www.cbsnews.com/video/meghan-markle-reacts-to-disturbing-child-sex-abuse-accusations-against-estranged-father/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-23T17:32:47Z",
-     "headline": "Meghan Markle says she’s 'deeply distressed' in response to child pornography allegations against her father",
-     "url": "https://thehill.com/blogs/in-the-know/6168715-meghan-markle-father-investigation-response/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T17:35:14Z",
-     "headline": "Why I kept my children away from my father – Meghan",
-     "url": "https://punchng.com/2281111-2/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T18:49:30Z",
-     "headline": "Meghan Markle 'Distressed' Over Claims Her Father Had Child Abuse Images",
-     "url": "https://www.ndtv.com/world-news/meghan-markle-distressed-over-claims-her-father-thomas-markle-had-child-abuse-images-12227695#publisher=newsstand"
     }
    ]
   },
@@ -12055,6 +12063,243 @@
    ]
   },
   {
+   "id": 16196,
+   "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
+   "category": "Geopolitics",
+   "importance": 5.68,
+   "risk": 4.64,
+   "confidence": 0.94,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "USA",
+    "RUS",
+    "SGP",
+    "CAN",
+    "UKR",
+    "CHN",
+    "EGY",
+    "FRA",
+    "AZE",
+    "TUR"
+   ],
+   "first_seen": "2026-10-21T07:43:43Z",
+   "last_seen": "2026-10-23T19:45:30Z",
+   "page": "event/16196.html",
+   "reports": [
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-21T07:43:43Z",
+     "headline": "After Witkoff Meeting, Putin 'Ready To Resume' US-Led Peace Talks With Ukraine",
+     "url": "https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T13:56:19Z",
+     "headline": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
+     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T13:58:51Z",
+     "headline": "Putin and Witkoff discuss resumption of trilateral talks on Ukraine — Kremlin aide",
+     "url": "https://tass.com/politics/2205599"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:05:00Z",
+     "headline": "Putin says Russia ready to resume trilateral talks in November — aide",
+     "url": "https://tass.com/politics/2205585"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T14:06:28Z",
+     "headline": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
+     "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:25:23Z",
+     "headline": "New approaches by EU, Ukraine of little use for settlement — Kremlin aide",
+     "url": "https://tass.com/politics/2205653"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:36:05Z",
+     "headline": "Kremlin says it’s ready to resume trilateral talks but sees little ‘useful’ in new proposals from Ukraine and the EU",
+     "url": "https://meduza.io/en/news/2026/10/21/kremlin-says-it-s-ready-to-resume-trilateral-talks-but-sees-little-useful-in-new-proposals-from-ukraine-and-the-eu"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:49:38Z",
+     "headline": "New round of trilateral talks on Ukraine could take place in Abu Dhabi — Kremlin aide",
+     "url": "https://tass.com/politics/2205685"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:58:21Z",
+     "headline": "Putin yet to decide on Russian delegation to new trilateral Ukraine talks",
+     "url": "https://tass.com/politics/2205691"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:05:57Z",
+     "headline": "Everyone interested in meeting between Russia, China and US, Kremlin aide says",
+     "url": "https://tass.com/politics/2205699"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:35:20Z",
+     "headline": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
+     "url": "https://tass.com/politics/2205735"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:40:53Z",
+     "headline": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
+     "url": "https://tass.com/politics/2205747"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T15:42:32Z",
+     "headline": "Putin to resume three-way talks with Ukraine, Washington: Kremlin",
+     "url": "https://globalnews.ca/news/12111003/putin-to-resume-ukraine-washington-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T16:14:00Z",
+     "headline": "Putin ‘Ready’ for Three-Way Ukraine Talks in November, Kremlin Says",
+     "url": "https://www.kyivpost.com/post/87775"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-21T17:20:10Z",
+     "headline": "Moscow tells Witkoff it is ready to resume trilateral talks in first ten days of Nov",
+     "url": "https://en.interfax.com.ua/news/general/1224138.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T17:41:08Z",
+     "headline": "Ukraine Counts on Beijing’s ‘Constructive Role’ as Sybiha Meets Chinese Ambassador",
+     "url": "https://www.kyivpost.com/post/87782"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Russia ready to resume trilateral talks with US, Ukraine in mid-November",
+     "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad8f19be4b06d4aa05640d2.html"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-22T13:38:18Z",
+     "headline": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
+     "url": "https://www.egyptindependent.com/massive-strikes-hit-kyiv-hours-after-putin-agrees-to-fresh-peace-talks/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T13:39:13Z",
+     "headline": "Kremlin spokesman weighs in on upcoming trilateral talks with Ukraine",
+     "url": "https://tass.com/politics/2206323"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T15:50:09Z",
+     "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+     "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T16:43:59Z",
+     "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T18:57:19Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://tass.com/politics/2206531"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-22T18:58:00Z",
+     "headline": "Putin: Russia has told US it is ready to resume trilateral talks",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059305/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T19:16:00Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://en.apa.az/cis-countries/russia-ready-to-resume-trilateral-talks-on-ukraine-putin-531713"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T22:41:21Z",
+     "headline": "Talks with US,Ukraine to focus on security guarantees — Putin",
+     "url": "https://tass.com/politics/2206565"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T22:56:45Z",
+     "headline": "Putin reaffirms Russia’s readiness to resume trilateral peace talks on Ukraine war",
+     "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-reaffirms-russia-s-readiness-to-resume-trilateral-peace-talks-on-ukraine-war/4097897"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T08:00:49Z",
+     "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
+     "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T17:23:06Z",
+     "headline": "Flash: Ukraine ready for trilateral meeting with U.S., Russia: Zelensky",
+     "url": "https://english.news.cn/20261024/b20146e6b11f408785605554ff5b2c62/c.html"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T18:39:00Z",
+     "headline": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177634-zelensky-ukraine-ready-for-negotiations-at-any-time-russia-determines-whether-they-take-place.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T19:45:30Z",
+     "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
+     "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
+    }
+   ]
+  },
+  {
    "id": 16809,
    "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
    "category": "Geopolitics",
@@ -12322,140 +12567,6 @@
      "time": "2026-10-22T19:41:50Z",
      "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
      "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
-    }
-   ]
-  },
-  {
-   "id": 20228,
-   "title": "New York City bans horse-drawn carriages from 2028",
-   "category": "Geopolitics",
-   "importance": 5.67,
-   "risk": 4.38,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "GBR",
-    "SAU",
-    "USA",
-    "CAN",
-    "SGP",
-    "FRA",
-    "AUS",
-    "KOR",
-    "ARE",
-    "GRC",
-    "IRL",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T09:06:48Z",
-   "last_seen": "2026-10-23T15:16:14Z",
-   "page": "event/20228.html",
-   "reports": [
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:06:48Z",
-     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:41:03Z",
-     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
-     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:08:12Z",
-     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T19:39:32Z",
-     "headline": "Trump laments NY horse drawn carriage ban",
-     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
-    },
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-22T20:46:05Z",
-     "headline": "A final farewell to NYC’s horse carriage industry",
-     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T20:48:56Z",
-     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T21:55:13Z",
-     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
-     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T23:34:00Z",
-     "headline": "New York City bans horse-drawn carriages from June 2028",
-     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T00:18:53Z",
-     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
-     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T02:20:12Z",
-     "headline": "New York City bans horse-drawn carriages from 2028",
-     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
-     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:37:24Z",
-     "headline": "New York votes to ban horse carriages",
-     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T09:00:51Z",
-     "headline": "NYC Votes to Ban Carriage Horses",
-     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
-    },
-    {
-     "outlet": "The Irish Times",
-     "country": "IRL",
-     "time": "2026-10-23T11:03:13Z",
-     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
-     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:16:14Z",
-     "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
-     "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
     }
    ]
   }
