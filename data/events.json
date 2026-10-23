@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T14:11:52Z",
+ "generated": "2026-10-23T14:41:53Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,9 +8,9 @@
    "title": "Netanyahu orders lockdown of West Bank after fatal attack",
    "category": "Economy & Markets",
    "importance": 8.39,
-   "risk": 6.61,
+   "risk": 7.28,
    "confidence": 0.87,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 38,
    "countries": [
     "SAU",
@@ -38,7 +38,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T13:43:05Z",
+   "last_seen": "2026-10-23T14:32:41Z",
    "page": "event/22696.html",
    "reports": [
     {
@@ -327,11 +327,11 @@
    "id": 23500,
    "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
-   "importance": 8.0,
+   "importance": 8.09,
    "risk": 2.72,
-   "confidence": 0.86,
+   "confidence": 0.87,
    "status": "spreading",
-   "outlets": 19,
+   "outlets": 21,
    "countries": [
     "AZE",
     "GBR",
@@ -344,12 +344,14 @@
     "IRQ",
     "SAU",
     "CHN",
+    "ARM",
     "USA",
     "ARE",
-    "THA"
+    "THA",
+    "SGP"
    ],
    "first_seen": "2026-10-23T07:25:00Z",
-   "last_seen": "2026-10-23T13:59:38Z",
+   "last_seen": "2026-10-23T14:32:26Z",
    "page": "event/23500.html",
    "reports": [
     {
@@ -458,6 +460,13 @@
      "url": "https://english.news.cn/20261023/ede16275dd184b8fb67ad8a8b31d9e09/c.html"
     },
     {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T13:14:00Z",
+     "headline": "Kremlin spox reports on sending of first tanker with Russian diesel fuel to US",
+     "url": "https://news.am/en/news/1069877"
+    },
+    {
      "outlet": "Fortune",
      "country": "USA",
      "time": "2026-10-23T13:26:19Z",
@@ -491,6 +500,13 @@
      "time": "2026-10-23T13:59:38Z",
      "headline": "Tanker with Russian diesel heads to New York",
      "url": "https://www.bangkokpost.com/world/3342383/tanker-with-russian-diesel-heads-to-new-york"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T14:32:26Z",
+     "headline": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+     "url": "https://www.straitstimes.com/world/europe/first-russian-diesel-from-putin-trump-deal-heading-for-us-data-shows"
     }
    ]
   },
@@ -498,11 +514,11 @@
    "id": 24515,
    "title": "Six killed, 28 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 7.82,
+   "importance": 7.92,
    "risk": 6.89,
-   "confidence": 0.9,
+   "confidence": 0.89,
    "status": "spreading",
-   "outlets": 31,
+   "outlets": 35,
    "countries": [
     "IND",
     "ARE",
@@ -523,10 +539,11 @@
     "PAK",
     "QAT",
     "NZL",
-    "NGA"
+    "NGA",
+    "FRA"
    ],
    "first_seen": "2026-10-23T12:02:22Z",
-   "last_seen": "2026-10-23T14:09:21Z",
+   "last_seen": "2026-10-23T14:36:05Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -540,7 +557,7 @@
      "outlet": "The National",
      "country": "ARE",
      "time": "2026-10-23T12:04:37Z",
-     "headline": "At least seven killed in shooting at church in Jordan's Karak province",
+     "headline": "At least six killed in shooting at church in Jordan's Karak governorate",
      "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
     },
     {
@@ -670,6 +687,13 @@
      "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
     },
     {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "Six killed, 28 injured in attack at funeral in Jordan's Karak",
+     "url": "https://www.newarab.com/news/six-killed-28-injured-attack-funeral-jordans-karak"
+    },
+    {
      "outlet": "Cyprus Mail",
      "country": "CYP",
      "time": "2026-10-23T12:53:06Z",
@@ -726,6 +750,13 @@
      "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
     },
     {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 6 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-6-killed-jordan-church-shooting-what-know"
+    },
+    {
      "outlet": "Greek City Times",
      "country": "GRC",
      "time": "2026-10-23T13:20:08Z",
@@ -743,14 +774,14 @@
      "outlet": "Al Jazeera English",
      "country": "QAT",
      "time": "2026-10-23T13:32:40Z",
-     "headline": "At least seven killed after gunmen open fire at church in Jordan",
+     "headline": "Gunmen open fire at church in Jordan, killing several people",
      "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
     },
     {
      "outlet": "CBS News (World)",
      "country": "USA",
      "time": "2026-10-23T13:39:27Z",
-     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+     "headline": "Gunmen kill at least 6 in attack on Jordan church, authorities say",
      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
     },
     {
@@ -787,6 +818,13 @@
      "time": "2026-10-23T14:09:21Z",
      "headline": "Seven killed in Jordan church shooting",
      "url": "https://punchng.com/seven-killed-in-jordan-church-shooting/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T14:16:29Z",
+     "headline": "Several killed, dozens wounded in Jordan church shooting",
+     "url": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting"
     }
    ]
   },
@@ -1118,6 +1156,197 @@
    ]
   },
   {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Society & Law",
+   "importance": 7.36,
+   "risk": 6.42,
+   "confidence": 0.83,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-23T14:24:56Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terror probe after fatal shooting in Paris suburb",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed in shooting near Paris, French prime minister says",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "One killed and four injured in drive-by shooting in Paris suburb",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:48:00Z",
+     "headline": "Deadly shooting in Paris suburb may be terrorist act, officials say",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T14:14:43Z",
+     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T14:24:56Z",
+     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
+     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
+    }
+   ]
+  },
+  {
    "id": 9153,
    "title": "IRGC say tanker on fire after hitting mine in Strait of Hormuz",
    "category": "Trade & Industry",
@@ -1439,14 +1668,254 @@
    ]
   },
   {
+   "id": 19215,
+   "title": "Taiwan shuts down as Typhoon Champi approaches",
+   "category": "Energy & Environment",
+   "importance": 7.26,
+   "risk": 7.03,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 26,
+   "countries": [
+    "THA",
+    "VNM",
+    "GBR",
+    "HKG",
+    "SAU",
+    "TUR",
+    "USA",
+    "ARE",
+    "PHL",
+    "FRA",
+    "TWN",
+    "KOR",
+    "DEU",
+    "ZAF",
+    "PAK",
+    "AUS",
+    "GHA",
+    "CAN",
+    "QAT",
+    "LKA"
+   ],
+   "first_seen": "2026-10-22T07:07:13Z",
+   "last_seen": "2026-10-23T13:37:22Z",
+   "page": "event/19215.html",
+   "reports": [
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T07:07:13Z",
+     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
+     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T08:11:57Z",
+     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
+     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
+    },
+    {
+     "outlet": "Phys.org",
+     "country": "GBR",
+     "time": "2026-10-22T08:38:06Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-22T08:42:48Z",
+     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T08:44:12Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T09:45:29Z",
+     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
+     "url": "https://english.aawsat.com/node/5332289"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:26:22Z",
+     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
+     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T17:39:10Z",
+     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T02:13:54Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-23T02:29:29Z",
+     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
+     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T03:00:54Z",
+     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
+     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T03:37:36Z",
+     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
+     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T04:15:11Z",
+     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
+     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
+     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T06:39:58Z",
+     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T06:40:00Z",
+     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
+     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:41:35Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:41:55Z",
+     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
+     "url": "https://english.aawsat.com/node/5332598"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:46:00Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T07:30:03Z",
+     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
+     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:05:49Z",
+     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
+     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T08:45:58Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:47:36Z",
+     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
+     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:20Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:24:59Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:53:27Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:53:38Z",
+     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
+     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
+    }
+   ]
+  },
+  {
    "id": 8843,
    "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
    "category": "Energy & Environment",
-   "importance": 7.27,
-   "risk": 6.4,
+   "importance": 7.22,
+   "risk": 6.8,
    "confidence": 0.92,
-   "status": "fading",
-   "outlets": 39,
+   "status": "peaking",
+   "outlets": 40,
    "countries": [
     "ARE",
     "KGZ",
@@ -1478,7 +1947,7 @@
     "LKA"
    ],
    "first_seen": "2026-10-16T18:49:30Z",
-   "last_seen": "2026-10-23T13:36:37Z",
+   "last_seen": "2026-10-23T14:25:24Z",
    "page": "event/8843.html",
    "reports": [
     {
@@ -1760,423 +2229,6 @@
      "time": "2026-10-23T06:41:41Z",
      "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
      "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
-    }
-   ]
-  },
-  {
-   "id": 19215,
-   "title": "Taiwan shuts down as Typhoon Champi approaches",
-   "category": "Energy & Environment",
-   "importance": 7.26,
-   "risk": 7.03,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 26,
-   "countries": [
-    "THA",
-    "VNM",
-    "GBR",
-    "HKG",
-    "SAU",
-    "TUR",
-    "USA",
-    "ARE",
-    "PHL",
-    "FRA",
-    "TWN",
-    "KOR",
-    "DEU",
-    "ZAF",
-    "PAK",
-    "AUS",
-    "GHA",
-    "CAN",
-    "QAT",
-    "LKA"
-   ],
-   "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T13:37:22Z",
-   "page": "event/19215.html",
-   "reports": [
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T07:07:13Z",
-     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
-     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T08:11:57Z",
-     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
-     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
-    },
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:06Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-22T08:42:48Z",
-     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T08:44:12Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:45:29Z",
-     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
-     "url": "https://english.aawsat.com/node/5332289"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:26:22Z",
-     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
-     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T17:39:10Z",
-     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T02:13:54Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-23T02:29:29Z",
-     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
-     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T03:00:54Z",
-     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
-     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T03:37:36Z",
-     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
-     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T04:15:11Z",
-     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
-     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T06:39:58Z",
-     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T06:40:00Z",
-     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
-     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
-     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:41:35Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:41:55Z",
-     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
-     "url": "https://english.aawsat.com/node/5332598"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:46:00Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T07:30:03Z",
-     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:05:49Z",
-     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
-     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T08:45:58Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:47:36Z",
-     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
-     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:20Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:24:59Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:53:27Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:53:38Z",
-     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
-     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 23956,
-   "title": "Gunman fires from car near Paris, killing 1; police arrest suspect",
-   "category": "Society & Law",
-   "importance": 7.21,
-   "risk": 7.1,
-   "confidence": 0.84,
-   "status": "spreading",
-   "outlets": 18,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR",
-    "BEL"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T13:48:00Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terror probe after fatal shooting in Paris suburb",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "Gunman fires from car near Paris, killing 1; police arrest suspect",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "One killed, four including child injured in drive-by shooting in Paris suburb",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "Anti-terror police investigate as one person killed in shooting near Paris",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "One killed, four injured in Paris shooting as France braces for another round of violent protests",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed in shooting near Paris, French prime minister says",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T12:06:24Z",
-     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T12:55:18Z",
-     "headline": "One killed, four injured in drive-by shooting in Paris suburb",
-     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:48:00Z",
-     "headline": "Deadly shooting in Paris suburb may be terrorist act, officials say",
-     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
     }
    ]
   },
@@ -2508,6 +2560,170 @@
      "time": "2026-10-15T12:11:30Z",
      "headline": "Pope doing physical therapy, good recovery of the operated lung",
      "url": "https://www.ansa.it/english/news/2026/10/15/pope-doing-physical-therapy-good-recovery-of-the-operated-lung_8680a00a-b2b0-4e37-8be4-3fbd945ffb0e.html"
+    }
+   ]
+  },
+  {
+   "id": 24812,
+   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+   "category": "Geopolitics",
+   "importance": 7.07,
+   "risk": 2.78,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "CHN",
+    "AZE",
+    "SGP",
+    "UKR",
+    "QAT",
+    "PAK",
+    "TUR",
+    "USA",
+    "RUS",
+    "CYP",
+    "IND",
+    "GBR",
+    "ISR",
+    "IRL"
+   ],
+   "first_seen": "2026-10-23T13:30:50Z",
+   "last_seen": "2026-10-23T14:37:40Z",
+   "page": "event/24812.html",
+   "reports": [
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T13:30:50Z",
+     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
+     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T13:36:00Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:36:47Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:38:06Z",
+     "headline": "Breaking: Russia, Ukraine agree to Oleshky ceasefire mediated by Melania Trump, White House says",
+     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:39:06Z",
+     "headline": "Melania Trump ‘secured ceasefire’ in Ukrainian city Oleshky: White House",
+     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:39:49Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:41:00Z",
+     "headline": "White House claims Melania Trump secured ceasefire in Oleshky",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059437/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T13:43:22Z",
+     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
+     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T13:49:34Z",
+     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
+     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:55:00Z",
+     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T13:58:22Z",
+     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
+     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:04:01Z",
+     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
+     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T14:05:11Z",
+     "headline": "Melania Trump helps secure a ceasefire deal in Russian-occupied Oleshky, the White House says",
+     "url": "https://www.pbs.org/newshour/world/melania-trump-helps-secure-a-ceasefire-deal-in-russian-occupied-oleshky-the-white-house-says"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:05:21Z",
+     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
+     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
+    },
+    {
+     "outlet": "Novaya Gazeta Europe (EN)",
+     "country": "RUS",
+     "time": "2026-10-23T14:09:45Z",
+     "headline": "Russia and Ukraine agreed to ceasefire in occupied Oleshky, White House says",
+     "url": "https://novayagazeta.eu/articles/2026/10/23/russia-and-ukraine-agreed-to-ceasefire-in-occupied-oleshky-white-house-says-en-news"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T14:10:29Z",
+     "headline": "Russia-Ukraine war: Melania's 'intervention' secures one-city ceasefire",
+     "url": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T14:13:33Z",
+     "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T14:30:30Z",
+     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912658"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T14:37:40Z",
+     "headline": "Melania Trump secures ceasefire in Ukrainian city Oleshky",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/"
     }
    ]
   },
@@ -3535,8 +3751,147 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-23T08:00:11Z",
-     "headline": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+     "headline": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "id": 16086,
+   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+   "category": "Geopolitics",
+   "importance": 6.73,
+   "risk": 6.94,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "BGR",
+    "SAU",
+    "UKR",
+    "SGP",
+    "AZE",
+    "IND",
+    "TUR",
+    "BEL",
+    "RUS",
+    "DEU"
+   ],
+   "first_seen": "2026-10-20T13:00:00Z",
+   "last_seen": "2026-10-23T14:25:00Z",
+   "page": "event/16086.html",
+   "reports": [
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-20T13:00:00Z",
+     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
+     "url": "https://www.novinite.com/view_news.php?id=241156"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:04:05Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:29Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T09:48:41Z",
+     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
+     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T10:40:50Z",
+     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
+     "url": "https://www.kyivpost.com/post/87976"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T11:23:00Z",
+     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T11:32:00Z",
+     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:24:17Z",
+     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
+     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:44:56Z",
+     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
+     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-23T13:07:28Z",
+     "headline": "Romania blames Russia for new deadly attack on ship",
+     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T13:18:00Z",
+     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T13:48:45Z",
+     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
+     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-23T14:21:15Z",
+     "headline": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
+     "url": "https://www.themoscowtimes.com/2026/10/23/romania-blames-russia-for-deadly-drone-attack-on-cargo-ship-a94068"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:25:00Z",
+     "headline": "Romania blames Russia for ship attack in the Black Sea",
+     "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
@@ -4738,163 +5093,6 @@
    ]
   },
   {
-   "id": 17849,
-   "title": "Greece passes social media ban for children under 15",
-   "category": "Society & Law",
-   "importance": 6.44,
-   "risk": 4.15,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "GRC",
-    "PAK",
-    "SGP",
-    "CYP",
-    "SAU",
-    "NLD",
-    "BGR",
-    "THA",
-    "DEU",
-    "ZAF",
-    "LKA",
-    "TUR",
-    "CHN",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T06:00:04Z",
-   "last_seen": "2026-10-23T12:55:16Z",
-   "page": "event/17849.html",
-   "reports": [
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T06:00:04Z",
-     "headline": "Greece to Vote on Social Media Ban for Under-15s",
-     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T05:14:17Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T06:17:18Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T06:27:10Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T06:37:44Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T07:12:22Z",
-     "headline": "Greece passes law banning social media for children under 15",
-     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T07:39:38Z",
-     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
-     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T08:30:39Z",
-     "headline": "Greece Passes Social Media Ban for Children Under 15",
-     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T08:55:51Z",
-     "headline": "Greece bans social media for under-15s",
-     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T09:00:21Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:04:00Z",
-     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
-     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T09:14:00Z",
-     "headline": "New Greece law bans social media for under-15s",
-     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T09:18:02Z",
-     "headline": "Greece passes social media ban for children under 15",
-     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:31:16Z",
-     "headline": "Greece bans social media for children under 15",
-     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-23T10:00:46Z",
-     "headline": "Greece adopts law to ban social media access to minors under 15",
-     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:50:29Z",
-     "headline": "Greek parliament approves social media ban for under-15s from January",
-     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Greece joins push to ban social media for minors",
-     "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 979,
    "title": "Albania’s prime minister vows not to resign over student-led protests",
    "category": "Society & Law",
@@ -5860,324 +6058,6 @@
    ]
   },
   {
-   "id": 16036,
-   "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-   "category": "Trade & Industry",
-   "importance": 6.3,
-   "risk": 6.27,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 37,
-   "countries": [
-    "GBR",
-    "TUR",
-    "IRL",
-    "USA",
-    "QAT",
-    "PAK",
-    "OMN",
-    "SAU",
-    "ARE",
-    "KWT",
-    "AFG",
-    "IRQ",
-    "KOR",
-    "BGD",
-    "SGP",
-    "IND",
-    "NPL",
-    "ZAF",
-    "CHN",
-    "EGY",
-    "NGA"
-   ],
-   "first_seen": "2026-10-21T12:22:54Z",
-   "last_seen": "2026-10-23T06:44:59Z",
-   "page": "event/16036.html",
-   "reports": [
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T12:22:54Z",
-     "headline": "Saudi capital's airport opens to limited traffic, and other Mideast news",
-     "url": "https://www.independent.co.uk/news/world/europe/houthi-saudia-oman-british-iran-b3070719.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T22:33:59Z",
-     "headline": "One killed, eight injured in Saudi Arabia’s King Fahd airport attack",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-eight-injured-saudi-arabias-king-fahd-airport-attack"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-21T22:59:11Z",
-     "headline": "Attack on Saudi Arabia’s Dammam airport kills 1, injures 8: Aviation authority",
-     "url": "https://www.aa.com.tr/en/middle-east/attack-on-saudi-arabia-s-dammam-airport-kills-1-injures-8-aviation-authority/4096575"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T23:35:39Z",
-     "headline": "Two dead, eight injured in Saudi airport attack",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-arabia-yemen/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T00:05:52Z",
-     "headline": "1 killed, 8 wounded in Saudi Arabia airport attack",
-     "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T00:25:41Z",
-     "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-     "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T00:47:45Z",
-     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
-     "url": "https://tribune.com.pk/story/2636275/saudi-civil-aviation-says-one-killed-eight-injured-in-attack-on-king-fahd-airport"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T01:24:01Z",
-     "headline": "Three killed in Saudi Arabia as Ansar Allah target oil field, airport",
-     "url": "https://www.omanobserver.om/article/1198216/world/region/three-killed-in-saudi-arabia-as-ansar-allah-target-oil-field-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T03:24:48Z",
-     "headline": "2 Killed, 8 Injured in Dammam Airport Attack",
-     "url": "https://english.aawsat.com/node/5332192"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T03:58:14Z",
-     "headline": "US pulls diplomats from Saudi Arabia but denies wider Gulf withdrawal",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-22T04:15:00Z",
-     "headline": "Dammam Airport Attack Leaves One Dead, Eight Injured in Saudi Arabia",
-     "url": "https://www.arabtimesonline.com/news/dammam-airport-attack-leaves-one-dead-eight-injured/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:20:14Z",
-     "headline": "Middle East latest: UAE condemns Houthi attack on Saudi Arabia’s Dammam airport",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T04:24:13Z",
-     "headline": "One Killed, Eight Injured in Attack on Saudi Arabia’s King Fahd Airport",
-     "url": "https://www.khaama.com/dammam-airport-attack/"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T05:55:14Z",
-     "headline": "Saudi Aviation Body Reports Two Killed in Dammam Airport Attack",
-     "url": "https://www.kurdistan24.net/en/story/947780/saudi-aviation-body-reports-one-killed-in-dammam-airport-attack"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T06:47:23Z",
-     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
-     "url": "https://www.omanobserver.om/article/1198229/world/region/two-dead-in-eastern-saudi-airport-attack-aviation-authority"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "1 person killed in attack on eastern Saudi airport, authorities say",
-     "url": "https://www.koreatimes.co.kr/world/20261022/1-person-killed-in-attack-on-eastern-saudi-airport-authorities-say?utm_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "Houthi strike kills 1, injures 8 at Saudi King Fahd International Airport",
-     "url": "https://www.turkiyetoday.com/region/houthi-strike-kills-1-injures-8-at-saudi-king-fahd-international-airport-3230796"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T07:03:58Z",
-     "headline": "One killed, 8 injured in Dammam airport attack: Saudi aviation authority",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/one-killed-8-injured-dammam-airport-attack-saudi-aviation-authority-4304726"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T07:11:43Z",
-     "headline": "3 killed, 8 injured in attacks on Aramco oil field, Saudi airport",
-     "url": "https://www.straitstimes.com/world/middle-east/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T07:15:22Z",
-     "headline": "Saudi Arabia's Dammam airport resumes operations after attack kills two, injures eight",
-     "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabias-dammam-airport-resumes-operations-after-attack-kills-two-injures-eight-1.500719434"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T07:17:00Z",
-     "headline": "Dammam’s King Fahd airport resumes normal operations",
-     "url": "https://www.arabnews.com/saudi-arabia/dammams-king-fahd-airport-resumes-normal-operations-3007672"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T07:27:27Z",
-     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-     "url": "https://www.brecorder.com/news/40445437/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T07:36:19Z",
-     "headline": "Indian killed, three others injured in Houthi attacks on Saudi Arabia",
-     "url": "https://indianexpress.com/article/india/indian-national-among-two-killed-in-saudi-arabias-dammam-airport-attack-yemen-houthi-10931971/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-22T07:51:00Z",
-     "headline": "Indian Expat, Saudi National Among Two Killed in Iran-Backed Houthi Attack on Dammam Airport; Eight Injured",
-     "url": "https://www.arabtimesonline.com/news/indian-expat-saudi-national-among-two-killed-in-iran-backed-houthi-attack-on-dammam-airport-eight-injured/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T07:53:59Z",
-     "headline": "Indian Among 2 Killed In Attack On Saudi Airport, 2 Others Injured",
-     "url": "https://www.ndtv.com/world-news/indian-among-2-killed-in-attack-on-saudi-airport-2-others-injured-12219121#publisher=newsstand"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T07:55:41Z",
-     "headline": "Indian national among 2 killed in attack on Saudi Arabia's Dammam airport",
-     "url": "https://timesofindia.indiatimes.com/india/1-indian-killed-2-injured-in-dammam-airport-attack-in-saudi-arabia/articleshow/135112073.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T07:59:49Z",
-     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
-     "url": "https://www.newarab.com/news/two-dead-eastern-saudi-airport-attack-aviation-authority"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T08:21:26Z",
-     "headline": "Dammam airport attack death toll rises to two",
-     "url": "https://shafaq.com/en/Middle-East/Dammam-airport-attack-death-toll-rises-to-two"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T08:37:02Z",
-     "headline": "A Nepali among eight injured in Dammam airport attack",
-     "url": "https://kathmandupost.com/national/2026/10/22/a-nepali-among-eight-injured-in-dammam-airport-attack"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T08:53:17Z",
-     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T09:04:04Z",
-     "headline": "Deaths from attack on Saudi airport rise to 2",
-     "url": "https://english.news.cn/20261022/9fc64639e0864d309c183b1ed971523d/c.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:14:48Z",
-     "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Scroll.in",
-     "country": "IND",
-     "time": "2026-10-22T09:38:07Z",
-     "headline": "Saudi Arabia: Indian killed in Dammam airport attack",
-     "url": "https://scroll.in/latest/1096582/indian-killed-in-dammam-airport-attack?utm_source=rss&utm_medium=public"
-    },
-    {
-     "outlet": "The Hindu",
-     "country": "IND",
-     "time": "2026-10-22T09:58:30Z",
-     "headline": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-     "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T10:07:50Z",
-     "headline": "King Fahd airport attack: Indian national among two killed, embassy confirms",
-     "url": "https://gulfnews.com/world/gulf/saudi/king-fahd-airport-attack-indian-national-among-two-killed-embassy-confirms-1.500719651"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T10:08:09Z",
-     "headline": "Two killed and eight injured in attack targeting King Fahd Airport in Saudi Arabia",
-     "url": "https://www.egyptindependent.com/two-killed-and-eight-injured-in-attack-targeting-king-fahd-airport-in-saudi-arabia/"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T10:40:36Z",
-     "headline": "Egypt condemns attack on King Fahd Airport in Saudi Arabia",
-     "url": "https://www.egyptindependent.com/egypt-condemns-attack-on-king-fahd-airport-in-saudi-arabia/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T10:49:14Z",
-     "headline": "Jordan, Egypt Condemn Attack on King Fahd International Airport in Saudi Arabia",
-     "url": "https://english.aawsat.com/node/5332317"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T11:25:52Z",
-     "headline": "India condemns deadly attacks on Saudi Arabia’s Eastern Province",
-     "url": "https://www.arabnews.com/world/india-condemns-deadly-attacks-on-saudi-arabias-eastern-province-3007706"
-    },
-    {
-     "outlet": "Hindustan Times",
-     "country": "IND",
-     "time": "2026-10-22T11:39:17Z",
-     "headline": "‘Unacceptable’: India slams Houthi strikes in Saudi Arabia, moves to help stranded pilgrims",
-     "url": "https://www.hindustantimes.com/india-news/india-condemns-strikes-on-civil-infrastructure-in-saudi-arabia-after-death-of-indian-national-101792669157963.html"
-    }
-   ]
-  },
-  {
    "id": 16146,
    "title": "American Stephen Hubbard released by Russia, Trump confirms",
    "category": "Geopolitics",
@@ -6490,6 +6370,154 @@
    ]
   },
   {
+   "id": 21203,
+   "title": "Judge orders Trump to sit for deposition in BBC lawsuit",
+   "category": "Society & Law",
+   "importance": 6.3,
+   "risk": 2.36,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 17,
+   "countries": [
+    "FRA",
+    "SGP",
+    "GBR",
+    "AUS",
+    "NZL",
+    "USA",
+    "IND",
+    "NGA",
+    "IRL",
+    "ZAF",
+    "TUR",
+    "QAT"
+   ],
+   "first_seen": "2026-10-22T16:33:42Z",
+   "last_seen": "2026-10-23T14:06:05Z",
+   "page": "event/21203.html",
+   "reports": [
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T16:33:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
+     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T16:41:41Z",
+     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
+     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T17:14:04Z",
+     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-22T17:14:25Z",
+     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
+     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-22T17:18:12Z",
+     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-22T17:30:57Z",
+     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
+     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-22T17:40:42Z",
+     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T17:58:04Z",
+     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
+     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T18:47:59Z",
+     "headline": "BBC defamation suit: Trump get December deadline to testify",
+     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:06:13Z",
+     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
+     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-22T20:49:25Z",
+     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
+     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T03:43:44Z",
+     "headline": "Trump ordered to testify in BBC defamation case",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:50:00Z",
+     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
+     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-23T08:44:19Z",
+     "headline": "Morning news brief",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T11:13:37Z",
+     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
+     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:17:46Z",
+     "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-23T14:06:05Z",
+     "headline": "Ty Cobb predicts Trump will likely skip deposition, dismiss BBC lawsuit",
+     "url": "https://thehill.com/homenews/administration/6167716-ty-cobb-trump-bbc-lawsuit/"
+    }
+   ]
+  },
+  {
    "id": 16722,
    "title": "Germany arrests Ukrainian man suspected of spying for Russia",
    "category": "Geopolitics",
@@ -6609,125 +6637,484 @@
    ]
   },
   {
-   "id": 16086,
-   "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-   "category": "Geopolitics",
+   "id": 17849,
+   "title": "Greece passes social media ban for children under 15",
+   "category": "Society & Law",
    "importance": 6.25,
-   "risk": 6.78,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 12,
+   "risk": 4.1,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 17,
    "countries": [
-    "BGR",
-    "SAU",
-    "UKR",
+    "GRC",
+    "PAK",
     "SGP",
-    "AZE",
-    "IND",
+    "CYP",
+    "SAU",
+    "NLD",
+    "BGR",
+    "THA",
+    "DEU",
+    "ZAF",
+    "LKA",
     "TUR",
-    "BEL"
+    "CHN",
+    "QAT"
    ],
-   "first_seen": "2026-10-20T13:00:00Z",
-   "last_seen": "2026-10-23T13:48:45Z",
-   "page": "event/16086.html",
+   "first_seen": "2026-10-22T06:00:04Z",
+   "last_seen": "2026-10-23T14:30:40Z",
+   "page": "event/17849.html",
    "reports": [
     {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-20T13:00:00Z",
-     "headline": "Drone-Hit Cargo Ship ABLE Sinks off Turkey After Leaving Bulgarian Waters",
-     "url": "https://www.novinite.com/view_news.php?id=241156"
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-22T06:00:04Z",
+     "headline": "Greece to Vote on Social Media Ban for Under-15s",
+     "url": "https://www.tovima.com/society/greece-to-vote-on-social-media-ban-for-under-15s/"
     },
     {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:04:05Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.arabnews.com/world/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-3007875"
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:14:17Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://tribune.com.pk/story/2636499/new-greece-law-bans-social-media-for-under-15s"
     },
     {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:29Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/balkans/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "BTA (English)",
-     "country": "BGR",
-     "time": "2026-10-23T09:48:41Z",
-     "headline": "One Dead, Three Missing as Cargo Ship Sinks off Romania's Constanta after Suspected Drone Strike",
-     "url": "https://www.bta.bg/en/news/1231033-one-dead-three-missing-as-cargo-ship-sinks-off-romania-s-constanta-after-suspec"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Vessel presumably struck by drone sinks in Black Sea, one killed and three missing – video",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059390/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T10:40:50Z",
-     "headline": "One Dead, Three Missing From Ship in ‘Distress’ in Black Sea",
-     "url": "https://www.kyivpost.com/post/87976"
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T06:17:18Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.channelnewsasia.com/business/greece-passes-social-media-ban-children-under-15-6485501"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://www.straitstimes.com/world/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing"
+     "time": "2026-10-23T06:27:10Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T11:23:00Z",
-     "headline": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
-     "url": "https://en.apa.az/europe/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing-531865"
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T06:37:44Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://cyprus-mail.com/2026/10/23/greece-passes-social-media-ban-for-children-under-15"
     },
     {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T11:32:00Z",
-     "headline": "Commercial vessel carrying Ukrainian sailors sinks off Romania's coast; drone attack not ruled out",
-     "url": "https://www.ukrinform.net/rubric-emergencies/4177465-commercial-vessel-carrying-ukrainian-sailors-sinks-off-romanias-coast-drone-attack-not-ruled-out.html"
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T07:12:22Z",
+     "headline": "Greece passes law banning social media for children under 15",
+     "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media"
     },
     {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:24:17Z",
-     "headline": "Romania blames Russia as drone strike sinks cargo ship in Black Sea; 1 dead, 3 missing",
-     "url": "https://timesofindia.indiatimes.com/world/europe/romania-blames-russia-as-drone-strike-sinks-cargo-ship-in-black-sea-1-dead-3-missing/articleshow/135145650.cms"
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/balkans/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "BTA (English)",
+     "country": "BGR",
+     "time": "2026-10-23T07:39:38Z",
+     "headline": "Greece Approves Social Media Ban for Children Under 15 from 2027",
+     "url": "https://www.bta.bg/en/news/1230865-greece-approves-social-media-ban-for-children-under-15-from-2027"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T08:30:39Z",
+     "headline": "Greece Passes Social Media Ban for Children Under 15",
+     "url": "https://www.tovima.com/politics/greece-passes-social-media-ban-for-children-under-15/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T08:55:51Z",
+     "headline": "Greece bans social media for under-15s",
+     "url": "https://www.bangkokpost.com/world/3342334/greece-bans-social-media-for-under15s"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T09:00:21Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://www.dawn.com/news/2039246/new-greece-law-bans-social-media-for-under-15s"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:04:00Z",
+     "headline": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+     "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T09:14:00Z",
+     "headline": "New Greece law bans social media for under-15s",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-greece-law-bans-social-media-for-under-15s/"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T09:18:02Z",
+     "headline": "Greece passes social media ban for children under 15",
+     "url": "https://www.dailymirror.lk/international/Greece-passes-social-media-ban-for-children-under-15/107-353264"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-23T12:44:56Z",
-     "headline": "1 dead, 3 missing after drone strike sinks ship off Romania, president says",
-     "url": "https://www.aa.com.tr/en/europe/1-dead-3-missing-after-drone-strike-sinks-ship-off-romania-president-says/4098590"
+     "time": "2026-10-23T09:31:16Z",
+     "headline": "Greece bans social media for children under 15",
+     "url": "https://www.aa.com.tr/en/europe/greece-bans-social-media-for-children-under-15/4098306"
     },
     {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-23T13:07:28Z",
-     "headline": "Romania blames Russia for new deadly attack on ship",
-     "url": "https://www.rapporteur.com/news/romania-blames-russia-for-new-deadly-attack-on-ship/"
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-23T10:00:46Z",
+     "headline": "Greece adopts law to ban social media access to minors under 15",
+     "url": "https://www.keeptalkinggreece.com/2026/10/23/greece-social-media-ban-minors-under-15-law/"
     },
     {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T13:18:00Z",
-     "headline": "Romania blames Russia for attacking cargo ship in Black Sea",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177507-romania-blames-russia-for-attacking-cargo-ship-in-black-sea.html"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:50:29Z",
+     "headline": "Greek parliament approves social media ban for under-15s from January",
+     "url": "https://english.news.cn/20261023/9aaea55541e84f01b2abb8197a5c6f35/c.html"
     },
     {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:48:45Z",
-     "headline": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
-     "url": "https://kyivindependent.com/civilian-cargo-ship-sinks-off-coast-of-romania-after-russian-drone-strike-authorities-say/"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Greece joins push to ban social media for minors",
+     "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T14:30:40Z",
+     "headline": "Greece’s Social Media Ban for Under-15s Faces Eight Key Tests",
+     "url": "https://www.tovima.com/society/greeces-social-media-ban-for-under-15s-faces-eight-key-tests/"
+    }
+   ]
+  },
+  {
+   "id": 16036,
+   "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
+   "category": "Trade & Industry",
+   "importance": 6.24,
+   "risk": 6.25,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 37,
+   "countries": [
+    "GBR",
+    "TUR",
+    "IRL",
+    "USA",
+    "QAT",
+    "PAK",
+    "OMN",
+    "SAU",
+    "ARE",
+    "KWT",
+    "AFG",
+    "IRQ",
+    "KOR",
+    "BGD",
+    "SGP",
+    "IND",
+    "NPL",
+    "ZAF",
+    "CHN",
+    "EGY",
+    "NGA"
+   ],
+   "first_seen": "2026-10-21T12:22:54Z",
+   "last_seen": "2026-10-23T14:04:39Z",
+   "page": "event/16036.html",
+   "reports": [
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-21T12:22:54Z",
+     "headline": "Saudi capital's airport opens to limited traffic, and other Mideast news",
+     "url": "https://www.independent.co.uk/news/world/europe/houthi-saudia-oman-british-iran-b3070719.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T22:33:59Z",
+     "headline": "One killed, eight injured in Saudi Arabia’s King Fahd airport attack",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-eight-injured-saudi-arabias-king-fahd-airport-attack"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-21T22:59:11Z",
+     "headline": "Attack on Saudi Arabia’s Dammam airport kills 1, injures 8: Aviation authority",
+     "url": "https://www.aa.com.tr/en/middle-east/attack-on-saudi-arabia-s-dammam-airport-kills-1-injures-8-aviation-authority/4096575"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-21T23:35:39Z",
+     "headline": "Two dead, eight injured in Saudi airport attack",
+     "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-arabia-yemen/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-22T00:05:52Z",
+     "headline": "1 killed, 8 wounded in Saudi Arabia airport attack",
+     "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T00:25:41Z",
+     "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+     "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T00:47:45Z",
+     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
+     "url": "https://tribune.com.pk/story/2636275/saudi-civil-aviation-says-one-killed-eight-injured-in-attack-on-king-fahd-airport"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T01:24:01Z",
+     "headline": "Three killed in Saudi Arabia as Ansar Allah target oil field, airport",
+     "url": "https://www.omanobserver.om/article/1198216/world/region/three-killed-in-saudi-arabia-as-ansar-allah-target-oil-field-airport"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T03:24:48Z",
+     "headline": "2 Killed, 8 Injured in Dammam Airport Attack",
+     "url": "https://english.aawsat.com/node/5332192"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T03:58:14Z",
+     "headline": "US pulls diplomats from Saudi Arabia but denies wider Gulf withdrawal",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-22T04:15:00Z",
+     "headline": "Dammam Airport Attack Leaves One Dead, Eight Injured in Saudi Arabia",
+     "url": "https://www.arabtimesonline.com/news/dammam-airport-attack-leaves-one-dead-eight-injured/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T04:20:14Z",
+     "headline": "Middle East latest: UAE condemns Houthi attack on Saudi Arabia’s Dammam airport",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T04:24:13Z",
+     "headline": "One Killed, Eight Injured in Attack on Saudi Arabia’s King Fahd Airport",
+     "url": "https://www.khaama.com/dammam-airport-attack/"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T05:55:14Z",
+     "headline": "Saudi Aviation Body Reports Two Killed in Dammam Airport Attack",
+     "url": "https://www.kurdistan24.net/en/story/947780/saudi-aviation-body-reports-one-killed-in-dammam-airport-attack"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T06:47:23Z",
+     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
+     "url": "https://www.omanobserver.om/article/1198229/world/region/two-dead-in-eastern-saudi-airport-attack-aviation-authority"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "1 person killed in attack on eastern Saudi airport, authorities say",
+     "url": "https://www.koreatimes.co.kr/world/20261022/1-person-killed-in-attack-on-eastern-saudi-airport-authorities-say?utm_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T07:03:26Z",
+     "headline": "Houthi strike kills 1, injures 8 at Saudi King Fahd International Airport",
+     "url": "https://www.turkiyetoday.com/region/houthi-strike-kills-1-injures-8-at-saudi-king-fahd-international-airport-3230796"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-22T07:03:58Z",
+     "headline": "One killed, 8 injured in Dammam airport attack: Saudi aviation authority",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/one-killed-8-injured-dammam-airport-attack-saudi-aviation-authority-4304726"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T07:11:43Z",
+     "headline": "3 killed, 8 injured in attacks on Aramco oil field, Saudi airport",
+     "url": "https://www.straitstimes.com/world/middle-east/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T07:15:22Z",
+     "headline": "Saudi Arabia's Dammam airport resumes operations after attack kills two, injures eight",
+     "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabias-dammam-airport-resumes-operations-after-attack-kills-two-injures-eight-1.500719434"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T07:17:00Z",
+     "headline": "Dammam’s King Fahd airport resumes normal operations",
+     "url": "https://www.arabnews.com/saudi-arabia/dammams-king-fahd-airport-resumes-normal-operations-3007672"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T07:27:27Z",
+     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
+     "url": "https://www.brecorder.com/news/40445437/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T07:36:19Z",
+     "headline": "Indian killed, three others injured in Houthi attacks on Saudi Arabia",
+     "url": "https://indianexpress.com/article/india/indian-national-among-two-killed-in-saudi-arabias-dammam-airport-attack-yemen-houthi-10931971/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-22T07:51:00Z",
+     "headline": "Indian Expat, Saudi National Among Two Killed in Iran-Backed Houthi Attack on Dammam Airport; Eight Injured",
+     "url": "https://www.arabtimesonline.com/news/indian-expat-saudi-national-among-two-killed-in-iran-backed-houthi-attack-on-dammam-airport-eight-injured/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T07:53:59Z",
+     "headline": "Indian Among 2 Killed In Attack On Saudi Airport, 2 Others Injured",
+     "url": "https://www.ndtv.com/world-news/indian-among-2-killed-in-attack-on-saudi-airport-2-others-injured-12219121#publisher=newsstand"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T07:55:41Z",
+     "headline": "Indian national among 2 killed in attack on Saudi Arabia's Dammam airport",
+     "url": "https://timesofindia.indiatimes.com/india/1-indian-killed-2-injured-in-dammam-airport-attack-in-saudi-arabia/articleshow/135112073.cms"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T07:59:49Z",
+     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
+     "url": "https://www.newarab.com/news/two-dead-eastern-saudi-airport-attack-aviation-authority"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T08:21:26Z",
+     "headline": "Dammam airport attack death toll rises to two",
+     "url": "https://shafaq.com/en/Middle-East/Dammam-airport-attack-death-toll-rises-to-two"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-22T08:37:02Z",
+     "headline": "A Nepali among eight injured in Dammam airport attack",
+     "url": "https://kathmandupost.com/national/2026/10/22/a-nepali-among-eight-injured-in-dammam-airport-attack"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-22T08:53:17Z",
+     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T09:04:04Z",
+     "headline": "Deaths from attack on Saudi airport rise to 2",
+     "url": "https://english.news.cn/20261022/9fc64639e0864d309c183b1ed971523d/c.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T09:14:48Z",
+     "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Scroll.in",
+     "country": "IND",
+     "time": "2026-10-22T09:38:07Z",
+     "headline": "Saudi Arabia: Indian killed in Dammam airport attack",
+     "url": "https://scroll.in/latest/1096582/indian-killed-in-dammam-airport-attack?utm_source=rss&utm_medium=public"
+    },
+    {
+     "outlet": "The Hindu",
+     "country": "IND",
+     "time": "2026-10-22T09:58:30Z",
+     "headline": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
+     "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T10:07:50Z",
+     "headline": "King Fahd airport attack: Indian national among two killed, embassy confirms",
+     "url": "https://gulfnews.com/world/gulf/saudi/king-fahd-airport-attack-indian-national-among-two-killed-embassy-confirms-1.500719651"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-22T10:08:09Z",
+     "headline": "Two killed and eight injured in attack targeting King Fahd Airport in Saudi Arabia",
+     "url": "https://www.egyptindependent.com/two-killed-and-eight-injured-in-attack-targeting-king-fahd-airport-in-saudi-arabia/"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-22T10:40:36Z",
+     "headline": "Egypt condemns attack on King Fahd Airport in Saudi Arabia",
+     "url": "https://www.egyptindependent.com/egypt-condemns-attack-on-king-fahd-airport-in-saudi-arabia/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T10:49:14Z",
+     "headline": "Jordan, Egypt Condemn Attack on King Fahd International Airport in Saudi Arabia",
+     "url": "https://english.aawsat.com/node/5332317"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T11:25:52Z",
+     "headline": "India condemns deadly attacks on Saudi Arabia’s Eastern Province",
+     "url": "https://www.arabnews.com/world/india-condemns-deadly-attacks-on-saudi-arabias-eastern-province-3007706"
+    },
+    {
+     "outlet": "Hindustan Times",
+     "country": "IND",
+     "time": "2026-10-22T11:39:17Z",
+     "headline": "‘Unacceptable’: India slams Houthi strikes in Saudi Arabia, moves to help stranded pilgrims",
+     "url": "https://www.hindustantimes.com/india-news/india-condemns-strikes-on-civil-infrastructure-in-saudi-arabia-after-death-of-indian-national-101792669157963.html"
     }
    ]
   },
@@ -6830,6 +7217,153 @@
      "time": "2026-10-23T12:36:02Z",
      "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
      "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
+    }
+   ]
+  },
+  {
+   "id": 22319,
+   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+   "category": "Society & Law",
+   "importance": 6.13,
+   "risk": 2.06,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "GRC",
+    "NZL",
+    "GBR",
+    "ARE",
+    "USA",
+    "AUS",
+    "NGA",
+    "TUR",
+    "SGP",
+    "THA",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T00:29:09Z",
+   "last_seen": "2026-10-23T14:18:00Z",
+   "page": "event/22319.html",
+   "reports": [
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T00:29:09Z",
+     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
+     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:22:28Z",
+     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
+     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T10:07:28Z",
+     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:24:08Z",
+     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T10:40:40Z",
+     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T10:51:58Z",
+     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
+     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:03Z",
+     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
+     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T11:02:49Z",
+     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T11:29:54Z",
+     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:38:33Z",
+     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T11:59:36Z",
+     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
+     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:08:58Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:19:45Z",
+     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
+     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:55:00Z",
+     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
+     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T13:59:38Z",
+     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
+     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T14:11:26Z",
+     "headline": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:18:00Z",
+     "headline": "Meghan Markle says allegations against father informed decision to protect her children",
+     "url": "https://iol.co.za/entertainment/royals/2026-10-23-meghan-markle-says-allegations-against-father-informed-decision-to-protect-her-children/"
     }
    ]
   },
@@ -7429,117 +7963,6 @@
    ]
   },
   {
-   "id": 24812,
-   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-   "category": "Geopolitics",
-   "importance": 6.03,
-   "risk": 2.19,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 11,
-   "countries": [
-    "CHN",
-    "AZE",
-    "SGP",
-    "UKR",
-    "QAT",
-    "PAK",
-    "TUR",
-    "USA",
-    "RUS",
-    "CYP"
-   ],
-   "first_seen": "2026-10-23T13:30:50Z",
-   "last_seen": "2026-10-23T14:05:21Z",
-   "page": "event/24812.html",
-   "reports": [
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T13:30:50Z",
-     "headline": "Flash: White House says Russia, Ukraine agree to temporarily stop military action in Oleshky",
-     "url": "https://english.news.cn/20261023/ca242e7ba44045e088f8c96eb2944724/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T13:36:00Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://en.apa.az/america/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-531892"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:36:47Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-     "url": "https://www.straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T13:38:06Z",
-     "headline": "Breaking: Russia, Ukraine agree to Oleshky ceasefire mediated by Melania Trump, White House says",
-     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:39:06Z",
-     "headline": "White House says Melania Trump ‘secured a ceasefire’ in Ukraine’s Oleshky",
-     "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T13:39:49Z",
-     "headline": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "url": "https://www.brecorder.com/news/40445641/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T13:43:22Z",
-     "headline": "US first lady announces ceasefire agreement between Russia and Ukraine in city of Oleshky",
-     "url": "https://www.aa.com.tr/en/americas/us-first-lady-announces-ceasefire-agreement-between-russia-and-ukraine-in-city-of-oleshky/4098661"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T13:49:34Z",
-     "headline": "Oleshky to get aid, evacuation route under Melania Trump-brokered truce",
-     "url": "https://www.turkiyetoday.com/world/oleshky-to-get-aid-evacuation-route-under-melania-trump-brokered-truce-3230891"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:55:00Z",
-     "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
-     "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T13:58:22Z",
-     "headline": "Russia, Ukraine agree to ceasefire to evacuate Oleshky residents",
-     "url": "https://meduza.io/en/news/2026/10/23/russia-ukraine-agree-to-ceasefire-to-evacuate-oleshky-residents"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:04:01Z",
-     "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump",
-     "url": "https://cyprus-mail.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:05:21Z",
-     "headline": "Urgent: White House says Russia, Ukraine agree on ceasefire in Oleshky",
-     "url": "https://english.news.cn/20261023/5c65fba2263049e496f2297d0c532c22/c.html"
-    }
-   ]
-  },
-  {
    "id": 22309,
    "title": "S. Korea proposes military talks with N. Korea over border conflict issue",
    "category": "Geopolitics",
@@ -8103,6 +8526,78 @@
    ]
   },
   {
+   "id": 22459,
+   "title": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
+   "category": "Energy & Environment",
+   "importance": 5.93,
+   "risk": 0.0,
+   "confidence": 0.81,
+   "status": "peaking",
+   "outlets": 7,
+   "countries": [
+    "GHA",
+    "SAU",
+    "SGP",
+    "CYP",
+    "NGA",
+    "ARE"
+   ],
+   "first_seen": "2026-10-23T05:56:50Z",
+   "last_seen": "2026-10-23T14:18:36Z",
+   "page": "event/22459.html",
+   "reports": [
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T05:56:50Z",
+     "headline": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+     "url": "https://www.myjoyonline.com/gasps-as-prince-william-makes-surprise-appearance-on-graham-norton-show/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T09:19:41Z",
+     "headline": "Prince William, Wannabe DJ and Film-Lover, Appears on UK Chat Show",
+     "url": "https://english.aawsat.com/node/5332639"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:01:45Z",
+     "headline": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
+     "url": "https://www.straitstimes.com/world/europe/prince-william-wannabe-dj-shares-his-off-duty-passions-on-graham-norton-show"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:36:22Z",
+     "headline": "Prince William, wannabe DJ and film-lover, to appear on UK chat show",
+     "url": "https://cyprus-mail.com/2026/10/23/prince-william-wannabe-dj-and-film-lover-to-appear-on-uk-chat-show"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:22:42Z",
+     "headline": "I once wanted to be a DJ – UK’s Prince William",
+     "url": "https://www.vanguardngr.com/2026/10/i-once-wanted-to-be-a-dj-uks-prince-william/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T14:03:19Z",
+     "headline": "UK’s Prince William reveals childhood ambition to become a DJ",
+     "url": "https://punchng.com/uks-prince-william-reveals-childhood-ambition-to-become-a-dj/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T14:18:36Z",
+     "headline": "Prince William reveals he once wanted to be a policeman or DJ",
+     "url": "https://gulfnews.com/world/offbeat/prince-william-reveals-he-once-wanted-to-be-a-policeman-or-dj-1.500721271"
+    }
+   ]
+  },
+  {
    "id": 16031,
    "title": "Malaysia bans civil servants from using navigation app, citing data risks",
    "category": "Trade & Industry",
@@ -8218,134 +8713,89 @@
    ]
   },
   {
-   "id": 22319,
-   "title": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-   "category": "Society & Law",
-   "importance": 5.89,
-   "risk": 2.01,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 13,
+   "id": 23981,
+   "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+   "category": "Geopolitics",
+   "importance": 5.91,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 10,
    "countries": [
-    "GRC",
-    "NZL",
-    "GBR",
-    "ARE",
-    "USA",
-    "AUS",
-    "NGA",
+    "PAK",
     "TUR",
     "SGP",
-    "THA"
+    "CYP",
+    "CAN",
+    "USA",
+    "SAU"
    ],
-   "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-23T13:59:38Z",
-   "page": "event/22319.html",
+   "first_seen": "2026-10-23T05:00:54Z",
+   "last_seen": "2026-10-23T14:21:28Z",
+   "page": "event/23981.html",
    "reports": [
     {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T00:29:09Z",
-     "headline": "Meghan Markle Father Investigated Over Alleged Child Abuse Material",
-     "url": "https://greekcitytimes.com/2026/10/23/meghan-markle-father-investigated-over-alleged-child-abuse-material/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T03:22:28Z",
-     "headline": "Meghan Markle’s estranged father investigated over alleged child abuse images",
-     "url": "https://www.stuff.co.nz/world-news/361050392/meghan-markles-estranged-father-investigated-over-alleged-child-abuse-images"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T10:07:28Z",
-     "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:24:08Z",
-     "headline": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
-     "url": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T10:40:40Z",
-     "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T10:51:58Z",
-     "headline": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
-     "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:03Z",
-     "headline": "Philippines probes reports of illicit material at Meghan Markle’s father’s home",
-     "url": "https://gulfnews.com/world/asia/philippines/philippines-probes-reports-of-illicit-material-at-meghan-markles-fathers-home-1.500721073"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T11:02:49Z",
-     "headline": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
-     "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T11:29:54Z",
-     "headline": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
-     "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:38:33Z",
-     "headline": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
-     "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T11:59:36Z",
-     "headline": "Meghan Markle 'deeply distressed' by allegations her father had indecent images",
-     "url": "https://www.stuff.co.nz/world-news/361050493/prince-harrys-wife-meghan-deeply-distressed-allegations-h"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:08:58Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.vanguardngr.com/2026/10/meghan-markle-distressed-over-claims-father-had-child-abuse-images/"
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T05:00:54Z",
+     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
+     "url": "https://tribune.com.pk/story/2636496/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-23T12:19:45Z",
-     "headline": "Meghan says she was informed of ‘disturbing allegations’ against estranged father",
-     "url": "https://www.aa.com.tr/en/europe/meghan-says-she-was-informed-of-disturbing-allegations-against-estranged-father/4098552"
+     "time": "2026-10-23T08:50:48Z",
+     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
+     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098242"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-23T12:55:00Z",
-     "headline": "Meghan Markle ‘distressed’ over claims father had child abuse images",
-     "url": "https://www.straitstimes.com/world/europe/meghan-markle-distressed-over-claims-father-had-child-abuse-images"
+     "time": "2026-10-23T09:51:45Z",
+     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+     "url": "https://www.straitstimes.com/world/europe/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
     },
     {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T13:59:38Z",
-     "headline": "Meghan ‘distressed’ by reports father had child-abuse images",
-     "url": "https://www.bangkokpost.com/world/3342388/meghan-distressed-by-reports-father-had-childabuseimages"
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T09:59:24Z",
+     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
+     "url": "https://cyprus-mail.com/2026/10/23/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:43:04Z",
+     "headline": "Carney defends doing business with countries that don’t share Canada’s values",
+     "url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771?cmp=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T11:04:27Z",
+     "headline": "Canada needs Turkish defense expertise to protect Canadians: Carney",
+     "url": "https://www.turkiyetoday.com/world/canada-needs-turkish-defense-expertise-to-protect-canadians-carney-3230872"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-23T12:15:51Z",
+     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
+     "url": "https://www.hurriyetdailynews.com/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier-228518"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-23T13:56:52Z",
+     "headline": "Carney sees growing chances for Canadian role in Turkey’s nuclear plans",
+     "url": "https://www.turkishminute.com/2026/10/23/carney-sees-growing-chances-for-canadian-role-in-turkeys-nuclear-plans/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T14:21:28Z",
+     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
+     "url": "https://www.arabnews.com/middle-east/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye-3007901"
     }
    ]
   },
@@ -8458,6 +8908,180 @@
      "time": "2026-10-23T10:58:34Z",
      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
      "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
+    }
+   ]
+  },
+  {
+   "id": 23496,
+   "title": "Several feared trapped as multi-storey building collapses in Nairobi",
+   "category": "Trade & Industry",
+   "importance": 5.87,
+   "risk": 7.32,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "TZA",
+    "USA",
+    "DEU",
+    "FRA",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-23T14:33:01Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Several feared trapped as multi-storey building collapses in Nairobi",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
     }
    ]
   },
@@ -8863,6 +9487,318 @@
      "time": "2026-10-23T14:04:00Z",
      "headline": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed",
      "url": "https://iol.co.za/technology/2026-10-23-iphone-duo-south-africa-launch-apples-r48000-foldable-reviewed/"
+    }
+   ]
+  },
+  {
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
+   "importance": 5.82,
+   "risk": 1.82,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "ARG",
+    "USA",
+    "SGP",
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB"
+   ],
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-23T14:18:58Z",
+   "page": "event/2857.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
+    },
+    {
+     "outlet": "Democracy Now!",
+     "country": "USA",
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -9781,143 +10717,154 @@
    ]
   },
   {
-   "id": 21203,
-   "title": "Judge orders Trump to sit for deposition in BBC lawsuit",
-   "category": "Geopolitics",
+   "id": 13220,
+   "title": "Saudi Arabia postpones its 'Davos in the Desert' after attacks",
+   "category": "Business",
    "importance": 5.7,
-   "risk": 1.96,
+   "risk": 2.29,
    "confidence": 0.88,
-   "status": "peaking",
+   "status": "fading",
    "outlets": 16,
    "countries": [
-    "FRA",
-    "SGP",
+    "ARE",
     "GBR",
-    "AUS",
-    "NZL",
     "USA",
-    "IND",
+    "SAU",
+    "SGP",
+    "IRQ",
+    "PAK",
     "NGA",
-    "IRL",
-    "ZAF",
-    "TUR",
-    "QAT"
+    "TUR"
    ],
-   "first_seen": "2026-10-22T16:33:42Z",
-   "last_seen": "2026-10-23T13:17:46Z",
-   "page": "event/21203.html",
+   "first_seen": "2026-10-19T03:02:28Z",
+   "last_seen": "2026-10-23T14:13:22Z",
+   "page": "event/13220.html",
    "reports": [
     {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T16:33:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
-     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-19T03:02:28Z",
+     "headline": "Middle East conflicts: Trump backs Netanyahu as Iran issues warning, Saudi-Houthi strikes escalate",
+     "url": "https://gulfnews.com/world/mena/middle-east-live-trump-backs-netanyahu-as-iran-issues-warning-saudi-houthi-strikes-escalate-1.500715444"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:29:25Z",
+     "headline": "Financial Times: Saudi Arabia postpones in-person 'Davos in the Desert' amid Houthi attacks",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/financial-times-saudi-arabia-postpones-person-davos-desert-amid-houthi"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-19T15:36:52Z",
+     "headline": "Saudi Arabia to postpone in-person ‘Davos in the desert’ after Houthi attacks: report",
+     "url": "https://www.independent.co.uk/news/world/middle-east/saudi-postpone-investment-conference-houthi-attacks-b3069345.html"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-19T15:42:03Z",
+     "headline": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
+     "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-19T15:49:15Z",
+     "headline": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
+     "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-19T16:10:02Z",
+     "headline": "FII Institute postpones 10th annual conference to 2027",
+     "url": "https://www.arabnews.com/business/fii-institute-postpones-10th-annual-conference-to-2027-3007192"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-19T17:01:26Z",
+     "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+     "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-22T16:41:41Z",
-     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
-     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
+     "time": "2026-10-19T17:10:53Z",
+     "headline": "Saudi flagship investment conference pushed to 2027 after Houthi attacks",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-postpones-its-davos-in-the-desert-conference-after-attacks"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T17:14:04Z",
-     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T17:14:25Z",
-     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
-     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T17:18:12Z",
-     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-22T17:30:57Z",
-     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
-     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
-    },
-    {
-     "outlet": "PBS NewsHour",
+     "outlet": "Al-Monitor",
      "country": "USA",
-     "time": "2026-10-22T17:40:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
+     "time": "2026-10-19T17:46:28Z",
+     "headline": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-postpones-its-davos-desert-conference-after-attacks"
     },
     {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T17:58:04Z",
-     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
-     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T18:01:04Z",
+     "headline": "Saudi Arabia postpones FII conference till 2027",
+     "url": "https://shafaq.com/en/Middle-East/Saudi-Arabia-postpones-FII-conference-till-2027"
     },
     {
-     "outlet": "Punch",
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T18:39:41Z",
+     "headline": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks",
+     "url": "https://www.brecorder.com/news/40444968/saudi-arabia-postpones-its-davos-in-the-desert-conference-after-attacks"
+    },
+    {
+     "outlet": "Vanguard",
      "country": "NGA",
-     "time": "2026-10-22T18:47:59Z",
-     "headline": "BBC defamation suit: Trump get December deadline to testify",
-     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
+     "time": "2026-10-19T19:22:07Z",
+     "headline": "Saudi postpones top investment conference to 2027 after Houthi attacks",
+     "url": "https://www.vanguardngr.com/2026/10/saudi-postpones-top-investment-conference-to-2027-after-houthi-attacks/"
     },
     {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:06:13Z",
-     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
-     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T04:21:40Z",
+     "headline": "Saudi Arabia Postpones 10th Edition of Future Investment Initiative to 2027",
+     "url": "https://english.aawsat.com/node/5331387"
     },
     {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-22T20:49:25Z",
-     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
-     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-20T08:37:32Z",
+     "headline": "Saudi Arabia postpones its 'Davos in the Desert' after attacks",
+     "url": "https://www.newarab.com/news/saudi-arabia-postpones-its-davos-desert-after-attacks"
     },
     {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T03:43:44Z",
-     "headline": "Trump ordered to testify in BBC defamation case",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:50:00Z",
-     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
-     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
-    },
-    {
-     "outlet": "NPR",
+     "outlet": "NPR World",
      "country": "USA",
-     "time": "2026-10-23T08:44:19Z",
-     "headline": "Morning news brief",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
+     "time": "2026-10-21T08:40:51Z",
+     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T04:51:52Z",
+     "headline": "Saudi Arabia postpones two notable forums to 2027",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-postpones-un-global-forums-2027"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T08:19:15Z",
+     "headline": "Saudi Arabia postpones UN World Data Forum and Saudi Statistics Forum to 2027",
+     "url": "https://www.arabnews.com/business/saudi-arabia-postpones-un-world-data-forum-and-saudi-statistics-forum-to-2027-3007870"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-23T11:13:37Z",
-     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
-     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:17:46Z",
-     "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
+     "time": "2026-10-23T14:13:22Z",
+     "headline": "Saudi Arabia postpones UN data, Saudi statistics forums until 2027 amid Houthi attacks",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-postpones-un-data-saudi-statistics-forums-until-2027-amid-houthi-attacks/4098691"
     }
    ]
   },
@@ -10419,70 +11366,6 @@
      "time": "2026-10-22T19:41:50Z",
      "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
      "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
-    }
-   ]
-  },
-  {
-   "id": 22459,
-   "title": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
-   "category": "Energy & Environment",
-   "importance": 5.67,
-   "risk": 0.0,
-   "confidence": 0.79,
-   "status": "spreading",
-   "outlets": 6,
-   "countries": [
-    "GHA",
-    "SAU",
-    "SGP",
-    "CYP",
-    "NGA"
-   ],
-   "first_seen": "2026-10-23T05:56:50Z",
-   "last_seen": "2026-10-23T14:03:19Z",
-   "page": "event/22459.html",
-   "reports": [
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T05:56:50Z",
-     "headline": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-     "url": "https://www.myjoyonline.com/gasps-as-prince-william-makes-surprise-appearance-on-graham-norton-show/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T09:19:41Z",
-     "headline": "Prince William, Wannabe DJ and Film-Lover, Appears on UK Chat Show",
-     "url": "https://english.aawsat.com/node/5332639"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:01:45Z",
-     "headline": "Prince William, wannabe DJ, shares his off-duty passions on Graham Norton show",
-     "url": "https://www.straitstimes.com/world/europe/prince-william-wannabe-dj-shares-his-off-duty-passions-on-graham-norton-show"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:36:22Z",
-     "headline": "Prince William, wannabe DJ and film-lover, to appear on UK chat show",
-     "url": "https://cyprus-mail.com/2026/10/23/prince-william-wannabe-dj-and-film-lover-to-appear-on-uk-chat-show"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:22:42Z",
-     "headline": "I once wanted to be a DJ – UK’s Prince William",
-     "url": "https://www.vanguardngr.com/2026/10/i-once-wanted-to-be-a-dj-uks-prince-william/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T14:03:19Z",
-     "headline": "UK’s Prince William reveals childhood ambition to become a DJ",
-     "url": "https://punchng.com/uks-prince-william-reveals-childhood-ambition-to-become-a-dj/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -11092,727 +11975,6 @@
      "time": "2026-10-23T08:35:15Z",
      "headline": "First human case of Shamonda virus: What is it, what are the risks",
      "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
-    }
-   ]
-  },
-  {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
-   "category": "Geopolitics",
-   "importance": 5.63,
-   "risk": 4.5,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 12,
-   "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
-    "TUR",
-    "IRN",
-    "ARM",
-    "ISR"
-   ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-22T18:12:21Z",
-   "page": "event/12369.html",
-   "reports": [
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
-    }
-   ]
-  },
-  {
-   "id": 2857,
-   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-   "category": "Geopolitics",
-   "importance": 5.63,
-   "risk": 1.77,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 19,
-   "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
-    "IRL",
-    "DEU",
-    "ZAF",
-    "FRA",
-    "AZE",
-    "TWN",
-    "CUB"
-   ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-23T12:44:47Z",
-   "page": "event/2857.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
-     "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
-    }
-   ]
-  },
-  {
-   "id": 16361,
-   "title": "Australian MP loses both legs after car attack",
-   "category": "Society & Law",
-   "importance": 5.62,
-   "risk": 1.9,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 12,
-   "countries": [
-    "IRL",
-    "DEU",
-    "ARE",
-    "KWT",
-    "GBR",
-    "CAN",
-    "USA",
-    "UGA",
-    "TWN"
-   ],
-   "first_seen": "2026-10-21T03:37:48Z",
-   "last_seen": "2026-10-22T00:00:00Z",
-   "page": "event/16361.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T03:37:48Z",
-     "headline": "Australian MP loses both legs after car attack",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596206-australia-politican-attack/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-21T08:16:00Z",
-     "headline": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T08:36:54Z",
-     "headline": "Australian MP has both legs amputated after ramming 'attack'",
-     "url": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T08:48:00Z",
-     "headline": "Australian politician who was hit by car has lost both legs",
-     "url": "https://www.arabtimesonline.com/news/australian-politician-who-was-hit-by-car-has-lost-both-legs/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T09:18:05Z",
-     "headline": "What is transverse myelitis? The rare condition experienced by MP Helen Haines’s alleged attacker",
-     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-brendan-nugent-idiopathic-transverse-myelitis-b3070495.html"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-21T10:15:16Z",
-     "headline": "Australian MP loses both legs after alleged vehicle attack as suspect appears in court",
-     "url": "https://www.cbc.ca/news/world/australian-politician-car-9.7389606?cmp=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-21T10:26:22Z",
-     "headline": "Australian politician who was hit by car has lost both legs",
-     "url": "https://abcnews.com/International/wireStory/australian-politician-hit-car-lost-legs-137438270"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-21T10:42:41Z",
-     "headline": "Australian MP loses both legs after alleged car attack, husband says",
-     "url": "https://nilepost.co.ug/news/380348/australian-mp-loses-both-legs-after-alleged-car-attack-husband-says"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T12:10:14Z",
-     "headline": "Politician who was intentionally hit by car loses both her legs",
-     "url": "https://www.cbsnews.com/news/australian-politician-intentionally-hit-by-car-loses-both-legs/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T12:53:23Z",
-     "headline": "Australian MP Helen Haines has both legs amputated after car ramming ‘attack’, husband says",
-     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-amputation-australian-mp-brendan-nugent-b3070418.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T18:10:42Z",
-     "headline": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T18:28:23Z",
-     "headline": "Australian lawmaker loses both legs after alleged vehicle attack",
-     "url": "https://globalnews.ca/news/12111176/australian-lawmaker-helen-haines-loses-both-legs-after-vehicle-attack/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Australian lawmaker lost legs in attack",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/22/2003866426"
-    }
-   ]
-  },
-  {
-   "id": 13603,
-   "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-   "category": "Society & Law",
-   "importance": 5.6,
-   "risk": 2.51,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "CHN",
-    "GBR",
-    "ISR",
-    "DEU",
-    "AUS",
-    "USA",
-    "TUR",
-    "PAK",
-    "SGP",
-    "QAT"
-   ],
-   "first_seen": "2026-10-18T08:33:05Z",
-   "last_seen": "2026-10-22T18:17:29Z",
-   "page": "event/13603.html",
-   "reports": [
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-18T08:33:05Z",
-     "headline": "Settler violence in West Bank draws international condemnation",
-     "url": "https://news.cgtn.com/news/2026-10-18/French-FM-urges-Israel-to-halt-settler-violence-in-West-Bank-1RlbT7WUjuM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-19T05:51:00Z",
-     "headline": "Arrests over Israeli settler attacks on US photojournalist and European diplomats in West Bank",
-     "url": "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-19T06:52:46Z",
-     "headline": "Ten arrested in connection with settler attacks on European diplomats and press photographer",
-     "url": "https://www.haaretz.com/israel-news/israel-crime/2026-10-19/ty-article/.premium/ten-arrested-following-settler-attacks-on-european-diplomats-press-photographer/000001a1-52c2-d6fb-a1e9-7efa96690000"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-19T07:57:19Z",
-     "headline": "IDF, Shin Bet arrest 10 suspects connected to attack on US journalist, EU diplomats in West Bank",
-     "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912116"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T08:33:00Z",
-     "headline": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-     "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-19T09:16:23Z",
-     "headline": "Israel police arrest suspects over settler attacks",
-     "url": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-19T09:44:31Z",
-     "headline": "Israeli police arrest 10 after series of West Bank settler attacks",
-     "url": "https://www.nbcnews.com/video/israeli-police-arrest-10-after-series-of-west-bank-settler-attacks-271807557649"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-19T10:20:05Z",
-     "headline": "Israel arrests 10 over settler attacks amid record of impunity",
-     "url": "https://www.newarab.com/news/israel-arrests-10-over-settler-attacks-amid-record-impunity"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-19T12:11:36Z",
-     "headline": "Israel arrests 10 over attacks on US journalist, European diplomats",
-     "url": "https://news.cgtn.com/news/2026-10-19/Israel-arrests-10-over-attacks-on-US-journalist-European-diplomats-1RnbEQ6X5rq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-19T13:56:03Z",
-     "headline": "U.S. lauds Israel for arresting 10 over West Bank settler attacks",
-     "url": "https://www.cbsnews.com/news/us-israel-west-bank-settler-violence-palestinians-arrests/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-21T18:31:35Z",
-     "headline": "Nine of 10 suspects in attacks on diplomats, U.S. journalist released",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-21/ty-article/.premium/nine-of-10-suspects-in-attacks-on-diplomats-u-s-journalist-released/000001a1-5fb6-dc69-a1ff-7fbece5b0000"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "Most West Bank attack suspects freed as officials warn of settler surge",
-     "url": "https://www.turkiyetoday.com/region/most-west-bank-attack-suspects-freed-as-officials-warn-of-settler-surge-3230803"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T07:14:51Z",
-     "headline": "Suspects in West Bank settler attacks put under house arrest",
-     "url": "https://www.dawn.com/news/2038979/suspects-in-west-bank-settler-attacks-put-under-house-arrest"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T13:01:40Z",
-     "headline": "Israel frees from custody almost all suspects in two settler attacks, puts them under house arrest",
-     "url": "https://www.straitstimes.com/world/europe/israel-frees-from-custody-almost-all-suspects-in-two-settler-attacks-puts-them-under-house-arrest"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T13:14:50Z",
-     "headline": "Israeli settlers suspected of attacking journalist and diplomats released: Press review",
-     "url": "https://www.middleeasteye.net/news/israeli-settlers-suspected-attacking-us-journalist-and-european-diplomats-released-press"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T13:46:29Z",
-     "headline": "Israel frees from custody almost all suspects in two settler attacks, puts them under house arrest",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-frees-custody-almost-all-suspects-two-settler-attacks-puts-them-under"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T15:54:12Z",
-     "headline": "Ben-Gvir arms more West Bank settlers ahead of Israeli elections",
-     "url": "https://www.newarab.com/news/ben-gvir-arms-more-west-bank-settlers-ahead-israeli-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T18:17:29Z",
-     "headline": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
     }
    ]
   }
