@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:54:40Z",
+ "generated": "2026-10-24T02:10:59Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -327,11 +327,11 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 8.22,
-   "risk": 8.14,
+   "importance": 7.91,
+   "risk": 7.94,
    "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 49,
+   "status": "peaking",
+   "outlets": 50,
    "countries": [
     "PAK",
     "IND",
@@ -363,7 +363,7 @@
     "CHN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-23T23:57:40Z",
+   "last_seen": "2026-10-24T01:57:47Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -3495,242 +3495,13 @@
    ]
   },
   {
-   "id": 16109,
-   "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-   "category": "Geopolitics",
-   "importance": 6.92,
-   "risk": 6.31,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 25,
-   "countries": [
-    "SAU",
-    "USA",
-    "SGP",
-    "RUS",
-    "CAN",
-    "ISR",
-    "PAK",
-    "AZE",
-    "GBR",
-    "IND",
-    "DEU",
-    "GHA",
-    "AFG",
-    "KOR",
-    "BGD",
-    "CYP"
-   ],
-   "first_seen": "2026-10-20T04:37:37Z",
-   "last_seen": "2026-10-22T11:16:42Z",
-   "page": "event/16109.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T04:37:37Z",
-     "headline": "UAE, Turkish FMs Condemn Continued Houthi Attacks on Saudi Arabia",
-     "url": "https://english.aawsat.com/node/5331393"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-20T22:45:24Z",
-     "headline": "News Wrap: Britain sending air support to Saudi Arabia amid Houthi attacks",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-britain-sending-air-support-to-saudi-arabia-amid-houthi-attacks"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T04:22:02Z",
-     "headline": "Saudi, Kuwait FMs Condemn Continued Houthi Attacks on Kingdom",
-     "url": "https://english.aawsat.com/node/5331806"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-21T14:30:38Z",
-     "headline": "The Houthi war machine is evolving. Can Saudi Arabia keep pace?",
-     "url": "https://www.newarab.com/analysis/houthi-war-machine-evolving-can-saudi-arabia-keep-pace"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T19:06:27Z",
-     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.straitstimes.com/world/us-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies-say-us-officials"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-21T19:46:27Z",
-     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.al-monitor.com/originals/2026/10/us-orders-diplomats-depart-saudi-arabia-amid-houthi-strikes"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T20:13:55Z",
-     "headline": "Two killed in attempted drone attack on Saudi Aramco facility",
-     "url": "https://tass.com/world/2205847"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T20:30:24Z",
-     "headline": "U.S. orders some diplomats out of Saudi Arabia amid Houthi attacks",
-     "url": "https://globalnews.ca/news/12112168/saudi-arabia-us-diplomat-evacuations-houthi-attacks/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-21T21:26:31Z",
-     "headline": "US orders some diplomats to leave Saudi amid Houthi attacks",
-     "url": "https://www.newarab.com/news/us-orders-some-diplomats-leave-saudi-amid-houthi-attacks"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-21T21:50:30Z",
-     "headline": "U.S. orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.haaretz.com/middle-east-news/2026-10-22/ty-article/u-s-orders-diplomats-to-depart-saudi-arabia-amid-houthi-strikes/000001a1-6067-dc69-a1ff-75efd1b80000"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T00:15:13Z",
-     "headline": "Oil jumps on escalating Middle East conflict",
-     "url": "https://tribune.com.pk/story/2636272/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T00:18:36Z",
-     "headline": "One killed, eight wounded in attack on Dammam airport in Saudi Arabia — TV",
-     "url": "https://tass.com/emergencies/2205901"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T00:22:00Z",
-     "headline": "One killed, eight injured in attack on Saudi airport",
-     "url": "https://en.apa.az/asia/one-killed-eight-injured-in-attack-on-saudi-airport-531497"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T00:26:50Z",
-     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T00:31:14Z",
-     "headline": "One killed, 8 injured in Saudi airport attack amid US order for diplomats to leave",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/one-killed-8-injured-in-saudi-airport-attack-amid-us-order-for-diplomats-to-leave/articleshow/135103435.cms"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T01:07:34Z",
-     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T01:48:00Z",
-     "headline": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
-     "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T03:30:00Z",
-     "headline": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
-     "url": "https://www.myjoyonline.com/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:10:51Z",
-     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.channelnewsasia.com/world/us-diplomats-depart-saudi-arabia-houthi-strikes-6480341"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-22T04:35:54Z",
-     "headline": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-     "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T07:01:46Z",
-     "headline": "US Orders Diplomats to Leave Saudi Arabia as Houthi Attacks Escalate",
-     "url": "https://www.khaama.com/us-staff-leave-saudi-arabia/"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:34Z",
-     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.koreaherald.com/article/10911389"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T07:03:58Z",
-     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "url": "https://www.thedailystar.net/news/world/news/us-orders-diplomats-depart-saudi-arabia-amid-houthi-strikes-4304736"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-22T07:31:49Z",
-     "headline": "US orders diplomats out of Saudi Arabia as deadly attacks escalate",
-     "url": "https://cyprus-mail.com/2026/10/22/us-orders-diplomats-out-of-saudi-arabia-as-deadly-attacks-escalate"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T07:32:29Z",
-     "headline": "US diplomats, families leave Saudi Arabia missions as regional conflict with Houthis escalates",
-     "url": "https://www.jpost.com/middle-east/article-912487"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T07:59:27Z",
-     "headline": "Trump orders diplomats to leave embassies in Middle East over fears US could join strikes on Houthis",
-     "url": "https://www.independent.co.uk/news/world/middle-east/trump-houthi-strikes-diplomats-withdrawal-saudi-b3071213.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T11:10:02Z",
-     "headline": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
-    },
-    {
-     "outlet": "The Hindu",
-     "country": "IND",
-     "time": "2026-10-22T11:16:42Z",
-     "headline": "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
-     "url": "https://www.thehindu.com/business/Economy/oil-hits-near-six-month-high-as-houthi-attacks-rattle-saudi-arabia/article71611009.ece"
-    }
-   ]
-  },
-  {
    "id": 19215,
    "title": "Typhoon Champi shuts down Taiwan",
    "category": "Energy & Environment",
-   "importance": 6.91,
-   "risk": 6.73,
+   "importance": 6.98,
+   "risk": 6.78,
    "confidence": 0.86,
-   "status": "peaking",
+   "status": "spreading",
    "outlets": 29,
    "countries": [
     "THA",
@@ -3756,7 +3527,7 @@
     "JPN"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-24T01:30:08Z",
+   "last_seen": "2026-10-24T01:55:56Z",
    "page": "event/19215.html",
    "reports": [
     {
@@ -3989,6 +3760,242 @@
      "time": "2026-10-24T01:30:08Z",
      "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
      "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:55:56Z",
+     "headline": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+     "url": "https://www.arabnews.com/world/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured-3007973"
+    }
+   ]
+  },
+  {
+   "id": 16109,
+   "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+   "category": "Geopolitics",
+   "importance": 6.92,
+   "risk": 6.31,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 25,
+   "countries": [
+    "SAU",
+    "USA",
+    "SGP",
+    "RUS",
+    "CAN",
+    "ISR",
+    "PAK",
+    "AZE",
+    "GBR",
+    "IND",
+    "DEU",
+    "GHA",
+    "AFG",
+    "KOR",
+    "BGD",
+    "CYP"
+   ],
+   "first_seen": "2026-10-20T04:37:37Z",
+   "last_seen": "2026-10-22T11:16:42Z",
+   "page": "event/16109.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T04:37:37Z",
+     "headline": "UAE, Turkish FMs Condemn Continued Houthi Attacks on Saudi Arabia",
+     "url": "https://english.aawsat.com/node/5331393"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-20T22:45:24Z",
+     "headline": "News Wrap: Britain sending air support to Saudi Arabia amid Houthi attacks",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-britain-sending-air-support-to-saudi-arabia-amid-houthi-attacks"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T04:22:02Z",
+     "headline": "Saudi, Kuwait FMs Condemn Continued Houthi Attacks on Kingdom",
+     "url": "https://english.aawsat.com/node/5331806"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-21T14:30:38Z",
+     "headline": "The Houthi war machine is evolving. Can Saudi Arabia keep pace?",
+     "url": "https://www.newarab.com/analysis/houthi-war-machine-evolving-can-saudi-arabia-keep-pace"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T19:06:27Z",
+     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.straitstimes.com/world/us-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies-say-us-officials"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-21T19:46:27Z",
+     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.al-monitor.com/originals/2026/10/us-orders-diplomats-depart-saudi-arabia-amid-houthi-strikes"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T20:13:55Z",
+     "headline": "Two killed in attempted drone attack on Saudi Aramco facility",
+     "url": "https://tass.com/world/2205847"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T20:30:24Z",
+     "headline": "U.S. orders some diplomats out of Saudi Arabia amid Houthi attacks",
+     "url": "https://globalnews.ca/news/12112168/saudi-arabia-us-diplomat-evacuations-houthi-attacks/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-21T21:26:31Z",
+     "headline": "US orders some diplomats to leave Saudi amid Houthi attacks",
+     "url": "https://www.newarab.com/news/us-orders-some-diplomats-leave-saudi-amid-houthi-attacks"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-21T21:50:30Z",
+     "headline": "U.S. orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-22/ty-article/u-s-orders-diplomats-to-depart-saudi-arabia-amid-houthi-strikes/000001a1-6067-dc69-a1ff-75efd1b80000"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T00:15:13Z",
+     "headline": "Oil jumps on escalating Middle East conflict",
+     "url": "https://tribune.com.pk/story/2636272/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T00:18:36Z",
+     "headline": "One killed, eight wounded in attack on Dammam airport in Saudi Arabia — TV",
+     "url": "https://tass.com/emergencies/2205901"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T00:22:00Z",
+     "headline": "One killed, eight injured in attack on Saudi airport",
+     "url": "https://en.apa.az/asia/one-killed-eight-injured-in-attack-on-saudi-airport-531497"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T00:26:50Z",
+     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T00:31:14Z",
+     "headline": "One killed, 8 injured in Saudi airport attack amid US order for diplomats to leave",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/one-killed-8-injured-in-saudi-airport-attack-amid-us-order-for-diplomats-to-leave/articleshow/135103435.cms"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T01:07:34Z",
+     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T01:48:00Z",
+     "headline": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+     "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T03:30:00Z",
+     "headline": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+     "url": "https://www.myjoyonline.com/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T04:10:51Z",
+     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.channelnewsasia.com/world/us-diplomats-depart-saudi-arabia-houthi-strikes-6480341"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-22T04:35:54Z",
+     "headline": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+     "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T07:01:46Z",
+     "headline": "US Orders Diplomats to Leave Saudi Arabia as Houthi Attacks Escalate",
+     "url": "https://www.khaama.com/us-staff-leave-saudi-arabia/"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-22T07:03:34Z",
+     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.koreaherald.com/article/10911389"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-22T07:03:58Z",
+     "headline": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "url": "https://www.thedailystar.net/news/world/news/us-orders-diplomats-depart-saudi-arabia-amid-houthi-strikes-4304736"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-22T07:31:49Z",
+     "headline": "US orders diplomats out of Saudi Arabia as deadly attacks escalate",
+     "url": "https://cyprus-mail.com/2026/10/22/us-orders-diplomats-out-of-saudi-arabia-as-deadly-attacks-escalate"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T07:32:29Z",
+     "headline": "US diplomats, families leave Saudi Arabia missions as regional conflict with Houthis escalates",
+     "url": "https://www.jpost.com/middle-east/article-912487"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T07:59:27Z",
+     "headline": "Trump orders diplomats to leave embassies in Middle East over fears US could join strikes on Houthis",
+     "url": "https://www.independent.co.uk/news/world/middle-east/trump-houthi-strikes-diplomats-withdrawal-saudi-b3071213.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T11:10:02Z",
+     "headline": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
+    },
+    {
+     "outlet": "The Hindu",
+     "country": "IND",
+     "time": "2026-10-22T11:16:42Z",
+     "headline": "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+     "url": "https://www.thehindu.com/business/Economy/oil-hits-near-six-month-high-as-houthi-attacks-rattle-saudi-arabia/article71611009.ece"
     }
    ]
   },
@@ -8976,9 +8983,9 @@
    "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
    "category": "Geopolitics",
    "importance": 5.95,
-   "risk": 1.88,
-   "confidence": 0.91,
-   "status": "peaking",
+   "risk": 2.86,
+   "confidence": 0.92,
+   "status": "spreading",
    "outlets": 23,
    "countries": [
     "ARG",
@@ -9000,7 +9007,7 @@
     "NGA"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-24T00:15:15Z",
+   "last_seen": "2026-10-24T01:39:00Z",
    "page": "event/2857.html",
    "reports": [
     {
@@ -9917,160 +9924,6 @@
      "time": "2026-10-23T10:58:34Z",
      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
      "url": "https://cyprus-mail.com/2026/10/23/tom-skerritt-star-of-alien-and-top-gun-dies-at-93"
-    }
-   ]
-  },
-  {
-   "id": 18349,
-   "title": "US could strike Iran this weekend, envoy says",
-   "category": "Geopolitics",
-   "importance": 5.86,
-   "risk": 3.65,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "ARE",
-    "QAT",
-    "IRQ",
-    "SAU",
-    "NGA",
-    "KOR",
-    "IND",
-    "RUS",
-    "TUR",
-    "GRC",
-    "SGP"
-   ],
-   "first_seen": "2026-10-20T19:02:14Z",
-   "last_seen": "2026-10-24T01:51:24Z",
-   "page": "event/18349.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-20T19:02:14Z",
-     "headline": "Iran not an 'evil regime', US ambassador Tom Barrack says",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T10:51:11Z",
-     "headline": "US ambassador to Turkiye: Rethinking US role in the Middle East",
-     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T11:12:51Z",
-     "headline": "Syria's Sharaa meets US envoy Barrack amid Israeli attacks",
-     "url": "https://www.newarab.com/news/syrias-sharaa-meets-us-envoy-barrack-amid-israeli-attacks"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T17:25:33Z",
-     "headline": "Barrack Warns Of Possible US Strike On Iran ‘This Weekend’",
-     "url": "https://www.kurdistan24.net/en/story/948076/barrack-warns-of-possible-us-strike-on-iran-this-weekend"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:41:17Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-could-strike-iran-weekend-envoy-says"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T18:31:20Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.arabnews.com/middle-east/us-could-strike-iran-this-weekend-envoy-says-3007955"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T18:31:56Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.vanguardngr.com/2026/10/us-could-strike-iran-this-weekend-envoy-says/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T18:37:03Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.koreatimes.co.kr/world/20261024/us-could-strike-iran-this-weekend-envoy-says?utm_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T18:46:06Z",
-     "headline": "US Could \"Absolutely\" Strike Iran This Weekend, Says Envoy",
-     "url": "https://www.ndtv.com/world-news/us-could-absolutely-strike-iran-this-weekend-says-envoy-12227693#publisher=newsstand"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T19:01:50Z",
-     "headline": "Tom Barrack signals possible Iran strikes this weekend",
-     "url": "https://shafaq.com/en/World/Tom-Barrack-signals-possible-Iran-strikes-this-weekend"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T19:24:54Z",
-     "headline": "Trump denies his envoy’s statement about potential strike on Iran this weekend",
-     "url": "https://tass.com/world/2207161"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T19:26:34Z",
-     "headline": "US could strike Iran weekend – Envoy",
-     "url": "https://punchng.com/us-could-strike-iran-weekend-envoy/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T19:50:46Z",
-     "headline": "Trump: US could launch another military operation against Iran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-could-launch-another-military-operation-against-iran"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T20:11:08Z",
-     "headline": "US envoy suggests Iran strikes possible this weekend, Trump says he's unaware",
-     "url": "https://www.aa.com.tr/en/americas/us-envoy-suggests-iran-strikes-possible-this-weekend-trump-says-hes-unaware/4099059"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T20:44:02Z",
-     "headline": "Trump Dismisses Envoy Tom Barrack’s Claim of Possible US Strike on Iran This Weekend",
-     "url": "https://greekcitytimes.com/2026/10/24/trump-dismisses-envoy-tom-barracks-claim-of-possible-us-strike-on-iran-this-weekend/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T23:25:07Z",
-     "headline": "US-Iran War Live Updates: Trump warns of fresh strike as Tehran threatens Gulf internet cables",
-     "url": "https://indianexpress.com/article/world/us-iran-war-live-why-trump-could-strike-tehran-strait-of-hormuz-shipping-india-oil-prices-latest-updates-10934435/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T00:40:14Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.channelnewsasia.com/world/iran-war-us-could-strike-soon-6488231"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T01:51:24Z",
-     "headline": "US could strike Iran this weekend, envoy says",
-     "url": "https://www.straitstimes.com/world/middle-east/us-could-strike-iran-this-weekend-envoy-says"
     }
    ]
   },
@@ -12585,6 +12438,277 @@
      "time": "2026-10-23T19:45:30Z",
      "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
      "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
+    }
+   ]
+  },
+  {
+   "id": 16809,
+   "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
+   "category": "Geopolitics",
+   "importance": 5.67,
+   "risk": 6.24,
+   "confidence": 0.93,
+   "status": "peaking",
+   "outlets": 17,
+   "countries": [
+    "SAU",
+    "UKR",
+    "RUS",
+    "CHN",
+    "IRQ",
+    "CAN",
+    "USA",
+    "GBR",
+    "AZE"
+   ],
+   "first_seen": "2026-10-20T08:20:46Z",
+   "last_seen": "2026-10-22T19:41:50Z",
+   "page": "event/16809.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T08:20:46Z",
+     "headline": "Zelensky Meets Witkoff as US-Ukraine Relations Sink to New Lows",
+     "url": "https://english.aawsat.com/node/5331462"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T09:52:06Z",
+     "headline": "Witkoff to Meet Zelensky, European Leaders in Oslo Before Moscow Trip",
+     "url": "https://www.kyivpost.com/post/87601"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-20T18:00:00Z",
+     "headline": "Kremlin Hopes Witkoff Will ‘Brief’ Putin on Talks With Ukraine and Europe",
+     "url": "https://www.themoscowtimes.com/2026/10/20/kremlin-hopes-witkoff-will-brief-putin-on-talks-with-ukraine-and-europe-a94029"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T18:59:57Z",
+     "headline": "US Restores Intelligence to Ukraine as Witkoff Carries Peace Proposals to Putin",
+     "url": "https://www.kyivpost.com/post/87670"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T20:30:04Z",
+     "headline": "Trump Says Ukraine ‘Has to Want to Make a Deal’ as Witkoff Heads to Russia",
+     "url": "https://www.kyivpost.com/post/87673"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T05:29:21Z",
+     "headline": "US special envoy Witkoff to arrive in Russia: reports",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq4xa2jb6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T05:54:28Z",
+     "headline": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq6krSzoYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T07:13:45Z",
+     "headline": "Witkoff arrives in St. Petersburg for talks with Putin, where he’s expected to present an ‘updated plan’ to end the war",
+     "url": "https://meduza.io/en/news/2026/10/21/witkoff-arrives-in-st-petersburg-for-talks-with-putin-where-he-s-expected-to-present-an-updated-plan-to-end-the-war"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T08:08:16Z",
+     "headline": "Witkoff Arrives in St. Petersburg for Putin Talks as US and Ukraine Agree on Peace Proposals",
+     "url": "https://www.kyivpost.com/post/87704"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-21T08:48:25Z",
+     "headline": "US Envoy Witkoff Arrives In St. Petersburg",
+     "url": "https://www.kurdistan24.net/en/story/947586/us-envoy-witkoff-arrives-in-st-petersburg-for-talks-with-russian-officials"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T08:56:22Z",
+     "headline": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rqjkq8gqn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-21T09:30:47Z",
+     "headline": "Witkoff Meets Putin In St. Petersburg: Foundation For Ukraine Ceasefire Exists",
+     "url": "https://www.kurdistan24.net/en/story/947601/witkoff-meets-putin-in-st-petersburg-foundation-for-ukraine-ceasefire-exists"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-21T11:40:03Z",
+     "headline": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
+     "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616?cmp=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-21T11:58:13Z",
+     "headline": "Putin, Witkoff meet in Russia for Ukraine war talks",
+     "url": "https://www.newarab.com/news/putin-witkoff-meet-russia-ukraine-war-talks"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T12:13:10Z",
+     "headline": "Trump Envoy Witkoff Calls Putin a ‘Humanist’ Amid Deadly Russian Attacks on Ukraine",
+     "url": "https://www.kyivpost.com/post/87749"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-21T13:58:20Z",
+     "headline": "Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
+     "url": "https://kyivindependent.com/kremlin-ready-to-resume-trilateral-peace-talks-with-us-ukraine-putin-claims/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:20:38Z",
+     "headline": "Putin and U.S. envoy Witkoff hold talks in St. Petersburg as Washington pushes a new plan to end the war in Ukraine",
+     "url": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T16:07:09Z",
+     "headline": "‘We Need to Move On’: Zelensky Won’t Wait in Oslo for Witkoff After Putin Meeting",
+     "url": "https://www.kyivpost.com/post/87773"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T17:15:19Z",
+     "headline": "Russia says Ukraine must make \"necessary decisions\" to end the war",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-21T17:47:33Z",
+     "headline": "Talks in St. Petersburg, Oslo constructive; work under way to organise US-Russia-Ukraine trilateral meeting – Witkoff",
+     "url": "https://en.interfax.com.ua/news/general/1224154.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-21T17:57:48Z",
+     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+     "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-21T18:13:00Z",
+     "headline": "Witkoff says trilateral talks between the US, Russia, and Ukraine to continue at technical level",
+     "url": "https://www.ukrinform.net/rubric-polytics/4176846-witkoff-says-trilateral-talks-between-the-us-russia-and-ukraine-to-continue-at-technical-level.html"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-21T18:15:43Z",
+     "headline": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+     "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-21T19:36:12Z",
+     "headline": "Trilateral talks could be held in early November following Witkoff–Putin meeting, Zelensky says",
+     "url": "https://www.ukrinform.net/rubric-polytics/4176864-trilateral-talks-could-be-held-in-early-november-following-witkoffputin-meeting-zelensky-says.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T20:39:58Z",
+     "headline": "Zelensky Confirms Trilateral Talks With US, Russia Could Take Place by Early November",
+     "url": "https://www.kyivpost.com/post/87793"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T02:39:02Z",
+     "headline": "Witkoff Reveals US Treasury Working With Putin’s Envoy on Economic Ties",
+     "url": "https://www.kyivpost.com/post/87800"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T04:00:00Z",
+     "headline": "Witkoff: US, Russia, Ukraine to continue technical talks",
+     "url": "https://www.azernews.az/region/265976.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T09:34:36Z",
+     "headline": "Putin meets U.S. special envoy Witkoff in St. Petersburg",
+     "url": "https://english.news.cn/20261022/33b106ca99b845c3bd7c80396b8beaed/c.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T11:19:37Z",
+     "headline": "Putin the Humanist? 10 Ways Russia Has Shown Its ‘Humanity’ in Ukraine",
+     "url": "https://www.kyivpost.com/post/87867"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T12:47:13Z",
+     "headline": "Witkoff Meets Putin: Any Progress on Ukraine?",
+     "url": "https://www.kyivpost.com/post/87876"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T14:06:50Z",
+     "headline": "Witkoff feels optimistic after meeting with Putin — Vance",
+     "url": "https://tass.com/world/2206351"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-22T15:20:31Z",
+     "headline": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
+     "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-22T16:21:00Z",
+     "headline": "UK rejects Witkoff’s characterization of Putin as “humanitarian”",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177215-uk-rejects-witkoffs-characterization-of-putin-as-humanitarian.html"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T17:27:00Z",
+     "headline": "UK rejects Witkoff's description of Putin as 'humanitarian'",
+     "url": "https://www.azernews.az/region/266034.html"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-22T19:41:50Z",
+     "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
+     "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
     }
    ]
   }
