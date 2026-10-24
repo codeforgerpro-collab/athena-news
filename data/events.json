@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:11:12Z",
+ "generated": "2026-10-24T13:28:13Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,9 +8,9 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "importance": 8.6,
-   "risk": 8.18,
-   "confidence": 0.9,
-   "status": "spreading",
+   "risk": 8.19,
+   "confidence": 0.91,
+   "status": "peaking",
    "outlets": 60,
    "countries": [
     "PAK",
@@ -47,7 +47,7 @@
     "EGY"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-24T13:03:49Z",
+   "last_seen": "2026-10-24T13:23:44Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -1568,6 +1568,168 @@
    ]
   },
   {
+   "id": 24414,
+   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
+   "category": "Technology & Cyber",
+   "importance": 7.21,
+   "risk": 1.66,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "UKR",
+    "AZE",
+    "SGP",
+    "PHL",
+    "SAU",
+    "FRA",
+    "USA",
+    "BEL",
+    "IND",
+    "TUR",
+    "GBR",
+    "AUS"
+   ],
+   "first_seen": "2026-10-23T11:06:00Z",
+   "last_seen": "2026-10-24T13:09:37Z",
+   "page": "event/24414.html",
+   "reports": [
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:06:00Z",
+     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
+     "url": "https://www.kyivpost.com/post/87981"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-24T07:57:46Z",
+     "headline": "Starshield operations restored to normal speed, Zelensky confirms",
+     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T08:29:00Z",
+     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
+     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T08:48:06Z",
+     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T08:58:00Z",
+     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
+     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T09:16:59Z",
+     "headline": "Ukraine says Starlink back to normal after week of throttling",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-24T09:28:32Z",
+     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
+     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T09:32:09Z",
+     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
+     "url": "https://english.aawsat.com/node/5333048"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T09:48:23Z",
+     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
+     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:08:45Z",
+     "headline": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-24T10:09:36Z",
+     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
+     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T10:11:40Z",
+     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
+     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-24T11:04:40Z",
+     "headline": "Starlink Speed Restored, Says Ukrainian Defense Minister",
+     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:40:04Z",
+     "headline": "Ukraine says Starlink speed restored after long disruption",
+     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T11:51:20Z",
+     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
+     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T12:07:11Z",
+     "headline": "Ukraine reports Starlink operating again after slowdown",
+     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T12:12:40Z",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
+     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T13:09:37Z",
+     "headline": "Ukraine says Starlink at normal speed after delays impede military",
+     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -2217,156 +2379,322 @@
    ]
   },
   {
-   "id": 24414,
-   "title": "Ukraine says Starlink and Starshield connection 'stable' again",
-   "category": "Technology & Cyber",
-   "importance": 7.05,
-   "risk": 1.39,
-   "confidence": 0.89,
+   "id": 1869,
+   "title": "Kenya confirms second Ebola case, a relative of first patient",
+   "category": "Health & Science",
+   "importance": 7.1,
+   "risk": 7.25,
+   "confidence": 0.93,
    "status": "spreading",
-   "outlets": 17,
+   "outlets": 42,
    "countries": [
-    "UKR",
-    "AZE",
-    "SGP",
-    "PHL",
-    "SAU",
-    "FRA",
+    "KEN",
+    "AUS",
     "USA",
-    "BEL",
-    "IND",
+    "CAN",
+    "CHN",
+    "DEU",
+    "NGA",
+    "QAT",
+    "CYP",
+    "ZAF",
+    "FRA",
+    "GBR",
+    "JAM",
     "TUR",
-    "GBR"
+    "KWT",
+    "NZL",
+    "AZE",
+    "SAU",
+    "RUS",
+    "SGP",
+    "SSD",
+    "GHA",
+    "SWE"
    ],
-   "first_seen": "2026-10-23T11:06:00Z",
-   "last_seen": "2026-10-24T12:54:37Z",
-   "page": "event/24414.html",
+   "first_seen": "2026-10-12T17:52:48Z",
+   "last_seen": "2026-10-24T13:16:22Z",
+   "page": "event/1869.html",
    "reports": [
     {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:06:00Z",
-     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
-     "url": "https://www.kyivpost.com/post/87981"
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-12T17:52:48Z",
+     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
+     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
     },
     {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-24T07:57:46Z",
-     "headline": "Starshield operations restored to normal speed, Zelensky confirms",
-     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-14T07:44:08Z",
+     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
+     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T08:29:00Z",
-     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
-     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-14T13:00:00Z",
+     "headline": "Ebola doesn’t stop at a border",
+     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T08:48:06Z",
-     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-14T16:20:55Z",
+     "headline": "Kenya confirms second Ebola case, a relative of first patient",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
     },
     {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T08:58:00Z",
-     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
-     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-14T18:19:29Z",
+     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
+     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T09:16:59Z",
-     "headline": "Ukraine says Starlink back to normal after week of throttling",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-15T07:08:20Z",
+     "headline": "Kenya reports second Ebola case, family member of first patient",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
     },
     {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-24T09:28:32Z",
-     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
-     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
+     "outlet": "STAT News",
+     "country": "USA",
+     "time": "2026-10-15T11:55:17Z",
+     "headline": "Kenya reports second Ebola case",
+     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
     },
     {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:32:09Z",
-     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
-     "url": "https://english.aawsat.com/node/5333048"
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-15T12:00:00Z",
+     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
     },
     {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T09:48:23Z",
-     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
-     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-15T16:48:40Z",
+     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
+     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
     },
     {
      "outlet": "The New York Times (World)",
      "country": "USA",
-     "time": "2026-10-24T10:08:45Z",
-     "headline": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+     "time": "2026-10-15T17:38:52Z",
+     "headline": "Second Ebola Infection Announced in Kenya",
+     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
     },
     {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-24T10:09:36Z",
-     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+     "outlet": "AllAfrica",
+     "country": "AFR",
+     "time": "2026-10-16T04:58:07Z",
+     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
+     "url": "https://allafrica.com/stories/202610160014.html"
     },
     {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T10:11:40Z",
-     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
-     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-16T10:41:00Z",
+     "headline": "How prepared is Kenya for an Ebola outbreak?",
+     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-24T11:04:40Z",
-     "headline": "Starlink Speed Restored, Says Ukrainian Defense Minister",
-     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T13:51:54Z",
+     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
     },
     {
-     "outlet": "CBS News (World)",
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-16T15:29:48Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-16T15:37:08Z",
+     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
+     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-16T15:56:38Z",
+     "headline": "Health ministry confirms third Ebola case in Kenya",
+     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-16T16:01:38Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-16T17:10:41Z",
+     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
+     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
+    },
+    {
+     "outlet": "ABC News (International)",
      "country": "USA",
-     "time": "2026-10-24T11:40:04Z",
-     "headline": "Ukraine says Starlink speed restored after long disruption",
-     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+     "time": "2026-10-16T18:34:28Z",
+     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T18:55:57Z",
+     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T18:57:40Z",
+     "headline": "Kenya records third Ebola case, linked to first patient who died",
+     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-16T19:03:00Z",
+     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
+     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T08:00:00Z",
+     "headline": "Kenya records third Ebola case in the country: health ministry",
+     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-17T10:56:48Z",
+     "headline": "Kenya reports third Ebola case, contact tracing continues",
+     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-17T12:46:30Z",
+     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
+     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total now at seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-17T14:51:11Z",
+     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
+     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four More Ebola Cases Detected In Kenya",
+     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
+     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-17T15:19:59Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-17T15:22:42Z",
+     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
+     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-17T15:25:16Z",
+     "headline": "Kenya confirms 4 new Ebola cases",
+     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-24T11:51:20Z",
-     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
-     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
+     "time": "2026-10-17T16:19:13Z",
+     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
+     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
     },
     {
-     "outlet": "The Hill",
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T16:48:46Z",
+     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
+     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-17T17:08:00Z",
+     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
+     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-17T17:28:08Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-17T17:53:00Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-17T18:18:42Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
+    },
+    {
+     "outlet": "The New York Times (World)",
      "country": "USA",
-     "time": "2026-10-24T12:07:11Z",
-     "headline": "Ukraine reports Starlink operating again after slowdown",
-     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T12:12:40Z",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
-     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
+     "time": "2026-10-17T19:41:02Z",
+     "headline": "Kenya Confirms Four New Ebola Cases",
+     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
     }
    ]
   },
@@ -2686,326 +3014,6 @@
      "time": "2026-10-16T17:08:27Z",
      "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
      "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
-    }
-   ]
-  },
-  {
-   "id": 1869,
-   "title": "Kenya confirms second Ebola case, a relative of first patient",
-   "category": "Health & Science",
-   "importance": 7.04,
-   "risk": 7.2,
-   "confidence": 0.93,
-   "status": "spreading",
-   "outlets": 42,
-   "countries": [
-    "KEN",
-    "AUS",
-    "USA",
-    "CAN",
-    "CHN",
-    "DEU",
-    "NGA",
-    "QAT",
-    "CYP",
-    "ZAF",
-    "FRA",
-    "GBR",
-    "JAM",
-    "TUR",
-    "KWT",
-    "NZL",
-    "AZE",
-    "SAU",
-    "RUS",
-    "SGP",
-    "SSD",
-    "GHA",
-    "SWE"
-   ],
-   "first_seen": "2026-10-12T17:52:48Z",
-   "last_seen": "2026-10-24T10:33:09Z",
-   "page": "event/1869.html",
-   "reports": [
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-12T17:52:48Z",
-     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
-     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-14T07:44:08Z",
-     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
-     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
-    },
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-14T13:00:00Z",
-     "headline": "Ebola doesn’t stop at a border",
-     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-14T16:20:55Z",
-     "headline": "Kenya confirms second Ebola case, a relative of first patient",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-14T18:19:29Z",
-     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
-     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-15T07:08:20Z",
-     "headline": "Kenya reports second Ebola case, family member of first patient",
-     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
-    },
-    {
-     "outlet": "STAT News",
-     "country": "USA",
-     "time": "2026-10-15T11:55:17Z",
-     "headline": "Kenya reports second Ebola case",
-     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-15T12:00:00Z",
-     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-15T16:48:40Z",
-     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
-     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-15T17:38:52Z",
-     "headline": "Second Ebola Infection Announced in Kenya",
-     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
-    },
-    {
-     "outlet": "AllAfrica",
-     "country": "AFR",
-     "time": "2026-10-16T04:58:07Z",
-     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
-     "url": "https://allafrica.com/stories/202610160014.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-16T10:41:00Z",
-     "headline": "How prepared is Kenya for an Ebola outbreak?",
-     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T13:51:54Z",
-     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-16T15:29:48Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-16T15:37:08Z",
-     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
-     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-16T15:56:38Z",
-     "headline": "Health ministry confirms third Ebola case in Kenya",
-     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-16T16:01:38Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-16T17:10:41Z",
-     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
-     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-16T18:34:28Z",
-     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T18:55:57Z",
-     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T18:57:40Z",
-     "headline": "Kenya records third Ebola case, linked to first patient who died",
-     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-16T19:03:00Z",
-     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
-     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T08:00:00Z",
-     "headline": "Kenya records third Ebola case in the country: health ministry",
-     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-17T10:56:48Z",
-     "headline": "Kenya reports third Ebola case, contact tracing continues",
-     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-17T12:46:30Z",
-     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
-     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total now at seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-17T14:51:11Z",
-     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
-     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four More Ebola Cases Detected In Kenya",
-     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
-     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-17T15:19:59Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-17T15:22:42Z",
-     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
-     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-17T15:25:16Z",
-     "headline": "Kenya confirms 4 new Ebola cases",
-     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T16:19:13Z",
-     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
-     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T16:48:46Z",
-     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
-     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-17T17:08:00Z",
-     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
-     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-17T17:28:08Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-17T17:53:00Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-17T18:18:42Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-17T19:41:02Z",
-     "headline": "Kenya Confirms Four New Ebola Cases",
-     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
     }
    ]
   },
@@ -3849,7 +3857,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-24T09:23:52Z",
-     "headline": "France to deploy 70,000 police ahead of weekend protests",
+     "headline": "French police arrest 135 during nationwide protests",
      "url": "https://www.rte.ie/news/europe/2026/1024/1596708-france-protests/"
     },
     {
@@ -9092,7 +9100,7 @@
      "outlet": "The New York Times (World)",
      "country": "USA",
      "time": "2026-10-24T10:25:29Z",
-     "headline": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+     "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
      "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html"
     },
     {
@@ -9126,197 +9134,13 @@
    ]
   },
   {
-   "id": 21280,
-   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-   "category": "Geopolitics",
-   "importance": 5.96,
-   "risk": 3.26,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 18,
-   "countries": [
-    "RUS",
-    "AZE",
-    "AFG",
-    "TUR",
-    "NGA",
-    "CHN",
-    "SAU",
-    "UKR",
-    "QAT",
-    "SGP",
-    "PAK",
-    "CYP",
-    "USA"
-   ],
-   "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-24T10:31:00Z",
-   "page": "event/21280.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T12:24:01Z",
-     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
-     "url": "https://tass.com/politics/2206267"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:53:00Z",
-     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
-     "url": "https://www.azernews.az/region/266020.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T17:09:14Z",
-     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
-     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:06Z",
-     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
-     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T09:57:00Z",
-     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:20:46Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:31:40Z",
-     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
-     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:39:35Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:52:05Z",
-     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T11:04:40Z",
-     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
-     "url": "https://tass.com/politics/2206847"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:02:52Z",
-     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
-     "url": "https://tass.com/politics/2206883"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:42:49Z",
-     "headline": "Russia, Ukraine and the US set for November peace talks",
-     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T12:49:49Z",
-     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
-     "url": "https://www.kyivpost.com/post/87990"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:54:44Z",
-     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T14:00:00Z",
-     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
-     "url": "https://www.azernews.az/region/266090.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:21:52Z",
-     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
-     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T16:23:50Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T16:46:32Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.al-monitor.com/originals/2026/10/zelenskiy-says-ukrainian-russian-and-us-negotiators-meet-early-november-abu-dhabi"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T18:11:00Z",
-     "headline": "Zelenskyy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://en.apa.az/europe/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi-531925"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T19:00:07Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.vanguardngr.com/2026/10/russia-says-ukraine-us-talks-planned-for-abu-dhabi/"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T07:05:00Z",
-     "headline": "Ukraine-US-Russia talks could take place in Abu Dhabi or Switzerland – Sky News",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059512/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T10:31:00Z",
-     "headline": "US-Ukraine-Russia Talks Slated for Abu Dhabi or Switzerland",
-     "url": "https://www.kyivpost.com/post/88064"
-    }
-   ]
-  },
-  {
    "id": 22319,
    "title": "Meghan Markle ‘distressed’ over claims father had child abuse images",
    "category": "Society & Law",
-   "importance": 5.96,
-   "risk": 1.88,
-   "confidence": 0.9,
-   "status": "peaking",
+   "importance": 6.02,
+   "risk": 1.9,
+   "confidence": 0.91,
+   "status": "spreading",
    "outlets": 25,
    "countries": [
     "GRC",
@@ -9337,7 +9161,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-24T12:43:54Z",
+   "last_seen": "2026-10-24T12:52:48Z",
    "page": "event/22319.html",
    "reports": [
     {
@@ -9542,6 +9366,197 @@
      "time": "2026-10-24T12:43:54Z",
      "headline": "UK police says ‘claims’ over Meghan Markle’s dad not sent to other law enforcement",
      "url": "https://www.arabnews.com/world/uk-police-says-claims-over-meghan-markles-dad-not-sent-to-other-law-enforcement-3008034"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T12:52:48Z",
+     "headline": "Met police confirm giving Duchess of Sussex letter about father’s alleged offending",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-"
+    }
+   ]
+  },
+  {
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+   "category": "Geopolitics",
+   "importance": 5.96,
+   "risk": 3.26,
+   "confidence": 0.93,
+   "status": "fading",
+   "outlets": 18,
+   "countries": [
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
+    "SAU",
+    "UKR",
+    "QAT",
+    "SGP",
+    "PAK",
+    "CYP",
+    "USA"
+   ],
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-24T10:31:00Z",
+   "page": "event/21280.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:00:00Z",
+     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
+     "url": "https://www.azernews.az/region/266090.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:21:52Z",
+     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T16:23:50Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T16:46:32Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.al-monitor.com/originals/2026/10/zelenskiy-says-ukrainian-russian-and-us-negotiators-meet-early-november-abu-dhabi"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T18:11:00Z",
+     "headline": "Zelenskyy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://en.apa.az/europe/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi-531925"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T19:00:07Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.vanguardngr.com/2026/10/russia-says-ukraine-us-talks-planned-for-abu-dhabi/"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T07:05:00Z",
+     "headline": "Ukraine-US-Russia talks could take place in Abu Dhabi or Switzerland – Sky News",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059512/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T10:31:00Z",
+     "headline": "US-Ukraine-Russia Talks Slated for Abu Dhabi or Switzerland",
+     "url": "https://www.kyivpost.com/post/88064"
     }
    ]
   },
