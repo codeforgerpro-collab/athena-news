@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T19:12:49Z",
+ "generated": "2026-10-24T19:28:49Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -657,11 +657,11 @@
    "id": 22647,
    "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
    "category": "Geopolitics",
-   "importance": 7.79,
+   "importance": 7.6,
    "risk": 7.54,
    "confidence": 0.87,
    "status": "fading",
-   "outlets": 26,
+   "outlets": 27,
    "countries": [
     "ISR",
     "USA",
@@ -680,10 +680,11 @@
     "FRA",
     "PAK",
     "IRL",
-    "TWN"
+    "TWN",
+    "CAN"
    ],
    "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-24T17:21:42Z",
+   "last_seen": "2026-10-24T19:20:34Z",
    "page": "event/22647.html",
    "reports": [
     {
@@ -6242,231 +6243,6 @@
    ]
   },
   {
-   "id": 979,
-   "title": "Albania’s prime minister vows not to resign over student-led protests",
-   "category": "Society & Law",
-   "importance": 6.37,
-   "risk": 6.09,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "SGP",
-    "GBR",
-    "FRA",
-    "PAK",
-    "CYP",
-    "QAT",
-    "BGR",
-    "DEU",
-    "SAU",
-    "USA",
-    "NLD",
-    "ALB"
-   ],
-   "first_seen": "2026-10-15T09:51:02Z",
-   "last_seen": "2026-10-22T19:18:00Z",
-   "page": "event/979.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T09:51:02Z",
-     "headline": "Albania's leader defies calls to resign as student protesters rampage in capital",
-     "url": "https://www.straitstimes.com/world/europe/albanias-rama-says-he-will-not-resign-over-protests"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-15T10:28:51Z",
-     "headline": "Albania sees latest violent student protests over corruption and education costs",
-     "url": "https://www.independent.co.uk/news/world/europe/albania-student-protests-prime-minister-edi-rama-b3067314.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-15T10:34:51Z",
-     "headline": "Albania’s prime minister vows not to resign over student-led protests",
-     "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-15T12:27:24Z",
-     "headline": "Student protests spread in Albania as demonstrators call for PM resignation",
-     "url": "https://www.france24.com/en/europe/20261015-student-protests-escalate-in-albania-as-demonstrators-call-for-pm-resignation"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-15T12:38:21Z",
-     "headline": "Albania's leader defies calls to resign as student protesters rampage in capital",
-     "url": "https://www.brecorder.com/news/40444388/albanias-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-15T14:22:13Z",
-     "headline": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
-     "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-15T15:02:30Z",
-     "headline": "Police and protesters face off in Albania on third day of anti-govt demonstrations",
-     "url": "https://www.france24.com/en/video/20261015-police-and-protesters-face-off-in-albania-on-third-day-of-anti-govt-demonstrations"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-15T16:41:30Z",
-     "headline": "Albania’s PM dismisses calls to resign as student protests spread",
-     "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-15T19:02:14Z",
-     "headline": "Albania's leader defies calls to resign as student protesters rampage in capital",
-     "url": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-15T19:33:18Z",
-     "headline": "Albanian PM condemns 'chaos' as violent unrest spreads",
-     "url": "https://www.newarab.com/news/albanian-pm-condemns-chaos-violent-unrest-spreads"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-15T21:34:56Z",
-     "headline": "Albania: Violent protests rock Tirana for third straight day",
-     "url": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-16T10:07:17Z",
-     "headline": "Thousands Protest Corruption as Clashes Escalate in Albania",
-     "url": "https://www.novinite.com/view_news.php?id=241100"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T12:55:29Z",
-     "headline": "Thousands march in Albanian capital as anti-government protests spread",
-     "url": "https://www.straitstimes.com/world/europe/thousands-march-in-albanian-capital-as-anti-government-protests-spread"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-16T13:51:13Z",
-     "headline": "Thousands march in Albanian capital as anti-government protests spread",
-     "url": "https://www.brecorder.com/news/40444562/thousands-march-in-albanian-capital-as-anti-government-protests-spread"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-16T14:23:00Z",
-     "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-     "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-16T19:59:23Z",
-     "headline": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
-     "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-16T20:15:29Z",
-     "headline": "Clashes grip Tirana as Albanian PM blames ‘foreign hands’",
-     "url": "https://www.arabnews.com/world/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands-3006773"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T04:21:18Z",
-     "headline": "Albania’s PM blames ‘foreign hands’ for protests",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-17T12:05:59Z",
-     "headline": "Albanian police fire rubber bullets as student protests rage",
-     "url": "https://www.straitstimes.com/world/europe/albanian-anti-government-protesters-clash-with-police-in-tirana"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-17T14:39:53Z",
-     "headline": "Albanian anti-government protesters clash with police in Tirana",
-     "url": "https://www.arabnews.com/world/albanian-anti-government-protesters-clash-with-police-in-tirana-3006861"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-18T21:49:49Z",
-     "headline": "Albania’s Leader, Edi Rama, Denounces Violent Protests",
-     "url": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-19T10:43:50Z",
-     "headline": "US lawmakers sound alarm as violence grips NATO ally Albania amid anti-government protests",
-     "url": "https://www.foxnews.com/world/us-lawmakers-sound-alarm-violence-grips-nato-ally-albania-amid-anti-government-protests"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T14:46:53Z",
-     "headline": "Albania’s protests explained",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss"
-    },
-    {
-     "outlet": "OCCRP",
-     "country": "NLD",
-     "time": "2026-10-20T17:57:00Z",
-     "headline": "Albanian PM Offers Dialogue Amid Crackdown on Violent Protests",
-     "url": "https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests"
-    },
-    {
-     "outlet": "Euronews Albania (EN)",
-     "country": "ALB",
-     "time": "2026-10-21T11:02:43Z",
-     "headline": "“We Will Pursue Those Wearing Hoods Relentlessly,” Rama Says: Register for Violent Individuals, Airport Access to Be Restricted",
-     "url": "https://euronews.al/en/we-will-pursue-those-wearing-hoods-relentlessly-rama-says-register-for-violent-individuals-airport-access-to-be-restricted/"
-    },
-    {
-     "outlet": "Euronews Albania (EN)",
-     "country": "ALB",
-     "time": "2026-10-21T12:01:54Z",
-     "headline": "Rama: Bank of Albania Was Not Attacked Even in 1997, We Are Facing the Radicalization of Young People",
-     "url": "https://euronews.al/en/rama-bank-of-albania-was-not-attacked-even-in-1997-we-are-facing-the-radicalization-of-young-people/"
-    },
-    {
-     "outlet": "Euronews Albania (EN)",
-     "country": "ALB",
-     "time": "2026-10-21T13:02:33Z",
-     "headline": "PM Rama announces tough new measures against violent protesters, including travel restrictions",
-     "url": "https://euronews.al/en/pm-rama-announces-tough-new-measures-against-violent-protesters-including-travel-restrictions/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T19:18:00Z",
-     "headline": "Albania's student protests are only getting bigger",
-     "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
    "id": 18000,
    "title": "Targeted by Trump, ICC wins Europe’s top human rights prize",
    "category": "Society & Law",
@@ -11743,207 +11519,6 @@
    ]
   },
   {
-   "id": 6450,
-   "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-   "category": "Geopolitics",
-   "importance": 5.73,
-   "risk": 1.85,
-   "confidence": 0.84,
-   "status": "peaking",
-   "outlets": 9,
-   "countries": [
-    "IRN",
-    "OMN",
-    "UZB",
-    "PHL",
-    "SGP",
-    "KOR",
-    "HKG",
-    "JPN",
-    "CHN"
-   ],
-   "first_seen": "2026-10-16T07:26:52Z",
-   "last_seen": "2026-10-24T12:53:43Z",
-   "page": "event/6450.html",
-   "reports": [
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:26:52Z",
-     "headline": "Iran’s wheelchair basketball start on high in Nagoya 2026",
-     "url": "https://www.tehrantimes.com/news/531101/Iran-s-wheelchair-basketball-start-on-high-in-Nagoya-2026"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:51:18Z",
-     "headline": "Iran blind football lose to Thailand at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531103/Iran-blind-football-lose-to-Thailand-at-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T13:55:48Z",
-     "headline": "Women’s wheelchair basketball fall to Japan in Nagoya",
-     "url": "https://www.tehrantimes.com/news/531121/Women-s-wheelchair-basketball-fall-to-Japan-in-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T06:10:05Z",
-     "headline": "2026 Nagoya: Iran’s men’s wheelchair basketball beat S. Korea",
-     "url": "https://www.tehrantimes.com/news/531138/2026-Nagoya-Iran-s-men-s-wheelchair-basketball-beat-S-Korea"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T07:33:49Z",
-     "headline": "Iran blind football defeat South Korea in 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531140/Iran-blind-football-defeat-South-Korea-in-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T10:36:23Z",
-     "headline": "Iran women’s wheelchair basketball suffer loss against Thailand",
-     "url": "https://www.tehrantimes.com/news/531141/Iran-women-s-wheelchair-basketball-suffer-loss-against-Thailand"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-18T12:01:07Z",
-     "headline": "Al Hubaishi launches Oman’s Asian Para Games campaign",
-     "url": "https://www.omanobserver.om/article/1198007/sports/other-sports/al-hubaishi-launches-omans-asian-para-games-campaign"
-    },
-    {
-     "outlet": "Gazeta.uz (English)",
-     "country": "UZB",
-     "time": "2026-10-19T05:10:00Z",
-     "headline": "Photo report: Opening ceremony of 5th Asian Para Games Aichi-Nagoya 2026",
-     "url": "https://www.gazeta.uz/en/2026/10/19/v-asian-para-games/"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:31:22Z",
-     "headline": "Iran blind football beat China: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531223/Iran-blind-football-beat-China-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:41:54Z",
-     "headline": "Iran rout Qatar in goalball at Nagoya Para Asian Games",
-     "url": "https://www.tehrantimes.com/news/531224/Iran-rout-Qatar-10-0-in-goalball-at-Nagoya-Para-Asian-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T09:30:50Z",
-     "headline": "Iranian girl Jami takes gold in taekwondo at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531225/Iranian-girl-Jami-takes-gold-in-taekwondo-at-2026-Asian-Para"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:15:20Z",
-     "headline": "Iranian women para-athletes win gold and silver: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531226/Iranian-women-para-athletes-win-gold-and-silver-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:46:40Z",
-     "headline": "Men’s wheelchair basketball defeat the Philippines: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531227/Men-s-wheelchair-basketball-defeat-the-Philippines-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:31:56Z",
-     "headline": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531229/Women-s-wheelchair-basketball-beat-Cambodia-at-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:48:55Z",
-     "headline": "Para swimmer Zeighaminejad seizes Iran’s third gold at Nagoya",
-     "url": "https://www.tehrantimes.com/news/531240/Para-swimmer-Zeighaminejad-seizes-Iran-s-third-gold-at-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:49:53Z",
-     "headline": "Fewer Athletes, Same Big Ambitions: Iran Chases Para Games Glory",
-     "url": "https://www.tehrantimes.com/news/531241/Fewer-Athletes-Same-Big-Ambitions-Iran-Chases-Para-Games-Glory"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-19T13:34:50Z",
-     "headline": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
-     "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:38:00Z",
-     "headline": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
-     "url": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:33Z",
-     "headline": "Cho Eun-hye wins Korea's first Asian Para Games fencing gold",
-     "url": "https://www.koreaherald.com/article/10911552"
-    },
-    {
-     "outlet": "RTHK English",
-     "country": "HKG",
-     "time": "2026-10-22T08:44:58Z",
-     "headline": "HK wins silver in women's épée at Asian Para Games",
-     "url": "https://news.rthk.hk/rthk/en/component/k2/1874937-20261022.htm"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T11:00:12Z",
-     "headline": "Oda wins Asian Para Games wheelchair tennis gold, Paralympic berth",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0sp/054000c"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-23T11:38:51Z",
-     "headline": "Men’s wheelchair basketball bag silver at 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531401/Men-s-wheelchair-basketball-bag-silver-at-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-24T08:33:16Z",
-     "headline": "Iran drops four places to sixth at Nagoya Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531423/Iran-drops-four-places-to-sixth-at-Nagoya-Asian-Para-Games"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T12:00:10Z",
-     "headline": "Aichi-Nagoya Asian Para Games conclude with hopes for inclusive society",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0sp/038000c"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T12:53:43Z",
-     "headline": "Closing ceremony of Aichi-Nagoya Asian Para Games held in Nagoya",
-     "url": "https://english.news.cn/20261024/bd1d0cdb220b4eec8131c66002bfaf38/c.html"
-    }
-   ]
-  },
-  {
    "id": 9132,
    "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
    "category": "Health & Science",
@@ -12986,6 +12561,410 @@
      "time": "2026-10-24T17:53:13Z",
      "headline": "Iran’s lethal plots against US officials abroad reach ‘advanced stages,’ memo reveals",
      "url": "https://www.independent.co.uk/news/world/americas/iran-middle-east-us-threats-personnel-b3072772.html"
+    }
+   ]
+  },
+  {
+   "id": 16809,
+   "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
+   "category": "Geopolitics",
+   "importance": 5.67,
+   "risk": 6.24,
+   "confidence": 0.93,
+   "status": "peaking",
+   "outlets": 17,
+   "countries": [
+    "SAU",
+    "UKR",
+    "RUS",
+    "CHN",
+    "IRQ",
+    "CAN",
+    "USA",
+    "GBR",
+    "AZE"
+   ],
+   "first_seen": "2026-10-20T08:20:46Z",
+   "last_seen": "2026-10-22T19:41:50Z",
+   "page": "event/16809.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T08:20:46Z",
+     "headline": "Zelensky Meets Witkoff as US-Ukraine Relations Sink to New Lows",
+     "url": "https://english.aawsat.com/node/5331462"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T09:52:06Z",
+     "headline": "Witkoff to Meet Zelensky, European Leaders in Oslo Before Moscow Trip",
+     "url": "https://www.kyivpost.com/post/87601"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-20T18:00:00Z",
+     "headline": "Kremlin Hopes Witkoff Will ‘Brief’ Putin on Talks With Ukraine and Europe",
+     "url": "https://www.themoscowtimes.com/2026/10/20/kremlin-hopes-witkoff-will-brief-putin-on-talks-with-ukraine-and-europe-a94029"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T18:59:57Z",
+     "headline": "US Restores Intelligence to Ukraine as Witkoff Carries Peace Proposals to Putin",
+     "url": "https://www.kyivpost.com/post/87670"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-20T20:30:04Z",
+     "headline": "Trump Says Ukraine ‘Has to Want to Make a Deal’ as Witkoff Heads to Russia",
+     "url": "https://www.kyivpost.com/post/87673"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T05:29:21Z",
+     "headline": "US special envoy Witkoff to arrive in Russia: reports",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq4xa2jb6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T05:54:28Z",
+     "headline": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq6krSzoYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T07:13:45Z",
+     "headline": "Witkoff arrives in St. Petersburg for talks with Putin, where he’s expected to present an ‘updated plan’ to end the war",
+     "url": "https://meduza.io/en/news/2026/10/21/witkoff-arrives-in-st-petersburg-for-talks-with-putin-where-he-s-expected-to-present-an-updated-plan-to-end-the-war"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T08:08:16Z",
+     "headline": "Witkoff Arrives in St. Petersburg for Putin Talks as US and Ukraine Agree on Peace Proposals",
+     "url": "https://www.kyivpost.com/post/87704"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-21T08:48:25Z",
+     "headline": "US Envoy Witkoff Arrives In St. Petersburg",
+     "url": "https://www.kurdistan24.net/en/story/947586/us-envoy-witkoff-arrives-in-st-petersburg-for-talks-with-russian-officials"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-21T08:56:22Z",
+     "headline": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
+     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rqjkq8gqn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-21T09:30:47Z",
+     "headline": "Witkoff Meets Putin In St. Petersburg: Foundation For Ukraine Ceasefire Exists",
+     "url": "https://www.kurdistan24.net/en/story/947601/witkoff-meets-putin-in-st-petersburg-foundation-for-ukraine-ceasefire-exists"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-21T11:40:03Z",
+     "headline": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
+     "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616?cmp=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-21T11:58:13Z",
+     "headline": "Putin, Witkoff meet in Russia for Ukraine war talks",
+     "url": "https://www.newarab.com/news/putin-witkoff-meet-russia-ukraine-war-talks"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T12:13:10Z",
+     "headline": "Trump Envoy Witkoff Calls Putin a ‘Humanist’ Amid Deadly Russian Attacks on Ukraine",
+     "url": "https://www.kyivpost.com/post/87749"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-21T13:58:20Z",
+     "headline": "Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
+     "url": "https://kyivindependent.com/kremlin-ready-to-resume-trilateral-peace-talks-with-us-ukraine-putin-claims/"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:20:38Z",
+     "headline": "Putin and U.S. envoy Witkoff hold talks in St. Petersburg as Washington pushes a new plan to end the war in Ukraine",
+     "url": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T16:07:09Z",
+     "headline": "‘We Need to Move On’: Zelensky Won’t Wait in Oslo for Witkoff After Putin Meeting",
+     "url": "https://www.kyivpost.com/post/87773"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T17:15:19Z",
+     "headline": "Russia says Ukraine must make \"necessary decisions\" to end the war",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-21T17:47:33Z",
+     "headline": "Talks in St. Petersburg, Oslo constructive; work under way to organise US-Russia-Ukraine trilateral meeting – Witkoff",
+     "url": "https://en.interfax.com.ua/news/general/1224154.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-21T17:57:48Z",
+     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+     "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-21T18:13:00Z",
+     "headline": "Witkoff says trilateral talks between the US, Russia, and Ukraine to continue at technical level",
+     "url": "https://www.ukrinform.net/rubric-polytics/4176846-witkoff-says-trilateral-talks-between-the-us-russia-and-ukraine-to-continue-at-technical-level.html"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-21T18:15:43Z",
+     "headline": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+     "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-21T19:36:12Z",
+     "headline": "Trilateral talks could be held in early November following Witkoff–Putin meeting, Zelensky says",
+     "url": "https://www.ukrinform.net/rubric-polytics/4176864-trilateral-talks-could-be-held-in-early-november-following-witkoffputin-meeting-zelensky-says.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T20:39:58Z",
+     "headline": "Zelensky Confirms Trilateral Talks With US, Russia Could Take Place by Early November",
+     "url": "https://www.kyivpost.com/post/87793"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T02:39:02Z",
+     "headline": "Witkoff Reveals US Treasury Working With Putin’s Envoy on Economic Ties",
+     "url": "https://www.kyivpost.com/post/87800"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T04:00:00Z",
+     "headline": "Witkoff: US, Russia, Ukraine to continue technical talks",
+     "url": "https://www.azernews.az/region/265976.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T09:34:36Z",
+     "headline": "Putin meets U.S. special envoy Witkoff in St. Petersburg",
+     "url": "https://english.news.cn/20261022/33b106ca99b845c3bd7c80396b8beaed/c.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T11:19:37Z",
+     "headline": "Putin the Humanist? 10 Ways Russia Has Shown Its ‘Humanity’ in Ukraine",
+     "url": "https://www.kyivpost.com/post/87867"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-22T12:47:13Z",
+     "headline": "Witkoff Meets Putin: Any Progress on Ukraine?",
+     "url": "https://www.kyivpost.com/post/87876"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T14:06:50Z",
+     "headline": "Witkoff feels optimistic after meeting with Putin — Vance",
+     "url": "https://tass.com/world/2206351"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-22T15:20:31Z",
+     "headline": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
+     "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-22T16:21:00Z",
+     "headline": "UK rejects Witkoff’s characterization of Putin as “humanitarian”",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177215-uk-rejects-witkoffs-characterization-of-putin-as-humanitarian.html"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T17:27:00Z",
+     "headline": "UK rejects Witkoff's description of Putin as 'humanitarian'",
+     "url": "https://www.azernews.az/region/266034.html"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-22T19:41:50Z",
+     "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
+     "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
+    }
+   ]
+  },
+  {
+   "id": 17952,
+   "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+   "category": "Geopolitics",
+   "importance": 5.66,
+   "risk": 2.19,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "UGA",
+    "NZL",
+    "IND",
+    "SGP",
+    "GBR",
+    "TUR",
+    "ZAF",
+    "THA",
+    "USA",
+    "CHN",
+    "ARE"
+   ],
+   "first_seen": "2026-10-21T19:57:41Z",
+   "last_seen": "2026-10-23T09:18:43Z",
+   "page": "event/17952.html",
+   "reports": [
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-21T19:57:41Z",
+     "headline": "Google staff resign in backlash over its AI contracts with military",
+     "url": "https://nilepost.co.ug/news/380575/google-staff-resign-in-backlash-over-its-ai-contracts-with-military"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:30:27Z",
+     "headline": "Defence Force chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.stuff.co.nz/nz-news/361050375/defence-force-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:02:32Z",
+     "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T04:33:00Z",
+     "headline": "New Zealand's top military officer resigns over 'inappropriate relationship'",
+     "url": "https://www.channelnewsasia.com/world/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-6485241"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T04:44:44Z",
+     "headline": "New Zealand’s military chief steps down over ‘inappropriate relationship’",
+     "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-military-tony-davies-relationship-resigns-b3071931.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T05:12:47Z",
+     "headline": "Fenz boss resigns, a month after minister called for him to go",
+     "url": "https://www.stuff.co.nz/politics/361050425/fenz-boss-resigns-more-month-after-minister-called-him-go"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T05:26:11Z",
+     "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
+     "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T05:47:51Z",
+     "headline": "New Zealand’s top military commander resigns after admitting to ‘inappropriate relationship’",
+     "url": "https://www.aa.com.tr/en/asia-pacific/new-zealand-s-top-military-commander-resigns-after-admitting-to-inappropriate-relationship-/4097941"
+    },
+    {
+     "outlet": "RNZ National",
+     "country": "NZL",
+     "time": "2026-10-23T06:03:00Z",
+     "headline": "Fire and Emergency New Zealand chief executive Kerry Gregory resigns",
+     "url": "https://www.rnz.co.nz/news/political/2104751/fire-and-emergency-new-zealand-chief-executive-kerry-gregory-resigns"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:37:00Z",
+     "headline": "New Zealand military chief resigns over 'inappropriate relationship'",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-zealand-military-chief-resigns-over-inappropriate-relationship/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "NZ military chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.bangkokpost.com/world/3342273/nz-military-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:40:32Z",
+     "headline": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+     "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T08:00:24Z",
+     "headline": "New Zealand fire agency chief executive resigns",
+     "url": "https://english.news.cn/20261023/1a6c375f02284608a1d07aa26c93424f/c.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:01:17Z",
+     "headline": "New Zealand military chief resigns over ‘inappropriate relationship’",
+     "url": "https://gulfnews.com/world/oceania/new-zealand-military-chief-resigns-over-inappropriate-relationship-2-1.500720852"
+    },
+    {
+     "outlet": "Defense News",
+     "country": "USA",
+     "time": "2026-10-23T09:18:43Z",
+     "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
     }
    ]
   }
