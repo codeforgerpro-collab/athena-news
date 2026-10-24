@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T21:21:54Z",
+ "generated": "2026-10-24T21:37:55Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -651,6 +651,336 @@
    ]
   },
   {
+   "id": 24515,
+   "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
+   "category": "Geopolitics",
+   "importance": 7.35,
+   "risk": 7.49,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 61,
+   "countries": [
+    "PAK",
+    "IND",
+    "ARE",
+    "AUS",
+    "ISR",
+    "AZE",
+    "TUR",
+    "ARM",
+    "ZAF",
+    "SAU",
+    "RUS",
+    "USA",
+    "CYP",
+    "GBR",
+    "SGP",
+    "DEU",
+    "GRC",
+    "QAT",
+    "NZL",
+    "NGA",
+    "FRA",
+    "IRQ",
+    "IRN",
+    "KWT",
+    "LKA",
+    "OMN",
+    "GHA",
+    "CHN",
+    "NPL",
+    "BGD",
+    "CAN",
+    "EGY",
+    "TWN"
+   ],
+   "first_seen": "2026-10-23T08:56:41Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/24515.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T08:56:41Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://tribune.com.pk/story/2636536/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:02:22Z",
+     "headline": "Gunmen open fire inside church in Jordan, 6 killed",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T12:04:37Z",
+     "headline": "At least six killed in shooting at church in Jordan's Karak governorate",
+     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Six killed, 28 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Seven killed, 34 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-34-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T12:14:53Z",
+     "headline": "Gunmen open fire at church in Jordan, killing at least seven",
+     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T12:16:24Z",
+     "headline": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:17:48Z",
+     "headline": "Worshippers killed in shooting at church in Jordan",
+     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
+     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T12:25:11Z",
+     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
+     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T12:28:00Z",
+     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
+     "url": "https://news.am/en/news/1069872"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T12:29:00Z",
+     "headline": "Seven killed as gunmen open fire inside Jordan church",
+     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:30:17Z",
+     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
+     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
+     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 6 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-6-people-3007892"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:32:00Z",
+     "headline": "Seven killed in attack on funeral procession near church in Jordan",
+     "url": "https://www.azernews.az/region/266088.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T12:35:16Z",
+     "headline": "Terrorist Attack on Church in Jordan's Karak Leaves Dozens Dead, Wounded",
+     "url": "https://english.aawsat.com/node/5332722"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:48:54Z",
+     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
+     "url": "https://tass.com/emergencies/2206933"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:49:35Z",
+     "headline": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "7 killed in church shooting in southern Jordan: state TV",
+     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "Six killed, 28 injured in attack at funeral in Jordan's Karak",
+     "url": "https://www.newarab.com/news/six-killed-28-injured-attack-funeral-jordans-karak"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T12:53:06Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
+     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T12:55:19Z",
+     "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T12:57:00Z",
+     "headline": "Seven dead and 34 injured after shooting at church in Jordan",
+     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:33Z",
+     "headline": "Seven killed as gunmen open fire at church in Jordan, authorities say",
+     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "Gunmen kill 6 at church in southern Jordan",
+     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "Gunmen kill 7 at Jordan church, king vows retaliation",
+     "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T13:07:00Z",
+     "headline": "Jordan: Karak church shooting leaves 7 dead",
+     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:15:32Z",
+     "headline": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
+     "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 7 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 6 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-6-killed-jordan-church-shooting-what-know"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 6 killed: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-6-killed-what"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 7 killed: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-7-killed-what"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T13:20:08Z",
+     "headline": "7 Killed in Greek Orthodox Church Funeral Shooting in Jordan’s Karak",
+     "url": "https://greekcitytimes.com/2026/10/24/jordan-church-shooting-karak-funeral/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:27:27Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:32:40Z",
+     "headline": "At least seven killed after gunmen open fire at church in Jordan",
+     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:39:27Z",
+     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T13:44:41Z",
+     "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
+     "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    }
+   ]
+  },
+  {
    "id": 23500,
    "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
@@ -922,9 +1252,9 @@
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
    "importance": 7.31,
-   "risk": 2.74,
+   "risk": 2.55,
    "confidence": 0.91,
-   "status": "spreading",
+   "status": "fading",
    "outlets": 52,
    "countries": [
     "PAK",
@@ -957,7 +1287,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-24T16:39:54Z",
+   "last_seen": "2026-10-24T21:29:30Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -1733,332 +2063,318 @@
    ]
   },
   {
-   "id": 24515,
-   "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
+   "id": 22647,
+   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
    "category": "Geopolitics",
-   "importance": 7.28,
-   "risk": 7.44,
-   "confidence": 0.9,
+   "importance": 7.2,
+   "risk": 7.91,
+   "confidence": 0.87,
    "status": "peaking",
-   "outlets": 61,
+   "outlets": 29,
    "countries": [
-    "PAK",
-    "IND",
-    "ARE",
-    "AUS",
     "ISR",
-    "AZE",
-    "TUR",
-    "ARM",
-    "ZAF",
-    "SAU",
-    "RUS",
     "USA",
-    "CYP",
-    "GBR",
-    "SGP",
-    "DEU",
-    "GRC",
-    "QAT",
-    "NZL",
-    "NGA",
-    "FRA",
     "IRQ",
-    "IRN",
-    "KWT",
-    "LKA",
-    "OMN",
+    "IND",
+    "SAU",
+    "QAT",
     "GHA",
     "CHN",
-    "NPL",
-    "BGD",
-    "CAN",
-    "EGY",
-    "TWN"
+    "TUR",
+    "ARE",
+    "CYP",
+    "SGP",
+    "GBR",
+    "OMN",
+    "FRA",
+    "PAK",
+    "IRL",
+    "TWN",
+    "CAN"
    ],
-   "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-24T18:34:04Z",
-   "page": "event/24515.html",
+   "first_seen": "2026-10-23T04:58:08Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/22647.html",
    "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T08:56:41Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
-     "url": "https://tribune.com.pk/story/2636536/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:02:22Z",
-     "headline": "Gunmen open fire inside church in Jordan, 6 killed",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T12:04:37Z",
-     "headline": "At least six killed in shooting at church in Jordan's Karak governorate",
-     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Six killed, 28 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Seven killed, 34 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-34-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T12:14:53Z",
-     "headline": "Gunmen open fire at church in Jordan, killing at least seven",
-     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
-    },
     {
      "outlet": "Haaretz (English)",
      "country": "ISR",
-     "time": "2026-10-23T12:16:24Z",
-     "headline": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
-     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
+     "time": "2026-10-23T04:58:08Z",
+     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
     },
     {
      "outlet": "Middle East Eye",
      "country": "INT",
-     "time": "2026-10-23T12:17:48Z",
-     "headline": "Worshippers killed in shooting at church in Jordan",
-     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
+     "time": "2026-10-23T05:15:21Z",
+     "headline": "Israeli military says forces kill suspected shooters near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
     },
     {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
-     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T12:25:11Z",
-     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
-     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T12:28:00Z",
-     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
-     "url": "https://news.am/en/news/1069872"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T12:29:00Z",
-     "headline": "Seven killed as gunmen open fire inside Jordan church",
-     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:30:17Z",
-     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
-     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
-     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen open fire at church in Jordan killing at least 6 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-6-people-3007892"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:32:00Z",
-     "headline": "Seven killed in attack on funeral procession near church in Jordan",
-     "url": "https://www.azernews.az/region/266088.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T12:35:16Z",
-     "headline": "Terrorist Attack on Church in Jordan's Karak Leaves Dozens Dead, Wounded",
-     "url": "https://english.aawsat.com/node/5332722"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:48:54Z",
-     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
-     "url": "https://tass.com/emergencies/2206933"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:49:35Z",
-     "headline": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T06:00:27Z",
+     "headline": "More on the shooting attack near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
     },
     {
      "outlet": "The New Arab",
      "country": "INT",
-     "time": "2026-10-23T12:50:03Z",
-     "headline": "7 killed in church shooting in southern Jordan: state TV",
-     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
+     "time": "2026-10-23T07:25:53Z",
+     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
+     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
     },
     {
-     "outlet": "The New Arab",
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T07:29:39Z",
+     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
+    },
+    {
+     "outlet": "Middle East Eye",
      "country": "INT",
-     "time": "2026-10-23T12:50:03Z",
-     "headline": "Six killed, 28 injured in attack at funeral in Jordan's Karak",
-     "url": "https://www.newarab.com/news/six-killed-28-injured-attack-funeral-jordans-karak"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T12:53:06Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
-     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T12:55:19Z",
-     "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T12:57:00Z",
-     "headline": "Seven dead and 34 injured after shooting at church in Jordan",
-     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:33Z",
-     "headline": "Seven killed as gunmen open fire at church in Jordan, authorities say",
-     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 6 at church in southern Jordan",
-     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 7 at Jordan church, king vows retaliation",
-     "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T13:07:00Z",
-     "headline": "Jordan: Karak church shooting leaves 7 dead",
-     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:15:32Z",
-     "headline": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
-     "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "At least 7 killed in Jordan church shooting: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "At least 6 killed in Jordan church shooting: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/least-6-killed-jordan-church-shooting-what-know"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 6 killed: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-6-killed-what"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 7 killed: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-7-killed-what"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T13:20:08Z",
-     "headline": "7 Killed in Greek Orthodox Church Funeral Shooting in Jordan’s Karak",
-     "url": "https://greekcitytimes.com/2026/10/24/jordan-church-shooting-karak-funeral/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T13:27:27Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
-     "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:32:40Z",
-     "headline": "At least seven killed after gunmen open fire at church in Jordan",
-     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
+     "time": "2026-10-23T10:32:49Z",
+     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
     },
     {
      "outlet": "CBS News (World)",
      "country": "USA",
-     "time": "2026-10-23T13:39:27Z",
-     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
-     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+     "time": "2026-10-23T12:24:28Z",
+     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
+     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
     },
     {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T13:44:41Z",
-     "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
-     "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:30:02Z",
+     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
+     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T16:32:27Z",
+     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:42:01Z",
+     "headline": "Netanyahu vows collective punishment after Hebron shooting",
+     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:00:48Z",
+     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:50:39Z",
+     "headline": "Rights group says Israel plans to displace Palestinians after attack",
+     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T18:38:26Z",
+     "headline": "Israel locks down occupied West Bank after Hebron shooting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T19:05:01Z",
+     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T21:21:00Z",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T21:32:41Z",
+     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:37:00Z",
+     "headline": "Israel launches military operation in Hebron after two soldiers killed",
+     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T22:12:01Z",
+     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:27:22Z",
+     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T23:07:17Z",
+     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T00:00:00Z",
+     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:04:36Z",
+     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:42:09Z",
+     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israel launches major West Bank raids after soldiers killed",
+     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Hebron families after deadly attack",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:40:54Z",
+     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T11:17:36Z",
+     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T11:20:22Z",
+     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:54:15Z",
+     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T12:19:34Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T12:27:16Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T12:29:06Z",
+     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T12:37:31Z",
+     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T12:57:48Z",
+     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:46:36Z",
+     "headline": "Palestinian Authority condemns 'collective punishment'",
+     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T13:46:43Z",
+     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
+     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:50:12Z",
+     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T14:08:36Z",
+     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
+     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:23:26Z",
+     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
+     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israeli forces displace Hebron families after deadly attack",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-forces-displace-hebron-families-after-deadly-attack"
     }
    ]
   },
@@ -2384,322 +2700,6 @@
      "time": "2026-10-24T03:34:42Z",
      "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
      "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
-    }
-   ]
-  },
-  {
-   "id": 22647,
-   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-   "category": "Geopolitics",
-   "importance": 7.12,
-   "risk": 7.86,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 28,
-   "countries": [
-    "ISR",
-    "USA",
-    "IRQ",
-    "IND",
-    "SAU",
-    "QAT",
-    "GHA",
-    "CHN",
-    "TUR",
-    "ARE",
-    "CYP",
-    "SGP",
-    "GBR",
-    "OMN",
-    "FRA",
-    "PAK",
-    "IRL",
-    "TWN",
-    "CAN"
-   ],
-   "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-24T20:37:02Z",
-   "page": "event/22647.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T04:58:08Z",
-     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T05:15:21Z",
-     "headline": "Israeli military says forces kill suspected shooters near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T06:00:27Z",
-     "headline": "More on the shooting attack near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T07:25:53Z",
-     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
-     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T07:29:39Z",
-     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:32:49Z",
-     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:24:28Z",
-     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
-     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:30:02Z",
-     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
-     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T16:32:27Z",
-     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:42:01Z",
-     "headline": "Netanyahu vows collective punishment after Hebron shooting",
-     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:00:48Z",
-     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:50:39Z",
-     "headline": "Rights group says Israel plans to displace Palestinians after attack",
-     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T18:38:26Z",
-     "headline": "Israel locks down occupied West Bank after Hebron shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T19:05:01Z",
-     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T21:21:00Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T21:32:41Z",
-     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:37:00Z",
-     "headline": "Israel launches military operation in Hebron after two soldiers killed",
-     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T22:12:01Z",
-     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:27:22Z",
-     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T23:07:17Z",
-     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T00:00:00Z",
-     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:04:36Z",
-     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:42:09Z",
-     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israel launches major West Bank raids after soldiers killed",
-     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Hebron families after deadly attack",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:40:54Z",
-     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T11:17:36Z",
-     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T11:20:22Z",
-     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:54:15Z",
-     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T12:19:34Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T12:27:16Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T12:29:06Z",
-     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T12:37:31Z",
-     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T12:57:48Z",
-     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T13:46:36Z",
-     "headline": "Palestinian Authority condemns 'collective punishment'",
-     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T13:46:43Z",
-     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
-     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:50:12Z",
-     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T14:08:36Z",
-     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
-     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T14:23:26Z",
-     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
-     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israeli forces displace Hebron families after deadly attack",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-forces-displace-hebron-families-after-deadly-attack"
     }
    ]
   },
@@ -4244,6 +4244,202 @@
    ]
   },
   {
+   "id": 12369,
+   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "category": "Geopolitics",
+   "importance": 6.84,
+   "risk": 4.96,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 16,
+   "countries": [
+    "USA",
+    "IRQ",
+    "PAK",
+    "RUS",
+    "IND",
+    "AZE",
+    "TUR",
+    "IRN",
+    "ARM",
+    "ISR",
+    "AUS"
+   ],
+   "first_seen": "2026-10-17T21:04:33Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/12369.html",
+   "reports": [
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-17T21:04:33Z",
+     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T16:47:19Z",
+     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
+     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T16:55:10Z",
+     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T17:02:28Z",
+     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-19T17:25:01Z",
+     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
+     "url": "https://tass.com/world/2204325"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-19T17:32:00Z",
+     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-19T17:36:00Z",
+     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
+     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:42:37Z",
+     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
+     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T12:11:32Z",
+     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T12:18:00Z",
+     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
+     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:49:02Z",
+     "headline": "Houthis target Saudi Arabian Defense Ministry building",
+     "url": "https://www.azernews.az/region/266023.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:50:14Z",
+     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:22:48Z",
+     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
+     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T13:54:02Z",
+     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-22T14:34:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
+     "url": "https://news.am/en/news/1069685"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T18:12:21Z",
+     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
+     "url": "https://www.jpost.com/middle-east/article-912598"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:38:04Z",
+     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T16:39:17Z",
+     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
+     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T16:52:27Z",
+     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
+     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T17:25:00Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T17:34:58Z",
+     "headline": "Houthis claim seven attacks on Saudi targets",
+     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T17:41:42Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://tass.com/world/2207323"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T19:25:25Z",
+     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
+     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
+     "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis"
+    }
+   ]
+  },
+  {
    "id": 8134,
    "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
    "category": "Trade & Industry",
@@ -4433,195 +4629,6 @@
      "time": "2026-10-24T12:54:37Z",
      "headline": "Iran readies plans to target Gulf undersea cables if US, Israel strike again",
      "url": "https://www.turkiyetoday.com/region/iran-readies-plans-to-target-gulf-undersea-cables-if-us-israel-strike-again-3230933"
-    }
-   ]
-  },
-  {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
-   "category": "Geopolitics",
-   "importance": 6.78,
-   "risk": 5.36,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
-    "TUR",
-    "IRN",
-    "ARM",
-    "ISR",
-    "AUS"
-   ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-24T19:25:25Z",
-   "page": "event/12369.html",
-   "reports": [
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:38:04Z",
-     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T16:39:17Z",
-     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
-     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T16:52:27Z",
-     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
-     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T17:25:00Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T17:34:58Z",
-     "headline": "Houthis claim seven attacks on Saudi targets",
-     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T17:41:42Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://tass.com/world/2207323"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T19:25:25Z",
-     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
     }
    ]
   },
@@ -5544,153 +5551,6 @@
      "time": "2026-10-24T08:48:33Z",
      "headline": "‘Pillar of our home’: UP man killed in Houthi attack on Saudi Arabia",
      "url": "https://indianexpress.com/article/cities/lucknow/dammam-airport-attack-gorakhpur-worker-kamlesh-pandey-repatriation-10935045/"
-    }
-   ]
-  },
-  {
-   "id": 17297,
-   "title": "4 pilots killed as two Philippine military planes crash during training",
-   "category": "Trade & Industry",
-   "importance": 6.48,
-   "risk": 7.49,
-   "confidence": 0.84,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "AUS",
-    "SAU",
-    "CHN",
-    "AZE",
-    "NGA",
-    "IND",
-    "SGP",
-    "TUR",
-    "NZL",
-    "KWT",
-    "ARE"
-   ],
-   "first_seen": "2026-10-19T13:00:00Z",
-   "last_seen": "2026-10-24T09:38:13Z",
-   "page": "event/17297.html",
-   "reports": [
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-19T13:00:00Z",
-     "headline": "Words as weapons in the West Philippine Sea",
-     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T20:50:40Z",
-     "headline": "Philippines probes illegal recruitment of nationals in Russia",
-     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:47:15Z",
-     "headline": "1 killed, 2 injured in southern Philippines",
-     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T06:55:50Z",
-     "headline": "4 pilots killed in Philippine plane crash",
-     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T07:31:49Z",
-     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
-     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T07:40:36Z",
-     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
-     "url": "https://english.aawsat.com/node/5333023"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-24T07:45:23Z",
-     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
-     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T07:51:14Z",
-     "headline": "4 pilots killed in north Philippine plane crash",
-     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T07:59:41Z",
-     "headline": "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
-     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T08:06:51Z",
-     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
-     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:37:30Z",
-     "headline": "4 Philippine Air Force pilots killed as training aircraft crash",
-     "url": "https://www.aa.com.tr/en/asia-pacific/4-philippine-air-force-pilots-killed-as-training-aircraft-crash/4099304"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T08:41:53Z",
-     "headline": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
-     "url": "https://www.stuff.co.nz/world-news/361050750/2-philippine-air-force-planes-collide-during-training-flig"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T08:50:01Z",
-     "headline": "Four pilots die in Philippines air force mid-air collision",
-     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T08:53:00Z",
-     "headline": "Four Philippine Air Force Pilots Killed in Training Aircraft Crash",
-     "url": "https://www.arabtimesonline.com/news/four-philippine-air-force-pilots-killed-in-training-aircraft-crash/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T09:38:13Z",
-     "headline": "4 pilots killed as two Philippine military planes crash during training",
-     "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
     }
    ]
   },
@@ -6660,6 +6520,130 @@
    ]
   },
   {
+   "id": 27872,
+   "title": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
+   "category": "Geopolitics",
+   "importance": 6.33,
+   "risk": 0.0,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 13,
+   "countries": [
+    "SGP",
+    "ARE",
+    "NGA",
+    "CYP",
+    "JAM",
+    "SAU",
+    "ZAF",
+    "QAT",
+    "NAM"
+   ],
+   "first_seen": "2026-10-24T13:41:17Z",
+   "last_seen": "2026-10-24T20:27:07Z",
+   "page": "event/27872.html",
+   "reports": [
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T13:41:17Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders' perfect start",
+     "url": "https://www.channelnewsasia.com/sport/arsenal-join-man-city-summit-after-villa-end-leaders-perfect-start-6488951"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T16:23:25Z",
+     "headline": "Arsenal go level at top of Premier League with Man City after easing to win over Everton",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T16:29:24Z",
+     "headline": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
+     "url": "https://www.vanguardngr.com/2026/10/epl-arsenal-see-off-everton-go-joint-top-after-man-city-defeat/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T16:39:46Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
+     "url": "https://cyprus-mail.com/2026/10/24/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T17:06:42Z",
+     "headline": "Arsenal Beat Everton To Join Man City At Premier League Summit",
+     "url": "https://www.channelstv.com/2026/10/24/arsenal-beat-everton-to-join-man-city-at-premier-league-summit/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T17:14:54Z",
+     "headline": "EPL: Arsenal beat Everton 2-0 to level with Man City on points",
+     "url": "https://punchng.com/epl-arsenal-beat-everton-2-0-to-level-with-man-city-on-points/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T17:17:11Z",
+     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/man-citys-perfect-start-ended-aston-villa-arsenal-go-joint-top/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T17:25:19Z",
+     "headline": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
+     "url": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T17:25:34Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
+     "url": "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T17:43:07Z",
+     "headline": "Man City Falls at Aston Villa and Arsenal Moves Level on Top of Premier League",
+     "url": "https://english.aawsat.com/node/5333216"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-24T19:37:05Z",
+     "headline": "EPL: Arsenal defeat Everton, Manchester City lose 100% record",
+     "url": "https://dailytrust.com/epl-arsenal-defeat-everton-manchester-city-lose-100-record/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T20:01:00Z",
+     "headline": "Premier League wrap: Man City suffer first defeat, Arsenal fire against Everton",
+     "url": "https://iol.co.za/sport/soccer/premier-league/2026-10-24-premier-league-wrap-man-city-suffer-first-defeat-arsenal-fire-against-everton/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T20:03:29Z",
+     "headline": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-24T20:27:07Z",
+     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
+     "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
+    }
+   ]
+  },
+  {
    "id": 16146,
    "title": "American Stephen Hubbard released by Russia, Trump confirms",
    "category": "Geopolitics",
@@ -7120,6 +7104,226 @@
    ]
   },
   {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Society & Law",
+   "importance": 6.3,
+   "risk": 6.06,
+   "confidence": 0.83,
+   "status": "fading",
+   "outlets": 23,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL",
+    "AUS"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-24T21:26:17Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terrorist shooting in Paris suburb marks 'turning point for France', Macron says",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:48Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://news.cgtn.com/news/2026-10-23/news-1RtGXfModzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Macron says Paris suburb shooting that killed one, wounded five was terrorist and racist act",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "Macron says Paris suburb shooting that killed one person was terrorist, racist act",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed and 4 injured in suspected Islamophobic shooting near Paris",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:48:00Z",
+     "headline": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T13:48:46Z",
+     "headline": "One person killed in deadly shooting in Paris suburbs",
+     "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T14:14:43Z",
+     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T14:24:56Z",
+     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
+     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T18:05:00Z",
+     "headline": "Terror probe opened into shooting in Paris suburbs",
+     "url": "https://www.azernews.az/region/266096.html"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T21:26:17Z",
+     "headline": "Four injured in drive-by shooting south of Brisbane",
+     "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464"
+    }
+   ]
+  },
+  {
    "id": 26331,
    "title": "Fire devastates former Hitler guest house 'Eagle's Nest'",
    "category": "Society & Law",
@@ -7373,123 +7577,6 @@
      "time": "2026-10-24T18:40:13Z",
      "headline": "Suspect Detained After Fire In Adolf Hitler's Mountain Retreat, Arson Suspected",
      "url": "https://www.ndtv.com/world-news/suspect-detained-after-fire-in-adolf-hitlers-mountain-retreat-eagles-nest-arson-suspected-12231361#publisher=newsstand"
-    }
-   ]
-  },
-  {
-   "id": 27872,
-   "title": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-   "category": "Geopolitics",
-   "importance": 6.23,
-   "risk": 0.0,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 12,
-   "countries": [
-    "SGP",
-    "ARE",
-    "NGA",
-    "CYP",
-    "JAM",
-    "SAU",
-    "ZAF",
-    "QAT",
-    "NAM"
-   ],
-   "first_seen": "2026-10-24T13:41:17Z",
-   "last_seen": "2026-10-24T20:27:07Z",
-   "page": "event/27872.html",
-   "reports": [
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T13:41:17Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders' perfect start",
-     "url": "https://www.channelnewsasia.com/sport/arsenal-join-man-city-summit-after-villa-end-leaders-perfect-start-6488951"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T16:23:25Z",
-     "headline": "Arsenal go level at top of Premier League with Man City after easing to win over Everton",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T16:29:24Z",
-     "headline": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-     "url": "https://www.vanguardngr.com/2026/10/epl-arsenal-see-off-everton-go-joint-top-after-man-city-defeat/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T16:39:46Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://cyprus-mail.com/2026/10/24/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T17:06:42Z",
-     "headline": "Arsenal Beat Everton To Join Man City At Premier League Summit",
-     "url": "https://www.channelstv.com/2026/10/24/arsenal-beat-everton-to-join-man-city-at-premier-league-summit/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T17:14:54Z",
-     "headline": "EPL: Arsenal beat Everton 2-0 to level with Man City on points",
-     "url": "https://punchng.com/epl-arsenal-beat-everton-2-0-to-level-with-man-city-on-points/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T17:17:11Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/man-citys-perfect-start-ended-aston-villa-arsenal-go-joint-top/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T17:25:19Z",
-     "headline": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
-     "url": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T17:25:34Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T17:43:07Z",
-     "headline": "Man City Falls at Aston Villa and Arsenal Moves Level on Top of Premier League",
-     "url": "https://english.aawsat.com/node/5333216"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T20:01:00Z",
-     "headline": "Premier League wrap: Man City suffer first defeat, Arsenal fire against Everton",
-     "url": "https://iol.co.za/sport/soccer/premier-league/2026-10-24-premier-league-wrap-man-city-suffer-first-defeat-arsenal-fire-against-everton/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T20:03:29Z",
-     "headline": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-24T20:27:07Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
     }
    ]
   },
@@ -7781,218 +7868,6 @@
      "time": "2026-10-23T17:26:13Z",
      "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 23956,
-   "title": "France: 1 killed, 4 wounded after shooting near Paris",
-   "category": "Society & Law",
-   "importance": 6.16,
-   "risk": 5.99,
-   "confidence": 0.83,
-   "status": "fading",
-   "outlets": 22,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR",
-    "BEL"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-23T18:05:00Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terrorist shooting in Paris suburb marks 'turning point for France', Macron says",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:48Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://news.cgtn.com/news/2026-10-23/news-1RtGXfModzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "Macron says Paris suburb shooting that killed one, wounded five was terrorist and racist act",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "Macron says Paris suburb shooting that killed one person was terrorist, racist act",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed and 4 injured in suspected Islamophobic shooting near Paris",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T12:06:24Z",
-     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T12:55:18Z",
-     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
-     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:48:00Z",
-     "headline": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
-     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T13:48:46Z",
-     "headline": "One person killed in deadly shooting in Paris suburbs",
-     "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T14:14:43Z",
-     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T14:24:56Z",
-     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
-     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T18:05:00Z",
-     "headline": "Terror probe opened into shooting in Paris suburbs",
-     "url": "https://www.azernews.az/region/266096.html"
     }
    ]
   },
@@ -10060,145 +9935,6 @@
    ]
   },
   {
-   "id": 16185,
-   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
-   "category": "Geopolitics",
-   "importance": 5.83,
-   "risk": 3.39,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 12,
-   "countries": [
-    "SAU",
-    "RUS",
-    "USA",
-    "SGP",
-    "UKR",
-    "GBR",
-    "DEU",
-    "FRA",
-    "NGA",
-    "CAN"
-   ],
-   "first_seen": "2026-10-21T06:43:21Z",
-   "last_seen": "2026-10-23T19:16:05Z",
-   "page": "event/16185.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T06:43:21Z",
-     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
-     "url": "https://english.aawsat.com/node/5331854"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T16:50:24Z",
-     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
-     "url": "https://tass.com/world/2205775"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T22:50:42Z",
-     "headline": "How Elon Musk gained so much power over U.S. security interests",
-     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T21:07:07Z",
-     "headline": "Trump says Ukraine's access to Starshield restored",
-     "url": "https://tass.com/world/2206599"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T21:11:38Z",
-     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
-     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T00:53:16Z",
-     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
-     "url": "https://www.kyivpost.com/post/87918"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T01:16:00Z",
-     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T02:12:09Z",
-     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
-     "url": "https://www.kyivpost.com/post/87919"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-23T02:16:26Z",
-     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
-     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T05:37:00Z",
-     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
-     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T06:22:59Z",
-     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
-     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:04:49Z",
-     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
-     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:20:00Z",
-     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T10:48:24Z",
-     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
-     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T18:26:37Z",
-     "headline": "Trump to contact Musk if Ukraine Starshield issues persist",
-     "url": "https://punchng.com/trump-to-contact-musk-if-ukraine-starshield-issues-persist/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T19:16:05Z",
-     "headline": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
-     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
-    }
-   ]
-  },
-  {
    "id": 24689,
    "title": "Trump says he will fix any Starlink access problem in Ukraine",
    "category": "Technology & Cyber",
@@ -10531,6 +10267,152 @@
      "time": "2026-10-23T22:35:04Z",
      "headline": "Greece Bans Social Media for Children Under 15 From 2027",
      "url": "https://greekcitytimes.com/2026/10/24/greece-social-media-ban-children-under-15/"
+    }
+   ]
+  },
+  {
+   "id": 16185,
+   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+   "category": "Geopolitics",
+   "importance": 5.8,
+   "risk": 3.15,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 13,
+   "countries": [
+    "SAU",
+    "RUS",
+    "USA",
+    "SGP",
+    "UKR",
+    "GBR",
+    "DEU",
+    "FRA",
+    "NGA",
+    "CAN"
+   ],
+   "first_seen": "2026-10-21T06:43:21Z",
+   "last_seen": "2026-10-24T21:27:24Z",
+   "page": "event/16185.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T06:43:21Z",
+     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
+     "url": "https://english.aawsat.com/node/5331854"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T16:50:24Z",
+     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
+     "url": "https://tass.com/world/2205775"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T22:50:42Z",
+     "headline": "How Elon Musk gained so much power over U.S. security interests",
+     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T21:07:07Z",
+     "headline": "Trump says Ukraine's access to Starshield restored",
+     "url": "https://tass.com/world/2206599"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T21:11:38Z",
+     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
+     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T00:53:16Z",
+     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
+     "url": "https://www.kyivpost.com/post/87918"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T01:16:00Z",
+     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T02:12:09Z",
+     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
+     "url": "https://www.kyivpost.com/post/87919"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-23T02:16:26Z",
+     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
+     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T05:37:00Z",
+     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
+     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T06:22:59Z",
+     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
+     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:04:49Z",
+     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
+     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:20:00Z",
+     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:48:24Z",
+     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
+     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T18:26:37Z",
+     "headline": "Trump to contact Musk if Ukraine Starshield issues persist",
+     "url": "https://punchng.com/trump-to-contact-musk-if-ukraine-starshield-issues-persist/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T19:16:05Z",
+     "headline": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
+     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:24Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-terms-6489801"
     }
    ]
   },
@@ -11299,6 +11181,310 @@
    ]
   },
   {
+   "id": 17297,
+   "title": "4 pilots killed as two Philippine military planes crash during training",
+   "category": "Trade & Industry",
+   "importance": 5.77,
+   "risk": 7.2,
+   "confidence": 0.85,
+   "status": "fading",
+   "outlets": 15,
+   "countries": [
+    "AUS",
+    "SAU",
+    "CHN",
+    "AZE",
+    "NGA",
+    "IND",
+    "SGP",
+    "TUR",
+    "NZL",
+    "KWT",
+    "ARE",
+    "PAK"
+   ],
+   "first_seen": "2026-10-19T13:00:00Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/17297.html",
+   "reports": [
+    {
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-19T13:00:00Z",
+     "headline": "Words as weapons in the West Philippine Sea",
+     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T20:50:40Z",
+     "headline": "Philippines probes illegal recruitment of nationals in Russia",
+     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:47:15Z",
+     "headline": "1 killed, 2 injured in southern Philippines",
+     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T06:55:50Z",
+     "headline": "4 pilots killed in Philippine plane crash",
+     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T07:31:49Z",
+     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
+     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T07:40:36Z",
+     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
+     "url": "https://english.aawsat.com/node/5333023"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-24T07:45:23Z",
+     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
+     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T07:51:14Z",
+     "headline": "4 pilots killed in north Philippine plane crash",
+     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T07:59:41Z",
+     "headline": "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
+     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T08:06:51Z",
+     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
+     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:37:30Z",
+     "headline": "4 Philippine Air Force pilots killed as training aircraft crash",
+     "url": "https://www.aa.com.tr/en/asia-pacific/4-philippine-air-force-pilots-killed-as-training-aircraft-crash/4099304"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T08:41:53Z",
+     "headline": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
+     "url": "https://www.stuff.co.nz/world-news/361050750/2-philippine-air-force-planes-collide-during-training-flig"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T08:50:01Z",
+     "headline": "Four pilots die in Philippines air force mid-air collision",
+     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T08:53:00Z",
+     "headline": "Four Philippine Air Force Pilots Killed in Training Aircraft Crash",
+     "url": "https://www.arabtimesonline.com/news/four-philippine-air-force-pilots-killed-in-training-aircraft-crash/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T09:38:13Z",
+     "headline": "4 pilots killed as two Philippine military planes crash during training",
+     "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "Mid-air collision of Philippines military planes kills four pilots",
+     "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
+    }
+   ]
+  },
+  {
+   "id": 19748,
+   "title": "Police fire tear gas as new French demonstrations kick off",
+   "category": "Society & Law",
+   "importance": 5.75,
+   "risk": 5.18,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "RUS",
+    "FRA",
+    "SAU",
+    "BEL",
+    "NGA",
+    "PAK",
+    "BGD",
+    "SGP",
+    "TUR",
+    "MAR",
+    "GRC",
+    "GBR",
+    "ARE"
+   ],
+   "first_seen": "2026-10-22T07:23:54Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/19748.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T07:23:54Z",
+     "headline": "Heating season formally kicks off in Europe",
+     "url": "https://tass.com/economy/2206009"
+    },
+    {
+     "outlet": "The Local France",
+     "country": "FRA",
+     "time": "2026-10-24T06:43:14Z",
+     "headline": "French protests latest: Marches end calmly, tension in some towns",
+     "url": "https://www.thelocal.fr/20261024/france-to-deploy-70000-police-for-fresh-weekend-protests"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T10:46:28Z",
+     "headline": "Police fire tear gas as new French demonstrations kick off",
+     "url": "https://www.arabnews.com/world/police-fire-tear-gas-as-new-french-demonstrations-kick-off-3008019"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T10:46:28Z",
+     "headline": "Clashes break out in Paris and other French cities amid fresh protests",
+     "url": "https://www.arabnews.com/world/clashes-break-out-in-paris-and-other-french-cities-amid-fresh-protests-3008019"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-24T10:57:51Z",
+     "headline": "Police fire tear gas as new French demonstrations kick off",
+     "url": "https://www.rapporteur.com/news/police-fire-tear-gas-as-new-french-demonstrations-kick-off/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T11:21:39Z",
+     "headline": "Police fire tear gas as new French demonstrations kick off",
+     "url": "https://www.vanguardngr.com/2026/10/police-fire-tear-gas-as-new-french-demonstrations-kick-off/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T11:42:33Z",
+     "headline": "Police fire tear gas as new French demonstrations kick off",
+     "url": "https://www.dawn.com/news/2039459/police-fire-tear-gas-as-new-french-demonstrations-kick-off"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T12:50:36Z",
+     "headline": "Police in Lyon disperse student protest with tear gas",
+     "url": "https://tass.com/world/2207287"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-24T12:52:31Z",
+     "headline": "Police fire tear gas as new French protests kick off",
+     "url": "https://www.thedailystar.net/news/world/news/police-fire-tear-gas-new-french-protests-kick-4306361"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T13:01:45Z",
+     "headline": "Police Fire Tear Gas As New French Protests Kick Off",
+     "url": "https://www.channelstv.com/2026/10/24/police-fire-tear-gas-as-new-french-protests-kick-off/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T13:54:21Z",
+     "headline": "French protests kick off amid heavy security blanket",
+     "url": "https://www.channelnewsasia.com/europe/french-protests-police-security-france-6488971"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:40Z",
+     "headline": "Around 2,000 protesters defy ban in France's Lyon, police use tear gas",
+     "url": "https://www.aa.com.tr/en/europe/around-2-000-protesters-defy-ban-in-frances-lyon-police-use-tear-gas/4099650"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-24T16:32:46Z",
+     "headline": "French protests kick off amid heavy security blanket",
+     "url": "https://en.hespress.com/147923-french-protests-kick-off-amid-heavy-security-blanket.html"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-24T16:51:42Z",
+     "headline": "Paris Protest Draws Thousands – Police Report Calm; Tear Gas Fired in Other Cities",
+     "url": "https://www.tovima.com/world/paris-protest-draws-thousands-police-report-calm-tear-gas-fired-in-other-cities/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T19:37:35Z",
+     "headline": "Fireworks and tear gas as protesters and riot police clash in Paris",
+     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T19:54:22Z",
+     "headline": "Clashes break out in Paris, other French cities amid fresh protests",
+     "url": "https://gulfnews.com/world/europe/clashes-break-out-in-paris-other-french-cities-amid-fresh-protests-1.500722428"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "French police fire tear gas during fresh protests",
+     "url": "https://www.brecorder.com/news/40445838/french-police-fire-tear-gas-during-fresh-protests"
+    }
+   ]
+  },
+  {
    "id": 9132,
    "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
    "category": "Health & Science",
@@ -11542,144 +11728,187 @@
    ]
   },
   {
-   "id": 19748,
-   "title": "Police fire tear gas as new French demonstrations kick off",
-   "category": "Society & Law",
+   "id": 22691,
+   "title": "Infantino says backed by 'vast majority' in bid for re-election as FIFA chief",
+   "category": "Business",
    "importance": 5.72,
-   "risk": 5.18,
-   "confidence": 0.92,
-   "status": "peaking",
-   "outlets": 14,
+   "risk": 1.1,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 18,
    "countries": [
-    "RUS",
-    "FRA",
-    "SAU",
-    "BEL",
-    "NGA",
-    "PAK",
-    "BGD",
+    "QAT",
     "SGP",
+    "PAK",
+    "SAU",
+    "ARE",
+    "KOR",
+    "NGA",
+    "THA",
+    "USA",
+    "CAN",
+    "JAM",
     "TUR",
-    "MAR",
-    "GRC",
-    "GBR",
-    "ARE"
+    "IND",
+    "AUS"
    ],
-   "first_seen": "2026-10-22T07:23:54Z",
-   "last_seen": "2026-10-24T19:54:22Z",
-   "page": "event/19748.html",
+   "first_seen": "2026-10-22T14:31:28Z",
+   "last_seen": "2026-10-24T21:29:05Z",
+   "page": "event/22691.html",
    "reports": [
     {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T07:23:54Z",
-     "headline": "Heating season formally kicks off in Europe",
-     "url": "https://tass.com/economy/2206009"
-    },
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-24T06:43:14Z",
-     "headline": "French protests latest: Marches end calmly, tension in some towns",
-     "url": "https://www.thelocal.fr/20261024/france-to-deploy-70000-police-for-fresh-weekend-protests"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T10:46:28Z",
-     "headline": "Police fire tear gas as new French demonstrations kick off",
-     "url": "https://www.arabnews.com/world/police-fire-tear-gas-as-new-french-demonstrations-kick-off-3008019"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T10:46:28Z",
-     "headline": "Clashes break out in Paris and other French cities amid fresh protests",
-     "url": "https://www.arabnews.com/world/clashes-break-out-in-paris-and-other-french-cities-amid-fresh-protests-3008019"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-24T10:57:51Z",
-     "headline": "Police fire tear gas as new French demonstrations kick off",
-     "url": "https://www.rapporteur.com/news/police-fire-tear-gas-as-new-french-demonstrations-kick-off/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T11:21:39Z",
-     "headline": "Police fire tear gas as new French demonstrations kick off",
-     "url": "https://www.vanguardngr.com/2026/10/police-fire-tear-gas-as-new-french-demonstrations-kick-off/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T11:42:33Z",
-     "headline": "Police fire tear gas as new French demonstrations kick off",
-     "url": "https://www.dawn.com/news/2039459/police-fire-tear-gas-as-new-french-demonstrations-kick-off"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T12:50:36Z",
-     "headline": "Police in Lyon disperse student protest with tear gas",
-     "url": "https://tass.com/world/2207287"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-24T12:52:31Z",
-     "headline": "Police fire tear gas as new French protests kick off",
-     "url": "https://www.thedailystar.net/news/world/news/police-fire-tear-gas-new-french-protests-kick-4306361"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T13:01:45Z",
-     "headline": "Police Fire Tear Gas As New French Protests Kick Off",
-     "url": "https://www.channelstv.com/2026/10/24/police-fire-tear-gas-as-new-french-protests-kick-off/"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T14:31:28Z",
+     "headline": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss"
     },
     {
      "outlet": "CNA (Channel NewsAsia)",
      "country": "SGP",
-     "time": "2026-10-24T13:54:21Z",
-     "headline": "French protests kick off amid heavy security blanket",
-     "url": "https://www.channelnewsasia.com/europe/french-protests-police-security-france-6488971"
+     "time": "2026-10-23T03:06:41Z",
+     "headline": "Asian Football Confederation boss says governing body is backing Infantino",
+     "url": "https://www.channelnewsasia.com/sport/asian-football-confederation-boss-says-governing-body-backing-infantino-6485176"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T03:17:03Z",
+     "headline": "Asian Football Confederation boss says governing body will back FIFA President Infantino's re-election bid",
+     "url": "https://www.brecorder.com/news/40445588/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-infantinos-re-election-bid"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T03:39:09Z",
+     "headline": "Gianni Infantino endorsed by the Asian Football Confederation for another term as FIFA president",
+     "url": "https://www.arabnews.com/football/gianni-infantino-endorsed-by-the-asian-football-confederation-for-another-term-as-fifa-president-3007834"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:44:15Z",
+     "headline": "Asian Football Endorses Infantino Re-election as FIFA President",
+     "url": "https://english.aawsat.com/node/5332580"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T06:11:27Z",
+     "headline": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T08:44:17Z",
+     "headline": "Asian football chief backs Gianni Infantino's Fifa presidency bid",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/23/asian-football-chief-backs-gianni-infantinos-fifa-presidency-bid/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T09:02:03Z",
+     "headline": "Asian confederation boss backs Infantino's reelection bid",
+     "url": "https://www.koreatimes.co.kr/sports/20261023/asian-confederation-boss-backs-infantinos-reelection-bid?utm_source=rss"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T10:11:33Z",
+     "headline": "Asian football makes U-turn, endorses Infantino re-election",
+     "url": "https://www.vanguardngr.com/2026/10/asian-football-makes-u-turn-endorses-infantino-re-election/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:50:41Z",
+     "headline": "Asian football confederation backs Infantino’s re-election bid",
+     "url": "https://punchng.com/asian-football-confederation-backs-infantinos-re-election-bid/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T11:19:14Z",
+     "headline": "Asian football body makes U-turn, endorses Infantino",
+     "url": "https://www.bangkokpost.com/sports/3342363/asian-football-body-makes-uturn-endorses-infantino"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-23T13:26:38Z",
+     "headline": "Just two months after accusing FIFA’s president of a ‘fundamental breach of trust,’ Asian soccer officials are backing him for another term",
+     "url": "https://fortune.com/2026/10/23/gianni-infantino-fifa-reelection-endorsement/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T19:03:29Z",
+     "headline": "Advantage Infantino as AFC backing puts FIFA president on track for fourth term",
+     "url": "https://www.channelnewsasia.com/sport/advantage-infantino-afc-backing-puts-fifa-president-track-fourth-term-6487901"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T12:52:18Z",
+     "headline": "FIFA: Infantino says backed by ‘vast majority’ in bid for re-election",
+     "url": "https://www.vanguardngr.com/2026/10/fifa-infantino-says-backed-by-vast-majority-in-bid-for-re-election/"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-24T13:59:32Z",
+     "headline": "Infantino says ‘vast, vast majority’ of soccer supports him ahead of FIFA elections",
+     "url": "https://globalnews.ca/news/12119845/infantino-support-fifa-elections/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T14:23:31Z",
+     "headline": "Infantino claims he is backed by ‘vast majority’ in bid for re-election",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/infantino-claims-backed-vast-majority-bid-re-election/"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-24T14:27:40Z",
-     "headline": "Around 2,000 protesters defy ban in France's Lyon, police use tear gas",
-     "url": "https://www.aa.com.tr/en/europe/around-2-000-protesters-defy-ban-in-frances-lyon-police-use-tear-gas/4099650"
+     "time": "2026-10-24T14:54:58Z",
+     "headline": "Infantino says he has backing of ‘vast, vast majority’ of world football",
+     "url": "https://www.aa.com.tr/en/sports/infantino-says-he-has-backing-of-vast-vast-majority-of-world-football/4099669"
     },
     {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-24T16:32:46Z",
-     "headline": "French protests kick off amid heavy security blanket",
-     "url": "https://en.hespress.com/147923-french-protests-kick-off-amid-heavy-security-blanket.html"
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T16:50:01Z",
+     "headline": "Infantino says backed by 'vast majority' in bid for re-election as FIFA chief",
+     "url": "https://www.dawn.com/news/2039508/infantino-says-backed-by-vast-majority-in-bid-for-re-election-as-fifa-chief"
     },
     {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-24T16:51:42Z",
-     "headline": "Paris Protest Draws Thousands – Police Report Calm; Tear Gas Fired in Other Cities",
-     "url": "https://www.tovima.com/world/paris-protest-draws-thousands-police-report-calm-tear-gas-fired-in-other-cities/"
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T17:05:11Z",
+     "headline": "Infantino says backed by ‘vast majority’ in bid for re-election",
+     "url": "https://www.arabnews.com/football/infantino-says-backed-by-vast-majority-in-bid-for-re-election-3008087"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T19:37:35Z",
-     "headline": "Fireworks and tear gas as protesters and riot police clash in Paris",
-     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-24T19:23:42Z",
+     "headline": "Gianni Infantino says he’s supported by ‘vast, vast majority’ of football",
+     "url": "https://indianexpress.com/article/sports/football/gianni-infantino-says-hes-supported-by-vast-vast-majority-of-football-10935529/"
     },
     {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T19:54:22Z",
-     "headline": "Clashes break out in Paris, other French cities amid fresh protests",
-     "url": "https://gulfnews.com/world/europe/clashes-break-out-in-paris-other-french-cities-amid-fresh-protests-1.500722428"
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T20:34:35Z",
+     "headline": "Infantino claims support of 'vast majority' of soccer ahead of FIFA elections",
+     "url": "https://www.abc.net.au/news/2026-10-25/infantino-says-supported-vast-majority-soccer-fifa-elections/107305904"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T21:29:05Z",
+     "headline": "Infantino Claims ‘Vast Majority’ Back Fourth Term As FIFA President",
+     "url": "https://www.channelstv.com/2026/10/24/infantino-claims-vast-majority-back-fourth-term-as-fifa-president/"
     }
    ]
   },
@@ -12668,184 +12897,6 @@
      "time": "2026-10-24T17:53:13Z",
      "headline": "Iran’s lethal plots against US officials abroad reach ‘advanced stages,’ memo reveals",
      "url": "https://www.independent.co.uk/news/world/americas/iran-middle-east-us-threats-personnel-b3072772.html"
-    }
-   ]
-  },
-  {
-   "id": 22691,
-   "title": "Infantino says backed by 'vast majority' in bid for re-election as FIFA chief",
-   "category": "Business",
-   "importance": 5.69,
-   "risk": 1.1,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "QAT",
-    "SGP",
-    "PAK",
-    "SAU",
-    "ARE",
-    "KOR",
-    "NGA",
-    "THA",
-    "USA",
-    "CAN",
-    "JAM",
-    "TUR",
-    "IND",
-    "AUS"
-   ],
-   "first_seen": "2026-10-22T14:31:28Z",
-   "last_seen": "2026-10-24T20:34:35Z",
-   "page": "event/22691.html",
-   "reports": [
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T14:31:28Z",
-     "headline": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T03:06:41Z",
-     "headline": "Asian Football Confederation boss says governing body is backing Infantino",
-     "url": "https://www.channelnewsasia.com/sport/asian-football-confederation-boss-says-governing-body-backing-infantino-6485176"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T03:17:03Z",
-     "headline": "Asian Football Confederation boss says governing body will back FIFA President Infantino's re-election bid",
-     "url": "https://www.brecorder.com/news/40445588/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-infantinos-re-election-bid"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T03:39:09Z",
-     "headline": "Gianni Infantino endorsed by the Asian Football Confederation for another term as FIFA president",
-     "url": "https://www.arabnews.com/football/gianni-infantino-endorsed-by-the-asian-football-confederation-for-another-term-as-fifa-president-3007834"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:44:15Z",
-     "headline": "Asian Football Endorses Infantino Re-election as FIFA President",
-     "url": "https://english.aawsat.com/node/5332580"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T06:11:27Z",
-     "headline": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T08:44:17Z",
-     "headline": "Asian football chief backs Gianni Infantino's Fifa presidency bid",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/23/asian-football-chief-backs-gianni-infantinos-fifa-presidency-bid/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T09:02:03Z",
-     "headline": "Asian confederation boss backs Infantino's reelection bid",
-     "url": "https://www.koreatimes.co.kr/sports/20261023/asian-confederation-boss-backs-infantinos-reelection-bid?utm_source=rss"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T10:11:33Z",
-     "headline": "Asian football makes U-turn, endorses Infantino re-election",
-     "url": "https://www.vanguardngr.com/2026/10/asian-football-makes-u-turn-endorses-infantino-re-election/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:50:41Z",
-     "headline": "Asian football confederation backs Infantino’s re-election bid",
-     "url": "https://punchng.com/asian-football-confederation-backs-infantinos-re-election-bid/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T11:19:14Z",
-     "headline": "Asian football body makes U-turn, endorses Infantino",
-     "url": "https://www.bangkokpost.com/sports/3342363/asian-football-body-makes-uturn-endorses-infantino"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-23T13:26:38Z",
-     "headline": "Just two months after accusing FIFA’s president of a ‘fundamental breach of trust,’ Asian soccer officials are backing him for another term",
-     "url": "https://fortune.com/2026/10/23/gianni-infantino-fifa-reelection-endorsement/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T19:03:29Z",
-     "headline": "Advantage Infantino as AFC backing puts FIFA president on track for fourth term",
-     "url": "https://www.channelnewsasia.com/sport/advantage-infantino-afc-backing-puts-fifa-president-track-fourth-term-6487901"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T12:52:18Z",
-     "headline": "FIFA: Infantino says backed by ‘vast majority’ in bid for re-election",
-     "url": "https://www.vanguardngr.com/2026/10/fifa-infantino-says-backed-by-vast-majority-in-bid-for-re-election/"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-24T13:59:32Z",
-     "headline": "Infantino says ‘vast, vast majority’ of soccer supports him ahead of FIFA elections",
-     "url": "https://globalnews.ca/news/12119845/infantino-support-fifa-elections/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T14:23:31Z",
-     "headline": "Infantino claims he is backed by ‘vast majority’ in bid for re-election",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/infantino-claims-backed-vast-majority-bid-re-election/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T14:54:58Z",
-     "headline": "Infantino says he has backing of ‘vast, vast majority’ of world football",
-     "url": "https://www.aa.com.tr/en/sports/infantino-says-he-has-backing-of-vast-vast-majority-of-world-football/4099669"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T16:50:01Z",
-     "headline": "Infantino says backed by 'vast majority' in bid for re-election as FIFA chief",
-     "url": "https://www.dawn.com/news/2039508/infantino-says-backed-by-vast-majority-in-bid-for-re-election-as-fifa-chief"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T17:05:11Z",
-     "headline": "Infantino says backed by ‘vast majority’ in bid for re-election",
-     "url": "https://www.arabnews.com/football/infantino-says-backed-by-vast-majority-in-bid-for-re-election-3008087"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-24T19:23:42Z",
-     "headline": "Gianni Infantino says he’s supported by ‘vast, vast majority’ of football",
-     "url": "https://indianexpress.com/article/sports/football/gianni-infantino-says-hes-supported-by-vast-vast-majority-of-football-10935529/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T20:34:35Z",
-     "headline": "Infantino claims support of 'vast majority' of soccer ahead of FIFA elections",
-     "url": "https://www.abc.net.au/news/2026-10-25/infantino-says-supported-vast-majority-soccer-fifa-elections/107305904"
     }
    ]
   },
