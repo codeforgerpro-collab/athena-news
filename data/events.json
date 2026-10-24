@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:18:34Z",
+ "generated": "2026-10-24T00:34:35Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -10739,6 +10739,131 @@
    ]
   },
   {
+   "id": 16361,
+   "title": "Australian MP loses both legs after car attack",
+   "category": "Society & Law",
+   "importance": 5.8,
+   "risk": 1.92,
+   "confidence": 0.89,
+   "status": "fading",
+   "outlets": 13,
+   "countries": [
+    "IRL",
+    "DEU",
+    "ARE",
+    "KWT",
+    "GBR",
+    "CAN",
+    "USA",
+    "UGA",
+    "TWN",
+    "NZL"
+   ],
+   "first_seen": "2026-10-21T03:37:48Z",
+   "last_seen": "2026-10-24T00:23:16Z",
+   "page": "event/16361.html",
+   "reports": [
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-21T03:37:48Z",
+     "headline": "Australian MP loses both legs after car attack",
+     "url": "https://www.rte.ie/news/world/2026/1021/1596206-australia-politican-attack/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-21T08:16:00Z",
+     "headline": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
+     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T08:36:54Z",
+     "headline": "Australian MP has both legs amputated after ramming 'attack'",
+     "url": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T08:48:00Z",
+     "headline": "Australian politician who was hit by car has lost both legs",
+     "url": "https://www.arabtimesonline.com/news/australian-politician-who-was-hit-by-car-has-lost-both-legs/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-21T09:18:05Z",
+     "headline": "What is transverse myelitis? The rare condition experienced by MP Helen Haines’s alleged attacker",
+     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-brendan-nugent-idiopathic-transverse-myelitis-b3070495.html"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-21T10:15:16Z",
+     "headline": "Australian MP loses both legs after alleged vehicle attack as suspect appears in court",
+     "url": "https://www.cbc.ca/news/world/australian-politician-car-9.7389606?cmp=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-21T10:26:22Z",
+     "headline": "Australian politician who was hit by car has lost both legs",
+     "url": "https://abcnews.com/International/wireStory/australian-politician-hit-car-lost-legs-137438270"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-21T10:42:41Z",
+     "headline": "Australian MP loses both legs after alleged car attack, husband says",
+     "url": "https://nilepost.co.ug/news/380348/australian-mp-loses-both-legs-after-alleged-car-attack-husband-says"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-21T12:10:14Z",
+     "headline": "Politician who was intentionally hit by car loses both her legs",
+     "url": "https://www.cbsnews.com/news/australian-politician-intentionally-hit-by-car-loses-both-legs/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-21T12:53:23Z",
+     "headline": "Australian MP Helen Haines has both legs amputated after car ramming ‘attack’, husband says",
+     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-amputation-australian-mp-brendan-nugent-b3070418.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T18:10:42Z",
+     "headline": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T18:28:23Z",
+     "headline": "Australian lawmaker loses both legs after alleged vehicle attack",
+     "url": "https://globalnews.ca/news/12111176/australian-lawmaker-helen-haines-loses-both-legs-after-vehicle-attack/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T00:00:00Z",
+     "headline": "Australian lawmaker lost legs in attack",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/22/2003866426"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T00:23:16Z",
+     "headline": "‘She is a fighter’: Helen Haines’ condition improves after alleged car attack",
+     "url": "https://www.stuff.co.nz/world-news/361050623/she-fighter-helen-haines-condition-improves-after-alleged-car-attack"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -12414,277 +12539,6 @@
      "time": "2026-10-23T19:45:30Z",
      "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
      "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
-    }
-   ]
-  },
-  {
-   "id": 16809,
-   "title": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
-   "category": "Geopolitics",
-   "importance": 5.67,
-   "risk": 6.24,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "SAU",
-    "UKR",
-    "RUS",
-    "CHN",
-    "IRQ",
-    "CAN",
-    "USA",
-    "GBR",
-    "AZE"
-   ],
-   "first_seen": "2026-10-20T08:20:46Z",
-   "last_seen": "2026-10-22T19:41:50Z",
-   "page": "event/16809.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T08:20:46Z",
-     "headline": "Zelensky Meets Witkoff as US-Ukraine Relations Sink to New Lows",
-     "url": "https://english.aawsat.com/node/5331462"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T09:52:06Z",
-     "headline": "Witkoff to Meet Zelensky, European Leaders in Oslo Before Moscow Trip",
-     "url": "https://www.kyivpost.com/post/87601"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-20T18:00:00Z",
-     "headline": "Kremlin Hopes Witkoff Will ‘Brief’ Putin on Talks With Ukraine and Europe",
-     "url": "https://www.themoscowtimes.com/2026/10/20/kremlin-hopes-witkoff-will-brief-putin-on-talks-with-ukraine-and-europe-a94029"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T18:59:57Z",
-     "headline": "US Restores Intelligence to Ukraine as Witkoff Carries Peace Proposals to Putin",
-     "url": "https://www.kyivpost.com/post/87670"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-20T20:30:04Z",
-     "headline": "Trump Says Ukraine ‘Has to Want to Make a Deal’ as Witkoff Heads to Russia",
-     "url": "https://www.kyivpost.com/post/87673"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T05:29:21Z",
-     "headline": "US special envoy Witkoff to arrive in Russia: reports",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq4xa2jb6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T05:54:28Z",
-     "headline": "US envoy arrives in St. Petersburg to meet with Putin on Ukraine",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rq6krSzoYM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T07:13:45Z",
-     "headline": "Witkoff arrives in St. Petersburg for talks with Putin, where he’s expected to present an ‘updated plan’ to end the war",
-     "url": "https://meduza.io/en/news/2026/10/21/witkoff-arrives-in-st-petersburg-for-talks-with-putin-where-he-s-expected-to-present-an-updated-plan-to-end-the-war"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T08:08:16Z",
-     "headline": "Witkoff Arrives in St. Petersburg for Putin Talks as US and Ukraine Agree on Peace Proposals",
-     "url": "https://www.kyivpost.com/post/87704"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-21T08:48:25Z",
-     "headline": "US Envoy Witkoff Arrives In St. Petersburg",
-     "url": "https://www.kurdistan24.net/en/story/947586/us-envoy-witkoff-arrives-in-st-petersburg-for-talks-with-russian-officials"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-21T08:56:22Z",
-     "headline": "Putin meets with US envoy Witkoff for talks on Ukraine settlement",
-     "url": "https://news.cgtn.com/news/2026-10-21/news-1Rqjkq8gqn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-21T09:30:47Z",
-     "headline": "Witkoff Meets Putin In St. Petersburg: Foundation For Ukraine Ceasefire Exists",
-     "url": "https://www.kurdistan24.net/en/story/947601/witkoff-meets-putin-in-st-petersburg-foundation-for-ukraine-ceasefire-exists"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-21T11:40:03Z",
-     "headline": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
-     "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616?cmp=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-21T11:58:13Z",
-     "headline": "Putin, Witkoff meet in Russia for Ukraine war talks",
-     "url": "https://www.newarab.com/news/putin-witkoff-meet-russia-ukraine-war-talks"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T12:13:10Z",
-     "headline": "Trump Envoy Witkoff Calls Putin a ‘Humanist’ Amid Deadly Russian Attacks on Ukraine",
-     "url": "https://www.kyivpost.com/post/87749"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-21T13:58:20Z",
-     "headline": "Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
-     "url": "https://kyivindependent.com/kremlin-ready-to-resume-trilateral-peace-talks-with-us-ukraine-putin-claims/"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:20:38Z",
-     "headline": "Putin and U.S. envoy Witkoff hold talks in St. Petersburg as Washington pushes a new plan to end the war in Ukraine",
-     "url": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T16:07:09Z",
-     "headline": "‘We Need to Move On’: Zelensky Won’t Wait in Oslo for Witkoff After Putin Meeting",
-     "url": "https://www.kyivpost.com/post/87773"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T17:15:19Z",
-     "headline": "Russia says Ukraine must make \"necessary decisions\" to end the war",
-     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
-    },
-    {
-     "outlet": "Interfax-Ukraine (English)",
-     "country": "UKR",
-     "time": "2026-10-21T17:47:33Z",
-     "headline": "Talks in St. Petersburg, Oslo constructive; work under way to organise US-Russia-Ukraine trilateral meeting – Witkoff",
-     "url": "https://en.interfax.com.ua/news/general/1224154.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-21T17:57:48Z",
-     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-     "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-21T18:13:00Z",
-     "headline": "Witkoff says trilateral talks between the US, Russia, and Ukraine to continue at technical level",
-     "url": "https://www.ukrinform.net/rubric-polytics/4176846-witkoff-says-trilateral-talks-between-the-us-russia-and-ukraine-to-continue-at-technical-level.html"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-21T18:15:43Z",
-     "headline": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-     "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-21T19:36:12Z",
-     "headline": "Trilateral talks could be held in early November following Witkoff–Putin meeting, Zelensky says",
-     "url": "https://www.ukrinform.net/rubric-polytics/4176864-trilateral-talks-could-be-held-in-early-november-following-witkoffputin-meeting-zelensky-says.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T20:39:58Z",
-     "headline": "Zelensky Confirms Trilateral Talks With US, Russia Could Take Place by Early November",
-     "url": "https://www.kyivpost.com/post/87793"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T02:39:02Z",
-     "headline": "Witkoff Reveals US Treasury Working With Putin’s Envoy on Economic Ties",
-     "url": "https://www.kyivpost.com/post/87800"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T04:00:00Z",
-     "headline": "Witkoff: US, Russia, Ukraine to continue technical talks",
-     "url": "https://www.azernews.az/region/265976.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T09:34:36Z",
-     "headline": "Putin meets U.S. special envoy Witkoff in St. Petersburg",
-     "url": "https://english.news.cn/20261022/33b106ca99b845c3bd7c80396b8beaed/c.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T11:19:37Z",
-     "headline": "Putin the Humanist? 10 Ways Russia Has Shown Its ‘Humanity’ in Ukraine",
-     "url": "https://www.kyivpost.com/post/87867"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-22T12:47:13Z",
-     "headline": "Witkoff Meets Putin: Any Progress on Ukraine?",
-     "url": "https://www.kyivpost.com/post/87876"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T14:06:50Z",
-     "headline": "Witkoff feels optimistic after meeting with Putin — Vance",
-     "url": "https://tass.com/world/2206351"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-22T15:20:31Z",
-     "headline": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
-     "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-22T16:21:00Z",
-     "headline": "UK rejects Witkoff’s characterization of Putin as “humanitarian”",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177215-uk-rejects-witkoffs-characterization-of-putin-as-humanitarian.html"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T17:27:00Z",
-     "headline": "UK rejects Witkoff's description of Putin as 'humanitarian'",
-     "url": "https://www.azernews.az/region/266034.html"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-22T19:41:50Z",
-     "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
-     "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
     }
    ]
   }
