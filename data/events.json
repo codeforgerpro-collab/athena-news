@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:09:56Z",
+ "generated": "2026-10-24T22:25:56Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9675,6 +9675,159 @@
    ]
   },
   {
+   "id": 16185,
+   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+   "category": "Geopolitics",
+   "importance": 5.87,
+   "risk": 3.32,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 13,
+   "countries": [
+    "SAU",
+    "RUS",
+    "USA",
+    "SGP",
+    "UKR",
+    "GBR",
+    "DEU",
+    "FRA",
+    "NGA",
+    "CAN"
+   ],
+   "first_seen": "2026-10-21T06:43:21Z",
+   "last_seen": "2026-10-24T21:55:00Z",
+   "page": "event/16185.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T06:43:21Z",
+     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
+     "url": "https://english.aawsat.com/node/5331854"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T16:50:24Z",
+     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
+     "url": "https://tass.com/world/2205775"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T22:50:42Z",
+     "headline": "How Elon Musk gained so much power over U.S. security interests",
+     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T21:07:07Z",
+     "headline": "Trump says Ukraine's access to Starshield restored",
+     "url": "https://tass.com/world/2206599"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T21:11:38Z",
+     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
+     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T00:53:16Z",
+     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
+     "url": "https://www.kyivpost.com/post/87918"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T01:16:00Z",
+     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T02:12:09Z",
+     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
+     "url": "https://www.kyivpost.com/post/87919"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-23T02:16:26Z",
+     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
+     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T05:37:00Z",
+     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
+     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T06:22:59Z",
+     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
+     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T08:04:49Z",
+     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
+     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:20:00Z",
+     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T10:48:24Z",
+     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
+     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T18:26:37Z",
+     "headline": "Trump to contact Musk if Ukraine Starshield issues persist",
+     "url": "https://punchng.com/trump-to-contact-musk-if-ukraine-starshield-issues-persist/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T19:16:05Z",
+     "headline": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
+     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:24Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-terms-6489801"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T21:55:00Z",
+     "headline": "Trump admits to discussing situation in Ukraine with Elon Musk",
+     "url": "https://tass.com/world/2207357"
+    }
+   ]
+  },
+  {
    "id": 23981,
    "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
    "category": "Geopolitics",
@@ -10275,152 +10428,6 @@
      "time": "2026-10-23T22:35:04Z",
      "headline": "Greece Bans Social Media for Children Under 15 From 2027",
      "url": "https://greekcitytimes.com/2026/10/24/greece-social-media-ban-children-under-15/"
-    }
-   ]
-  },
-  {
-   "id": 16185,
-   "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
-   "category": "Geopolitics",
-   "importance": 5.8,
-   "risk": 3.15,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 13,
-   "countries": [
-    "SAU",
-    "RUS",
-    "USA",
-    "SGP",
-    "UKR",
-    "GBR",
-    "DEU",
-    "FRA",
-    "NGA",
-    "CAN"
-   ],
-   "first_seen": "2026-10-21T06:43:21Z",
-   "last_seen": "2026-10-24T21:27:24Z",
-   "page": "event/16185.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T06:43:21Z",
-     "headline": "Report: Musk Ordered Reduction in Starshield Services for Ukraine",
-     "url": "https://english.aawsat.com/node/5331854"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T16:50:24Z",
-     "headline": "Musk probably limited Starshield for Kiev because it was used for attacks — Fox News",
-     "url": "https://tass.com/world/2205775"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T22:50:42Z",
-     "headline": "How Elon Musk gained so much power over U.S. security interests",
-     "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T21:07:07Z",
-     "headline": "Trump says Ukraine's access to Starshield restored",
-     "url": "https://tass.com/world/2206599"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T21:11:38Z",
-     "headline": "US Democratic senator probes Ukraine's loss of Starshield service",
-     "url": "https://www.straitstimes.com/world/europe/us-democratic-senator-probes-ukraines-loss-of-starshield-service"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T00:53:16Z",
-     "headline": "Trump Says Musk Restored Ukraine’s Starshield",
-     "url": "https://www.kyivpost.com/post/87918"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T01:16:00Z",
-     "headline": "AP: Trump's administration gives conflicting accounts of restrictions on Ukraine's Starshield access",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T02:12:09Z",
-     "headline": "‘Starshield Still Limited’ – Zelensky Says Restrictions Continue to Hamper Ukraine’s Drone Defenses",
-     "url": "https://www.kyivpost.com/post/87919"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-23T02:16:26Z",
-     "headline": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
-     "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T05:37:00Z",
-     "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
-     "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T06:22:59Z",
-     "headline": "US offers mixed messages on limits to Ukraine's Starshield system",
-     "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T08:04:49Z",
-     "headline": "US Senator Blumenthal opens probe into Ukraine Starshield restrictions",
-     "url": "https://kyivindependent.com/us-senator-blumenthal-opens-probe-into-ukraine-starshield-restrictions/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:20:00Z",
-     "headline": "Ukraine reports problems with Starshield after Trump said access restored",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-reports-problems-with-starshield-after-trump-said-access-restored"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T10:48:24Z",
-     "headline": "Analysis: Ukraine’s Starshield access is still crippled, and no one is taking the blame",
-     "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T18:26:37Z",
-     "headline": "Trump to contact Musk if Ukraine Starshield issues persist",
-     "url": "https://punchng.com/trump-to-contact-musk-if-ukraine-starshield-issues-persist/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T19:16:05Z",
-     "headline": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
-     "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:27:24Z",
-     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-terms-6489801"
     }
    ]
   },
