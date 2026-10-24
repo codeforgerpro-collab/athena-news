@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T02:43:00Z",
+ "generated": "2026-10-24T02:59:00Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -5112,6 +5112,140 @@
    ]
   },
   {
+   "id": 16347,
+   "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
+   "category": "Business",
+   "importance": 6.61,
+   "risk": 1.41,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 15,
+   "countries": [
+    "USA",
+    "GBR",
+    "NZL",
+    "GHA",
+    "GRC",
+    "NLD",
+    "SAU",
+    "KOR",
+    "JAM",
+    "DEU",
+    "AUS",
+    "IND"
+   ],
+   "first_seen": "2026-10-21T22:16:05Z",
+   "last_seen": "2026-10-24T02:38:21Z",
+   "page": "event/16347.html",
+   "reports": [
+    {
+     "outlet": "TechCrunch",
+     "country": "USA",
+     "time": "2026-10-21T22:16:05Z",
+     "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
+     "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T22:54:58Z",
+     "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+     "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-22T01:32:32Z",
+     "headline": "The end to Airbnb's most annoying chores - leave those dishes dirty",
+     "url": "https://www.stuff.co.nz/travel/361049715/end-airbnbs-most-annoying-chores-leave-those-dishes-dirty"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T02:37:00Z",
+     "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+     "url": "https://www.myjoyonline.com/airbnb-hosts-can-no-longer-make-guests-strip-beds-and-wash-dishes-under-new-rules/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-22T04:55:16Z",
+     "headline": "Airbnb Restricts Checkout Chores After Years of Guest Complaints",
+     "url": "https://greekcitytimes.com/2026/10/22/airbnb-cleaning-rules-checkout-chores-2026/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T05:17:11Z",
+     "headline": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules"
+    },
+    {
+     "outlet": "DutchNews.nl",
+     "country": "NLD",
+     "time": "2026-10-22T12:16:28Z",
+     "headline": "Airbnb to hosts: no more asking guests to wash the dishes",
+     "url": "https://www.dutchnews.nl/2026/10/airbnb-to-hosts-no-more-asking-guests-to-wash-the-dishes/"
+    },
+    {
+     "outlet": "Keep Talking Greece",
+     "country": "GRC",
+     "time": "2026-10-22T12:44:46Z",
+     "headline": "Airbnb new rules: Hosts can no longer ask guests to clean before checking out",
+     "url": "https://www.keeptalkinggreece.com/2026/10/22/airbnb-new-rules-hosts-guests-cleaning/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T15:50:28Z",
+     "headline": "No More Taking Out the Trash at Your Airbnb",
+     "url": "https://english.aawsat.com/node/5332433"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-22T19:30:00Z",
+     "headline": "‘Guess my cleaning fee just went up’: Airbnb hosts are mad they can no longer require guests to do chores like taking out trash",
+     "url": "https://www.fastcompany.com/91628278/airbnb-cleaning-fee-hosts-are-mad-they-cant-require-guests-to-do-chores-taking-out-trash-washing-dishes-laundry-house-rules"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T19:52:04Z",
+     "headline": "No more taking out the trash at your Airbnb",
+     "url": "https://www.koreatimes.co.kr/world/20261023/no-more-taking-out-the-trash-at-your-airbnb?utm_source=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T02:14:00Z",
+     "headline": "Airbnb scraps guest checkout chores such as cleaning",
+     "url": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
+     "url": "https://www.koreatimes.co.kr/world/20261023/airbnb-guests-no-longer-have-to-wash-the-dishes-or-strip-the-beds-at-checkout?utm_source=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T18:00:00Z",
+     "headline": "Airbnb host floats 'dishes and utensils fee' as guest chore ban sparks debate",
+     "url": "https://www.abc.net.au/news/2026-10-24/airbnb-checkout-chores-ban-backlash/107300484"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T02:38:21Z",
+     "headline": "Airbnb bans checkout chores: Hosts can't force guests to strip beds or do dishes",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-announces-a-new-ban-that-goes-into-effect-starting-november-20-tells-hosts-across-the-world-that-you-cannot-make-guests-complete-/articleshow/135160238.cms"
+    }
+   ]
+  },
+  {
    "id": 16208,
    "title": "Sisi: Egypt would defend Saudi territory, rules out Yemen attack",
    "category": "Geopolitics",
@@ -8872,132 +9006,6 @@
      "time": "2026-10-23T17:00:28Z",
      "headline": "Cyprus throws weight behind UAE’s Nusseibeh for UN secretary-general",
      "url": "https://cyprus-mail.com/2026/10/23/cyprus-throws-weight-behind-uaes-nusseibeh-for-un-secretary-general"
-    }
-   ]
-  },
-  {
-   "id": 16347,
-   "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
-   "category": "Business",
-   "importance": 6.01,
-   "risk": 1.24,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "USA",
-    "GBR",
-    "NZL",
-    "GHA",
-    "GRC",
-    "NLD",
-    "SAU",
-    "KOR",
-    "JAM",
-    "DEU",
-    "AUS"
-   ],
-   "first_seen": "2026-10-21T22:16:05Z",
-   "last_seen": "2026-10-23T18:00:00Z",
-   "page": "event/16347.html",
-   "reports": [
-    {
-     "outlet": "TechCrunch",
-     "country": "USA",
-     "time": "2026-10-21T22:16:05Z",
-     "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
-     "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T22:54:58Z",
-     "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-     "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-22T01:32:32Z",
-     "headline": "The end to Airbnb's most annoying chores - leave those dishes dirty",
-     "url": "https://www.stuff.co.nz/travel/361049715/end-airbnbs-most-annoying-chores-leave-those-dishes-dirty"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T02:37:00Z",
-     "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-     "url": "https://www.myjoyonline.com/airbnb-hosts-can-no-longer-make-guests-strip-beds-and-wash-dishes-under-new-rules/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-22T04:55:16Z",
-     "headline": "Airbnb Restricts Checkout Chores After Years of Guest Complaints",
-     "url": "https://greekcitytimes.com/2026/10/22/airbnb-cleaning-rules-checkout-chores-2026/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T05:17:11Z",
-     "headline": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules"
-    },
-    {
-     "outlet": "DutchNews.nl",
-     "country": "NLD",
-     "time": "2026-10-22T12:16:28Z",
-     "headline": "Airbnb to hosts: no more asking guests to wash the dishes",
-     "url": "https://www.dutchnews.nl/2026/10/airbnb-to-hosts-no-more-asking-guests-to-wash-the-dishes/"
-    },
-    {
-     "outlet": "Keep Talking Greece",
-     "country": "GRC",
-     "time": "2026-10-22T12:44:46Z",
-     "headline": "Airbnb new rules: Hosts can no longer ask guests to clean before checking out",
-     "url": "https://www.keeptalkinggreece.com/2026/10/22/airbnb-new-rules-hosts-guests-cleaning/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T15:50:28Z",
-     "headline": "No More Taking Out the Trash at Your Airbnb",
-     "url": "https://english.aawsat.com/node/5332433"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-22T19:30:00Z",
-     "headline": "‘Guess my cleaning fee just went up’: Airbnb hosts are mad they can no longer require guests to do chores like taking out trash",
-     "url": "https://www.fastcompany.com/91628278/airbnb-cleaning-fee-hosts-are-mad-they-cant-require-guests-to-do-chores-taking-out-trash-washing-dishes-laundry-house-rules"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T19:52:04Z",
-     "headline": "No more taking out the trash at your Airbnb",
-     "url": "https://www.koreatimes.co.kr/world/20261023/no-more-taking-out-the-trash-at-your-airbnb?utm_source=rss"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T02:14:00Z",
-     "headline": "Airbnb scraps guest checkout chores such as cleaning",
-     "url": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
-     "url": "https://www.koreatimes.co.kr/world/20261023/airbnb-guests-no-longer-have-to-wash-the-dishes-or-strip-the-beds-at-checkout?utm_source=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T18:00:00Z",
-     "headline": "Airbnb host floats 'dishes and utensils fee' as guest chore ban sparks debate",
-     "url": "https://www.abc.net.au/news/2026-10-24/airbnb-checkout-chores-ban-backlash/107300484"
     }
    ]
   },
