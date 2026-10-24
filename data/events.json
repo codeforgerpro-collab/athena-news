@@ -1,333 +1,8 @@
 {
- "generated": "2026-10-24T08:19:14Z",
+ "generated": "2026-10-24T08:35:15Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
-  {
-   "id": 19215,
-   "title": "Typhoon Champi shuts down Taiwan",
-   "category": "Energy & Environment",
-   "importance": 8.73,
-   "risk": 7.63,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 40,
-   "countries": [
-    "THA",
-    "VNM",
-    "GBR",
-    "HKG",
-    "SAU",
-    "TUR",
-    "USA",
-    "ARE",
-    "PHL",
-    "FRA",
-    "TWN",
-    "KOR",
-    "DEU",
-    "ZAF",
-    "PAK",
-    "AUS",
-    "GHA",
-    "CAN",
-    "QAT",
-    "LKA",
-    "OMN",
-    "JPN",
-    "IND",
-    "RUS",
-    "SGP",
-    "IDN",
-    "MYS",
-    "CYP"
-   ],
-   "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-24T07:16:28Z",
-   "page": "event/19215.html",
-   "reports": [
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T07:07:13Z",
-     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
-     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T08:11:57Z",
-     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
-     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
-    },
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:06Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-22T08:42:48Z",
-     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T08:44:12Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:45:29Z",
-     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
-     "url": "https://english.aawsat.com/node/5332289"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:26:22Z",
-     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
-     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T17:39:10Z",
-     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T02:13:54Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-23T02:29:29Z",
-     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
-     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T03:00:54Z",
-     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
-     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T03:37:36Z",
-     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
-     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T04:15:11Z",
-     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
-     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T06:39:58Z",
-     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T06:40:00Z",
-     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
-     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
-     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:41:35Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:41:55Z",
-     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
-     "url": "https://english.aawsat.com/node/5332598"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:46:00Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T07:30:03Z",
-     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:05:49Z",
-     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
-     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T08:45:58Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:47:36Z",
-     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
-     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:20Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:24:59Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:53:27Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:53:38Z",
-     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
-     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:56:09Z",
-     "headline": "YILAN/KEELUNG",
-     "url": "https://www.omanobserver.om/article/1198430/world/yilankeelung"
-    },
-    {
-     "outlet": "Mongabay",
-     "country": "USA",
-     "time": "2026-10-23T16:12:18Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://news.mongabay.com/short-article/2026/10/taiwan-shuts-schools-and-grounds-flights-as-typhoon-champi-brushes-by/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-23T16:39:34Z",
-     "headline": "Typhoon Champi shuts down Taiwan",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T23:10:54Z",
-     "headline": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-     "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T01:30:08Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:55:56Z",
-     "headline": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
-     "url": "https://www.arabnews.com/world/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured-3007973"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T01:57:43Z",
-     "headline": "Watch: Giant waves crash into Taiwan as Typhoon Champi leaves over 500 injured; 1 dead",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-giant-waves-crash-into-taiwan-as-typhoon-champi-leaves-over-500-injured-1-dead/articleshow/135159584.cms"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T02:22:32Z",
-     "headline": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-24T03:25:29Z",
-     "headline": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
-     "url": "https://e.vnexpress.net/news/news/environment/taiwan-warns-of-destructive-winds-as-typhoon-champi-batters-island-5136330.html"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T03:32:01Z",
-     "headline": "At least 500 people affected by typhoon Champi in Taiwan",
-     "url": "https://tass.com/emergencies/2207241"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T03:34:42Z",
-     "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
-     "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
-    }
-   ]
-  },
   {
    "id": 22696,
    "title": "Israel demolishes homes in West Bank after fatal attack",
@@ -690,7 +365,7 @@
     "BGD"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-24T08:16:26Z",
+   "last_seen": "2026-10-24T08:31:15Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -972,6 +647,331 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    }
+   ]
+  },
+  {
+   "id": 19215,
+   "title": "Typhoon Champi shuts down Taiwan",
+   "category": "Energy & Environment",
+   "importance": 7.54,
+   "risk": 6.6,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 40,
+   "countries": [
+    "THA",
+    "VNM",
+    "GBR",
+    "HKG",
+    "SAU",
+    "TUR",
+    "USA",
+    "ARE",
+    "PHL",
+    "FRA",
+    "TWN",
+    "KOR",
+    "DEU",
+    "ZAF",
+    "PAK",
+    "AUS",
+    "GHA",
+    "CAN",
+    "QAT",
+    "LKA",
+    "OMN",
+    "JPN",
+    "IND",
+    "RUS",
+    "SGP",
+    "IDN",
+    "MYS",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T07:07:13Z",
+   "last_seen": "2026-10-24T07:54:55Z",
+   "page": "event/19215.html",
+   "reports": [
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T07:07:13Z",
+     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
+     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T08:11:57Z",
+     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
+     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
+    },
+    {
+     "outlet": "Phys.org",
+     "country": "GBR",
+     "time": "2026-10-22T08:38:06Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-22T08:42:48Z",
+     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T08:44:12Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T09:45:29Z",
+     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
+     "url": "https://english.aawsat.com/node/5332289"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:26:22Z",
+     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
+     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T17:39:10Z",
+     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T02:13:54Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-23T02:29:29Z",
+     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
+     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T03:00:54Z",
+     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
+     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T03:37:36Z",
+     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
+     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T04:15:11Z",
+     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
+     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
+     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T06:39:58Z",
+     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T06:40:00Z",
+     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
+     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:41:35Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:41:55Z",
+     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
+     "url": "https://english.aawsat.com/node/5332598"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:46:00Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T07:30:03Z",
+     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
+     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:05:49Z",
+     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
+     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T08:45:58Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:47:36Z",
+     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
+     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:20Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:24:59Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:53:27Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:53:38Z",
+     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
+     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:56:09Z",
+     "headline": "YILAN/KEELUNG",
+     "url": "https://www.omanobserver.om/article/1198430/world/yilankeelung"
+    },
+    {
+     "outlet": "Mongabay",
+     "country": "USA",
+     "time": "2026-10-23T16:12:18Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://news.mongabay.com/short-article/2026/10/taiwan-shuts-schools-and-grounds-flights-as-typhoon-champi-brushes-by/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:34Z",
+     "headline": "Typhoon Champi shuts down Taiwan",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T23:10:54Z",
+     "headline": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+     "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T01:30:08Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:55:56Z",
+     "headline": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+     "url": "https://www.arabnews.com/world/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured-3007973"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T01:57:43Z",
+     "headline": "Watch: Giant waves crash into Taiwan as Typhoon Champi leaves over 500 injured; 1 dead",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-giant-waves-crash-into-taiwan-as-typhoon-champi-leaves-over-500-injured-1-dead/articleshow/135159584.cms"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T02:22:32Z",
+     "headline": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-24T03:25:29Z",
+     "headline": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
+     "url": "https://e.vnexpress.net/news/news/environment/taiwan-warns-of-destructive-winds-as-typhoon-champi-batters-island-5136330.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:32:01Z",
+     "headline": "At least 500 people affected by typhoon Champi in Taiwan",
+     "url": "https://tass.com/emergencies/2207241"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T03:34:42Z",
+     "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
+     "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
     }
    ]
   },
@@ -6150,10 +6150,10 @@
    "title": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
    "category": "Geopolitics",
    "importance": 6.34,
-   "risk": 2.96,
+   "risk": 2.94,
    "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 25,
+   "status": "peaking",
+   "outlets": 26,
    "countries": [
     "ARG",
     "USA",
@@ -6173,10 +6173,11 @@
     "OMN",
     "NGA",
     "SAU",
-    "PAK"
+    "PAK",
+    "GBR"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-24T06:28:44Z",
+   "last_seen": "2026-10-24T08:20:35Z",
    "page": "event/2857.html",
    "reports": [
     {
@@ -10285,6 +10286,121 @@
    ]
   },
   {
+   "id": 17297,
+   "title": "Video: 4 Pilots Killed As 2 Planes Crash Mid-Air During Training In Philippines",
+   "category": "Trade & Industry",
+   "importance": 5.78,
+   "risk": 7.84,
+   "confidence": 0.82,
+   "status": "spreading",
+   "outlets": 10,
+   "countries": [
+    "AUS",
+    "SAU",
+    "CHN",
+    "AZE",
+    "NGA",
+    "IND",
+    "SGP"
+   ],
+   "first_seen": "2026-10-19T13:00:00Z",
+   "last_seen": "2026-10-24T08:50:01Z",
+   "page": "event/17297.html",
+   "reports": [
+    {
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-19T13:00:00Z",
+     "headline": "Words as weapons in the West Philippine Sea",
+     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T20:50:40Z",
+     "headline": "Philippines probes illegal recruitment of nationals in Russia",
+     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:47:15Z",
+     "headline": "1 killed, 2 injured in southern Philippines",
+     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T06:55:50Z",
+     "headline": "4 pilots killed in Philippine plane crash",
+     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T07:31:49Z",
+     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
+     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T07:40:36Z",
+     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
+     "url": "https://english.aawsat.com/node/5333023"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-24T07:45:23Z",
+     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
+     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T07:51:14Z",
+     "headline": "4 pilots killed in north Philippine plane crash",
+     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T07:59:41Z",
+     "headline": "Video: 4 Pilots Killed As 2 Planes Crash Mid-Air During Training In Philippines",
+     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T08:06:51Z",
+     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
+     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T08:50:01Z",
+     "headline": "Four pilots die in Philippines air force mid-air collision",
+     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
    "id": 20784,
    "title": "Saudi Aramco tells staff to evacuate Dhahran headquarters",
    "category": "Trade & Industry",
@@ -11396,114 +11512,6 @@
      "time": "2026-10-22T19:41:50Z",
      "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
      "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
-    }
-   ]
-  },
-  {
-   "id": 17297,
-   "title": "4 pilots killed in Philippine plane crash",
-   "category": "Geopolitics",
-   "importance": 5.67,
-   "risk": 6.75,
-   "confidence": 0.81,
-   "status": "spreading",
-   "outlets": 9,
-   "countries": [
-    "AUS",
-    "SAU",
-    "CHN",
-    "AZE",
-    "NGA",
-    "IND",
-    "SGP"
-   ],
-   "first_seen": "2026-10-19T13:00:00Z",
-   "last_seen": "2026-10-24T08:50:01Z",
-   "page": "event/17297.html",
-   "reports": [
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-19T13:00:00Z",
-     "headline": "Words as weapons in the West Philippine Sea",
-     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T20:50:40Z",
-     "headline": "Philippines probes illegal recruitment of nationals in Russia",
-     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:47:15Z",
-     "headline": "1 killed, 2 injured in southern Philippines",
-     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T06:55:50Z",
-     "headline": "4 pilots killed in Philippine plane crash",
-     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T07:31:49Z",
-     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
-     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T07:40:36Z",
-     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
-     "url": "https://english.aawsat.com/node/5333023"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-24T07:45:23Z",
-     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
-     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T07:51:14Z",
-     "headline": "4 pilots killed in north Philippine plane crash",
-     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T08:06:51Z",
-     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
-     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T08:50:01Z",
-     "headline": "Four pilots die in Philippines air force mid-air collision",
-     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
