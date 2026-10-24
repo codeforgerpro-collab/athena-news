@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T21:53:55Z",
+ "generated": "2026-10-24T22:09:56Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -2015,7 +2015,7 @@
      "outlet": "CBS News (World)",
      "country": "USA",
      "time": "2026-10-24T11:40:04Z",
-     "headline": "Ukraine says Starlink speed restored after long disruption",
+     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
      "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
     },
     {
@@ -2066,11 +2066,11 @@
    "id": 22647,
    "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
    "category": "Geopolitics",
-   "importance": 7.2,
-   "risk": 7.91,
+   "importance": 7.19,
+   "risk": 7.88,
    "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 29,
+   "status": "spreading",
+   "outlets": 30,
    "countries": [
     "ISR",
     "USA",
@@ -2090,10 +2090,11 @@
     "PAK",
     "IRL",
     "TWN",
-    "CAN"
+    "CAN",
+    "THA"
    ],
    "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-24T21:25:41Z",
+   "last_seen": "2026-10-24T22:08:41Z",
    "page": "event/22647.html",
    "reports": [
     {
@@ -9772,7 +9773,7 @@
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
    "importance": 5.85,
-   "risk": 4.2,
+   "risk": 4.14,
    "confidence": 0.87,
    "status": "fading",
    "outlets": 14,
@@ -9789,7 +9790,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-19T13:17:25Z",
-   "last_seen": "2026-10-23T19:22:33Z",
+   "last_seen": "2026-10-24T22:03:23Z",
    "page": "event/12603.html",
    "reports": [
     {
@@ -9931,6 +9932,13 @@
      "time": "2026-10-23T19:22:33Z",
      "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
      "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-24T22:03:23Z",
+     "headline": "FM praises 'progress' on Suu Kyi",
+     "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
     }
    ]
   },
