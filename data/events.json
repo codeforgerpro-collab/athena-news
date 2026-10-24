@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T14:07:19Z",
+ "generated": "2026-10-24T14:23:19Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -5983,6 +5983,234 @@
    ]
   },
   {
+   "id": 26331,
+   "title": "Fire engulfs 'Eagle's Nest' - Hitler's mountain retreat",
+   "category": "Society & Law",
+   "importance": 6.5,
+   "risk": 4.98,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 24,
+   "countries": [
+    "IND",
+    "DEU",
+    "SGP",
+    "PAK",
+    "GBR",
+    "IRL",
+    "CYP",
+    "ISR",
+    "USA",
+    "TUR",
+    "QAT",
+    "KWT",
+    "AUS",
+    "SAU",
+    "FRA"
+   ],
+   "first_seen": "2026-10-24T02:04:52Z",
+   "last_seen": "2026-10-24T14:11:34Z",
+   "page": "event/26331.html",
+   "reports": [
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T02:04:52Z",
+     "headline": "Fire engulfs Hitler’s teahouse ‘Eagle’s Nest’ in Germany; one arrested",
+     "url": "https://timesofindia.indiatimes.com/world/europe/fire-engulfs-hitlers-teahouse-eagles-nest-in-germany-man-arrested-on-arson-suspicion/articleshow/135159771.cms"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T02:40:00Z",
+     "headline": "Hitler's Eagle's Nest retreat catches fire, police say",
+     "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T02:50:02Z",
+     "headline": "Fire breaks out at Hitler’s mountain retreat, suspect arrested",
+     "url": "https://www.straitstimes.com/world/europe/fire-breaks-out-at-hitlers-mountain-retreat-suspect-detained-police"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T03:40:30Z",
+     "headline": "Hitler's historic teahouse goes up in flames in Germany, arson suspected",
+     "url": "https://tribune.com.pk/story/2636669/hitlers-historic-teahouse-goes-up-in-flames-in-germany-arson-suspected"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T03:42:14Z",
+     "headline": "Fire Engulfs Hitler's Mountain Retreat In Germany's Bavaria, Suspect Detained",
+     "url": "https://www.ndtv.com/world-news/fire-engulfs-hitlers-mountain-retreat-eagles-nest-in-germanys-bavaria-suspect-detained-12228373#publisher=newsstand"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T03:51:25Z",
+     "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T03:51:48Z",
+     "headline": "Fire devastates former Nazi guest house 'Eagle's Nest'",
+     "url": "https://www.straitstimes.com/world/europe/suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest-german-police-say"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-24T04:15:00Z",
+     "headline": "Suspect arrested over fire at Nazis' WWII 'Eagle's Nest' retreat",
+     "url": "https://news.sky.com/story/suspect-arrested-over-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-24T04:15:00Z",
+     "headline": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
+     "url": "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-24T04:29:57Z",
+     "headline": "Fire engulfs 'Eagle's Nest' - Hitler's mountain retreat",
+     "url": "https://www.rte.ie/news/world/2026/1024/1596690-fire-engulfs-eagles-nest-hitlers-mountain-retreat/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:19:10Z",
+     "headline": "Fire breaks out at Hitler's mountain retreat, suspect detained: police",
+     "url": "https://www.dawn.com/news/2039461/fire-breaks-out-at-hitlers-mountain-retreat-suspect-detained-police"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T05:43:52Z",
+     "headline": "Suspect arrested as fire engulfs Hitler's 'Eagle's Nest' retreat, German police say",
+     "url": "https://www.brecorder.com/news/40445737/suspect-arrested-as-fire-engulfs-hitlers-eagles-nest-retreat-german-police-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T06:02:34Z",
+     "headline": "Suspect arrested as fire engulfs Nazi guest house ‘Eagle’s Nest’",
+     "url": "https://cyprus-mail.com/2026/10/24/suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T06:06:49Z",
+     "headline": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article/german-police-suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest/000001a1-6c78-d34e-a1b9-fe7f69660000"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T06:21:44Z",
+     "headline": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+     "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T06:37:56Z",
+     "headline": "Suspect arrested as fire engulfs Nazi official 'Eagle's Nest' retreat, German police say",
+     "url": "https://www.jpost.com/international/article-912681"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-24T06:46:59Z",
+     "headline": "1 arrested after fire at Hitler's Eagle's Nest mountain retreat",
+     "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T07:31:42Z",
+     "headline": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T08:42:00Z",
+     "headline": "Fire breaks out at Alpine retreat, one person detained",
+     "url": "https://www.arabtimesonline.com/news/fire-breaks-out-at-alpine-retreat-one-person-detained/"
+    },
+    {
+     "outlet": "The Local Germany",
+     "country": "DEU",
+     "time": "2026-10-24T08:55:23Z",
+     "headline": "Fire breaks out at Hitler's mountain retreat",
+     "url": "https://www.thelocal.de/20261024/fire-breaks-out-at-hitlers-mountain-retreat"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T09:16:03Z",
+     "headline": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
+     "url": "https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T10:10:00Z",
+     "headline": "Germany news: Merz calls for unity at CSU party conference",
+     "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T10:35:47Z",
+     "headline": "Person in custody after fire engulfs Hitler's retreat Eagle's Nest in Bavarian Alps",
+     "url": "https://www.independent.co.uk/news/world/europe/eagles-nest-germany-hitler-fire-b3072653.html"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T10:42:26Z",
+     "headline": "Fire breaks out at Eagle's Nest retreat built for Hitler in Germany; person detained",
+     "url": "https://abcnews.com/International/wireStory/fire-breaks-eagles-nest-retreat-built-hitler-germany-137533542"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T11:01:05Z",
+     "headline": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+     "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T13:37:40Z",
+     "headline": "Fire devastates former Nazi guest house ‘Eagle’s Nest’",
+     "url": "https://cyprus-mail.com/2026/10/24/fire-devastates-former-nazi-guest-house-eagles-nest"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T13:42:44Z",
+     "headline": "Fire devastates the Eagle’s Nest retreat built for Hitler in Germany",
+     "url": "https://www.arabnews.com/world/fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-3008036"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:11:34Z",
+     "headline": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
+     "url": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany"
+    }
+   ]
+  },
+  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -7611,334 +7839,12 @@
    ]
   },
   {
-   "id": 26331,
-   "title": "Fire engulfs 'Eagle's Nest' - Hitler's mountain retreat",
-   "category": "Society & Law",
-   "importance": 6.26,
-   "risk": 5.34,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 23,
-   "countries": [
-    "IND",
-    "DEU",
-    "SGP",
-    "PAK",
-    "GBR",
-    "IRL",
-    "CYP",
-    "ISR",
-    "USA",
-    "TUR",
-    "QAT",
-    "KWT",
-    "AUS",
-    "SAU"
-   ],
-   "first_seen": "2026-10-24T02:04:52Z",
-   "last_seen": "2026-10-24T13:42:44Z",
-   "page": "event/26331.html",
-   "reports": [
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T02:04:52Z",
-     "headline": "Fire engulfs Hitler’s teahouse ‘Eagle’s Nest’ in Germany; one arrested",
-     "url": "https://timesofindia.indiatimes.com/world/europe/fire-engulfs-hitlers-teahouse-eagles-nest-in-germany-man-arrested-on-arson-suspicion/articleshow/135159771.cms"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T02:40:00Z",
-     "headline": "Hitler's Eagle's Nest retreat catches fire, police say",
-     "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T02:50:02Z",
-     "headline": "Fire breaks out at Hitler’s mountain retreat, suspect arrested",
-     "url": "https://www.straitstimes.com/world/europe/fire-breaks-out-at-hitlers-mountain-retreat-suspect-detained-police"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T03:40:30Z",
-     "headline": "Hitler's historic teahouse goes up in flames in Germany, arson suspected",
-     "url": "https://tribune.com.pk/story/2636669/hitlers-historic-teahouse-goes-up-in-flames-in-germany-arson-suspected"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T03:42:14Z",
-     "headline": "Fire Engulfs Hitler's Mountain Retreat In Germany's Bavaria, Suspect Detained",
-     "url": "https://www.ndtv.com/world-news/fire-engulfs-hitlers-mountain-retreat-eagles-nest-in-germanys-bavaria-suspect-detained-12228373#publisher=newsstand"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T03:51:25Z",
-     "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T03:51:48Z",
-     "headline": "Fire devastates former Nazi guest house 'Eagle's Nest'",
-     "url": "https://www.straitstimes.com/world/europe/suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest-german-police-say"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-24T04:15:00Z",
-     "headline": "Suspect arrested over fire at Nazis' WWII 'Eagle's Nest' retreat",
-     "url": "https://news.sky.com/story/suspect-arrested-over-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-24T04:15:00Z",
-     "headline": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
-     "url": "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-24T04:29:57Z",
-     "headline": "Fire engulfs 'Eagle's Nest' - Hitler's mountain retreat",
-     "url": "https://www.rte.ie/news/world/2026/1024/1596690-fire-engulfs-eagles-nest-hitlers-mountain-retreat/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:19:10Z",
-     "headline": "Fire breaks out at Hitler's mountain retreat, suspect detained: police",
-     "url": "https://www.dawn.com/news/2039461/fire-breaks-out-at-hitlers-mountain-retreat-suspect-detained-police"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T05:43:52Z",
-     "headline": "Suspect arrested as fire engulfs Hitler's 'Eagle's Nest' retreat, German police say",
-     "url": "https://www.brecorder.com/news/40445737/suspect-arrested-as-fire-engulfs-hitlers-eagles-nest-retreat-german-police-say"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T06:02:34Z",
-     "headline": "Suspect arrested as fire engulfs Nazi guest house ‘Eagle’s Nest’",
-     "url": "https://cyprus-mail.com/2026/10/24/suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T06:06:49Z",
-     "headline": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article/german-police-suspect-arrested-as-fire-engulfs-nazi-guest-house-eagles-nest/000001a1-6c78-d34e-a1b9-fe7f69660000"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T06:21:44Z",
-     "headline": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-     "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T06:37:56Z",
-     "headline": "Suspect arrested as fire engulfs Nazi official 'Eagle's Nest' retreat, German police say",
-     "url": "https://www.jpost.com/international/article-912681"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-24T06:46:59Z",
-     "headline": "1 arrested after fire at Hitler's Eagle's Nest mountain retreat",
-     "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T07:31:42Z",
-     "headline": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T08:42:00Z",
-     "headline": "Fire breaks out at Alpine retreat, one person detained",
-     "url": "https://www.arabtimesonline.com/news/fire-breaks-out-at-alpine-retreat-one-person-detained/"
-    },
-    {
-     "outlet": "The Local Germany",
-     "country": "DEU",
-     "time": "2026-10-24T08:55:23Z",
-     "headline": "Fire breaks out at Hitler's mountain retreat",
-     "url": "https://www.thelocal.de/20261024/fire-breaks-out-at-hitlers-mountain-retreat"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T09:16:03Z",
-     "headline": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
-     "url": "https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T10:10:00Z",
-     "headline": "Germany news: Merz calls for unity at CSU party conference",
-     "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T10:35:47Z",
-     "headline": "Person in custody after fire engulfs Hitler's retreat Eagle's Nest in Bavarian Alps",
-     "url": "https://www.independent.co.uk/news/world/europe/eagles-nest-germany-hitler-fire-b3072653.html"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T10:42:26Z",
-     "headline": "Fire breaks out at Eagle's Nest retreat built for Hitler in Germany; person detained",
-     "url": "https://abcnews.com/International/wireStory/fire-breaks-eagles-nest-retreat-built-hitler-germany-137533542"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T11:01:05Z",
-     "headline": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
-     "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T13:37:40Z",
-     "headline": "Fire devastates former Nazi guest house ‘Eagle’s Nest’",
-     "url": "https://cyprus-mail.com/2026/10/24/fire-devastates-former-nazi-guest-house-eagles-nest"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T13:42:44Z",
-     "headline": "Fire devastates the Eagle’s Nest retreat built for Hitler in Germany",
-     "url": "https://www.arabnews.com/world/fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-3008036"
-    }
-   ]
-  },
-  {
-   "id": 17145,
-   "title": "Global summit on children's well-being opens in Samarkand",
-   "category": "Geopolitics",
-   "importance": 6.22,
-   "risk": 2.41,
-   "confidence": 0.85,
-   "status": "peaking",
-   "outlets": 9,
-   "countries": [
-    "KWT",
-    "USA",
-    "IRN",
-    "KGZ",
-    "AZE",
-    "OMN",
-    "TJK",
-    "PAK"
-   ],
-   "first_seen": "2026-10-21T05:09:00Z",
-   "last_seen": "2026-10-23T12:36:02Z",
-   "page": "event/17145.html",
-   "reports": [
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T05:09:00Z",
-     "headline": "Global summit on children's well-being opens in Samarkand",
-     "url": "https://www.arabtimesonline.com/news/global-summit-on-childrens-well-being-opens-in-samarkand/"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-21T12:00:00Z",
-     "headline": "Summit in Samarkand, a boon for child wellbeing and health",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-21T12:50:02Z",
-     "headline": "Samarkand hosts global summit on children’s well-being",
-     "url": "https://www.tehrantimes.com/news/531344/Samarkand-hosts-global-summit-on-children-s-well-being"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-22T04:30:40Z",
-     "headline": "Aigul Japarova visits children's rehabilitation center in Samarkand",
-     "url": "https://24.kg/en/article/aigul-japarova-visits-childrens-rehabilitation-center-in-samarkand"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-22T06:55:00Z",
-     "headline": "Samarkand summit charts new path for children's well-being",
-     "url": "https://www.arabtimesonline.com/news/samarkand-summit-charts-new-path-for-childrens-well-being/"
-    },
-    {
-     "outlet": "The Times of Central Asia",
-     "country": "CAS",
-     "time": "2026-10-22T12:32:58Z",
-     "headline": "International Network Launched to Support Childhood Cancer Care in Uzbekistan",
-     "url": "https://timesca.com/childhood-cancer-care-in-uzbekistan-international-network/"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T13:08:00Z",
-     "headline": "Azerbaijani delegation attends World Summit in Uzbekistan",
-     "url": "https://www.azernews.az/culture/266025.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:27:32Z",
-     "headline": "Oman wraps up child wellbeing summit in Uzbekistan",
-     "url": "https://www.omanobserver.om/article/1198404/oman/oman-wraps-up-child-wellbeing-summit-in-uzbekistan"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T06:22:00Z",
-     "headline": "Samarkand Declaration calls for greater investment in children",
-     "url": "https://www.arabtimesonline.com/news/samarkand-declaration-calls-for-greater-investment-in-children/"
-    },
-    {
-     "outlet": "Asia-Plus (English)",
-     "country": "TJK",
-     "time": "2026-10-23T12:02:07Z",
-     "headline": "Samarkand Declaration calls for greater investment in children’s well-beingSamarkand Declaration: World Summit agrees to increase investment in child well-being",
-     "url": "https://asiaplus.news/en/2026/10/23/samarkand-declaration-world-summit-agrees-to-increase-investment-in-child-well-being/"
-    },
-    {
-     "outlet": "APP (Associated Press of Pakistan)",
-     "country": "PAK",
-     "time": "2026-10-23T12:36:02Z",
-     "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
-     "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
-    }
-   ]
-  },
-  {
    "id": 22319,
    "title": "Meghan Markle 'distressed' over claims father had child abuse images",
    "category": "Society & Law",
-   "importance": 6.21,
-   "risk": 1.96,
-   "confidence": 0.92,
+   "importance": 6.27,
+   "risk": 1.98,
+   "confidence": 0.91,
    "status": "spreading",
    "outlets": 25,
    "countries": [
@@ -7960,7 +7866,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T00:29:09Z",
-   "last_seen": "2026-10-24T13:42:37Z",
+   "last_seen": "2026-10-24T14:09:05Z",
    "page": "event/22319.html",
    "reports": [
     {
@@ -8193,6 +8099,115 @@
      "time": "2026-10-24T13:42:37Z",
      "headline": "Met Police received letter about Meghan Markle's father in 2019",
      "url": "https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:09:05Z",
+     "headline": "London police acknowledge receiving allegations against Meghan Markle's father, not sharing them with authorities",
+     "url": "https://www.aa.com.tr/en/world/london-police-acknowledge-receiving-allegations-against-meghan-markles-father-not-sharing-them-with-authorities/4099634"
+    }
+   ]
+  },
+  {
+   "id": 17145,
+   "title": "Global summit on children's well-being opens in Samarkand",
+   "category": "Geopolitics",
+   "importance": 6.22,
+   "risk": 2.41,
+   "confidence": 0.85,
+   "status": "peaking",
+   "outlets": 9,
+   "countries": [
+    "KWT",
+    "USA",
+    "IRN",
+    "KGZ",
+    "AZE",
+    "OMN",
+    "TJK",
+    "PAK"
+   ],
+   "first_seen": "2026-10-21T05:09:00Z",
+   "last_seen": "2026-10-23T12:36:02Z",
+   "page": "event/17145.html",
+   "reports": [
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T05:09:00Z",
+     "headline": "Global summit on children's well-being opens in Samarkand",
+     "url": "https://www.arabtimesonline.com/news/global-summit-on-childrens-well-being-opens-in-samarkand/"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-21T12:00:00Z",
+     "headline": "Summit in Samarkand, a boon for child wellbeing and health",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-21T12:50:02Z",
+     "headline": "Samarkand hosts global summit on children’s well-being",
+     "url": "https://www.tehrantimes.com/news/531344/Samarkand-hosts-global-summit-on-children-s-well-being"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-22T04:30:40Z",
+     "headline": "Aigul Japarova visits children's rehabilitation center in Samarkand",
+     "url": "https://24.kg/en/article/aigul-japarova-visits-childrens-rehabilitation-center-in-samarkand"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-22T06:55:00Z",
+     "headline": "Samarkand summit charts new path for children's well-being",
+     "url": "https://www.arabtimesonline.com/news/samarkand-summit-charts-new-path-for-childrens-well-being/"
+    },
+    {
+     "outlet": "The Times of Central Asia",
+     "country": "CAS",
+     "time": "2026-10-22T12:32:58Z",
+     "headline": "International Network Launched to Support Childhood Cancer Care in Uzbekistan",
+     "url": "https://timesca.com/childhood-cancer-care-in-uzbekistan-international-network/"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T13:08:00Z",
+     "headline": "Azerbaijani delegation attends World Summit in Uzbekistan",
+     "url": "https://www.azernews.az/culture/266025.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:27:32Z",
+     "headline": "Oman wraps up child wellbeing summit in Uzbekistan",
+     "url": "https://www.omanobserver.om/article/1198404/oman/oman-wraps-up-child-wellbeing-summit-in-uzbekistan"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T06:22:00Z",
+     "headline": "Samarkand Declaration calls for greater investment in children",
+     "url": "https://www.arabtimesonline.com/news/samarkand-declaration-calls-for-greater-investment-in-children/"
+    },
+    {
+     "outlet": "Asia-Plus (English)",
+     "country": "TJK",
+     "time": "2026-10-23T12:02:07Z",
+     "headline": "Samarkand Declaration calls for greater investment in children’s well-beingSamarkand Declaration: World Summit agrees to increase investment in child well-being",
+     "url": "https://asiaplus.news/en/2026/10/23/samarkand-declaration-world-summit-agrees-to-increase-investment-in-child-well-being/"
+    },
+    {
+     "outlet": "APP (Associated Press of Pakistan)",
+     "country": "PAK",
+     "time": "2026-10-23T12:36:02Z",
+     "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
+     "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
     }
    ]
   },
