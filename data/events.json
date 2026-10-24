@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T04:03:03Z",
+ "generated": "2026-10-24T04:19:03Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -650,6 +650,328 @@
    ]
   },
   {
+   "id": 19215,
+   "title": "Typhoon Champi shuts down Taiwan",
+   "category": "Energy & Environment",
+   "importance": 7.58,
+   "risk": 7.1,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 34,
+   "countries": [
+    "THA",
+    "VNM",
+    "GBR",
+    "HKG",
+    "SAU",
+    "TUR",
+    "USA",
+    "ARE",
+    "PHL",
+    "FRA",
+    "TWN",
+    "KOR",
+    "DEU",
+    "ZAF",
+    "PAK",
+    "AUS",
+    "GHA",
+    "CAN",
+    "QAT",
+    "LKA",
+    "JPN",
+    "IND",
+    "RUS",
+    "SGP",
+    "IDN"
+   ],
+   "first_seen": "2026-10-22T07:07:13Z",
+   "last_seen": "2026-10-24T04:07:14Z",
+   "page": "event/19215.html",
+   "reports": [
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T07:07:13Z",
+     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
+     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T08:11:57Z",
+     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
+     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
+    },
+    {
+     "outlet": "Phys.org",
+     "country": "GBR",
+     "time": "2026-10-22T08:38:06Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-22T08:42:48Z",
+     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T08:44:12Z",
+     "headline": "Taiwan issues warnings as Typhoon Champi nears",
+     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T09:45:29Z",
+     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
+     "url": "https://english.aawsat.com/node/5332289"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:26:22Z",
+     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
+     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T17:39:10Z",
+     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T02:13:54Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-23T02:29:29Z",
+     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
+     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T03:00:54Z",
+     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
+     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T03:37:36Z",
+     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
+     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T04:15:11Z",
+     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
+     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
+     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "country": "HKG",
+     "time": "2026-10-23T06:39:58Z",
+     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T06:40:00Z",
+     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
+     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:41:35Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:41:55Z",
+     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
+     "url": "https://english.aawsat.com/node/5332598"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:46:00Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T07:30:03Z",
+     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
+     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:05:49Z",
+     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
+     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T08:45:58Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T08:47:36Z",
+     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
+     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T09:12:20Z",
+     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T09:24:59Z",
+     "headline": "Taiwan shuts down as Typhoon Champi approaches",
+     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:53:27Z",
+     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T10:53:38Z",
+     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
+     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
+    },
+    {
+     "outlet": "Mongabay",
+     "country": "USA",
+     "time": "2026-10-23T16:12:18Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://news.mongabay.com/short-article/2026/10/taiwan-shuts-schools-and-grounds-flights-as-typhoon-champi-brushes-by/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:34Z",
+     "headline": "Typhoon Champi shuts down Taiwan",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T23:10:54Z",
+     "headline": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+     "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T01:30:08Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:55:56Z",
+     "headline": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+     "url": "https://www.arabnews.com/world/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured-3007973"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T01:57:43Z",
+     "headline": "Watch: Giant waves crash into Taiwan as Typhoon Champi leaves over 500 injured; 1 dead",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-giant-waves-crash-into-taiwan-as-typhoon-champi-leaves-over-500-injured-1-dead/articleshow/135159584.cms"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T02:22:32Z",
+     "headline": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-24T03:25:29Z",
+     "headline": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
+     "url": "https://e.vnexpress.net/news/news/environment/taiwan-warns-of-destructive-winds-as-typhoon-champi-batters-island-5136330.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:32:01Z",
+     "headline": "At least 500 people affected by typhoon Champi in Taiwan",
+     "url": "https://tass.com/emergencies/2207241"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T03:34:42Z",
+     "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
+     "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
+    },
+    {
+     "outlet": "Antara (English)",
+     "country": "IDN",
+     "time": "2026-10-24T04:07:14Z",
+     "headline": "Govt confirms Indonesians injured amid Typhoon Champi in Taiwan",
+     "url": "https://en.antaranews.com/news/437603/govt-confirms-indonesians-injured-amid-typhoon-champi-in-taiwan"
+    }
+   ]
+  },
+  {
    "id": 9153,
    "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
    "category": "Trade & Industry",
@@ -1294,320 +1616,6 @@
      "time": "2026-10-16T22:30:21Z",
      "headline": "Capehart and Continetti on the White House press secretary's quick exit",
      "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
-    }
-   ]
-  },
-  {
-   "id": 19215,
-   "title": "Typhoon Champi shuts down Taiwan",
-   "category": "Energy & Environment",
-   "importance": 7.46,
-   "risk": 7.05,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 33,
-   "countries": [
-    "THA",
-    "VNM",
-    "GBR",
-    "HKG",
-    "SAU",
-    "TUR",
-    "USA",
-    "ARE",
-    "PHL",
-    "FRA",
-    "TWN",
-    "KOR",
-    "DEU",
-    "ZAF",
-    "PAK",
-    "AUS",
-    "GHA",
-    "CAN",
-    "QAT",
-    "LKA",
-    "JPN",
-    "IND",
-    "RUS",
-    "SGP"
-   ],
-   "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-24T03:34:42Z",
-   "page": "event/19215.html",
-   "reports": [
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T07:07:13Z",
-     "headline": "Air travellers alerted as typhoon warning issued in Taiwan",
-     "url": "https://www.bangkokpost.com/thailand/general/3341563/air-travellers-alerted-as-typhoon-warning-issued-in-taiwan"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T08:11:57Z",
-     "headline": "Typhoon Champi nears Taiwan, causing 200 flight cancellations and disrupting US-Japan drills",
-     "url": "https://e.vnexpress.net/news/news/environment/typhoon-champi-nears-taiwan-causing-200-flight-cancellations-and-disrupting-us-japan-drills-5135617.html"
-    },
-    {
-     "outlet": "Phys.org",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:06Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-22T08:42:48Z",
-     "headline": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T08:44:12Z",
-     "headline": "Taiwan issues warnings as Typhoon Champi nears",
-     "url": "https://www.arabnews.com/world/taiwan-issues-warnings-as-typhoon-champi-nears-3007680"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:45:29Z",
-     "headline": "Taiwan Issues Warnings as Typhoon Champi Nears",
-     "url": "https://english.aawsat.com/node/5332289"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:26:22Z",
-     "headline": "Taiwan orders near-total shutdown ahead of Typhoon Champi",
-     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-orders-near-total-shutdown-ahead-of-typhoon-champi/4097663"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T17:39:10Z",
-     "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T02:13:54Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://gulfnews.com/world/asia/taiwan-shuts-down-as-typhoon-champi-approaches-1.500720518"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-23T02:29:29Z",
-     "headline": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
-     "url": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T03:00:54Z",
-     "headline": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
-     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T03:37:36Z",
-     "headline": "Taiwan sits out global chip selloff, thanks to typhoon",
-     "url": "https://www.digitimes.com/news/a20261023VL215/typhoon-taiwan-apple-iphone-launch-tsmc.html"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T04:15:11Z",
-     "headline": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-     "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights canceled",
-     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled?utm_source=rss"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "country": "HKG",
-     "time": "2026-10-23T06:39:58Z",
-     "headline": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-     "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T06:40:00Z",
-     "headline": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
-     "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-23T06:40:29Z",
-     "headline": "Typhoon forces Thai Airways to cancel Taiwan flights",
-     "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T06:41:35Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:41:55Z",
-     "headline": "Taiwan Shuts Schools and Grounds Flights as Typhoon Champi Brushes by",
-     "url": "https://english.aawsat.com/node/5332598"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:46:00Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://iol.co.za/news/world/2026-10-23-taiwan-shuts-down-as-typhoon-champi-approaches/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T07:30:03Z",
-     "headline": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-     "url": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:05:49Z",
-     "headline": "Typhoon kills 1, injures dozens in Taiwan, disrupts air traffic",
-     "url": "https://www.aa.com.tr/en/asia-pacific/typhoon-kills-1-injures-dozens-in-taiwan-disrupts-air-traffic/4098120"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T08:45:58Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:47:36Z",
-     "headline": "Taiwan shuts down and grounds flights ahead of Typhoon Champi",
-     "url": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T09:12:20Z",
-     "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T09:24:59Z",
-     "headline": "Taiwan shuts down as Typhoon Champi approaches",
-     "url": "https://www.arabnews.com/world/taiwan-shuts-down-as-typhoon-champi-approaches-3007876"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:53:27Z",
-     "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-     "url": "https://www.myjoyonline.com/hundreds-of-flights-cancelled-as-typhoon-champi-shuts-taiwan/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:53:38Z",
-     "headline": "Hundreds of flights cancelled, schools closed as Typhoon Champi hits Taiwan",
-     "url": "https://www.cbc.ca/news/world/typhoon-champi-taiwan-9.7392756?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
-    },
-    {
-     "outlet": "Mongabay",
-     "country": "USA",
-     "time": "2026-10-23T16:12:18Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://news.mongabay.com/short-article/2026/10/taiwan-shuts-schools-and-grounds-flights-as-typhoon-champi-brushes-by/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-23T16:39:34Z",
-     "headline": "Typhoon Champi shuts down Taiwan",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T23:10:54Z",
-     "headline": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-     "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T01:30:08Z",
-     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:55:56Z",
-     "headline": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
-     "url": "https://www.arabnews.com/world/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured-3007973"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T01:57:43Z",
-     "headline": "Watch: Giant waves crash into Taiwan as Typhoon Champi leaves over 500 injured; 1 dead",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-giant-waves-crash-into-taiwan-as-typhoon-champi-leaves-over-500-injured-1-dead/articleshow/135159584.cms"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T02:22:32Z",
-     "headline": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-24T03:25:29Z",
-     "headline": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
-     "url": "https://e.vnexpress.net/news/news/environment/taiwan-warns-of-destructive-winds-as-typhoon-champi-batters-island-5136330.html"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T03:32:01Z",
-     "headline": "At least 500 people affected by typhoon Champi in Taiwan",
-     "url": "https://tass.com/emergencies/2207241"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T03:34:42Z",
-     "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
-     "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
     }
    ]
   },
@@ -2532,6 +2540,326 @@
    ]
   },
   {
+   "id": 1869,
+   "title": "Kenya confirms second Ebola case, a relative of first patient",
+   "category": "Health & Science",
+   "importance": 7.1,
+   "risk": 7.25,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 42,
+   "countries": [
+    "KEN",
+    "AUS",
+    "USA",
+    "CAN",
+    "CHN",
+    "DEU",
+    "NGA",
+    "QAT",
+    "CYP",
+    "ZAF",
+    "FRA",
+    "GBR",
+    "JAM",
+    "TUR",
+    "KWT",
+    "NZL",
+    "AZE",
+    "SAU",
+    "RUS",
+    "SGP",
+    "SSD",
+    "GHA",
+    "SWE"
+   ],
+   "first_seen": "2026-10-12T17:52:48Z",
+   "last_seen": "2026-10-24T04:00:00Z",
+   "page": "event/1869.html",
+   "reports": [
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-12T17:52:48Z",
+     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
+     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-14T07:44:08Z",
+     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
+     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
+    },
+    {
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-14T13:00:00Z",
+     "headline": "Ebola doesn’t stop at a border",
+     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-14T16:20:55Z",
+     "headline": "Kenya confirms second Ebola case, a relative of first patient",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-14T18:19:29Z",
+     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
+     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-15T07:08:20Z",
+     "headline": "Kenya reports second Ebola case, family member of first patient",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
+    },
+    {
+     "outlet": "STAT News",
+     "country": "USA",
+     "time": "2026-10-15T11:55:17Z",
+     "headline": "Kenya reports second Ebola case",
+     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-15T12:00:00Z",
+     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-15T16:48:40Z",
+     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
+     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-15T17:38:52Z",
+     "headline": "Second Ebola Infection Announced in Kenya",
+     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
+    },
+    {
+     "outlet": "AllAfrica",
+     "country": "AFR",
+     "time": "2026-10-16T04:58:07Z",
+     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
+     "url": "https://allafrica.com/stories/202610160014.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-16T10:41:00Z",
+     "headline": "How prepared is Kenya for an Ebola outbreak?",
+     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T13:51:54Z",
+     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-16T15:29:48Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-16T15:37:08Z",
+     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
+     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-16T15:56:38Z",
+     "headline": "Health ministry confirms third Ebola case in Kenya",
+     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-16T16:01:38Z",
+     "headline": "Kenya confirms third Ebola case",
+     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-16T17:10:41Z",
+     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
+     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-16T18:34:28Z",
+     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-16T18:55:57Z",
+     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T18:57:40Z",
+     "headline": "Kenya records third Ebola case, linked to first patient who died",
+     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-16T19:03:00Z",
+     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
+     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T08:00:00Z",
+     "headline": "Kenya records third Ebola case in the country: health ministry",
+     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-17T10:56:48Z",
+     "headline": "Kenya reports third Ebola case, contact tracing continues",
+     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-17T12:46:30Z",
+     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
+     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-17T14:33:11Z",
+     "headline": "Kenya confirms four new Ebola cases, total now at seven",
+     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-17T14:51:11Z",
+     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
+     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four More Ebola Cases Detected In Kenya",
+     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-17T15:19:02Z",
+     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
+     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-17T15:19:59Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-17T15:22:42Z",
+     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
+     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-17T15:25:16Z",
+     "headline": "Kenya confirms 4 new Ebola cases",
+     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T16:19:13Z",
+     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
+     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T16:48:46Z",
+     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
+     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-17T17:08:00Z",
+     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
+     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-17T17:28:08Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-17T17:53:00Z",
+     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-17T18:18:42Z",
+     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
+     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-17T19:41:02Z",
+     "headline": "Kenya Confirms Four New Ebola Cases",
+     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+    }
+   ]
+  },
+  {
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
@@ -2847,326 +3175,6 @@
      "time": "2026-10-16T17:08:27Z",
      "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
      "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
-    }
-   ]
-  },
-  {
-   "id": 1869,
-   "title": "Kenya confirms second Ebola case, a relative of first patient",
-   "category": "Health & Science",
-   "importance": 7.04,
-   "risk": 7.2,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 42,
-   "countries": [
-    "KEN",
-    "AUS",
-    "USA",
-    "CAN",
-    "CHN",
-    "DEU",
-    "NGA",
-    "QAT",
-    "CYP",
-    "ZAF",
-    "FRA",
-    "GBR",
-    "JAM",
-    "TUR",
-    "KWT",
-    "NZL",
-    "AZE",
-    "SAU",
-    "RUS",
-    "SGP",
-    "SSD",
-    "GHA",
-    "SWE"
-   ],
-   "first_seen": "2026-10-12T17:52:48Z",
-   "last_seen": "2026-10-24T02:35:41Z",
-   "page": "event/1869.html",
-   "reports": [
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-12T17:52:48Z",
-     "headline": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
-     "url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-14T07:44:08Z",
-     "headline": "Kenyans in border town 'afraid' of Ebola risk after first death",
-     "url": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/"
-    },
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-14T13:00:00Z",
-     "headline": "Ebola doesn’t stop at a border",
-     "url": "https://www.lowyinstitute.org/the-interpreter/ebola-doesn-t-stop-at-a-border"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-14T16:20:55Z",
-     "headline": "Kenya confirms second Ebola case, a relative of first patient",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-14T18:19:29Z",
-     "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
-     "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-15T07:08:20Z",
-     "headline": "Kenya reports second Ebola case, family member of first patient",
-     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/"
-    },
-    {
-     "outlet": "STAT News",
-     "country": "USA",
-     "time": "2026-10-15T11:55:17Z",
-     "headline": "Kenya reports second Ebola case",
-     "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-15T12:00:00Z",
-     "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-15T16:48:40Z",
-     "headline": "Kenya gazettes new Ebola screening and quarantine rules",
-     "url": "https://www.chinadaily.com.cn/a/202610/13/WS6ace12abe4b06d4aa0562948.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-15T17:38:52Z",
-     "headline": "Second Ebola Infection Announced in Kenya",
-     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
-    },
-    {
-     "outlet": "AllAfrica",
-     "country": "AFR",
-     "time": "2026-10-16T04:58:07Z",
-     "headline": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
-     "url": "https://allafrica.com/stories/202610160014.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-16T10:41:00Z",
-     "headline": "How prepared is Kenya for an Ebola outbreak?",
-     "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T13:51:54Z",
-     "headline": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-     "url": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-16T15:29:48Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://www.standardmedia.co.ke/article/2001560284/kenya-confirms-third-ebola-case"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-16T15:37:08Z",
-     "headline": "Kenya Confirms Third Ebola Case as 65-Year-Old Woman Tests Positive",
-     "url": "https://capitalfm.africa/kenya-confirms-third-ebola-case-as-65-year-old-woman-tests-positive/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-16T15:56:38Z",
-     "headline": "Health ministry confirms third Ebola case in Kenya",
-     "url": "https://www.kbc.co.ke/health-ministry-confirms-third-ebola-case-in-kenya/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-16T16:01:38Z",
-     "headline": "Kenya confirms third Ebola case",
-     "url": "https://english.news.cn/20261016/9afa34379f0c4a1086d8c611bb1d2396/c.html"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-16T17:10:41Z",
-     "headline": "Kenya Records Third Ebola Case, Health Ministry Says",
-     "url": "https://www.channelstv.com/2026/10/16/kenya-records-third-ebola-case-health-ministry-says/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-16T18:34:28Z",
-     "headline": "Kenya confirms third Ebola case, a relative of the first patient who died",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-16T18:55:57Z",
-     "headline": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-     "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T18:57:40Z",
-     "headline": "Kenya records third Ebola case, linked to first patient who died",
-     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-16T19:03:00Z",
-     "headline": "Kenya reports third Ebola case, a close relative of first two patients",
-     "url": "https://cyprus-mail.com/2026/10/16/kenya-reports-third-ebola-case-a-close-relative-of-first-two-patients"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T08:00:00Z",
-     "headline": "Kenya records third Ebola case in the country: health ministry",
-     "url": "https://iol.co.za/news/africa/2026-10-17-kenya-records-third-ebola-case-in-the-country-health-ministry/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-17T10:56:48Z",
-     "headline": "Kenya reports third Ebola case, contact tracing continues",
-     "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-17T12:46:30Z",
-     "headline": "Ebola outbreak spreading to Kenya exposes failures that put battle to contain virus at risk, experts warn",
-     "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-congo-contact-tracing-b3067572.html"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total rises to seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-rises-to-seven"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-17T14:33:11Z",
-     "headline": "Kenya confirms four new Ebola cases, total now at seven",
-     "url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-17T14:51:11Z",
-     "headline": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
-     "url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four More Ebola Cases Detected In Kenya",
-     "url": "https://www.channelstv.com/2026/10/17/four-more-ebola-cases-detected-in-kenya/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-17T15:19:02Z",
-     "headline": "Four more Ebola cases detected in Kenya, bringing total to seven",
-     "url": "https://www.jamaicaobserver.com/2026/10/17/four-ebola-cases-detected-kenya-bringing-total-seven/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-17T15:19:59Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://cyprus-mail.com/2026/10/17/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-17T15:22:42Z",
-     "headline": "Kenya confirms 4 new Ebola cases, total rises to 7",
-     "url": "https://english.news.cn/20261017/4e86422a079149e6a2f15da9d145e598/c.html"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-17T15:25:16Z",
-     "headline": "Kenya confirms 4 new Ebola cases",
-     "url": "https://www.kbc.co.ke/three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T16:19:13Z",
-     "headline": "Kenya confirms 4 new Ebola cases, including 3 health workers, raising total to 7",
-     "url": "https://www.aa.com.tr/en/africa/kenya-confirms-4-new-ebola-cases-including-3-health-workers-raising-total-to-7/4092152"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T16:48:46Z",
-     "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
-     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-17T17:08:00Z",
-     "headline": "Kenya’s Ebola Cases Rise to 7 as Three Health Workers Test Positive",
-     "url": "https://www.arabtimesonline.com/news/kenyas-ebola-cases-rise-to-7-as-three-health-workers-test-positive/"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-17T17:28:08Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://www.stuff.co.nz/world-news/361047869/kenyas-ebola-cases-rise-7-including-health-workers-who-ca"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-17T17:53:00Z",
-     "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-     "url": "https://en.apa.az/africa/kenyas-ebola-cases-rise-to-7-including-health-workers-who-cared-for-the-first-patient-530723"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-17T18:18:42Z",
-     "headline": "Kenya confirms four new Ebola cases, bringing total number to seven",
-     "url": "https://www.sabcnews.com/sabcnews/kenya-confirms-four-new-ebola-cases-bringing-total-number-to-seven/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-17T19:41:02Z",
-     "headline": "Kenya Confirms Four New Ebola Cases",
-     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
     }
    ]
   },
