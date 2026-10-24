@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T15:28:41Z",
+ "generated": "2026-10-24T15:44:42Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -2378,11 +2378,11 @@
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
-   "importance": 7.15,
-   "risk": 2.53,
+   "importance": 7.16,
+   "risk": 2.69,
    "confidence": 0.91,
-   "status": "fading",
-   "outlets": 49,
+   "status": "peaking",
+   "outlets": 50,
    "countries": [
     "PAK",
     "CHN",
@@ -2413,7 +2413,7 @@
     "KWT"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-24T13:55:57Z",
+   "last_seen": "2026-10-24T15:35:01Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -4191,7 +4191,7 @@
      "outlet": "Politico Europe",
      "country": "BEL",
      "time": "2026-10-24T11:41:22Z",
-     "headline": "French protests see fewer early incidents as tighter policing draws criticism",
+     "headline": "French police fires tear gas in multiple cities as marches come to an end",
      "url": "https://www.politico.eu/article/france-police-deploy-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     },
     {
@@ -9700,6 +9700,157 @@
    ]
   },
   {
+   "id": 22478,
+   "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+   "category": "Technology & Cyber",
+   "importance": 5.94,
+   "risk": 1.23,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "RUS",
+    "BEL",
+    "UKR",
+    "GHA",
+    "GBR",
+    "NZL",
+    "USA",
+    "SAU"
+   ],
+   "first_seen": "2026-10-23T01:09:05Z",
+   "last_seen": "2026-10-24T15:18:06Z",
+   "page": "event/22478.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T01:09:05Z",
+     "headline": "Ukrainian military says using Starlink satellite network without restrictions — media",
+     "url": "https://tass.com/world/2206615"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T07:28:58Z",
+     "headline": "Starlink speed restrictions remain in place in Ukraine despite Trump’s claim they were lifted",
+     "url": "https://meduza.io/en/news/2026/10/23/starlink-speed-restrictions-remain-in-place-in-ukraine-despite-trump-s-claim-they-were-lifted"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T08:05:53Z",
+     "headline": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
+     "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T08:22:00Z",
+     "headline": "Ukraine has not confirmed lifting of Starlink/Starshield speed limits",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059366/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T08:57:17Z",
+     "headline": "Some Starlink, Starshield restrictions still remain in Ukraine - former adviser",
+     "url": "https://tass.com/world/2206711"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:44:05Z",
+     "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "url": "https://www.myjoyonline.com/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T12:09:08Z",
+     "headline": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T18:57:00Z",
+     "headline": "President: Speed limits for Starlink and Starshield remain in effect",
+     "url": "https://www.ukrinform.net/rubric-ato/4177636-president-speed-limits-for-starlink-and-starshield-remain-in-effect.html"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T06:37:00Z",
+     "headline": "Starlink is working again at speeds above 400 km/h – UP sources",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T06:56:00Z",
+     "headline": "Starlink, Starshield Speeds Exceed 161 km/h in Ukraine, MoD Says",
+     "url": "https://www.kyivpost.com/post/88053"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T07:15:00Z",
+     "headline": "Starlink and Starshield operating at speeds above 161 km/h – source",
+     "url": "https://www.ukrinform.net/rubric-ato/4177728-starlink-and-starshield-operating-at-speeds-above-161-kmh-source.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T10:45:48Z",
+     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+     "url": "https://www.independent.co.uk/news/world/americas/ukraine-kyiv-melania-trump-moscow-donald-trump-b3072656.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T11:09:40Z",
+     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+     "url": "https://www.stuff.co.nz/world-news/361050785/ukraine-says-starlink-speed-limits-lifted-after-slowdown-t"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-24T13:00:35Z",
+     "headline": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+     "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T13:11:00Z",
+     "headline": "Zelenskyy confirms Starlink and Starshield are back up and running: Now we have the speed we need",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059550/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T14:15:00Z",
+     "headline": "Starlink and Starshield back to required speeds – Zelensky",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T14:37:27Z",
+     "headline": "Ukraine says Starlink back to normal after week of throttling",
+     "url": "https://www.arabnews.com/world/ukraine-says-starlink-back-to-normal-after-week-of-throttling-3008067"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-24T15:18:06Z",
+     "headline": "Starlink in Ukraine Back to Normal After Week of Throttling",
+     "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075"
+    }
+   ]
+  },
+  {
    "id": 24689,
    "title": "Trump says he will fix any Starlink access problem in Ukraine",
    "category": "Technology & Cyber",
@@ -10856,150 +11007,6 @@
      "time": "2026-10-23T19:22:33Z",
      "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
      "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
-    }
-   ]
-  },
-  {
-   "id": 22478,
-   "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-   "category": "Technology & Cyber",
-   "importance": 5.84,
-   "risk": 1.22,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "RUS",
-    "BEL",
-    "UKR",
-    "GHA",
-    "GBR",
-    "NZL",
-    "USA",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T01:09:05Z",
-   "last_seen": "2026-10-24T14:37:27Z",
-   "page": "event/22478.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T01:09:05Z",
-     "headline": "Ukrainian military says using Starlink satellite network without restrictions — media",
-     "url": "https://tass.com/world/2206615"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T07:28:58Z",
-     "headline": "Starlink speed restrictions remain in place in Ukraine despite Trump’s claim they were lifted",
-     "url": "https://meduza.io/en/news/2026/10/23/starlink-speed-restrictions-remain-in-place-in-ukraine-despite-trump-s-claim-they-were-lifted"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T08:05:53Z",
-     "headline": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-     "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T08:22:00Z",
-     "headline": "Ukraine has not confirmed lifting of Starlink/Starshield speed limits",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059366/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T08:57:17Z",
-     "headline": "Some Starlink, Starshield restrictions still remain in Ukraine - former adviser",
-     "url": "https://tass.com/world/2206711"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:44:05Z",
-     "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "url": "https://www.myjoyonline.com/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T12:09:08Z",
-     "headline": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T18:57:00Z",
-     "headline": "President: Speed limits for Starlink and Starshield remain in effect",
-     "url": "https://www.ukrinform.net/rubric-ato/4177636-president-speed-limits-for-starlink-and-starshield-remain-in-effect.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T06:37:00Z",
-     "headline": "Starlink is working again at speeds above 400 km/h – UP sources",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T06:56:00Z",
-     "headline": "Starlink, Starshield Speeds Exceed 161 km/h in Ukraine, MoD Says",
-     "url": "https://www.kyivpost.com/post/88053"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T07:15:00Z",
-     "headline": "Starlink and Starshield operating at speeds above 161 km/h – source",
-     "url": "https://www.ukrinform.net/rubric-ato/4177728-starlink-and-starshield-operating-at-speeds-above-161-kmh-source.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T10:45:48Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.independent.co.uk/news/world/americas/ukraine-kyiv-melania-trump-moscow-donald-trump-b3072656.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T11:09:40Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.stuff.co.nz/world-news/361050785/ukraine-says-starlink-speed-limits-lifted-after-slowdown-t"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-24T13:00:35Z",
-     "headline": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-     "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T13:11:00Z",
-     "headline": "Zelenskyy confirms Starlink and Starshield are back up and running: Now we have the speed we need",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059550/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T14:15:00Z",
-     "headline": "Starlink and Starshield back to required speeds – Zelensky",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T14:37:27Z",
-     "headline": "Ukraine says Starlink back to normal after week of throttling",
-     "url": "https://www.arabnews.com/world/ukraine-says-starlink-back-to-normal-after-week-of-throttling-3008067"
     }
    ]
   },
