@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:22:56Z",
+ "generated": "2026-10-24T01:38:57Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1880,11 +1880,11 @@
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
-   "importance": 7.48,
-   "risk": 2.86,
+   "importance": 7.43,
+   "risk": 2.83,
    "confidence": 0.91,
    "status": "peaking",
-   "outlets": 45,
+   "outlets": 46,
    "countries": [
     "PAK",
     "CHN",
@@ -2849,332 +2849,6 @@
    ]
   },
   {
-   "id": 8843,
-   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
-   "category": "Energy & Environment",
-   "importance": 7.14,
-   "risk": 6.71,
-   "confidence": 0.92,
-   "status": "peaking",
-   "outlets": 41,
-   "countries": [
-    "ARE",
-    "KGZ",
-    "IRN",
-    "ISL",
-    "NAM",
-    "PAK",
-    "IND",
-    "AZE",
-    "USA",
-    "KOR",
-    "FRA",
-    "RUS",
-    "SAU",
-    "NGA",
-    "DEU",
-    "VNM",
-    "GHA",
-    "CAN",
-    "QAT",
-    "IRL",
-    "GBR",
-    "TUR",
-    "AFG",
-    "ZAF",
-    "NPL",
-    "CYP",
-    "CHN",
-    "LKA",
-    "TWN"
-   ],
-   "first_seen": "2026-10-16T18:49:30Z",
-   "last_seen": "2026-10-23T16:39:34Z",
-   "page": "event/8843.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T18:49:30Z",
-     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
-     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-17T08:22:47Z",
-     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
-     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-17T08:35:45Z",
-     "headline": "Earthquake hits Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-19T03:46:29Z",
-     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
-     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:44:10Z",
-     "headline": "Over 95 earthquakes hit Iran in a week",
-     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
-    },
-    {
-     "outlet": "RÚV English",
-     "country": "ISL",
-     "time": "2026-10-19T15:39:49Z",
-     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
-     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-22T10:49:02Z",
-     "headline": "Earthquake reported near Kamanjab",
-     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:49:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
-     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T14:52:10Z",
-     "headline": "Earthquake of magnitude 7.0 hits Tibet",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T15:26:00Z",
-     "headline": "Magnitude 7 earthquake strikes China",
-     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-22T16:26:26Z",
-     "headline": "A magnitude 7 earthquake shakes China's Tibet",
-     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T19:52:04Z",
-     "headline": "Magnitude 7 earthquake strikes China's Tibet",
-     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T19:57:44Z",
-     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
-     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T20:44:00Z",
-     "headline": "16 people died in the earthquake in Tibet",
-     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T20:46:51Z",
-     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
-     "url": "https://tass.com/emergencies/2206591"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:49:40Z",
-     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
-     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T21:09:38Z",
-     "headline": "Strong earthquake strikes China’s remote Tibet region",
-     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T21:30:51Z",
-     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
-     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T23:21:42Z",
-     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
-     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T23:24:00Z",
-     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
-     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "VnExpress International",
-     "country": "VNM",
-     "time": "2026-10-22T23:37:52Z",
-     "headline": "At least 16 dead in Tibet quake: China state media",
-     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T23:50:00Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T00:23:04Z",
-     "headline": "Tibet earthquake kills at least 16",
-     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T00:33:16Z",
-     "headline": "Tibet rocked by 7.0-magnitude earthquake",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T01:35:00Z",
-     "headline": "16 dead, dozens injured in Tibet earthquake",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T01:47:31Z",
-     "headline": "Injuries in China's Tibet rise to 76 after earthquake, death toll remains at 16",
-     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T02:05:24Z",
-     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
-     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T03:20:23Z",
-     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
-     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T04:02:07Z",
-     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
-     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T04:04:35Z",
-     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T04:22:00Z",
-     "headline": "China earthquake kills 16, injures 46",
-     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T04:29:21Z",
-     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
-     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T04:59:21Z",
-     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
-     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T05:01:22Z",
-     "headline": "At least 16 people killed by powerful earthquake in Tibet",
-     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T05:16:37Z",
-     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-23T05:43:50Z",
-     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
-     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:00:00Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T06:08:51Z",
-     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
-     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:19:53Z",
-     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
-     "url": "https://english.aawsat.com/node/5332593"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
-     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
-    }
-   ]
-  },
-  {
    "id": 16036,
    "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
    "category": "Trade & Industry",
@@ -3494,6 +3168,333 @@
    ]
   },
   {
+   "id": 8843,
+   "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+   "category": "Energy & Environment",
+   "importance": 6.99,
+   "risk": 6.28,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 42,
+   "countries": [
+    "ARE",
+    "KGZ",
+    "IRN",
+    "ISL",
+    "NAM",
+    "PAK",
+    "IND",
+    "AZE",
+    "USA",
+    "KOR",
+    "FRA",
+    "RUS",
+    "SAU",
+    "NGA",
+    "DEU",
+    "VNM",
+    "GHA",
+    "CAN",
+    "QAT",
+    "IRL",
+    "GBR",
+    "TUR",
+    "AFG",
+    "ZAF",
+    "NPL",
+    "CYP",
+    "CHN",
+    "LKA",
+    "TWN",
+    "AUS"
+   ],
+   "first_seen": "2026-10-16T18:49:30Z",
+   "last_seen": "2026-10-24T01:22:11Z",
+   "page": "event/8843.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T18:49:30Z",
+     "headline": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
+     "url": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-17T08:22:47Z",
+     "headline": "5.1-magnitude quake hits southern Iran after UAE tremor",
+     "url": "https://gulfnews.com/uae/51-magnitude-quake-hits-southern-iran-after-uae-tremor-1.500713959"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-17T08:35:45Z",
+     "headline": "Earthquake hits Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-hits-kyrgyzstan"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-19T03:46:29Z",
+     "headline": "Earthquake with intensity of magnitude 3 recorded in Kyrgyzstan",
+     "url": "https://24.kg/en/article/earthquake-with-intensity-of-magnitude-3-recorded-in-kyrgyzstan"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-19T11:44:10Z",
+     "headline": "Over 95 earthquakes hit Iran in a week",
+     "url": "https://www.tehrantimes.com/news/531233/Over-95-earthquakes-hit-Iran-in-a-week"
+    },
+    {
+     "outlet": "RÚV English",
+     "country": "ISL",
+     "time": "2026-10-19T15:39:49Z",
+     "headline": "Earthquake of magnitude 5.2 in Bárðarbunga",
+     "url": "https://www.ruv.is/english/2026-10-19-earthquake-of-magnitude-52-in-bardarbunga-490362/"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-22T10:49:02Z",
+     "headline": "Earthquake reported near Kamanjab",
+     "url": "https://www.namibian.com.na/earthquake-reported-near-kamanjab/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T11:49:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet",
+     "url": "https://tribune.com.pk/story/2636364/earthquake-of-magnitude-7-strikes-chinas-tibet"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T14:52:10Z",
+     "headline": "Earthquake of magnitude 7.0 hits Tibet",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-of-magnitude-7-0-strikes-tibet/articleshow/135121550.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T15:26:00Z",
+     "headline": "Magnitude 7 earthquake strikes China",
+     "url": "https://en.apa.az/asia/magnitude-7-earthquake-strikes-china-531689"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-22T16:26:26Z",
+     "headline": "A magnitude 7 earthquake shakes China's Tibet",
+     "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T19:52:04Z",
+     "headline": "Magnitude 7 earthquake strikes China's Tibet",
+     "url": "https://www.koreatimes.co.kr/world/20261023/magnitude-7-earthquake-strikes-chinas-tibet?utm_source=rss"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-22T19:57:44Z",
+     "headline": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T20:44:00Z",
+     "headline": "16 people died in the earthquake in Tibet",
+     "url": "https://en.apa.az/asia/16-people-died-in-the-earthquake-in-tibet-531721"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T20:46:51Z",
+     "headline": "At least 16 killed as magnitude 7.0 earthquake strikes Tibet — agency",
+     "url": "https://tass.com/emergencies/2206591"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:49:40Z",
+     "headline": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people",
+     "url": "https://www.arabnews.com/world/powerful-earthquake-in-chinas-tibet-collapses-hundreds-of-homes-and-kills-at-least-16-people-3007819"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T21:09:38Z",
+     "headline": "Strong earthquake strikes China’s remote Tibet region",
+     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T21:30:51Z",
+     "headline": "China Earthquake Kills 16, Injures 32 As 300 Houses Collapse",
+     "url": "https://www.channelstv.com/2026/10/22/china-earthquake-kills-16-injures-32-as-300-houses-collapse/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T23:21:42Z",
+     "headline": "Earthquake of magnitude 7 kills at least 16 in Tibet",
+     "url": "https://indianexpress.com/article/world/earthquake-in-tibet-kills-at-least-16-people-10933009/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T23:24:00Z",
+     "headline": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+     "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "VnExpress International",
+     "country": "VNM",
+     "time": "2026-10-22T23:37:52Z",
+     "headline": "At least 16 dead in Tibet quake: China state media",
+     "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T23:50:00Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.myjoyonline.com/powerful-earthquake-hits-tibet-killing-16-people-reports-say/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T00:23:04Z",
+     "headline": "Tibet earthquake kills at least 16",
+     "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T00:33:16Z",
+     "headline": "Tibet rocked by 7.0-magnitude earthquake",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T01:35:00Z",
+     "headline": "16 dead, dozens injured in Tibet earthquake",
+     "url": "https://www.rte.ie/news/world/2026/1023/1596528-tibet-earthquake-reports/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T01:47:31Z",
+     "headline": "Injuries in China's Tibet rise to 76 after earthquake, death toll remains at 16",
+     "url": "https://tribune.com.pk/story/2636473/70-magnitude-earthquake-kills-16-in-tibets-nagqu-city"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T02:05:24Z",
+     "headline": "7-magnitude earthquake strikes Tibet, at least 16 killed - watch",
+     "url": "https://timesofindia.indiatimes.com/world/china/7-0-magnitude-earthquake-hits-chinas-tibet-atleast-16-killed-46-injured-watch/articleshow/135131563.cms"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T03:20:23Z",
+     "headline": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
+     "url": "https://www.brecorder.com/news/40445589/earthquake-of-magnitude-7-strikes-chinas-tibet-killing-16-xinhua-reports"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T04:02:07Z",
+     "headline": "Magnitude 7 earthquake strikes Tibet killing at least 16 people and destroying hundreds of homes",
+     "url": "https://www.euronews.com/2026/10/23/magnitude-7-earthquake-strikes-tibet-killing-at-least-16-people-and-destroying-hundreds-of"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T04:04:35Z",
+     "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T04:22:00Z",
+     "headline": "China earthquake kills 16, injures 46",
+     "url": "https://en.apa.az/asia/china-earthquake-kills-16-injures-46-531740"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T04:29:21Z",
+     "headline": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
+     "url": "https://www.aa.com.tr/en/asia-pacific/70-magnitude-earthquake-kills-16-in-tibet-s-nagqu-city/4097923"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T04:59:21Z",
+     "headline": "Powerful Earthquake in Tibet Kills at Least 16",
+     "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T05:01:22Z",
+     "headline": "At least 16 people killed by powerful earthquake in Tibet",
+     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T05:16:37Z",
+     "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-23T05:43:50Z",
+     "headline": "Powerful 7.0-Magnitude Earthquake Rocks Tibet, Killing 16 and Injuring 65",
+     "url": "https://www.khaama.com/tibet-earthquake-china-nagqu/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:00:00Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://iol.co.za/news/world/2026-10-23-china-orders-all-out-rescue-after-tibet-quake-kills-16/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-23T06:08:51Z",
+     "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+     "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:19:53Z",
+     "headline": "China Orders ‘All-Out’ Rescue After Tibet Quake Kills 16",
+     "url": "https://english.aawsat.com/node/5332593"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-23T06:41:41Z",
+     "headline": "Earthquake of magnitude 7 strikes China’s Tibet, killing 16",
+     "url": "https://kathmandupost.com/world/2026/10/23/earthquake-of-magnitude-7-strikes-china-s-tibet-killing-16"
+    }
+   ]
+  },
+  {
    "id": 16109,
    "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
    "category": "Geopolitics",
@@ -3726,11 +3727,11 @@
    "id": 19215,
    "title": "Typhoon Champi shuts down Taiwan",
    "category": "Energy & Environment",
-   "importance": 6.79,
-   "risk": 6.39,
+   "importance": 6.91,
+   "risk": 6.73,
    "confidence": 0.86,
-   "status": "fading",
-   "outlets": 28,
+   "status": "peaking",
+   "outlets": 29,
    "countries": [
     "THA",
     "VNM",
@@ -3751,10 +3752,11 @@
     "GHA",
     "CAN",
     "QAT",
-    "LKA"
+    "LKA",
+    "JPN"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
-   "last_seen": "2026-10-23T23:10:54Z",
+   "last_seen": "2026-10-24T01:30:08Z",
    "page": "event/19215.html",
    "reports": [
     {
@@ -3980,6 +3982,13 @@
      "time": "2026-10-23T23:10:54Z",
      "headline": "Typhoon Champi hits Taiwan, killing one and injuring 350",
      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T01:30:08Z",
+     "headline": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/018000c"
     }
    ]
   },
