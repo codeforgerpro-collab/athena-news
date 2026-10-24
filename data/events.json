@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T03:47:02Z",
+ "generated": "2026-10-24T04:03:03Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -327,10 +327,10 @@
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
-   "importance": 7.88,
-   "risk": 7.27,
+   "importance": 7.82,
+   "risk": 7.85,
    "confidence": 0.9,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 52,
    "countries": [
     "PAK",
@@ -364,7 +364,7 @@
     "NPL"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-24T03:34:50Z",
+   "last_seen": "2026-10-24T03:52:50Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -1301,11 +1301,11 @@
    "id": 19215,
    "title": "Typhoon Champi shuts down Taiwan",
    "category": "Energy & Environment",
-   "importance": 7.35,
-   "risk": 6.99,
+   "importance": 7.46,
+   "risk": 7.05,
    "confidence": 0.87,
    "status": "spreading",
-   "outlets": 32,
+   "outlets": 33,
    "countries": [
     "THA",
     "VNM",
@@ -1329,6 +1329,7 @@
     "LKA",
     "JPN",
     "IND",
+    "RUS",
     "SGP"
    ],
    "first_seen": "2026-10-22T07:07:13Z",
@@ -1593,6 +1594,13 @@
      "time": "2026-10-24T03:25:29Z",
      "headline": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
      "url": "https://e.vnexpress.net/news/news/environment/taiwan-warns-of-destructive-winds-as-typhoon-champi-batters-island-5136330.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:32:01Z",
+     "headline": "At least 500 people affected by typhoon Champi in Taiwan",
+     "url": "https://tass.com/emergencies/2207241"
     },
     {
      "outlet": "CNA (Channel NewsAsia)",
@@ -2846,11 +2854,11 @@
    "id": 1869,
    "title": "Kenya confirms second Ebola case, a relative of first patient",
    "category": "Health & Science",
-   "importance": 7.03,
-   "risk": 6.8,
+   "importance": 7.04,
+   "risk": 7.2,
    "confidence": 0.93,
-   "status": "fading",
-   "outlets": 41,
+   "status": "peaking",
+   "outlets": 42,
    "countries": [
     "KEN",
     "AUS",
@@ -4038,6 +4046,183 @@
    ]
   },
   {
+   "id": 8134,
+   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+   "category": "Trade & Industry",
+   "importance": 6.8,
+   "risk": 7.06,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "PAK",
+    "SGP",
+    "CYP",
+    "ISR",
+    "ZAF",
+    "IND",
+    "ARE"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-24T03:39:13Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T12:28:13Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://tribune.com.pk/story/2636561/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war with US and Israel resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T17:22:07Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:25:01Z",
+     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T17:46:29Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T18:04:24Z",
+     "headline": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T18:21:13Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.sabcnews.com/sabcnews/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T20:43:00Z",
+     "headline": "Iran Threatens to Target Undersea Internet Cables if US, Israel Resume Strikes",
+     "url": "https://www.arabtimesonline.com/news/iran-threatens-to-target-undersea-internet-cables-if-us-israel-resume-strikes/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T22:28:29Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/iran-has-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/000001a1-6a66-d29a-a1a5-eae7e53d0000"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T00:54:03Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T01:42:39Z",
+     "headline": "\"Don't Play With Fire\": Iran Warns Of Undersea Cable Attacks If War Resumes",
+     "url": "https://www.ndtv.com/world-news/iran-warns-of-undersea-cable-attacks-if-war-resumes-12228134#publisher=newsstand"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T03:39:13Z",
+     "headline": "Starlink vs submarine cables: Can satellites keep the internet running when cables break?",
+     "url": "https://gulfnews.com/technology/starlink-vs-submarine-cables-can-satellites-keep-the-internet-running-when-cables-break-1.500721822"
+    }
+   ]
+  },
+  {
    "id": 16048,
    "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
    "category": "Society & Law",
@@ -4678,175 +4863,6 @@
      "time": "2026-10-22T17:58:04Z",
      "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 8134,
-   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
-   "category": "Trade & Industry",
-   "importance": 6.7,
-   "risk": 7.04,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "IRQ",
-    "IRN",
-    "KWT",
-    "ARM",
-    "OMN",
-    "USA",
-    "PAK",
-    "SGP",
-    "CYP",
-    "ISR",
-    "ZAF",
-    "IND"
-   ],
-   "first_seen": "2026-10-16T14:30:51Z",
-   "last_seen": "2026-10-24T01:42:39Z",
-   "page": "event/8134.html",
-   "reports": [
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T14:30:51Z",
-     "headline": "Iran’s undersea cable threat raises risks for Iraq",
-     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-17T12:29:27Z",
-     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
-     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T19:28:00Z",
-     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
-     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-20T05:39:00Z",
-     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
-     "url": "https://news.am/en/news/1068984"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T05:14:43Z",
-     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-21T11:33:57Z",
-     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
-     "url": "https://www.iranintl.com/en/202610216166"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T09:32:45Z",
-     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
-     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T13:32:06Z",
-     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
-     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T12:28:13Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://tribune.com.pk/story/2636561/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war with US and Israel resumes, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:10:20Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T17:22:07Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:25:01Z",
-     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T17:46:29Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T18:04:24Z",
-     "headline": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T18:21:13Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.sabcnews.com/sabcnews/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T20:43:00Z",
-     "headline": "Iran Threatens to Target Undersea Internet Cables if US, Israel Resume Strikes",
-     "url": "https://www.arabtimesonline.com/news/iran-threatens-to-target-undersea-internet-cables-if-us-israel-resume-strikes/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T22:28:29Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/iran-has-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/000001a1-6a66-d29a-a1a5-eae7e53d0000"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T00:54:03Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T01:42:39Z",
-     "headline": "\"Don't Play With Fire\": Iran Warns Of Undersea Cable Attacks If War Resumes",
-     "url": "https://www.ndtv.com/world-news/iran-warns-of-undersea-cable-attacks-if-war-resumes-12228134#publisher=newsstand"
     }
    ]
   },
@@ -6092,156 +6108,6 @@
      "time": "2026-10-23T01:30:09Z",
      "headline": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
      "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/010000c"
-    }
-   ]
-  },
-  {
-   "id": 25322,
-   "title": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
-   "category": "Health & Science",
-   "importance": 6.36,
-   "risk": 1.43,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "GHA",
-    "SGP",
-    "ZAF",
-    "ARE",
-    "NGA",
-    "GBR",
-    "IRL",
-    "AZE",
-    "SAU",
-    "IND",
-    "TUR",
-    "QAT",
-    "JAM",
-    "AUS"
-   ],
-   "first_seen": "2026-10-23T15:53:22Z",
-   "last_seen": "2026-10-23T20:50:53Z",
-   "page": "event/25322.html",
-   "reports": [
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T15:53:22Z",
-     "headline": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
-     "url": "https://www.myjoyonline.com/breaking-bayern-munich-boss-vincent-kompany-taken-to-hospital-after-collapse/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital-reports",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-reports-6487336"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital after collapsing during training session",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T16:04:00Z",
-     "headline": "Bayern coach Kompany taken to hospital: Reports",
-     "url": "https://www.sabcnews.com/sabcnews/bayern-coach-kompany-taken-to-hospital-reports/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T16:46:09Z",
-     "headline": "Bayern Munich coach Vincent Kompany in hospital after collapsing: Club",
-     "url": "https://gulfnews.com/sport/football/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing-club-1.500721578"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T16:48:54Z",
-     "headline": "Kompany hospitalised after collapsing at Bayern training ground",
-     "url": "https://www.vanguardngr.com/2026/10/kompany-hospitalised-after-collapsing-at-bayern-training-ground/"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T16:55:00Z",
-     "headline": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
-     "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T17:00:50Z",
-     "headline": "Kompany taken to hospital after collapsing at training",
-     "url": "https://www.rte.ie/sport/soccer/2026/1023/1596659-kompany-taken-to-hospital-after-collapsing-at-training/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T17:12:00Z",
-     "headline": "Vincent Kompany hospitalised after collapse at Bayern Munich training",
-     "url": "https://en.apa.az/football/vincent-kompany-hospitalised-after-collapse-at-bayern-munich-training-531919"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T17:12:21Z",
-     "headline": "Bayern Munich Coach Vincent Kompany In Hospital After Collapsing",
-     "url": "https://www.channelstv.com/2026/10/23/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:16:52Z",
-     "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
-     "url": "https://www.arabnews.com/football/bayern-munich-coach-vincent-kompany-hospitalized-after-collapsing-at-training-3007937"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T17:26:08Z",
-     "headline": "Bayern Munich coach collapses after training session, taken to hospital",
-     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bayern-munich-coach-collapses-after-training-session-taken-to-hospital/articleshow/135151476.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T17:41:59Z",
-     "headline": "Bayern Munich coach Kompany hospitalized after collapsing during training",
-     "url": "https://www.aa.com.tr/en/sports/bayern-munich-coach-kompany-hospitalized-after-collapsing-during-training/4098949"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:44:05Z",
-     "headline": "Bayern coach Kompany taken to hospital after collapsing during training",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T17:44:16Z",
-     "headline": "Bayern Munich coach Kompany collapses during training, hospitalised",
-     "url": "https://punchng.com/just-in-bayern-munich-coach-kompany-collapses-during-training-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T18:10:34Z",
-     "headline": "Bayern Munich boss Vincent Kompany hospitalised after collapsing at training",
-     "url": "https://indianexpress.com/article/sports/football/bayern-munich-vincent-kompany-hospitalised-collapsing-training-10934361/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T20:50:53Z",
-     "headline": "Bayern Munich manager Vincent Kompany hospitalised after training collapse",
-     "url": "https://www.abc.net.au/news/2026-10-24/bayern-munich-manager-kompany-hospitalised-after-collapse/107304286"
     }
    ]
   },
@@ -8603,266 +8469,6 @@
    ]
   },
   {
-   "id": 12372,
-   "title": "Houthi missile strike kills at least 40 in Yemen’s Shabwa province",
-   "category": "Geopolitics",
-   "importance": 6.06,
-   "risk": 6.67,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 27,
-   "countries": [
-    "IRL",
-    "PAK",
-    "SGP",
-    "ARE",
-    "KWT",
-    "IND",
-    "CHN",
-    "QAT",
-    "IRQ",
-    "AZE",
-    "TUR",
-    "USA",
-    "CAN",
-    "SAU",
-    "DEU",
-    "GBR",
-    "LKA",
-    "BGD",
-    "KOR"
-   ],
-   "first_seen": "2026-10-18T00:06:59Z",
-   "last_seen": "2026-10-22T03:55:04Z",
-   "page": "event/12372.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-18T00:06:59Z",
-     "headline": "Houthi media says Saudi strike kills 9 in northern Yemen",
-     "url": "https://www.rte.ie/news/middle-east/2026/1018/1595807-saudi-houthis/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-19T02:12:45Z",
-     "headline": "Around 40 killed, injured in Houthi missile attack in Yemen’s Shabwa: official",
-     "url": "https://tribune.com.pk/story/2635676/egypt-says-ready-to-back-saudi-arabia-in-war-against-iran-allied-houthis"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:08:18Z",
-     "headline": "At least 40 killed, wounded in Houthi strike on Yemen camp",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-40-killed-wounded-houthi-strike-yemen-camp"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:10:58Z",
-     "headline": "Houthi attack kills 53 at Yemen government training camp, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-19T10:19:28Z",
-     "headline": "At least 53 killed in Houthi missile attack on government training camp in Yemen's Shabwa",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T11:04:00Z",
-     "headline": "Houthi Missile Attack on Yemen Military Camp Kills at Least 20 Soldiers",
-     "url": "https://www.arabtimesonline.com/news/houthi-missile-attack-on-yemen-military-camp-kills-at-least-20-soldiers/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T11:13:39Z",
-     "headline": "Over 50 killed as Houthis target Yemen military camp with ballistic missiles",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/at-least-20-yemeni-fighters-killed-as-houthis-target-military-camp-with-ballistic-missiles/articleshow/135047351.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-19T12:24:15Z",
-     "headline": "Dozens killed in Houthi attack on Yemeni gov't military camp",
-     "url": "https://www.newarab.com/news/dozens-killed-houthi-attack-yemeni-govt-military-camp"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-19T12:48:23Z",
-     "headline": "Houthi missile attack on Yemen base kills 53",
-     "url": "https://news.cgtn.com/news/2026-10-19/news-1Rng6jXLREA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T12:51:46Z",
-     "headline": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-     "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T13:01:40Z",
-     "headline": "Houthis kill at least 20 at army camp in Shabwa",
-     "url": "https://shafaq.com/en/Middle-East/Houthis-kill-at-least-20-at-army-camp-in-Shabwa"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T13:07:00Z",
-     "headline": "Houthi missile strike kills at least 40 in Yemen’s Shabwa province",
-     "url": "https://www.azernews.az/region/265830.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T13:26:01Z",
-     "headline": "Dozens killed after Houthi strike on military camp in Shabwa",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-19T13:44:07Z",
-     "headline": "More than 53 killed, over 200 wounded in Houthi attack on southern Yemen",
-     "url": "https://www.aa.com.tr/en/middle-east/more-than-53-killed-over-200-wounded-in-houthi-attack-on-southern-yemen/4093625"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-19T13:46:32Z",
-     "headline": "Houthi attack kills 53 at Yemen government training camp, officials say",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthi-attack-kills-53-yemen-government-training-camp-officials-say"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T13:49:39Z",
-     "headline": "Houthi attack kills 53 at Yemen government training camp, officials say",
-     "url": "https://www.brecorder.com/news/40444940/houthi-attack-kills-53-at-yemen-government-training-camp-officials-say"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T14:00:00Z",
-     "headline": "Houthis launch missile strike on military camp in Yemen, killing 53 - UPDATED",
-     "url": "https://en.apa.az/asia/houthis-launch-missile-strike-on-military-camp-in-yemen-killing-53-updated-530866"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-19T14:11:45Z",
-     "headline": "Middle East war: 5 things UAE residents need to know this evening (Oct 19, 2026)",
-     "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-this-evening-oct-19-2026-1.500716238"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-19T14:13:36Z",
-     "headline": "Houthi attack on Yemeni government forces kills 53: officials",
-     "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538?cmp=rss"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T14:15:38Z",
-     "headline": "50 dead in Houthi attack on Yemen govt camp - officials",
-     "url": "https://www.rte.ie/news/middle-east/2026/1019/1595991-houthi-attack-yemen/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-19T14:38:49Z",
-     "headline": "53 Killed, More Than 200 Wounded in Houthi Missile Strike on Security Camp in Shabwa",
-     "url": "https://english.aawsat.com/node/5331202"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T14:39:00Z",
-     "headline": "Houthi strike on Yemen government military camp kills at least 50",
-     "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-19T15:25:56Z",
-     "headline": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-     "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-19T15:26:44Z",
-     "headline": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-19T15:49:00Z",
-     "headline": "At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa",
-     "url": "https://www.dailymirror.lk/international/At-least-18-killed-in-Houthi-attack-on-Yemeni-government-military-camp-in-Shabwa/107-352882"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-19T15:57:56Z",
-     "headline": "Yemen forces advance in Taiz; Iran blames US for Hormuz crisis",
-     "url": "https://www.newarab.com/news/yemen-forces-advance-taiz-iran-blames-us-hormuz-crisis"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-19T16:20:51Z",
-     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-19T18:57:43Z",
-     "headline": "Yemen govt camp: Houthi attack kills over 50 people",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/yemen-govt-camp-houthi-attack-kills-over-50-people-4302936"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-19T19:27:03Z",
-     "headline": "Houthi rebels strike Yemen's government forces, killing at least 53",
-     "url": "https://www.koreatimes.co.kr/world/20261020/houthi-rebels-strike-yemens-government-forces-killing-at-least-53?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-20T15:29:38Z",
-     "headline": "Death toll from Houthi strike on Yemen govt camp rises to 73",
-     "url": "https://www.newarab.com/news/death-toll-houthi-strike-yemen-govt-camp-rises-73"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-21T15:28:01Z",
-     "headline": "Yemen: 75 new recruits killed in Houthi missile strike laid to rest",
-     "url": "http://www.africanews.com/2026/10/21/yemen-75-new-recruits-killed-in-houthi-missile-strike-laid-to-rest/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T03:55:04Z",
-     "headline": "Two civilians killed from Houthi attacks in Yemen’s Taiz",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-civilians-killed-houthi-attacks-yemens-taiz"
-    }
-   ]
-  },
-  {
    "id": 16259,
    "title": "UAE diplomat Lana Nusseibeh enters race for UN chief",
    "category": "Geopolitics",
@@ -9068,7 +8674,7 @@
     "NGA"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-24T01:39:00Z",
+   "last_seen": "2026-10-24T03:59:00Z",
    "page": "event/2857.html",
    "reports": [
     {
@@ -12675,6 +12281,298 @@
      "time": "2026-10-22T19:41:50Z",
      "headline": "Putin cites unspecified genetic research to claim Russians and Ukrainians are ‘one people’",
      "url": "https://meduza.io/en/news/2026/10/22/putin-cites-unspecified-genetic-research-to-claim-russians-and-ukrainians-are-one-people"
+    }
+   ]
+  },
+  {
+   "id": 17952,
+   "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+   "category": "Geopolitics",
+   "importance": 5.66,
+   "risk": 2.19,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "UGA",
+    "NZL",
+    "IND",
+    "SGP",
+    "GBR",
+    "TUR",
+    "ZAF",
+    "THA",
+    "USA",
+    "CHN",
+    "ARE"
+   ],
+   "first_seen": "2026-10-21T19:57:41Z",
+   "last_seen": "2026-10-23T09:18:43Z",
+   "page": "event/17952.html",
+   "reports": [
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-21T19:57:41Z",
+     "headline": "Google staff resign in backlash over its AI contracts with military",
+     "url": "https://nilepost.co.ug/news/380575/google-staff-resign-in-backlash-over-its-ai-contracts-with-military"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T03:30:27Z",
+     "headline": "Defence Force chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.stuff.co.nz/nz-news/361050375/defence-force-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:02:32Z",
+     "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T04:33:00Z",
+     "headline": "New Zealand's top military officer resigns over 'inappropriate relationship'",
+     "url": "https://www.channelnewsasia.com/world/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-6485241"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T04:44:44Z",
+     "headline": "New Zealand’s military chief steps down over ‘inappropriate relationship’",
+     "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-military-tony-davies-relationship-resigns-b3071931.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T05:12:47Z",
+     "headline": "Fenz boss resigns, a month after minister called for him to go",
+     "url": "https://www.stuff.co.nz/politics/361050425/fenz-boss-resigns-more-month-after-minister-called-him-go"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T05:26:11Z",
+     "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
+     "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T05:47:51Z",
+     "headline": "New Zealand’s top military commander resigns after admitting to ‘inappropriate relationship’",
+     "url": "https://www.aa.com.tr/en/asia-pacific/new-zealand-s-top-military-commander-resigns-after-admitting-to-inappropriate-relationship-/4097941"
+    },
+    {
+     "outlet": "RNZ National",
+     "country": "NZL",
+     "time": "2026-10-23T06:03:00Z",
+     "headline": "Fire and Emergency New Zealand chief executive Kerry Gregory resigns",
+     "url": "https://www.rnz.co.nz/news/political/2104751/fire-and-emergency-new-zealand-chief-executive-kerry-gregory-resigns"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T06:37:00Z",
+     "headline": "New Zealand military chief resigns over 'inappropriate relationship'",
+     "url": "https://iol.co.za/news/world/2026-10-23-new-zealand-military-chief-resigns-over-inappropriate-relationship/"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-23T06:40:29Z",
+     "headline": "NZ military chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.bangkokpost.com/world/3342273/nz-military-chief-resigns-over-inappropriate-relationship"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T06:40:32Z",
+     "headline": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+     "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T08:00:24Z",
+     "headline": "New Zealand fire agency chief executive resigns",
+     "url": "https://english.news.cn/20261023/1a6c375f02284608a1d07aa26c93424f/c.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:01:17Z",
+     "headline": "New Zealand military chief resigns over ‘inappropriate relationship’",
+     "url": "https://gulfnews.com/world/oceania/new-zealand-military-chief-resigns-over-inappropriate-relationship-2-1.500720852"
+    },
+    {
+     "outlet": "Defense News",
+     "country": "USA",
+     "time": "2026-10-23T09:18:43Z",
+     "headline": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/"
+    }
+   ]
+  },
+  {
+   "id": 16037,
+   "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+   "category": "Business",
+   "importance": 5.65,
+   "risk": 1.44,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "USA",
+    "AUS",
+    "ARE",
+    "GBR",
+    "CYP",
+    "KOR",
+    "IND",
+    "ZAF",
+    "NLD"
+   ],
+   "first_seen": "2026-10-20T16:17:54Z",
+   "last_seen": "2026-10-23T07:43:00Z",
+   "page": "event/16037.html",
+   "reports": [
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-20T16:17:54Z",
+     "headline": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+     "url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-21T03:12:07Z",
+     "headline": "Elon Musk has hinted at a SpaceX-Tesla mega merger. Could it really happen?",
+     "url": "https://www.sbs.com.au/news/article/spacex-tesla-merger-elon-musk/cdmssm35e"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T06:53:59Z",
+     "headline": "What a merger of SpaceX and Tesla would mean",
+     "url": "https://www.thenationalnews.com/business/markets/2026/10/21/what-a-merger-of-spacex-and-tesla-would-mean/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T08:42:49Z",
+     "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-21T16:08:50Z",
+     "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+     "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-21T20:57:22Z",
+     "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+     "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-21T23:03:16Z",
+     "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+     "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-21T23:04:03Z",
+     "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-21T23:06:24Z",
+     "headline": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+     "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-22T05:42:19Z",
+     "headline": "Musk’s comments complicate $3.5 trillion SpaceX-Tesla merger talks",
+     "url": "https://cyprus-mail.com/2026/10/22/musks-comments-complicate-3-5-trillion-spacex-tesla-merger-talks"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-22T07:00:00Z",
+     "headline": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
+     "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-22T07:02:03Z",
+     "headline": "Musk's public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
+     "url": "https://www.koreatimes.co.kr/world/20261022/musks-public-endorsement-of-spacex-tesla-deal-may-throw-a-wrench-in-talks?utm_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T07:27:53Z",
+     "headline": "Elon Musk's Public Endorsement Of SpaceX-Tesla Merger Worries Insiders",
+     "url": "https://www.ndtv.com/world-news/elon-musks-public-endorsement-of-spacex-tesla-merger-worries-insiders-12219003#publisher=newsstand"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-22T08:43:32Z",
+     "headline": "News24 | SpaceX-Tesla merger a ‘good idea’, says Musk – but China will be a thorny issue",
+     "url": "https://www.news24.com/business/companies/spacex-tesla-merger-a-good-idea-says-musk-but-china-will-be-a-thorny-issue-20261022-0469"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-22T09:00:00Z",
+     "headline": "Elon Musk’s flying Roadster was an ad for a SpaceX and Tesla merger after all",
+     "url": "https://www.fastcompany.com/91627503/elon-musks-flying-roadster-was-an-ad-for-a-spacex-and-tesla-merger-after-all"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-22T10:43:29Z",
+     "headline": "The biggest hurdle to a SpaceX merger with Tesla isn’t Elon Musk. It’s Tesla’s shareholders",
+     "url": "https://fortune.com/2026/10/22/biggest-hurdle-spacex-merger-tesla-elon-musk-shareholders/"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-22T11:16:13Z",
+     "headline": "Musk’s backing for a SpaceX-Tesla merger rattled insiders, Reuters reports",
+     "url": "https://thenextweb.com/news/spacex-tesla-merger-musk-insiders-reuters"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-22T19:09:11Z",
+     "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+     "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T07:43:00Z",
+     "headline": "Elon Musk wants to merge SpaceX and Tesla: Why it matters and what happens next",
+     "url": "https://iol.co.za/business/economy/2026-10-23-elon-musk-wants-to-merge-spacex-and-tesla-why-it-matters-and-what-happens-next/"
     }
    ]
   }
