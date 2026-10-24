@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T17:36:45Z",
+ "generated": "2026-10-24T17:52:46Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -657,11 +657,11 @@
    "id": 22647,
    "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
    "category": "Geopolitics",
-   "importance": 7.7,
-   "risk": 8.28,
+   "importance": 7.83,
+   "risk": 7.54,
    "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 24,
+   "status": "fading",
+   "outlets": 25,
    "countries": [
     "ISR",
     "USA",
@@ -676,6 +676,7 @@
     "CYP",
     "SGP",
     "GBR",
+    "OMN",
     "FRA",
     "PAK",
     "IRL",
@@ -924,6 +925,13 @@
      "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
     },
     {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:46:36Z",
+     "headline": "Palestinian Authority condemns 'collective punishment'",
+     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
+    },
+    {
      "outlet": "Xinhua (English) — page reader",
      "country": "CHN",
      "time": "2026-10-24T13:46:43Z",
@@ -957,13 +965,6 @@
      "time": "2026-10-24T14:30:28Z",
      "headline": "Israeli forces displace Hebron families after deadly attack",
      "url": "https://www.al-monitor.com/originals/2026/10/israeli-forces-displace-hebron-families-after-deadly-attack"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T14:34:25Z",
-     "headline": "Israeli Forces Displace Hebron Families after Deadly Attack",
-     "url": "https://english.aawsat.com/node/5333155"
     }
    ]
   },
@@ -4859,290 +4860,6 @@
    ]
   },
   {
-   "id": 16138,
-   "title": "Russia and Ukraine agree to resume peace talks next month",
-   "category": "Geopolitics",
-   "importance": 6.68,
-   "risk": 7.24,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 29,
-   "countries": [
-    "IRL",
-    "SAU",
-    "UKR",
-    "RUS",
-    "AZE",
-    "FRA",
-    "SGP",
-    "UGA",
-    "GBR",
-    "USA",
-    "AUS",
-    "CHN",
-    "PAK",
-    "BEL",
-    "DEU",
-    "KOR",
-    "TUR",
-    "BGD",
-    "NPL",
-    "GRC",
-    "GHA",
-    "QAT"
-   ],
-   "first_seen": "2026-10-21T05:31:59Z",
-   "last_seen": "2026-10-22T17:49:13Z",
-   "page": "event/16138.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T05:31:59Z",
-     "headline": "Putin agrees to resume trilateral talks on Ukraine war",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596208-ukraine-russia/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T06:34:00Z",
-     "headline": "Putin Agrees to Resume Three-Way Talks on Ukraine War with Kyiv and Washington, Kremlin Says",
-     "url": "https://english.aawsat.com/node/5331849"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T11:54:02Z",
-     "headline": "‘Ukraine’s Capitulation Not an Option’ – Merz Backs Kyiv in Peace Talks",
-     "url": "https://www.kyivpost.com/post/87746"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-21T13:00:00Z",
-     "headline": "Putin Releases American Jailed in Russia, Agrees to Trilateral Peace Talks as Witkoff Visits",
-     "url": "https://www.themoscowtimes.com/2026/10/21/putin-releases-american-jailed-in-russia-after-us-envoy-arrives-for-ukraine-talks-a94037"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-21T16:31:00Z",
-     "headline": "Axios: Ukraine and Russia accept proposal to resume trilateral talks",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059116/"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-21T17:53:54Z",
-     "headline": "Ukraine war latest: Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
-     "url": "https://kyivindependent.com/ukraine-war-latest-russia-ready-to-resume-trilateral-peace-talks-with-us-ukraine/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-21T18:18:00Z",
-     "headline": "Kyiv hopes for talks with US, Russia by 'early November'",
-     "url": "https://en.apa.az/europe/kyiv-hopes-for-talks-with-us-russia-by-early-november-531465"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-21T19:32:52Z",
-     "headline": "Putin agrees to resume three-way talks with Kyiv and Washington",
-     "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T19:36:25Z",
-     "headline": "Ukraine’s Zelensky hopes for new peace talks with Russia, US by early November",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-hopes-for-new-talks-with-russia-us-by-early-november"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-21T19:51:14Z",
-     "headline": "Russia says it is ready to resume talks with Ukraine and US to end war",
-     "url": "https://nilepost.co.ug/news/380568/russia-says-it-is-ready-to-resume-talks-with-ukraine-and-us-to-end-war"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T19:58:06Z",
-     "headline": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-     "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-21T20:04:14Z",
-     "headline": "Witkoff Pushes Putin to Restart Peace Talks",
-     "url": "https://foreignpolicy.com/2026/10/21/witkoff-putin-russia-ukraine-peace-talks-zelensky-trump/"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-21T20:30:40Z",
-     "headline": "Putin agrees ‘in principle’ to resume talks with Washington and Kyiv to end war in Ukraine—but still isn’t ‘fully satisfied’ with proposals",
-     "url": "https://fortune.com/2026/10/21/putin-talks-washington-kyiv-ukraine-proposals/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T20:35:31Z",
-     "headline": "Russia signals readiness to resume trilateral talks as Putin meets with US envoy",
-     "url": "https://tass.com/politics/2205855"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T21:27:41Z",
-     "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-21T21:42:00Z",
-     "headline": "US, Ukraine and Russia could hold new peace talks in November, Zelenskyy says",
-     "url": "https://en.apa.az/europe/us-ukraine-and-russia-could-hold-new-peace-talks-in-november-zelenskyy-says-531487"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-21T22:21:00Z",
-     "headline": "Zelenskyy: Russia agrees to trilateral peace talks with US and Ukraine",
-     "url": "https://en.apa.az/europe/zelenskyy-russia-agrees-to-trilateral-peace-talks-with-us-and-ukraine-531488"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-22T00:09:36Z",
-     "headline": "Putin agrees 'in principle' to revive trilateral talks with US and Ukraine",
-     "url": "https://www.sbs.com.au/news/article/putin-agrees-trilateral-peace-talks-us-ukraine/dn9iw71wg"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T01:51:03Z",
-     "headline": "Russia and Ukraine trade strikes overnight as Moscow signals readiness for peace talks",
-     "url": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-22T02:43:18Z",
-     "headline": "Russia and Ukraine agree to resume peace talks next month",
-     "url": "https://news.cgtn.com/news/2026-10-22/Russia-and-Ukraine-agree-to-resume-peace-talks-next-month-1Rrna2dt32g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T03:13:07Z",
-     "headline": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-     "url": "https://www.brecorder.com/news/40445413/putin-agrees-to-resume-3-way-peace-talks-with-ukraine-and-us"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T04:05:00Z",
-     "headline": "Who speaks for Europe in the Ukraine peace talks?",
-     "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-speaks-for-europe-in-the-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T04:57:00Z",
-     "headline": "Ukraine, Russia trade strikes after Witkoff talks",
-     "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Putin agrees to resume 3-way talks with Kyiv and Washington",
-     "url": "https://www.koreatimes.co.kr/world/20261022/putin-agrees-to-resume-3-way-talks-with-kyiv-and-washington?utm_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:28Z",
-     "headline": "Zelenskyy calls for freezing Ukraine front lines as first step toward peace",
-     "url": "https://www.turkiyetoday.com/world/zelenskyy-calls-for-freezing-ukraine-front-lines-as-first-step-toward-peace-3230770"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:34Z",
-     "headline": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-     "url": "https://www.koreaherald.com/article/10911381"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T07:03:58Z",
-     "headline": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-     "url": "https://www.thedailystar.net/news/world/news/putin-agrees-resume-3-way-peace-talks-ukraine-and-us-4304731"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T07:06:55Z",
-     "headline": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-     "url": "https://kathmandupost.com/world/2026/10/22/putin-agrees-to-resume-3-way-peace-talks-with-ukraine-and-us"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-22T08:30:52Z",
-     "headline": "Putin Agrees to Resume Ukraine Peace Talks With US",
-     "url": "https://www.tovima.com/world/putin-agrees-to-resume-ukraine-peace-talks-with-us/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T08:52:25Z",
-     "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-     "url": "https://www.myjoyonline.com/missiles-hit-kyiv-after-russia-agrees-to-us-call-to-resume-ukraine-peace-talks/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T09:57:47Z",
-     "headline": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T10:14:23Z",
-     "headline": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-     "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T14:19:27Z",
-     "headline": "Russia agrees to resume trilateral peace talks on Ukraine war",
-     "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-22T17:29:44Z",
-     "headline": "U.S., Russia, and Ukraine discuss resuming trilateral peace talks in November as missile and drone strikes continue",
-     "url": "https://meduza.io/en/feature/2026/10/22/u-s-russia-and-ukraine-discuss-resuming-trilateral-peace-talks-in-november-as-missile-and-drone-strikes-continue"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T17:49:13Z",
-     "headline": "Ukraine hit by strikes after Russia agrees to new peace talks",
-     "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
-    }
-   ]
-  },
-  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -5946,6 +5663,173 @@
      "time": "2026-10-24T09:38:13Z",
      "headline": "4 pilots killed as two Philippine military planes crash during training",
      "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
+    }
+   ]
+  },
+  {
+   "id": 12369,
+   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "category": "Geopolitics",
+   "importance": 6.45,
+   "risk": 5.2,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "USA",
+    "IRQ",
+    "PAK",
+    "RUS",
+    "IND",
+    "AZE",
+    "TUR",
+    "IRN",
+    "ARM",
+    "ISR"
+   ],
+   "first_seen": "2026-10-17T21:04:33Z",
+   "last_seen": "2026-10-24T17:41:42Z",
+   "page": "event/12369.html",
+   "reports": [
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-17T21:04:33Z",
+     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T16:47:19Z",
+     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
+     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T16:55:10Z",
+     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T17:02:28Z",
+     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-19T17:25:01Z",
+     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
+     "url": "https://tass.com/world/2204325"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-19T17:32:00Z",
+     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-19T17:36:00Z",
+     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
+     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:42:37Z",
+     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
+     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T12:11:32Z",
+     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T12:18:00Z",
+     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
+     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:49:02Z",
+     "headline": "Houthis target Saudi Arabian Defense Ministry building",
+     "url": "https://www.azernews.az/region/266023.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:50:14Z",
+     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:22:48Z",
+     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
+     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T13:54:02Z",
+     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-22T14:34:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
+     "url": "https://news.am/en/news/1069685"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T18:12:21Z",
+     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
+     "url": "https://www.jpost.com/middle-east/article-912598"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:38:04Z",
+     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T16:52:27Z",
+     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
+     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T17:34:58Z",
+     "headline": "Houthis claim seven attacks on Saudi targets",
+     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T17:41:42Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://tass.com/world/2207323"
     }
    ]
   },
@@ -7527,159 +7411,6 @@
      "time": "2026-10-23T14:06:05Z",
      "headline": "Ty Cobb predicts Trump will likely skip deposition, dismiss BBC lawsuit",
      "url": "https://thehill.com/homenews/administration/6167716-ty-cobb-trump-bbc-lawsuit/"
-    }
-   ]
-  },
-  {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
-   "category": "Geopolitics",
-   "importance": 6.29,
-   "risk": 4.97,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 13,
-   "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
-    "TUR",
-    "IRN",
-    "ARM",
-    "ISR"
-   ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-24T16:52:27Z",
-   "page": "event/12369.html",
-   "reports": [
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:38:04Z",
-     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T16:52:27Z",
-     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
-     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
     }
    ]
   },
@@ -13047,6 +12778,148 @@
      "time": "2026-10-23T14:13:22Z",
      "headline": "Saudi Arabia postpones UN data, Saudi statistics forums until 2027 amid Houthi attacks",
      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-postpones-un-data-saudi-statistics-forums-until-2027-amid-houthi-attacks/4098691"
+    }
+   ]
+  },
+  {
+   "id": 20228,
+   "title": "New York City bans horse-drawn carriages from 2028",
+   "category": "Geopolitics",
+   "importance": 5.7,
+   "risk": 4.26,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 15,
+   "countries": [
+    "GBR",
+    "SAU",
+    "USA",
+    "CAN",
+    "SGP",
+    "FRA",
+    "AUS",
+    "KOR",
+    "ARE",
+    "GRC",
+    "IRL",
+    "TUR",
+    "JPN"
+   ],
+   "first_seen": "2026-10-22T09:06:48Z",
+   "last_seen": "2026-10-24T03:30:09Z",
+   "page": "event/20228.html",
+   "reports": [
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T09:06:48Z",
+     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T10:41:03Z",
+     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
+     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:08:12Z",
+     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
+     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-22T19:39:32Z",
+     "headline": "Trump laments NY horse drawn carriage ban",
+     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
+    },
+    {
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-22T20:46:05Z",
+     "headline": "A final farewell to NYC’s horse carriage industry",
+     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T20:48:56Z",
+     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-22T21:55:13Z",
+     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
+     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T23:34:00Z",
+     "headline": "New York City bans horse-drawn carriages from June 2028",
+     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T00:18:53Z",
+     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
+     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T02:20:12Z",
+     "headline": "New York City bans horse-drawn carriages from 2028",
+     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T06:37:02Z",
+     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
+     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:37:24Z",
+     "headline": "New York votes to ban horse carriages",
+     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T09:00:51Z",
+     "headline": "NYC Votes to Ban Carriage Horses",
+     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
+    },
+    {
+     "outlet": "The Irish Times",
+     "country": "IRL",
+     "time": "2026-10-23T11:03:13Z",
+     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
+     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T15:16:14Z",
+     "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
+     "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T03:30:09Z",
+     "headline": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/024000c"
     }
    ]
   }
