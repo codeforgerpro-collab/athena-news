@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T13:56:55Z",
+ "generated": "2026-10-25T14:12:56Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -320,6 +320,285 @@
      "time": "2026-10-23T10:09:14Z",
      "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
      "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
+    }
+   ]
+  },
+  {
+   "id": 20210,
+   "title": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+   "category": "Geopolitics",
+   "importance": 7.55,
+   "risk": 3.39,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 25,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-25T14:01:55Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Student protesters aim for electoral victory over Serbia's long-serving leader",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Serbia Votes In Snap Parliament Election As Vucic Faces Stiff Challenge From Student-Led Protests",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -647,263 +926,6 @@
      "time": "2026-10-16T22:30:21Z",
      "headline": "Capehart and Continetti on the White House press secretary's quick exit",
      "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
-    }
-   ]
-  },
-  {
-   "id": 20210,
-   "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-   "category": "Geopolitics",
-   "importance": 7.47,
-   "risk": 3.43,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 24,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-25T10:52:44Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Student protesters aim for electoral victory over Serbia's long-serving leader",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Serbia Votes In Snap Parliament Election As Vucic Faces Stiff Challenge From Student-Led Protests",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
     }
    ]
   },
@@ -6940,8 +6962,8 @@
    "id": 13172,
    "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
    "category": "Geopolitics",
-   "importance": 6.46,
-   "risk": 1.64,
+   "importance": 6.4,
+   "risk": 1.61,
    "confidence": 0.92,
    "status": "spreading",
    "outlets": 18,
@@ -6962,7 +6984,7 @@
     "IRL"
    ],
    "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-25T13:10:36Z",
+   "last_seen": "2026-10-25T13:52:44Z",
    "page": "event/13172.html",
    "reports": [
     {
@@ -7202,6 +7224,13 @@
      "time": "2026-10-25T13:10:36Z",
      "headline": "What are Brazilian voters' main concerns?",
      "url": "https://www.straitstimes.com/world/what-are-brazilian-voters-main-concerns"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T13:52:44Z",
+     "headline": "Presidential runoff under way in Brazil",
+     "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil"
     }
    ]
   },
@@ -7638,154 +7667,6 @@
      "time": "2026-10-24T20:27:07Z",
      "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
      "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
-    }
-   ]
-  },
-  {
-   "id": 21203,
-   "title": "Judge orders Trump to sit for deposition in BBC lawsuit",
-   "category": "Society & Law",
-   "importance": 6.3,
-   "risk": 2.36,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "FRA",
-    "SGP",
-    "GBR",
-    "AUS",
-    "NZL",
-    "USA",
-    "IND",
-    "NGA",
-    "IRL",
-    "ZAF",
-    "TUR",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T16:33:42Z",
-   "last_seen": "2026-10-23T14:06:05Z",
-   "page": "event/21203.html",
-   "reports": [
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T16:33:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
-     "url": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T16:41:41Z",
-     "headline": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports",
-     "url": "https://www.straitstimes.com/world/united-states/trump-ordered-to-sit-for-deposition-in-his-10-billion-bbc-lawsuit-ap-reports"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T17:14:04Z",
-     "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-22T17:14:25Z",
-     "headline": "Trump ordered to sit for deposition in his $14b BBC lawsuit",
-     "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T17:18:12Z",
-     "headline": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-22T17:30:57Z",
-     "headline": "Judge orders Trump to face questioning in his defamation lawsuit against BBC",
-     "url": "https://www.stuff.co.nz/world-news/361049906/judge-orders-trump-sit-deposition-his-defamation"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T17:40:42Z",
-     "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T17:58:04Z",
-     "headline": "Judge Asks Trump To Depose In BBC Defamation Lawsuit By December 11",
-     "url": "https://www.ndtv.com/world-news/judge-asks-trump-to-depose-in-bbc-defamation-lawsuit-by-december-11-12222441#publisher=newsstand"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T18:47:59Z",
-     "headline": "BBC defamation suit: Trump get December deadline to testify",
-     "url": "https://punchng.com/bbc-defamation-suit-trump-get-december-deadline-to-testify/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:06:13Z",
-     "headline": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11",
-     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-22T20:49:25Z",
-     "headline": "Judge orders Trump to sit for deposition in BBC lawsuit",
-     "url": "https://www.sbs.com.au/news/article/judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/0m2xzjpj1"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T03:43:44Z",
-     "headline": "Trump ordered to testify in BBC defamation case",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596530-trump-testify-bbc/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T06:50:00Z",
-     "headline": "Trump faces December deadline to testify in $10bn BBC lawsuit",
-     "url": "https://iol.co.za/news/world/2026-10-23-trump-faces-december-deadline-to-testify-in-10bn-bbc-lawsuit/"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-23T08:44:19Z",
-     "headline": "Morning news brief",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T11:13:37Z",
-     "headline": "US Judge orders Trump to answer questions under oath for his $10 billion BBC lawsuit",
-     "url": "https://www.aa.com.tr/en/americas/us-judge-orders-trump-to-answer-questions-under-oath-for-his-10-billion-bbc-lawsuit/4098453"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:17:46Z",
-     "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-23T14:06:05Z",
-     "headline": "Ty Cobb predicts Trump will likely skip deposition, dismiss BBC lawsuit",
-     "url": "https://thehill.com/homenews/administration/6167716-ty-cobb-trump-bbc-lawsuit/"
     }
    ]
   },
@@ -9715,159 +9596,6 @@
      "time": "2026-10-25T10:36:00Z",
      "headline": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
-   "id": 23090,
-   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-   "category": "Geopolitics",
-   "importance": 6.01,
-   "risk": 5.43,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "ISR",
-    "SAU",
-    "FRA",
-    "IND",
-    "USA",
-    "QAT",
-    "SGP",
-    "AUS",
-    "IRN",
-    "AFG"
-   ],
-   "first_seen": "2026-10-22T20:16:39Z",
-   "last_seen": "2026-10-25T11:38:01Z",
-   "page": "event/23090.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-22T20:16:39Z",
-     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T09:38:38Z",
-     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T16:15:37Z",
-     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T16:54:29Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T18:21:09Z",
-     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T18:21:55Z",
-     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T18:23:08Z",
-     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
-     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T18:30:22Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T19:11:48Z",
-     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T20:21:07Z",
-     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
-     "url": "https://www.jpost.com/israel-news/article-912722"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:07Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T23:20:47Z",
-     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
-     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T23:34:37Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:10:00Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T04:51:29Z",
-     "headline": "Thousands protest against Netanyahu ahead of elections",
-     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T07:25:46Z",
-     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T08:38:24Z",
-     "headline": "Thousands of Israelis Rally Against Netanyahu Ahead of Parliamentary Election",
-     "url": "https://www.khaama.com/tel-aviv-protest-october-7-inquiry-israel-election/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:38:01Z",
-     "headline": "Israel: Demonstrators rally against government ahead of election",
-     "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election"
     }
    ]
   },
@@ -13730,6 +13458,511 @@
      "time": "2026-10-25T12:31:31Z",
      "headline": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
      "url": "https://indianexpress.com/article/explained/explained-global/starlink-starshield-ukraine-drone-war-speed-restrictions-10936301/"
+    }
+   ]
+  },
+  {
+   "id": 19970,
+   "title": "France reports first human Shamonda virus case",
+   "category": "Health & Science",
+   "importance": 5.65,
+   "risk": 5.45,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 34,
+   "countries": [
+    "OMN",
+    "SGP",
+    "GBR",
+    "IND",
+    "IRL",
+    "AZE",
+    "SWE",
+    "TUR",
+    "ISR",
+    "BEL",
+    "FRA",
+    "CHN",
+    "NGA",
+    "PAK",
+    "QAT",
+    "ARE",
+    "USA",
+    "DEU",
+    "MAR",
+    "CAN"
+   ],
+   "first_seen": "2026-10-22T04:48:26Z",
+   "last_seen": "2026-10-24T11:59:28Z",
+   "page": "event/19970.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T04:48:26Z",
+     "headline": "France reports first human Shamonda virus case",
+     "url": "https://www.omanobserver.om/article/1198225/scitech/science/france-reports-first-human-shamonda-virus-case"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T08:36:24Z",
+     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
+     "url": "https://www.straitstimes.com/world/europe/france-reports-first-human-shamonda-virus-case"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T08:38:00Z",
+     "headline": "France reports first Shamonda virus case in human who later died",
+     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T08:41:45Z",
+     "headline": "Deadly Shamonda virus detected in human for first time in France",
+     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-detected-symptoms-b3071284.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T08:46:33Z",
+     "headline": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
+     "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-22T09:04:32Z",
+     "headline": "France reports first death of human from Shamonda virus",
+     "url": "https://www.rte.ie/news/world/2026/1022/1596411-shamonda-virus/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T09:13:00Z",
+     "headline": "France reports first human Shamonda virus case",
+     "url": "https://en.apa.az/europe/france-reports-first-human-shamonda-virus-case-531619"
+    },
+    {
+     "outlet": "ECDC news",
+     "country": "SWE",
+     "time": "2026-10-22T09:13:22Z",
+     "headline": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
+     "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T09:36:59Z",
+     "headline": "France reports 1st human case of Shamonda virus after patient’s death",
+     "url": "https://www.aa.com.tr/en/europe/france-reports-1st-human-case-of-shamonda-virus-after-patient-s-death/4096943"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T09:38:19Z",
+     "headline": "French patient dies after Shamonda virus detected in human for first time",
+     "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-912535"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T09:44:12Z",
+     "headline": "France reports first human Shamonda virus case, says no health risk",
+     "url": "https://www.channelnewsasia.com/world/france-reports-first-human-shamonda-virus-case-6482136"
+    },
+    {
+     "outlet": "Euractiv",
+     "country": "BEL",
+     "time": "2026-10-22T10:01:36Z",
+     "headline": "Europe on alert as France reports first human Shamonda virus case",
+     "url": "https://www.rapporteur.com/news/europe-on-alert-as-france-reports-first-human-shamonda-virus-case/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T10:06:31Z",
+     "headline": "Shamonda virus detected in human for first time in France; patient dies",
+     "url": "https://timesofindia.indiatimes.com/science/shamonda-virus-detected-in-human-for-first-time-in-france-patient-dies/articleshow/135115138.cms"
+    },
+    {
+     "outlet": "The Local France",
+     "country": "FRA",
+     "time": "2026-10-22T10:10:10Z",
+     "headline": "France reports first human Shamonda virus case",
+     "url": "https://www.thelocal.fr/20261022/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T10:17:21Z",
+     "headline": "What is Shamonda virus? Symptoms and origin after first human case confirmed in France",
+     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-symptoms-human-case-b3071325.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T10:52:17Z",
+     "headline": "France reports world's first documented case of human infection with Shamonda virus",
+     "url": "https://english.news.cn/20261022/37386b7727eb4381accce646b6b4b5e8/c.html"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T10:59:03Z",
+     "headline": "France reports first human Shamonda virus case, says no health risk",
+     "url": "https://www.vanguardngr.com/2026/10/france-reports-first-human-shamonda-virus-case-says-no-health-risk/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T11:04:14Z",
+     "headline": "First human case of Shamonda virus detected in France, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T11:13:52Z",
+     "headline": "14 EU Countries Affected As France Reports First Case Of Human Shamonda Virus",
+     "url": "https://www.channelstv.com/2026/10/22/14-eu-countries-affected-as-france-reports-first-case-of-human-shamonda-virus/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-22T11:15:08Z",
+     "headline": "Human Shamonda Virus: Reported Case Has No Health Risk, Says France",
+     "url": "https://www.channelstv.com/2026/10/22/human-shamonda-virus-reported-case-has-no-health-risk-says-france/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T11:20:08Z",
+     "headline": "France reports first human Shamonda virus case",
+     "url": "https://punchng.com/france-reports-first-human-shamonda-virus-case/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T11:24:15Z",
+     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
+     "url": "https://tribune.com.pk/story/2636360/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T11:28:05Z",
+     "headline": "France reports first human Shamonda virus case, says no health risk",
+     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T11:43:04Z",
+     "headline": "France reports first human Shamonda virus case, says no health risk",
+     "url": "https://gulfnews.com/world/europe/france-reports-first-human-shamonda-virus-case-says-no-health-risk-3-1.500719806"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T11:45:00Z",
+     "headline": "France records first human case of Shamonda virus as patient dies",
+     "url": "https://en.protothema.gr/2026/10/22/france-records-first-human-case-of-shamonda-virus-as-patient-dies/"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-22T12:00:00Z",
+     "headline": "First human case of Shamonda virus reported in France as patient dies",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168652"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T12:22:56Z",
+     "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
+     "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T12:46:00Z",
+     "headline": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
+     "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-22T13:13:55Z",
+     "headline": "France reports first ever human Shamonda virus case in patient who died",
+     "url": "https://en.hespress.com/147788-france-reports-first-ever-human-shamonda-virus-case-in-patient-who-died.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-22T13:14:26Z",
+     "headline": "First known human case of Shamonda virus confirmed in France",
+     "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T13:28:00Z",
+     "headline": "First human case of livestock virus Shamonda unlikely to lead to wider spread, WHO says",
+     "url": "https://en.apa.az/america/first-human-case-of-livestock-virus-shamonda-unlikely-to-lead-to-wider-spread-who-says-531670"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-22T14:26:05Z",
+     "headline": "France reports first human case of livestock virus Shamonda in patient who later died",
+     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T14:41:38Z",
+     "headline": "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
+     "url": "https://www.straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-22T14:59:25Z",
+     "headline": "1st human case of livestock virus Shamonda reported in France",
+     "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T15:07:01Z",
+     "headline": "Shamonda virus detected in human for first time in France",
+     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T15:14:40Z",
+     "headline": "Shamonda virus: First human case reported in France; patient dies",
+     "url": "https://indianexpress.com/article/world/first-human-case-shamonda-virus-france-lyon-death-10932667/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T16:30:54Z",
+     "headline": "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
+     "url": "https://www.aa.com.tr/en/europe/who-investigates-transmission-public-health-risks-of-1st-human-case-of-shamonda-virus-in-france/4097666"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T17:52:59Z",
+     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T02:08:07Z",
+     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
+     "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T08:35:15Z",
+     "headline": "First human case of Shamonda virus: What is it, what are the risks",
+     "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
+    }
+   ]
+  },
+  {
+   "id": 1427,
+   "title": "Ship with 2,500 containers sinks in Hormuz: Report",
+   "category": "Trade & Industry",
+   "importance": 5.62,
+   "risk": 3.2,
+   "confidence": 0.92,
+   "status": "peaking",
+   "outlets": 16,
+   "countries": [
+    "SAU",
+    "KWT",
+    "OMN",
+    "IRN",
+    "GBR",
+    "ARE",
+    "USA",
+    "EGY",
+    "ARM",
+    "SGP"
+   ],
+   "first_seen": "2026-10-10T05:18:28Z",
+   "last_seen": "2026-10-23T15:46:34Z",
+   "page": "event/1427.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-10T05:18:28Z",
+     "headline": "Iran Guards Say Struck Tanker Transiting Strait of Hormuz",
+     "url": "https://english.aawsat.com/node/5327928"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-13T17:06:00Z",
+     "headline": "Iran Intensifies Attacks on Ships in Hormuz; 4 Tankers Hit",
+     "url": "https://www.arabtimesonline.com/news/iran-intensifies-attacks-on-ships-in-hormuz-4-tankers-hit/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-14T05:29:10Z",
+     "headline": "Ship with 2,500 containers sinks in Hormuz: Report",
+     "url": "https://www.omanobserver.om/article/1197802/world/region/ship-with-2500-containers-sinks-in-hormuz-report"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-14T09:27:00Z",
+     "headline": "Container Ship Carrying 2,500 Containers Sinks Near Strait of Hormuz",
+     "url": "https://www.arabtimesonline.com/news/container-ship-carrying-2500-containers-sinks-near-strait-of-hormuz/"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-14T09:28:04Z",
+     "headline": "Container carrier sinks in Strait of Hormuz after explosion",
+     "url": "https://en.mehrnews.com/news/248588/Container-carrier-sinks-in-Strait-of-Hormuz-after-explosion"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-14T10:27:00Z",
+     "headline": "One More Container Ship Struck by Unknown Projectile in Strait of Hormuz, UKMTO Reports",
+     "url": "https://www.arabtimesonline.com/news/one-more-container-ship-struck-by-unknown-projectile-in-strait-of-hormuz-ukmto-reports/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-14T14:10:51Z",
+     "headline": "Container Ship Sinks Near Hormuz after Being Hit by Projectile",
+     "url": "https://english.aawsat.com/node/5329574"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-14T16:56:57Z",
+     "headline": "US carriers dare not approach Hormuz, we are waiting to sink them",
+     "url": "https://www.tehrantimes.com/news/531090/US-carriers-dare-not-approach-Hormuz-we-are-waiting-to-sink"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-14T17:05:42Z",
+     "headline": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+     "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-14T23:21:06Z",
+     "headline": "Ship carrying 2,500 containers sinks after hitting mine in Strait of Hormuz, claim Iran’s Guards",
+     "url": "https://www.independent.co.uk/news/world/middle-east/strait-hormuz-ship-sinks-iran-b3066513.html"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-15T06:05:08Z",
+     "headline": "Fire, sinking and reported scramble for cargo: what we know about ship lost in Strait of Hormuz",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/10/15/fire-sinking-and-reported-scramble-for-cargo-what-we-know-about-ship-lost-in-strait-of-hormuz/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-15T06:22:27Z",
+     "headline": "Iran-US tensions soar as ships sink in Hormuz, fighting in Taiz",
+     "url": "https://www.newarab.com/news/iran-us-tensions-soar-ships-sink-hormuz-fighting-taiz"
+    },
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-15T08:34:54Z",
+     "headline": "Container Ship Sinks in Strait of Hormuz",
+     "url": "https://www.rigzone.com/news/wire/container_ship_sinks_in_strait_of_hormuz-15-oct-2026-184853-article/?rss=true"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-15T08:57:14Z",
+     "headline": "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms",
+     "url": "https://www.egyptindependent.com/two-cargo-ships-sunk-in-strait-of-hormuz-as-iran-ramps-up-attacks-in-run-up-to-midterms/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-15T17:38:56Z",
+     "headline": "Two ships sink near Hormuz after being hit by projectiles",
+     "url": "https://www.newarab.com/news/two-ships-sink-near-hormuz-after-being-hit-projectiles"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-16T05:56:28Z",
+     "headline": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+     "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html"
+    },
+    {
+     "outlet": "FreightWaves",
+     "country": "USA",
+     "time": "2026-10-16T14:51:24Z",
+     "headline": "Container ship attacks escalate in Strait of Hormuz",
+     "url": "https://www.freightwaves.com/news/container-ship-attacks-escalate-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T16:51:08Z",
+     "headline": "Iran Navy says no. of ships hit in east of Hormuz rising",
+     "url": "https://en.mehrnews.com/news/248654/Iran-Navy-says-no-of-ships-hit-in-east-of-Hormuz-rising"
+    },
+    {
+     "outlet": "Guardian Business",
+     "country": "GBR",
+     "time": "2026-10-19T14:48:56Z",
+     "headline": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
+     "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T09:52:36Z",
+     "headline": "UKMTO: Ship Attacked Near Strait of Hormuz",
+     "url": "https://english.aawsat.com/node/5331918"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T11:53:00Z",
+     "headline": "Iran state television, radio reports stopping of law-breaking ships in Hormuz strait",
+     "url": "https://news.am/en/news/1069830"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T15:01:49Z",
+     "headline": "Ship attacks in Strait of Hormuz hit record high in October",
+     "url": "https://www.straitstimes.com/world/middle-east/ship-attacks-in-strait-of-hormuz-hit-record-high-in-october"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T15:46:34Z",
+     "headline": "Ship attacks in Strait of Hormuz hit record high in October",
+     "url": "https://www.al-monitor.com/originals/2026/10/ship-attacks-strait-hormuz-hit-record-high-october"
     }
    ]
   }
