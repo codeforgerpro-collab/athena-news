@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T02:10:25Z",
+ "generated": "2026-10-25T02:26:26Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -6870,7 +6870,7 @@
      "outlet": "ABC News Australia",
      "country": "AUS",
      "time": "2026-10-24T21:26:17Z",
-     "headline": "Live: Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
+     "headline": "Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
      "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464"
     }
    ]
@@ -9241,6 +9241,187 @@
    ]
   },
   {
+   "id": 12603,
+   "title": "Son of Aung San Suu Kyi says had first call in five years",
+   "category": "Health & Science",
+   "importance": 5.92,
+   "risk": 4.12,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "CYP",
+    "GBR",
+    "USA",
+    "JPN",
+    "MMR",
+    "IND",
+    "SGP",
+    "THA",
+    "OMN",
+    "TWN"
+   ],
+   "first_seen": "2026-10-19T13:17:25Z",
+   "last_seen": "2026-10-25T02:00:49Z",
+   "page": "event/12603.html",
+   "reports": [
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-19T13:17:25Z",
+     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
+     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-19T14:53:00Z",
+     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
+     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T15:38:25Z",
+     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
+     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-19T22:44:00Z",
+     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
+     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-20T04:22:07Z",
+     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
+     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-20T05:07:00Z",
+     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-20T05:19:07Z",
+     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
+     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-21T11:12:27Z",
+     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
+     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T09:37:38Z",
+     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
+     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-22T09:47:46Z",
+     "headline": "Suu Kyi speaks to son for first time in more than five years",
+     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T09:49:54Z",
+     "headline": "Son of Aung San Suu Kyi says had first call in five years",
+     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T10:07:48Z",
+     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
+     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T10:38:10Z",
+     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
+     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-22T10:54:49Z",
+     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
+     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:26:10Z",
+     "headline": "Suu Kyi speaks to son for first time in five years",
+     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-22T23:30:00Z",
+     "headline": "Myanmar’s Aung San Suu Kyi Speaks With Son For First Time Since Military Coup",
+     "url": "https://thediplomat.com/2026/10/myanmars-aung-san-suu-kyi-speaks-with-son-for-first-time-since-military-coup/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-23T01:00:09Z",
+     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
+     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T19:22:33Z",
+     "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
+     "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-24T22:03:23Z",
+     "headline": "FM praises 'progress' on Suu Kyi",
+     "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T02:00:49Z",
+     "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+     "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
+    }
+   ]
+  },
+  {
    "id": 16877,
    "title": "Websites go dark as AI exposes critical security flaws",
    "category": "Technology & Cyber",
@@ -10004,180 +10185,6 @@
      "time": "2026-10-23T15:51:51Z",
      "headline": "Carney dismisses US accusations of Canadian election interference",
      "url": "https://www.straitstimes.com/world/carney-dismisses-us-accusations-of-canadian-election-interference"
-    }
-   ]
-  },
-  {
-   "id": 12603,
-   "title": "Son of Aung San Suu Kyi says had first call in five years",
-   "category": "Health & Science",
-   "importance": 5.85,
-   "risk": 4.14,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "CYP",
-    "GBR",
-    "USA",
-    "JPN",
-    "MMR",
-    "IND",
-    "SGP",
-    "THA",
-    "OMN",
-    "TWN"
-   ],
-   "first_seen": "2026-10-19T13:17:25Z",
-   "last_seen": "2026-10-24T22:03:23Z",
-   "page": "event/12603.html",
-   "reports": [
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-19T13:17:25Z",
-     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
-     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-19T14:53:00Z",
-     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
-     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T15:38:25Z",
-     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
-     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-19T22:44:00Z",
-     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
-     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-20T04:22:07Z",
-     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
-     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-20T05:07:00Z",
-     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
-     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-20T05:19:07Z",
-     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
-     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-21T11:12:27Z",
-     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
-     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T09:37:38Z",
-     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
-     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-22T09:47:46Z",
-     "headline": "Suu Kyi speaks to son for first time in more than five years",
-     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:49:54Z",
-     "headline": "Son of Aung San Suu Kyi says had first call in five years",
-     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T10:07:48Z",
-     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
-     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T10:38:10Z",
-     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
-     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-22T10:54:49Z",
-     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
-     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:26:10Z",
-     "headline": "Suu Kyi speaks to son for first time in five years",
-     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-22T23:30:00Z",
-     "headline": "Myanmar’s Aung San Suu Kyi Speaks With Son For First Time Since Military Coup",
-     "url": "https://thediplomat.com/2026/10/myanmars-aung-san-suu-kyi-speaks-with-son-for-first-time-since-military-coup/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T01:00:09Z",
-     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T19:22:33Z",
-     "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
-     "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-24T22:03:23Z",
-     "headline": "FM praises 'progress' on Suu Kyi",
-     "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
     }
    ]
   },
