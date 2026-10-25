@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T18:52:04Z",
+ "generated": "2026-10-25T19:13:28Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -2523,324 +2523,6 @@
    ]
   },
   {
-   "id": 24595,
-   "title": "Israel to close all West Bank land crossings on election day",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.08,
-   "risk": 6.72,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 32,
-   "countries": [
-    "USA",
-    "CAN",
-    "ISR",
-    "IND",
-    "MAR",
-    "IRL",
-    "AUS",
-    "TUR",
-    "CHN",
-    "PAK",
-    "SGP",
-    "EGY",
-    "QAT",
-    "FRA",
-    "SAU",
-    "GBR",
-    "IRN",
-    "NZL",
-    "DEU",
-    "TWN"
-   ],
-   "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T16:37:09Z",
-   "page": "event/24595.html",
-   "reports": [
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T11:01:29Z",
-     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:39:37Z",
-     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T15:06:27Z",
-     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
-     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T16:26:16Z",
-     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
-     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T18:35:15Z",
-     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
-     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T19:50:03Z",
-     "headline": "West Bank attack may boost Netanyahu's election chances",
-     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-23T20:22:10Z",
-     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T21:30:10Z",
-     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T21:38:54Z",
-     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T21:53:53Z",
-     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:19:41Z",
-     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T00:39:40Z",
-     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
-     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T02:11:25Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T05:31:00Z",
-     "headline": "Israel launches West Bank operation after attack days before election",
-     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:33:56Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-24T07:51:51Z",
-     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T09:14:40Z",
-     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T10:33:52Z",
-     "headline": "Netanyahu orders West Bank operation",
-     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:52:55Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:24:19Z",
-     "headline": "Full lockdown of occupied West Bank begins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israel to close all land crossings with West Bank on election day",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-24T14:31:04Z",
-     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:20:29Z",
-     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
-     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T22:09:44Z",
-     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
-     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T00:40:49Z",
-     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T01:17:13Z",
-     "headline": "Israel says closing all land crossings with West Bank on election day",
-     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:33:31Z",
-     "headline": "Israel presses ahead with West Bank army operation days before election",
-     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T03:21:35Z",
-     "headline": "Leading religious Zionist rabbi backs far-right party Netanyahu wants out of election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T05:00:08Z",
-     "headline": "Israel to close key access point on election day",
-     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:15:52Z",
-     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:29:04Z",
-     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
-     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T06:58:52Z",
-     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T07:02:17Z",
-     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
-     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:45:46Z",
-     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
-     "url": "https://english.aawsat.com/node/5333333"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T08:49:00Z",
-     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
-     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T10:29:23Z",
-     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
-     "url": "https://english.aawsat.com/node/5333383"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T11:22:06Z",
-     "headline": "Military conducts massive West Bank operation, days before Israeli election",
-     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T12:31:01Z",
-     "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T13:09:00Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
@@ -3157,6 +2839,545 @@
      "time": "2026-10-16T17:08:27Z",
      "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
      "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
+    }
+   ]
+  },
+  {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.03,
+   "risk": 1.73,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 24,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR",
+    "AUS"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-25T18:55:39Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 24595,
+   "title": "Israel to close all West Bank land crossings on election day",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.02,
+   "risk": 6.68,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 32,
+   "countries": [
+    "USA",
+    "CAN",
+    "ISR",
+    "IND",
+    "MAR",
+    "IRL",
+    "AUS",
+    "TUR",
+    "CHN",
+    "PAK",
+    "SGP",
+    "EGY",
+    "QAT",
+    "FRA",
+    "SAU",
+    "GBR",
+    "IRN",
+    "NZL",
+    "DEU",
+    "TWN"
+   ],
+   "first_seen": "2026-10-23T08:05:06Z",
+   "last_seen": "2026-10-25T19:02:36Z",
+   "page": "event/24595.html",
+   "reports": [
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T11:01:29Z",
+     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:39:37Z",
+     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T15:06:27Z",
+     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T16:26:16Z",
+     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T18:35:15Z",
+     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T19:50:03Z",
+     "headline": "West Bank attack may boost Netanyahu's election chances",
+     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
+    },
+    {
+     "outlet": "Foreign Policy",
+     "country": "USA",
+     "time": "2026-10-23T20:22:10Z",
+     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T21:30:10Z",
+     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T21:38:54Z",
+     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T21:53:53Z",
+     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:19:41Z",
+     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-24T00:39:40Z",
+     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
+     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T02:11:25Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T05:31:00Z",
+     "headline": "Israel launches West Bank operation after attack days before election",
+     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:33:56Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-24T07:51:51Z",
+     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T09:14:40Z",
+     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T10:33:52Z",
+     "headline": "Netanyahu orders West Bank operation",
+     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:52:55Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:24:19Z",
+     "headline": "Full lockdown of occupied West Bank begins",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:31:04Z",
+     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:20:29Z",
+     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
+     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T22:09:44Z",
+     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
+     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T00:40:49Z",
+     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T01:17:13Z",
+     "headline": "Israel says closing all land crossings with West Bank on election day",
+     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:33:31Z",
+     "headline": "Israel presses ahead with West Bank army operation days before election",
+     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "Court rejects bid to limit guns at polling stations amid intimidation fears",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T05:00:08Z",
+     "headline": "Israel to close key access point on election day",
+     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:15:52Z",
+     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:29:04Z",
+     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T06:58:52Z",
+     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T07:02:17Z",
+     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
+     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:45:46Z",
+     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
+     "url": "https://english.aawsat.com/node/5333333"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T08:49:00Z",
+     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T10:29:23Z",
+     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
+     "url": "https://english.aawsat.com/node/5333383"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T11:22:06Z",
+     "headline": "Military conducts massive West Bank operation, days before Israeli election",
+     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T12:31:01Z",
+     "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T13:09:00Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
@@ -4061,212 +4282,6 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.95,
-   "risk": 1.73,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 23,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-25T18:30:37Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    }
-   ]
-  },
-  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -4918,14 +4933,14 @@
   },
   {
    "id": 23924,
-   "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
    "category": "Technology & Cyber",
    "cat": 5,
-   "importance": 6.79,
-   "risk": 5.96,
+   "importance": 6.88,
+   "risk": 5.92,
    "confidence": 0.87,
    "status": "spreading",
-   "outlets": 25,
+   "outlets": 26,
    "countries": [
     "IND",
     "ISR",
@@ -4944,7 +4959,7 @@
     "CAN"
    ],
    "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-25T18:25:58Z",
+   "last_seen": "2026-10-25T19:02:26Z",
    "page": "event/23924.html",
    "reports": [
     {
@@ -5149,6 +5164,13 @@
      "time": "2026-10-25T18:25:58Z",
      "headline": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
      "url": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-25T19:02:26Z",
+     "headline": "Ukraine war latest: Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+     "url": "https://kyivindependent.com/ukraine-war-latest-starshield-operations-restored-to-normal-speed-zelensky-confirms-as-elon-musk-claims-ukraine-violated-starlink-terms/"
     }
    ]
   },
@@ -7677,6 +7699,214 @@
    ]
   },
   {
+   "id": 16259,
+   "title": "UAE diplomat Lana Nusseibeh enters race for UN chief",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.17,
+   "risk": 3.66,
+   "confidence": 0.93,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "ARE",
+    "SAU",
+    "USA",
+    "SGP",
+    "TUR",
+    "ISR",
+    "ZAF",
+    "ALB",
+    "FRA",
+    "KAZ",
+    "AZE",
+    "AFG",
+    "CYP",
+    "PAK",
+    "GBR"
+   ],
+   "first_seen": "2026-10-21T20:00:32Z",
+   "last_seen": "2026-10-25T19:00:10Z",
+   "page": "event/16259.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T20:00:32Z",
+     "headline": "UAE's Lana Nusseibeh enters race to be next UN secretary general",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/21/lana-nusseibeh-un-secretary-general/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T20:10:58Z",
+     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.arabnews.com/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief-3007609"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-21T20:30:26Z",
+     "headline": "UAE nominates official to lead UN",
+     "url": "https://www.al-monitor.com/originals/2026/10/uae-nominates-official-lead-un"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T20:41:25Z",
+     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.straitstimes.com/world/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-21T20:46:26Z",
+     "headline": "Exclusive-Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.al-monitor.com/originals/2026/10/exclusive-senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-21T23:12:30Z",
+     "headline": "UAE's Lana Nusseibeh announces bid for UN secretary-general",
+     "url": "https://www.aa.com.tr/en/world/uaes-lana-nusseibeh-announces-bid-for-un-secretary-general/4096577"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-21T23:21:21Z",
+     "headline": "UAE nominates Lana Nusseibeh to succeed Guterres as UN secretary-general",
+     "url": "https://www.jpost.com/international/article-912466"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T03:17:03Z",
+     "headline": "Lana Nusseibeh announces candidacy for United Nations Secretary-General",
+     "url": "https://gulfnews.com/uae/government/uaes-lana-nusseibeh-enters-race-to-become-next-un-secretary-general-1.500719042"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-22T03:51:31Z",
+     "headline": "UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "url": "https://www.sabcnews.com/sabcnews/uae-diplomat-lana-nusseibeh-enters-race-for-un-chief/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T05:33:11Z",
+     "headline": "US pulls staff from Saudi Arabia, UAE's Nusseibeh in UN race, and Middle East oil exports recover",
+     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-22T07:34:20Z",
+     "headline": "Gargash hails UAE talent as Lana Nusseibeh nominated for UN chief",
+     "url": "https://gulfnews.com/uae/government/gargash-hails-uae-talent-as-lana-nusseibeh-nominated-for-un-chief-1.500719449"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:01:07Z",
+     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
+     "url": "https://www.middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-22T12:16:54Z",
+     "headline": "Who is Lana Nusseibeh, the UAE nominee for UN General Secretary?",
+     "url": "https://www.newarab.com/news/who-lana-nusseibeh-uae-nominee-un-general-secretary"
+    },
+    {
+     "outlet": "Euronews Albania (EN)",
+     "country": "ALB",
+     "time": "2026-10-22T19:32:21Z",
+     "headline": "PM Rama Endorses Lana Nusseibeh for UN Secretary-General: “A Woman of Exceptional Calibre”",
+     "url": "https://euronews.al/en/rama-backs-lana-nusseibehs-candidacy-to-lead-the-un-a-woman-of-exceptional-calibre/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T21:18:37Z",
+     "headline": "Emirati diplomat could become next UN chief despite human rights concerns",
+     "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:35:42Z",
+     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-nominates-diplomat-lead-un-amid-criticism-over-sudan-and-israel"
+    },
+    {
+     "outlet": "The Astana Times",
+     "country": "KAZ",
+     "time": "2026-10-23T06:18:40Z",
+     "headline": "Kazakhstan Backs UAE Nominee Lana Nusseibeh for UN Secretary-General",
+     "url": "https://astanatimes.com/2026/10/kazakhstan-backs-uae-nominee-lana-nusseibeh-for-un-secretary-general/"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T08:10:00Z",
+     "headline": "Lana Nusseibeh nominated for UN chief amid scrutiny over Sudan conflict and Epstein relation",
+     "url": "https://www.azernews.az/region/266053.html"
+    },
+    {
+     "outlet": "Amu TV",
+     "country": "AFG",
+     "time": "2026-10-23T15:43:51Z",
+     "headline": "UAE diplomat with key Afghanistan role enters race for UN chief",
+     "url": "https://amu.tv/255057/"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T16:12:26Z",
+     "headline": "UN chief race enters decisive phase as new contender arrives",
+     "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:00:28Z",
+     "headline": "Cyprus throws weight behind UAE’s Nusseibeh for UN secretary-general",
+     "url": "https://cyprus-mail.com/2026/10/23/cyprus-throws-weight-behind-uaes-nusseibeh-for-un-secretary-general"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T08:54:09Z",
+     "headline": "UAE diplomat vying for UN's top job",
+     "url": "https://www.dawn.com/news/2039476/uae-diplomat-vying-for-uns-top-job"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T12:35:55Z",
+     "headline": "GCC unanimously backs UAE's Lana Nusseibeh for UN secretary-general",
+     "url": "https://gulfnews.com/world/gulf/gcc-unanimously-backs-uaes-lana-nusseibeh-for-un-secretary-general-1.500722243"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T13:44:39Z",
+     "headline": "UAE’s Lana Nusseibeh receives more support in bid to become next UN secretary-general",
+     "url": "https://www.jpost.com/international/article-912800"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T19:00:10Z",
+     "headline": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+     "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race"
+    }
+   ]
+  },
+  {
    "id": 16361,
    "title": "Australian MP loses both legs after car attack",
    "category": "Society & Law",
@@ -9210,206 +9440,6 @@
    ]
   },
   {
-   "id": 16259,
-   "title": "UAE diplomat Lana Nusseibeh enters race for UN chief",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.03,
-   "risk": 3.66,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 18,
-   "countries": [
-    "ARE",
-    "SAU",
-    "USA",
-    "SGP",
-    "TUR",
-    "ISR",
-    "ZAF",
-    "ALB",
-    "FRA",
-    "KAZ",
-    "AZE",
-    "AFG",
-    "CYP",
-    "PAK"
-   ],
-   "first_seen": "2026-10-21T20:00:32Z",
-   "last_seen": "2026-10-25T13:44:39Z",
-   "page": "event/16259.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T20:00:32Z",
-     "headline": "UAE's Lana Nusseibeh enters race to be next UN secretary general",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/21/lana-nusseibeh-un-secretary-general/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T20:10:58Z",
-     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
-     "url": "https://www.arabnews.com/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief-3007609"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-21T20:30:26Z",
-     "headline": "UAE nominates official to lead UN",
-     "url": "https://www.al-monitor.com/originals/2026/10/uae-nominates-official-lead-un"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T20:41:25Z",
-     "headline": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
-     "url": "https://www.straitstimes.com/world/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-21T20:46:26Z",
-     "headline": "Exclusive-Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
-     "url": "https://www.al-monitor.com/originals/2026/10/exclusive-senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-21T23:12:30Z",
-     "headline": "UAE's Lana Nusseibeh announces bid for UN secretary-general",
-     "url": "https://www.aa.com.tr/en/world/uaes-lana-nusseibeh-announces-bid-for-un-secretary-general/4096577"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-21T23:21:21Z",
-     "headline": "UAE nominates Lana Nusseibeh to succeed Guterres as UN secretary-general",
-     "url": "https://www.jpost.com/international/article-912466"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T03:17:03Z",
-     "headline": "Lana Nusseibeh announces candidacy for United Nations Secretary-General",
-     "url": "https://gulfnews.com/uae/government/uaes-lana-nusseibeh-enters-race-to-become-next-un-secretary-general-1.500719042"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-22T03:51:31Z",
-     "headline": "UAE diplomat Lana Nusseibeh enters race for UN chief",
-     "url": "https://www.sabcnews.com/sabcnews/uae-diplomat-lana-nusseibeh-enters-race-for-un-chief/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T05:33:11Z",
-     "headline": "US pulls staff from Saudi Arabia, UAE's Nusseibeh in UN race, and Middle East oil exports recover",
-     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T07:34:20Z",
-     "headline": "Gargash hails UAE talent as Lana Nusseibeh nominated for UN chief",
-     "url": "https://gulfnews.com/uae/government/gargash-hails-uae-talent-as-lana-nusseibeh-nominated-for-un-chief-1.500719449"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:01:07Z",
-     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
-     "url": "https://www.middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T12:16:54Z",
-     "headline": "Who is Lana Nusseibeh, the UAE nominee for UN General Secretary?",
-     "url": "https://www.newarab.com/news/who-lana-nusseibeh-uae-nominee-un-general-secretary"
-    },
-    {
-     "outlet": "Euronews Albania (EN)",
-     "country": "ALB",
-     "time": "2026-10-22T19:32:21Z",
-     "headline": "PM Rama Endorses Lana Nusseibeh for UN Secretary-General: “A Woman of Exceptional Calibre”",
-     "url": "https://euronews.al/en/rama-backs-lana-nusseibehs-candidacy-to-lead-the-un-a-woman-of-exceptional-calibre/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T21:18:37Z",
-     "headline": "Emirati diplomat could become next UN chief despite human rights concerns",
-     "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:35:42Z",
-     "headline": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-nominates-diplomat-lead-un-amid-criticism-over-sudan-and-israel"
-    },
-    {
-     "outlet": "The Astana Times",
-     "country": "KAZ",
-     "time": "2026-10-23T06:18:40Z",
-     "headline": "Kazakhstan Backs UAE Nominee Lana Nusseibeh for UN Secretary-General",
-     "url": "https://astanatimes.com/2026/10/kazakhstan-backs-uae-nominee-lana-nusseibeh-for-un-secretary-general/"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T08:10:00Z",
-     "headline": "Lana Nusseibeh nominated for UN chief amid scrutiny over Sudan conflict and Epstein relation",
-     "url": "https://www.azernews.az/region/266053.html"
-    },
-    {
-     "outlet": "Amu TV",
-     "country": "AFG",
-     "time": "2026-10-23T15:43:51Z",
-     "headline": "UAE diplomat with key Afghanistan role enters race for UN chief",
-     "url": "https://amu.tv/255057/"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T16:12:26Z",
-     "headline": "UN chief race enters decisive phase as new contender arrives",
-     "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:00:28Z",
-     "headline": "Cyprus throws weight behind UAE’s Nusseibeh for UN secretary-general",
-     "url": "https://cyprus-mail.com/2026/10/23/cyprus-throws-weight-behind-uaes-nusseibeh-for-un-secretary-general"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T08:54:09Z",
-     "headline": "UAE diplomat vying for UN's top job",
-     "url": "https://www.dawn.com/news/2039476/uae-diplomat-vying-for-uns-top-job"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T12:35:55Z",
-     "headline": "GCC unanimously backs UAE's Lana Nusseibeh for UN secretary-general",
-     "url": "https://gulfnews.com/world/gulf/gcc-unanimously-backs-uaes-lana-nusseibeh-for-un-secretary-general-1.500722243"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T13:44:39Z",
-     "headline": "UAE’s Lana Nusseibeh receives more support in bid to become next UN secretary-general",
-     "url": "https://www.jpost.com/international/article-912800"
-    }
-   ]
-  },
-  {
    "id": 26331,
    "title": "Fire devastates former Hitler guest house 'Eagle's Nest'",
    "category": "Society & Law",
@@ -9864,6 +9894,138 @@
      "time": "2026-10-25T12:49:20Z",
      "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
+    }
+   ]
+  },
+  {
+   "id": 27784,
+   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 5.96,
+   "risk": 4.64,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 15,
+   "countries": [
+    "NPL",
+    "USA",
+    "ARE",
+    "PAK",
+    "OMN",
+    "CYP",
+    "QAT",
+    "SGP",
+    "IRL"
+   ],
+   "first_seen": "2026-10-24T15:28:17Z",
+   "last_seen": "2026-10-25T18:54:12Z",
+   "page": "event/27784.html",
+   "reports": [
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-24T15:28:17Z",
+     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
+     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T03:45:20Z",
+     "headline": "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T11:01:09Z",
+     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
+     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T12:14:44Z",
+     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T12:19:03Z",
+     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:25:37Z",
+     "headline": "Saudi says Riyadh airport reopens despite threats",
+     "url": "https://www.omanobserver.om/article/1198545/world/region/saudi-says-riyadh-airport-reopens-despite-threats"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T12:44:47Z",
+     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-25T12:49:33Z",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T13:36:55Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:49:33Z",
+     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
+     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T15:35:00Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T15:58:15Z",
+     "headline": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia",
+     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T18:54:12Z",
+     "headline": "Riyadh airport reopens despite renewed Houthi threats",
+     "url": "https://www.rte.ie/news/middle-east/2026/1025/1596819-riyadh-airport-reopens/"
     }
    ]
   },
@@ -12313,130 +12475,6 @@
      "time": "2026-10-24T15:00:00Z",
      "headline": "These clever apps show off the iPhone Duo’s potential",
      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
-    }
-   ]
-  },
-  {
-   "id": 27784,
-   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.73,
-   "risk": 4.38,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "NPL",
-    "USA",
-    "ARE",
-    "PAK",
-    "OMN",
-    "CYP",
-    "QAT",
-    "SGP"
-   ],
-   "first_seen": "2026-10-24T15:28:17Z",
-   "last_seen": "2026-10-25T15:58:15Z",
-   "page": "event/27784.html",
-   "reports": [
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-24T15:28:17Z",
-     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
-     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T03:45:20Z",
-     "headline": "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T11:01:09Z",
-     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
-     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T12:14:44Z",
-     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T12:19:03Z",
-     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:25:37Z",
-     "headline": "Saudi says Riyadh airport reopens despite threats",
-     "url": "https://www.omanobserver.om/article/1198545/world/region/saudi-says-riyadh-airport-reopens-despite-threats"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T12:44:47Z",
-     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-25T12:49:33Z",
-     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T13:36:55Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:49:33Z",
-     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
-     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T15:35:00Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
-     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T15:58:15Z",
-     "headline": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia",
-     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
     }
    ]
   },
