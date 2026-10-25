@@ -1,328 +1,8 @@
 {
- "generated": "2026-10-25T16:21:00Z",
+ "generated": "2026-10-25T16:38:01Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
-  {
-   "id": 22696,
-   "title": "Israel demolishes homes in West Bank after fatal attack",
-   "category": "Economy & Markets",
-   "importance": 8.35,
-   "risk": 7.28,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 40,
-   "countries": [
-    "SAU",
-    "IRQ",
-    "ISR",
-    "CHN",
-    "AZE",
-    "GBR",
-    "TUR",
-    "USA",
-    "IRL",
-    "PAK",
-    "AUS",
-    "DEU",
-    "NZL",
-    "FRA",
-    "SGP",
-    "QAT",
-    "ARE",
-    "IND",
-    "IRN",
-    "MAR",
-    "GHA",
-    "NGA",
-    "RUS"
-   ],
-   "first_seen": "2026-10-23T05:06:35Z",
-   "last_seen": "2026-10-23T16:31:00Z",
-   "page": "event/22696.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israel military: two suspected attackers killed after shooting attack near Judea junction",
-     "url": "https://www.arabnews.com/middle-east/israel-military-two-suspected-attackers-killed-after-shooting-attack-near-judea-junction-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Israeli military says killed two after West Bank shooting",
-     "url": "https://www.arabnews.com/middle-east/israeli-military-says-killed-two-after-west-bank-shooting-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "West Bank attack wounds 5 as Israel PM cancels events",
-     "url": "https://www.arabnews.com/middle-east/west-bank-attack-wounds-5-as-israel-pm-cancels-events-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ as attack kills 2 soldiers",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-as-attack-kills-2-soldiers-3007835"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T05:06:35Z",
-     "headline": "Netanyahu says extensive West Bank military operation ‘on the way’ after attack kills 2 soldiers",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-says-extensive-west-bank-military-operation-on-the-way-after-attack-kills-2-soldiers-3007835"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T05:35:47Z",
-     "headline": "Two gunmen killed in attack on Israeli post near al-Khalil",
-     "url": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:05:24Z",
-     "headline": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
-     "url": "https://english.aawsat.com/node/5332586"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T07:01:49Z",
-     "headline": "Election panel orders Likud to pull signs of Eisenkot bloc party leaders with Arab MKs",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article-live/.free/netanyahu-cancels-all-friday-campaign-events-due-to-west-bank-shooting-attack/000001a1-65f1-d6e1-abb7-77ffe02e0002"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T07:11:50Z",
-     "headline": "5 Israelis wounded, 2 Palestinians killed in West Bank shooting",
-     "url": "https://english.news.cn/20261023/1a90957840f04132aba6610fb13a3046/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T07:16:00Z",
-     "headline": "Five Israelis wounded, two Palestinians killed in West Bank shooting",
-     "url": "https://en.apa.az/asia/five-israelis-wounded-two-palestinians-killed-in-west-bank-shooting-531778"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T08:03:00Z",
-     "headline": "Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting",
-     "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T08:04:10Z",
-     "headline": "Netanyahu says Israel preparing 'full closure' of West Bank in response to attack",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-says-israel-preparing-full-closure-of-west-bank-in-response-to-attack-3230861"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T08:10:44Z",
-     "headline": "Israel demolishes homes in West Bank after fatal attack",
-     "url": "https://www.rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-23T08:14:27Z",
-     "headline": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
-     "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T08:18:27Z",
-     "headline": "Two Israeli soldiers killed in attack on West Bank military checkpoint",
-     "url": "https://www.abc.net.au/news/2026-10-23/israel-west-bank-closure/107303622"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T08:25:00Z",
-     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
-     "url": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T08:25:00Z",
-     "headline": "Israel orders home demolitions after soldiers killed in West Bank",
-     "url": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T08:25:07Z",
-     "headline": "Urgent: Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/adc8518b9ed545e3ad0cf4ca207bda7f/c.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T08:27:20Z",
-     "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-     "url": "https://www.stuff.co.nz/world-news/361050482/netanyahus-office-orders-closure-west-bank-after-soldiers"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T08:30:24Z",
-     "headline": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T08:30:24Z",
-     "headline": "PM warns of major West Bank military operation after attack kills Israeli soldiers",
-     "url": "https://www.al-monitor.com/originals/2026/10/pm-warns-major-west-bank-military-operation-after-attack-kills-israeli-soldiers"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T08:33:59Z",
-     "headline": "Israel orders army to prepare for full closure of West Bank after attack",
-     "url": "https://www.independent.co.uk/news/world/middle-east/israel-west-bank-hebron-attack-b3072022.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T08:35:17Z",
-     "headline": "Israel’s PM Netanyahu vows to ‘destroy’ Hebron after 2 soldiers killed in ‘terrorist attack’",
-     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:47:16Z",
-     "headline": "Israel orders ‘full lockdown’ of occupied West Bank",
-     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:09:51Z",
-     "headline": "Israel's Netanyahu announces \"full lockdown\" of West Bank after shooting",
-     "url": "https://english.news.cn/20261023/199a2a2ff1584241a32b75a981d8cb1d/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T09:11:28Z",
-     "headline": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:12:38Z",
-     "headline": "Israeli military kills two in gun battle in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T09:18:58Z",
-     "headline": "Netanyahu orders West Bank lockdown after Hebron checkpoint shooting",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/23/netanyahu-orders-west-bank-lockdown-after-hebron-checkpoint-shooting/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T09:26:58Z",
-     "headline": "Israeli premier orders ‘closure’ of Hebron, ‘full lockdown’ of occupied West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T09:27:04Z",
-     "headline": "Israel Closes West Bank After Military Kills \"2 Terrorists\" For Shooting",
-     "url": "https://www.ndtv.com/world-news/israel-closes-west-bank-after-military-kills-2-terrorists-for-shooting-5-injured-12224818#publisher=newsstand"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T09:28:42Z",
-     "headline": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T09:29:06Z",
-     "headline": "Netanyahu orders West Bank lockdown after deadly attack days before election",
-     "url": "https://gulfnews.com/world/mena/netanyahu-orders-west-bank-lockdown-after-deadly-attack-days-before-election-1.500720835"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T09:44:40Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-23T09:58:07Z",
-     "headline": "6 Israeli soldiers wounded in Palestinian op. in West Bank",
-     "url": "https://en.mehrnews.com/news/248832/6-Israeli-soldiers-wounded-in-Palestinian-op-in-West-Bank"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T10:03:56Z",
-     "headline": "Israel army says launches 'offensive counter-terrorism operations' in West Bank",
-     "url": "https://en.hespress.com/147834-israel-army-says-launches-offensive-counter-terrorism-operations-in-west-bank.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:05:10Z",
-     "headline": "Israel prepares full West Bank lockdown after Hebron shooting",
-     "url": "https://www.middleeasteye.net/news/israel-prepares-full-west-bank-lockdown-after-hebron-shooting"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:09:14Z",
-     "headline": "Israel orders closure of West Bank after soldiers kill 2 Palestinians behind alleged attack",
-     "url": "https://www.stuff.co.nz/world-news/361050490/israel-orders-closure-west-bank-after-soldiers-kill-2"
-    }
-   ]
-  },
   {
    "id": 20210,
    "title": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
@@ -1554,9 +1234,9 @@
    "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
    "category": "Geopolitics",
    "importance": 7.31,
-   "risk": 7.33,
+   "risk": 7.81,
    "confidence": 0.87,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 34,
    "countries": [
     "ISR",
@@ -3157,6 +2837,323 @@
    ]
   },
   {
+   "id": 24595,
+   "title": "Israel to close all West Bank land crossings on election day",
+   "category": "Geopolitics",
+   "importance": 7.08,
+   "risk": 6.72,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 32,
+   "countries": [
+    "USA",
+    "CAN",
+    "ISR",
+    "IND",
+    "MAR",
+    "IRL",
+    "AUS",
+    "TUR",
+    "CHN",
+    "PAK",
+    "SGP",
+    "EGY",
+    "QAT",
+    "FRA",
+    "SAU",
+    "GBR",
+    "IRN",
+    "NZL",
+    "DEU",
+    "TWN"
+   ],
+   "first_seen": "2026-10-23T08:05:06Z",
+   "last_seen": "2026-10-25T16:37:09Z",
+   "page": "event/24595.html",
+   "reports": [
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T11:01:29Z",
+     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:39:37Z",
+     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T15:06:27Z",
+     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T16:26:16Z",
+     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T18:35:15Z",
+     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T19:50:03Z",
+     "headline": "West Bank attack may boost Netanyahu's election chances",
+     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
+    },
+    {
+     "outlet": "Foreign Policy",
+     "country": "USA",
+     "time": "2026-10-23T20:22:10Z",
+     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T21:30:10Z",
+     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T21:38:54Z",
+     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T21:53:53Z",
+     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:19:41Z",
+     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-24T00:39:40Z",
+     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
+     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T02:11:25Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T05:31:00Z",
+     "headline": "Israel launches West Bank operation after attack days before election",
+     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:33:56Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-24T07:51:51Z",
+     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T09:14:40Z",
+     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T10:33:52Z",
+     "headline": "Netanyahu orders West Bank operation",
+     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:52:55Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:24:19Z",
+     "headline": "Full lockdown of occupied West Bank begins",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:31:04Z",
+     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:20:29Z",
+     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
+     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T22:09:44Z",
+     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
+     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T00:40:49Z",
+     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T01:17:13Z",
+     "headline": "Israel says closing all land crossings with West Bank on election day",
+     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:33:31Z",
+     "headline": "Israel presses ahead with West Bank army operation days before election",
+     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "Leading religious Zionist rabbi backs far-right party Netanyahu wants out of election",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T05:00:08Z",
+     "headline": "Israel to close key access point on election day",
+     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:15:52Z",
+     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:29:04Z",
+     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T06:58:52Z",
+     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T07:02:17Z",
+     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
+     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:45:46Z",
+     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
+     "url": "https://english.aawsat.com/node/5333333"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T08:49:00Z",
+     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T10:29:23Z",
+     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
+     "url": "https://english.aawsat.com/node/5333383"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T11:22:06Z",
+     "headline": "Military conducts massive West Bank operation, days before Israeli election",
+     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T12:31:01Z",
+     "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T13:09:00Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
    "id": 1528,
    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
    "category": "Economy & Markets",
@@ -3472,325 +3469,6 @@
      "time": "2026-10-16T17:08:27Z",
      "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
      "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
-    }
-   ]
-  },
-  {
-   "id": 16036,
-   "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-   "category": "Trade & Industry",
-   "importance": 7.02,
-   "risk": 6.94,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 38,
-   "countries": [
-    "GBR",
-    "TUR",
-    "IRL",
-    "USA",
-    "QAT",
-    "PAK",
-    "OMN",
-    "SAU",
-    "ARE",
-    "KWT",
-    "AFG",
-    "IRQ",
-    "KOR",
-    "BGD",
-    "SGP",
-    "IND",
-    "NPL",
-    "ZAF",
-    "CHN",
-    "EGY",
-    "NGA",
-    "IRN"
-   ],
-   "first_seen": "2026-10-21T12:22:54Z",
-   "last_seen": "2026-10-23T16:22:13Z",
-   "page": "event/16036.html",
-   "reports": [
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T12:22:54Z",
-     "headline": "Saudi capital's airport opens to limited traffic, and other Mideast news",
-     "url": "https://www.independent.co.uk/news/world/europe/houthi-saudia-oman-british-iran-b3070719.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T22:33:59Z",
-     "headline": "One killed, eight injured in Saudi Arabia’s King Fahd airport attack",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-eight-injured-saudi-arabias-king-fahd-airport-attack"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-21T22:59:11Z",
-     "headline": "Attack on Saudi Arabia’s Dammam airport kills 1, injures 8: Aviation authority",
-     "url": "https://www.aa.com.tr/en/middle-east/attack-on-saudi-arabia-s-dammam-airport-kills-1-injures-8-aviation-authority/4096575"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T23:35:39Z",
-     "headline": "Two dead, eight injured in Saudi airport attack",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-arabia-yemen/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T00:05:52Z",
-     "headline": "1 killed, 8 wounded in Saudi Arabia airport attack",
-     "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T00:25:41Z",
-     "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-     "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T00:47:45Z",
-     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
-     "url": "https://tribune.com.pk/story/2636275/saudi-civil-aviation-says-one-killed-eight-injured-in-attack-on-king-fahd-airport"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T01:24:01Z",
-     "headline": "Three killed in Saudi Arabia as Ansar Allah target oil field, airport",
-     "url": "https://www.omanobserver.om/article/1198216/world/region/three-killed-in-saudi-arabia-as-ansar-allah-target-oil-field-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T03:24:48Z",
-     "headline": "2 Killed, 8 Injured in Dammam Airport Attack",
-     "url": "https://english.aawsat.com/node/5332192"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T03:58:14Z",
-     "headline": "US pulls diplomats from Saudi Arabia but denies wider Gulf withdrawal",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-22T04:15:00Z",
-     "headline": "Dammam Airport Attack Leaves One Dead, Eight Injured in Saudi Arabia",
-     "url": "https://www.arabtimesonline.com/news/dammam-airport-attack-leaves-one-dead-eight-injured/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:20:14Z",
-     "headline": "Middle East latest: UAE condemns Houthi attack on Saudi Arabia’s Dammam airport",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T04:24:13Z",
-     "headline": "One Killed, Eight Injured in Attack on Saudi Arabia’s King Fahd Airport",
-     "url": "https://www.khaama.com/dammam-airport-attack/"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T05:55:14Z",
-     "headline": "Saudi Aviation Body Reports Two Killed in Dammam Airport Attack",
-     "url": "https://www.kurdistan24.net/en/story/947780/saudi-aviation-body-reports-one-killed-in-dammam-airport-attack"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T06:47:23Z",
-     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
-     "url": "https://www.omanobserver.om/article/1198229/world/region/two-dead-in-eastern-saudi-airport-attack-aviation-authority"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "1 person killed in attack on eastern Saudi airport, authorities say",
-     "url": "https://www.koreatimes.co.kr/world/20261022/1-person-killed-in-attack-on-eastern-saudi-airport-authorities-say?utm_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T07:03:26Z",
-     "headline": "Houthi strike kills 1, injures 8 at Saudi King Fahd International Airport",
-     "url": "https://www.turkiyetoday.com/region/houthi-strike-kills-1-injures-8-at-saudi-king-fahd-international-airport-3230796"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T07:03:58Z",
-     "headline": "One killed, 8 injured in Dammam airport attack: Saudi aviation authority",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/one-killed-8-injured-dammam-airport-attack-saudi-aviation-authority-4304726"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T07:11:43Z",
-     "headline": "3 killed, 8 injured in attacks on Aramco oil field, Saudi airport",
-     "url": "https://www.straitstimes.com/world/middle-east/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T07:15:22Z",
-     "headline": "Saudi Arabia's Dammam airport resumes operations after attack kills two, injures eight",
-     "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabias-dammam-airport-resumes-operations-after-attack-kills-two-injures-eight-1.500719434"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T07:17:00Z",
-     "headline": "Dammam’s King Fahd airport resumes normal operations",
-     "url": "https://www.arabnews.com/saudi-arabia/dammams-king-fahd-airport-resumes-normal-operations-3007672"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T07:27:27Z",
-     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-     "url": "https://www.brecorder.com/news/40445437/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T07:36:19Z",
-     "headline": "Indian killed, three others injured in Houthi attacks on Saudi Arabia",
-     "url": "https://indianexpress.com/article/india/indian-national-among-two-killed-in-saudi-arabias-dammam-airport-attack-yemen-houthi-10931971/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-22T07:51:00Z",
-     "headline": "Indian Expat, Saudi National Among Two Killed in Iran-Backed Houthi Attack on Dammam Airport; Eight Injured",
-     "url": "https://www.arabtimesonline.com/news/indian-expat-saudi-national-among-two-killed-in-iran-backed-houthi-attack-on-dammam-airport-eight-injured/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T07:53:59Z",
-     "headline": "Indian Among 2 Killed In Attack On Saudi Airport, 2 Others Injured",
-     "url": "https://www.ndtv.com/world-news/indian-among-2-killed-in-attack-on-saudi-airport-2-others-injured-12219121#publisher=newsstand"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T07:55:41Z",
-     "headline": "Indian national among 2 killed in attack on Saudi Arabia's Dammam airport",
-     "url": "https://timesofindia.indiatimes.com/india/1-indian-killed-2-injured-in-dammam-airport-attack-in-saudi-arabia/articleshow/135112073.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-22T07:59:49Z",
-     "headline": "Two dead in eastern Saudi airport attack: aviation authority",
-     "url": "https://www.newarab.com/news/two-dead-eastern-saudi-airport-attack-aviation-authority"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T08:21:26Z",
-     "headline": "Dammam airport attack death toll rises to two",
-     "url": "https://shafaq.com/en/Middle-East/Dammam-airport-attack-death-toll-rises-to-two"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T08:37:02Z",
-     "headline": "A Nepali among eight injured in Dammam airport attack",
-     "url": "https://kathmandupost.com/national/2026/10/22/a-nepali-among-eight-injured-in-dammam-airport-attack"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T08:53:17Z",
-     "headline": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T09:04:04Z",
-     "headline": "Deaths from attack on Saudi airport rise to 2",
-     "url": "https://english.news.cn/20261022/9fc64639e0864d309c183b1ed971523d/c.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:14:48Z",
-     "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Scroll.in",
-     "country": "IND",
-     "time": "2026-10-22T09:38:07Z",
-     "headline": "Saudi Arabia: Indian killed in Dammam airport attack",
-     "url": "https://scroll.in/latest/1096582/indian-killed-in-dammam-airport-attack?utm_source=rss&utm_medium=public"
-    },
-    {
-     "outlet": "The Hindu",
-     "country": "IND",
-     "time": "2026-10-22T09:58:30Z",
-     "headline": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-     "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T10:07:50Z",
-     "headline": "King Fahd airport attack: Indian national among two killed, embassy confirms",
-     "url": "https://gulfnews.com/world/gulf/saudi/king-fahd-airport-attack-indian-national-among-two-killed-embassy-confirms-1.500719651"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T10:08:09Z",
-     "headline": "Two killed and eight injured in attack targeting King Fahd Airport in Saudi Arabia",
-     "url": "https://www.egyptindependent.com/two-killed-and-eight-injured-in-attack-targeting-king-fahd-airport-in-saudi-arabia/"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T10:40:36Z",
-     "headline": "Egypt condemns attack on King Fahd Airport in Saudi Arabia",
-     "url": "https://www.egyptindependent.com/egypt-condemns-attack-on-king-fahd-airport-in-saudi-arabia/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T10:49:14Z",
-     "headline": "Jordan, Egypt Condemn Attack on King Fahd International Airport in Saudi Arabia",
-     "url": "https://english.aawsat.com/node/5332317"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T11:25:52Z",
-     "headline": "India condemns deadly attacks on Saudi Arabia’s Eastern Province",
-     "url": "https://www.arabnews.com/world/india-condemns-deadly-attacks-on-saudi-arabias-eastern-province-3007706"
-    },
-    {
-     "outlet": "Hindustan Times",
-     "country": "IND",
-     "time": "2026-10-22T11:39:17Z",
-     "headline": "‘Unacceptable’: India slams Houthi strikes in Saudi Arabia, moves to help stranded pilgrims",
-     "url": "https://www.hindustantimes.com/india-news/india-condemns-strikes-on-civil-infrastructure-in-saudi-arabia-after-death-of-indian-national-101792669157963.html"
     }
    ]
   },
@@ -4433,322 +4111,6 @@
      "time": "2026-10-25T00:17:03Z",
      "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
      "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 24595,
-   "title": "Israel to close all West Bank land crossings on election day",
-   "category": "Geopolitics",
-   "importance": 6.96,
-   "risk": 6.67,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 31,
-   "countries": [
-    "USA",
-    "CAN",
-    "ISR",
-    "IND",
-    "MAR",
-    "IRL",
-    "AUS",
-    "TUR",
-    "CHN",
-    "PAK",
-    "SGP",
-    "EGY",
-    "QAT",
-    "FRA",
-    "SAU",
-    "GBR",
-    "IRN",
-    "NZL",
-    "DEU"
-   ],
-   "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T15:36:53Z",
-   "page": "event/24595.html",
-   "reports": [
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T11:01:29Z",
-     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:39:37Z",
-     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T15:06:27Z",
-     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
-     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T16:26:16Z",
-     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
-     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T18:35:15Z",
-     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
-     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T19:50:03Z",
-     "headline": "West Bank attack may boost Netanyahu's election chances",
-     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-23T20:22:10Z",
-     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T21:30:10Z",
-     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T21:38:54Z",
-     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T21:53:53Z",
-     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:19:41Z",
-     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T00:39:40Z",
-     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
-     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T02:11:25Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T05:31:00Z",
-     "headline": "Israel launches West Bank operation after attack days before election",
-     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:33:56Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-24T07:51:51Z",
-     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T09:14:40Z",
-     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T10:33:52Z",
-     "headline": "Netanyahu orders West Bank operation",
-     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:52:55Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:24:19Z",
-     "headline": "Full lockdown of occupied West Bank begins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israel to close all land crossings with West Bank on election day",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-24T14:31:04Z",
-     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:20:29Z",
-     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
-     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T22:09:44Z",
-     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
-     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T00:40:49Z",
-     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T01:17:13Z",
-     "headline": "Israel says closing all land crossings with West Bank on election day",
-     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:33:31Z",
-     "headline": "Israel presses ahead with West Bank army operation days before election",
-     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T03:21:35Z",
-     "headline": "Head of far-right yeshiva in West Bank endorses Ofer Winter's party",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T05:00:08Z",
-     "headline": "Israel to close key access point on election day",
-     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:15:52Z",
-     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:29:04Z",
-     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
-     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T06:58:52Z",
-     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T07:02:17Z",
-     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
-     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:45:46Z",
-     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
-     "url": "https://english.aawsat.com/node/5333333"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T08:49:00Z",
-     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
-     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T10:29:23Z",
-     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
-     "url": "https://english.aawsat.com/node/5333383"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T11:22:06Z",
-     "headline": "Military conducts massive West Bank operation, days before Israeli election",
-     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T12:31:01Z",
-     "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T13:09:00Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
@@ -6413,6 +5775,464 @@
    ]
   },
   {
+   "id": 28198,
+   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+   "category": "Geopolitics",
+   "importance": 6.48,
+   "risk": 7.28,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 25,
+   "countries": [
+    "USA",
+    "JAM",
+    "NGA",
+    "SGP",
+    "QAT",
+    "SAU",
+    "IRL",
+    "GBR",
+    "GHA",
+    "PHL",
+    "BGD",
+    "OMN",
+    "PAK",
+    "ZAF",
+    "KEN",
+    "FRA",
+    "CYP",
+    "AUS",
+    "TWN"
+   ],
+   "first_seen": "2026-10-23T03:59:00Z",
+   "last_seen": "2026-10-25T16:37:07Z",
+   "page": "event/28198.html",
+   "reports": [
+    {
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-23T03:59:00Z",
+     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
+     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T20:01:59Z",
+     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T21:17:54Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T21:18:50Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:33:40Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T00:34:43Z",
+     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T00:37:13Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T01:08:53Z",
+     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T02:27:15Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T02:45:31Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T03:19:10Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-25T04:03:53Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T04:15:07Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty'",
+     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T04:44:43Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T07:09:37Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T07:34:12Z",
+     "headline": "Obama criticises Trump over Iran war, rising prices",
+     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T07:55:00Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T08:20:30Z",
+     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
+     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T08:44:17Z",
+     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T08:47:49Z",
+     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
+     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-25T09:29:57Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T10:05:42Z",
+     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:36:56Z",
+     "headline": "Obama hits campaign trail for democrats",
+     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:07:52Z",
+     "headline": "Obama blasts Trump's 'chaos, cruelty' while in support of Democrats",
+     "url": "https://www.omanobserver.om/article/1198540/world/americas/obama-blasts-trumps-chaos-cruelty-while-in-support-of-democrats"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T14:42:37Z",
+     "headline": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
+     "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T15:31:57Z",
+     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
+     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T16:25:12Z",
+     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
+     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:07Z",
+     "headline": "Barack Obama blasts Trump’s ‘chaos and cruelty’",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866615"
+    }
+   ]
+  },
+  {
+   "id": 23924,
+   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+   "category": "Technology & Cyber",
+   "importance": 6.41,
+   "risk": 6.19,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 21,
+   "countries": [
+    "IND",
+    "ISR",
+    "UKR",
+    "RUS",
+    "SGP",
+    "GBR",
+    "KOR",
+    "USA",
+    "TUR",
+    "SAU",
+    "NGA",
+    "AFG",
+    "TWN"
+   ],
+   "first_seen": "2026-10-23T09:37:24Z",
+   "last_seen": "2026-10-25T16:37:07Z",
+   "page": "event/23924.html",
+   "reports": [
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T09:37:24Z",
+     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
+     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T04:18:16Z",
+     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
+     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T05:50:42Z",
+     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
+     "url": "https://www.jpost.com/international/article-912682"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T19:35:00Z",
+     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T19:35:32Z",
+     "headline": "Kiev violated Starlink terms of service, Musk says",
+     "url": "https://tass.com/world/2207339"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:00Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T21:27:03Z",
+     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
+     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T23:02:03Z",
+     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T00:44:31Z",
+     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
+     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T00:57:45Z",
+     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T01:52:13Z",
+     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
+     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T04:18:52Z",
+     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
+     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T05:23:00Z",
+     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
+     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:45:31Z",
+     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T06:31:00Z",
+     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
+     "url": "https://www.kyivpost.com/post/88082"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:55:29Z",
+     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
+     "url": "https://english.aawsat.com/node/5333337"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T08:15:24Z",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T08:25:54Z",
+     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
+     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T09:22:18Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
+     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T10:02:00Z",
+     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
+     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T10:09:20Z",
+     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
+     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T10:52:01Z",
+     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
+     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T14:55:09Z",
+     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T15:35:22Z",
+     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:07Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866614"
+    }
+   ]
+  },
+  {
    "id": 13172,
    "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
    "category": "Geopolitics",
@@ -6685,203 +6505,6 @@
      "time": "2026-10-25T13:52:44Z",
      "headline": "Presidential runoff under way in Brazil",
      "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil"
-    }
-   ]
-  },
-  {
-   "id": 23924,
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-   "category": "Technology & Cyber",
-   "importance": 6.38,
-   "risk": 6.33,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 20,
-   "countries": [
-    "IND",
-    "ISR",
-    "UKR",
-    "RUS",
-    "SGP",
-    "GBR",
-    "KOR",
-    "USA",
-    "TUR",
-    "SAU",
-    "NGA",
-    "AFG"
-   ],
-   "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-25T15:35:22Z",
-   "page": "event/23924.html",
-   "reports": [
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T09:37:24Z",
-     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
-     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T04:18:16Z",
-     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
-     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T05:50:42Z",
-     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
-     "url": "https://www.jpost.com/international/article-912682"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T19:35:00Z",
-     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T19:35:32Z",
-     "headline": "Kiev violated Starlink terms of service, Musk says",
-     "url": "https://tass.com/world/2207339"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:27:00Z",
-     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T21:27:03Z",
-     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
-     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T23:02:03Z",
-     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
-     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T00:44:31Z",
-     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T00:57:45Z",
-     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T01:52:13Z",
-     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
-     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T04:18:52Z",
-     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
-     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T05:23:00Z",
-     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
-     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:45:31Z",
-     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T06:31:00Z",
-     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
-     "url": "https://www.kyivpost.com/post/88082"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:55:29Z",
-     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
-     "url": "https://english.aawsat.com/node/5333337"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T08:15:24Z",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T08:25:54Z",
-     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
-     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T09:22:18Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
-     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T10:02:00Z",
-     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
-     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T10:09:20Z",
-     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
-     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T10:52:01Z",
-     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
-     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T14:55:09Z",
-     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T15:35:22Z",
-     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
     }
    ]
   },
@@ -7432,516 +7055,6 @@
    ]
   },
   {
-   "id": 27872,
-   "title": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-   "category": "Geopolitics",
-   "importance": 6.33,
-   "risk": 0.0,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 13,
-   "countries": [
-    "SGP",
-    "ARE",
-    "NGA",
-    "CYP",
-    "JAM",
-    "SAU",
-    "ZAF",
-    "QAT",
-    "NAM"
-   ],
-   "first_seen": "2026-10-24T13:41:17Z",
-   "last_seen": "2026-10-24T20:27:07Z",
-   "page": "event/27872.html",
-   "reports": [
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T13:41:17Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders' perfect start",
-     "url": "https://www.channelnewsasia.com/sport/arsenal-join-man-city-summit-after-villa-end-leaders-perfect-start-6488951"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T16:23:25Z",
-     "headline": "Arsenal go level at top of Premier League with Man City after easing to win over Everton",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T16:29:24Z",
-     "headline": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-     "url": "https://www.vanguardngr.com/2026/10/epl-arsenal-see-off-everton-go-joint-top-after-man-city-defeat/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T16:39:46Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://cyprus-mail.com/2026/10/24/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T17:06:42Z",
-     "headline": "Arsenal Beat Everton To Join Man City At Premier League Summit",
-     "url": "https://www.channelstv.com/2026/10/24/arsenal-beat-everton-to-join-man-city-at-premier-league-summit/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T17:14:54Z",
-     "headline": "EPL: Arsenal beat Everton 2-0 to level with Man City on points",
-     "url": "https://punchng.com/epl-arsenal-beat-everton-2-0-to-level-with-man-city-on-points/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T17:17:11Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/man-citys-perfect-start-ended-aston-villa-arsenal-go-joint-top/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T17:25:19Z",
-     "headline": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
-     "url": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T17:25:34Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T17:43:07Z",
-     "headline": "Man City Falls at Aston Villa and Arsenal Moves Level on Top of Premier League",
-     "url": "https://english.aawsat.com/node/5333216"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-24T19:37:05Z",
-     "headline": "EPL: Arsenal defeat Everton, Manchester City lose 100% record",
-     "url": "https://dailytrust.com/epl-arsenal-defeat-everton-manchester-city-lose-100-record/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T20:01:00Z",
-     "headline": "Premier League wrap: Man City suffer first defeat, Arsenal fire against Everton",
-     "url": "https://iol.co.za/sport/soccer/premier-league/2026-10-24-premier-league-wrap-man-city-suffer-first-defeat-arsenal-fire-against-everton/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T20:03:29Z",
-     "headline": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-24T20:27:07Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
-    }
-   ]
-  },
-  {
-   "id": 28198,
-   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-   "category": "Geopolitics",
-   "importance": 6.29,
-   "risk": 7.16,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 24,
-   "countries": [
-    "USA",
-    "JAM",
-    "NGA",
-    "SGP",
-    "QAT",
-    "SAU",
-    "IRL",
-    "GBR",
-    "GHA",
-    "PHL",
-    "BGD",
-    "OMN",
-    "PAK",
-    "ZAF",
-    "KEN",
-    "FRA",
-    "CYP",
-    "AUS"
-   ],
-   "first_seen": "2026-10-23T03:59:00Z",
-   "last_seen": "2026-10-25T15:31:57Z",
-   "page": "event/28198.html",
-   "reports": [
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-23T03:59:00Z",
-     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
-     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T20:01:59Z",
-     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T21:17:54Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T21:18:50Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:33:40Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T00:34:43Z",
-     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T00:37:13Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T01:08:53Z",
-     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T02:27:15Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T02:45:31Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T03:19:10Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-25T04:03:53Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T04:15:07Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty'",
-     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T04:44:43Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T07:09:37Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T07:34:12Z",
-     "headline": "Obama criticises Trump over Iran war, rising prices",
-     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T07:55:00Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T08:20:30Z",
-     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
-     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T08:44:17Z",
-     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T08:47:49Z",
-     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
-     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-25T09:29:57Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T10:05:42Z",
-     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:36:56Z",
-     "headline": "Obama hits campaign trail for democrats",
-     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:07:52Z",
-     "headline": "Obama blasts Trump's 'chaos, cruelty' while in support of Democrats",
-     "url": "https://www.omanobserver.om/article/1198540/world/americas/obama-blasts-trumps-chaos-cruelty-while-in-support-of-democrats"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T14:42:37Z",
-     "headline": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
-     "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T15:31:57Z",
-     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
-     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump"
-    }
-   ]
-  },
-  {
-   "id": 28591,
-   "title": "Eleven shot near Florida A&M university in Tallahassee",
-   "category": "Health & Science",
-   "importance": 6.25,
-   "risk": 5.97,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "PAK",
-    "CHN",
-    "TUR",
-    "IRN",
-    "IND",
-    "CYP",
-    "ISR",
-    "SAU",
-    "ARE",
-    "GBR",
-    "LKA",
-    "SGP"
-   ],
-   "first_seen": "2026-10-25T01:29:19Z",
-   "last_seen": "2026-10-25T07:54:00Z",
-   "page": "event/28591.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-25T01:29:19Z",
-     "headline": "11 shot near Florida A&M university in Tallahassee",
-     "url": "https://tribune.com.pk/story/2636817/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T03:19:51Z",
-     "headline": "Urgent: Police investigating shooting in Florida university",
-     "url": "https://english.news.cn/20261025/ed448aff17414a92bd45e6e713aa39c9/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T03:34:08Z",
-     "headline": "Shooting near Florida university stadium leaves victims, prompts safety alerts",
-     "url": "https://www.aa.com.tr/en/americas/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts/4099932"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T03:34:08Z",
-     "headline": "11 shot, 1 more injured near Florida university stadium: Police",
-     "url": "https://www.aa.com.tr/en/americas/11-shot-1-more-injured-near-florida-university-stadium-police/4099932"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:16:32Z",
-     "headline": "VIDEO: Shooting at Florida State University, dozens injured",
-     "url": "https://en.mehrnews.com/news/248884/VIDEO-Shooting-at-Florida-State-University-dozens-injured"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T05:19:19Z",
-     "headline": "6 children among 12 injured in shooting near Florida university stadium",
-     "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:28:10Z",
-     "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
-     "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354#publisher=newsstand"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T05:35:36Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://cyprus-mail.com/2026/10/25/eleven-shot-near-florida-am-university-in-tallahassee"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T05:39:59Z",
-     "headline": "At least 12 injured in late-night shooting near Florida A&M University stadium in Tallahassee",
-     "url": "https://www.jpost.com/international/article-912735"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T05:42:50Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://www.arabnews.com/news/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T05:42:50Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://www.arabnews.com/world/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T05:46:41Z",
-     "headline": "At least 12 injured in shooting near Florida university stadium",
-     "url": "https://english.news.cn/20261025/e201c807db2e415bacd802c7a9b405ba/c.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T05:49:43Z",
-     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
-     "url": "https://gulfnews.com/world/americas/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida-1.500722740"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:07:47Z",
-     "headline": "Twelve injured, including six juveniles, in shooting near Florida university",
-     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-25T07:11:50Z",
-     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
-     "url": "https://www.dailymirror.lk/international/At-least-12-people-injured-in-shooting-near-a-football-stadium-in-Florida/107-353350"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:15:29Z",
-     "headline": "Eleven Shot near Florida A&M University in Tallahassee",
-     "url": "https://english.aawsat.com/node/5333323"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T07:54:00Z",
-     "headline": "11 people shot at homecoming party near Florida university campus",
-     "url": "https://www.straitstimes.com/world/united-states/11-people-shot-at-homecoming-party-near-florida-university-campus"
-    }
-   ]
-  },
-  {
    "id": 24414,
    "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
    "category": "Technology & Cyber",
@@ -8463,138 +7576,6 @@
    ]
   },
   {
-   "id": 19946,
-   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-   "category": "Society & Law",
-   "importance": 6.07,
-   "risk": 0.0,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 13,
-   "countries": [
-    "GRC",
-    "NLD",
-    "SWE",
-    "PRT",
-    "BGR",
-    "ARE",
-    "CYP",
-    "ISR",
-    "UKR",
-    "LVA"
-   ],
-   "first_seen": "2026-10-22T07:54:23Z",
-   "last_seen": "2026-10-25T07:12:07Z",
-   "page": "event/19946.html",
-   "reports": [
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T07:54:23Z",
-     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T03:00:36Z",
-     "headline": "Daylight Saving Time Ends in Greece This Weekend",
-     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T04:18:41Z",
-     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
-     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-23T11:41:45Z",
-     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
-     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
-    },
-    {
-     "outlet": "The Local Sweden",
-     "country": "SWE",
-     "time": "2026-10-23T12:46:40Z",
-     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
-     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
-    },
-    {
-     "outlet": "The Portugal News",
-     "country": "PRT",
-     "time": "2026-10-23T13:03:00Z",
-     "headline": "Portugal has been switching to winter time for 30 years",
-     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T15:09:00Z",
-     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
-     "url": "https://www.novinite.com/view_news.php?id=241192"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:00:00Z",
-     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
-     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-24T05:20:04Z",
-     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
-     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T08:20:24Z",
-     "headline": "Clocks go back one hour on Sunday as winter time begins",
-     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:19:55Z",
-     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
-     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
-    },
-    {
-     "outlet": "DutchNews.nl",
-     "country": "NLD",
-     "time": "2026-10-24T13:38:05Z",
-     "headline": "More sleep on Sunday as clocks go back an hour",
-     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T03:25:00Z",
-     "headline": "Ukraine switches to standard time tonight",
-     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-25T06:17:57Z",
-     "headline": "Clocks turned back one hour at 3 a.m. overnight",
-     "url": "https://nltimes.nl/2026/10/25/clocks-turned-back-one-hour-3-overnight"
-    },
-    {
-     "outlet": "LSM English",
-     "country": "LVA",
-     "time": "2026-10-25T07:12:07Z",
-     "headline": "Have you put your clocks back?",
-     "url": "https://eng.lsm.lv/article/weather/weather/25.10.2026-have-you-put-your-clocks-back.a668965/?utm_source=rss&utm_campaign=rss&utm_medium=links"
-    }
-   ]
-  },
-  {
    "id": 22319,
    "title": "Meghan Markle 'distressed' over claims father had child abuse images",
    "category": "Society & Law",
@@ -8905,6 +7886,262 @@
      "time": "2026-10-25T08:03:00Z",
      "headline": "Philippines investigates laptop found at Thomas Markle's former home",
      "url": "https://iol.co.za/entertainment/royals/2026-10-25-philippines-investigates-laptop-found-at-thomas-markles-former-home/"
+    }
+   ]
+  },
+  {
+   "id": 27784,
+   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+   "category": "Trade & Industry",
+   "importance": 6.05,
+   "risk": 2.48,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "NPL",
+    "USA",
+    "ARE",
+    "PAK",
+    "OMN",
+    "CYP",
+    "QAT",
+    "SGP"
+   ],
+   "first_seen": "2026-10-24T15:28:17Z",
+   "last_seen": "2026-10-25T15:58:15Z",
+   "page": "event/27784.html",
+   "reports": [
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-24T15:28:17Z",
+     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
+     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T03:45:20Z",
+     "headline": "Middle East latest: Saudi Arabia intercepts barrage of Houthi missiles and drones",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T11:01:09Z",
+     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
+     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T12:14:44Z",
+     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T12:19:03Z",
+     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:25:37Z",
+     "headline": "Saudi says Riyadh airport reopens despite threats",
+     "url": "https://www.omanobserver.om/article/1198545/world/region/saudi-says-riyadh-airport-reopens-despite-threats"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T12:44:47Z",
+     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-25T12:49:33Z",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T13:36:55Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:49:33Z",
+     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
+     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T15:35:00Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T15:58:15Z",
+     "headline": "UAE residents’ update: Trump hints at Iran strikes; injuries reported in Houthi attack on Saudi Arabia",
+     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
+    }
+   ]
+  },
+  {
+   "id": 19946,
+   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+   "category": "Society & Law",
+   "importance": 6.05,
+   "risk": 0.0,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "GRC",
+    "NLD",
+    "SWE",
+    "PRT",
+    "BGR",
+    "ARE",
+    "CYP",
+    "ISR",
+    "UKR",
+    "LVA",
+    "USA"
+   ],
+   "first_seen": "2026-10-22T07:54:23Z",
+   "last_seen": "2026-10-25T16:00:00Z",
+   "page": "event/19946.html",
+   "reports": [
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T07:54:23Z",
+     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T03:00:36Z",
+     "headline": "Daylight Saving Time Ends in Greece This Weekend",
+     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T04:18:41Z",
+     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
+     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-23T11:41:45Z",
+     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
+     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
+    },
+    {
+     "outlet": "The Local Sweden",
+     "country": "SWE",
+     "time": "2026-10-23T12:46:40Z",
+     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
+     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
+    },
+    {
+     "outlet": "The Portugal News",
+     "country": "PRT",
+     "time": "2026-10-23T13:03:00Z",
+     "headline": "Portugal has been switching to winter time for 30 years",
+     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T15:09:00Z",
+     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
+     "url": "https://www.novinite.com/view_news.php?id=241192"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:00:00Z",
+     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
+     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-24T05:20:04Z",
+     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
+     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T08:20:24Z",
+     "headline": "Clocks go back one hour on Sunday as winter time begins",
+     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:19:55Z",
+     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
+     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
+    },
+    {
+     "outlet": "DutchNews.nl",
+     "country": "NLD",
+     "time": "2026-10-24T13:38:05Z",
+     "headline": "More sleep on Sunday as clocks go back an hour",
+     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T03:25:00Z",
+     "headline": "Ukraine switches to standard time tonight",
+     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T06:17:57Z",
+     "headline": "Clocks turned back one hour at 3 a.m. overnight",
+     "url": "https://nltimes.nl/2026/10/25/clocks-turned-back-one-hour-3-overnight"
+    },
+    {
+     "outlet": "LSM English",
+     "country": "LVA",
+     "time": "2026-10-25T07:12:07Z",
+     "headline": "Have you put your clocks back?",
+     "url": "https://eng.lsm.lv/article/weather/weather/25.10.2026-have-you-put-your-clocks-back.a668965/?utm_source=rss&utm_campaign=rss&utm_medium=links"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T16:00:00Z",
+     "headline": "The 3 approaches to daylight saving time considered this year, and what happened to them",
+     "url": "https://thehill.com/policy/energy-environment/6162826-the-3-approaches-to-daylight-saving-time-considered-this-year-and-what-happened-to-them/"
     }
    ]
   },
@@ -9983,6 +9220,315 @@
    ]
   },
   {
+   "id": 5498,
+   "title": "Israeli drone strike kills two Palestinians in Gaza City",
+   "category": "Geopolitics",
+   "importance": 5.94,
+   "risk": 7.25,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-25T16:23:33Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:24:26Z",
+     "headline": "Israeli strike on Gaza university kills three",
+     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    }
+   ]
+  },
+  {
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
@@ -10725,114 +10271,6 @@
    ]
   },
   {
-   "id": 27784,
-   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-   "category": "Trade & Industry",
-   "importance": 5.85,
-   "risk": 2.47,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 13,
-   "countries": [
-    "NPL",
-    "USA",
-    "ARE",
-    "PAK",
-    "CYP",
-    "QAT",
-    "SGP"
-   ],
-   "first_seen": "2026-10-24T15:28:17Z",
-   "last_seen": "2026-10-25T15:58:15Z",
-   "page": "event/27784.html",
-   "reports": [
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-24T15:28:17Z",
-     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
-     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T03:45:20Z",
-     "headline": "Middle East latest: Saudi Arabia intercepts barrage of Houthi missiles and drones",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T11:01:09Z",
-     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
-     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T12:14:44Z",
-     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T12:19:03Z",
-     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T12:44:47Z",
-     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-25T12:49:33Z",
-     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T13:36:55Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:49:33Z",
-     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
-     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T15:35:00Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
-     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T15:58:15Z",
-     "headline": "UAE residents’ update: Trump hints at Iran strikes; injuries reported in Houthi attack on Saudi Arabia",
-     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
-    }
-   ]
-  },
-  {
    "id": 24689,
    "title": "Trump says he will fix any Starlink access problem in Ukraine",
    "category": "Technology & Cyber",
@@ -11169,203 +10607,165 @@
    ]
   },
   {
-   "id": 15200,
-   "title": "Top European, Mideast diplomats to meet in İstanbul Friday",
-   "category": "Geopolitics",
-   "importance": 5.78,
-   "risk": 6.87,
-   "confidence": 0.93,
-   "status": "spreading",
-   "outlets": 15,
+   "id": 28591,
+   "title": "Eleven shot near Florida A&M university in Tallahassee",
+   "category": "Health & Science",
+   "importance": 5.79,
+   "risk": 6.05,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 16,
    "countries": [
-    "TUR",
     "PAK",
-    "SGP",
-    "SAU",
-    "USA",
-    "CYP",
-    "QAT",
+    "CHN",
+    "TUR",
     "IRN",
-    "ARE"
+    "IND",
+    "CYP",
+    "ISR",
+    "SAU",
+    "ARE",
+    "GBR",
+    "LKA",
+    "SGP",
+    "AFG"
    ],
-   "first_seen": "2026-10-19T09:38:00Z",
-   "last_seen": "2026-10-23T16:25:30Z",
-   "page": "event/15200.html",
+   "first_seen": "2026-10-25T01:29:19Z",
+   "last_seen": "2026-10-25T16:25:13Z",
+   "page": "event/28591.html",
    "reports": [
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-19T09:38:00Z",
-     "headline": "Fidan to meet EU top diplomat, Rutte in Brussels",
-     "url": "https://www.hurriyetdailynews.com/fidan-to-meet-eu-chief-rutte-in-brussels-228306"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-20T06:01:05Z",
-     "headline": "Turkish ministers in Brussels for security, migration talks",
-     "url": "https://www.hurriyetdailynews.com/turkish-ministers-in-brussels-for-security-migration-talks-228341"
-    },
     {
      "outlet": "Express Tribune",
      "country": "PAK",
-     "time": "2026-10-22T05:44:41Z",
-     "headline": "Turkish foreign minister to host top diplomats in R4, R4+E3 meetings in Istanbul on Friday",
-     "url": "https://tribune.com.pk/story/2636314/turkish-foreign-minister-to-host-top-diplomats-in-r4-r4e3-meetings-in-istanbul-on-friday"
+     "time": "2026-10-25T01:29:19Z",
+     "headline": "11 shot near Florida A&M university in Tallahassee",
+     "url": "https://tribune.com.pk/story/2636817/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts"
     },
     {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:11:41Z",
-     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
-     "url": "https://www.straitstimes.com/world/turkey-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflicts-source-says"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-22T09:31:00Z",
-     "headline": "Top European, Mideast diplomats to meet in İstanbul Friday",
-     "url": "https://www.turkishminute.com/2026/10/22/top-european-mideast-diplomats-to-meet-in-istanbul-friday/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T09:38:49Z",
-     "headline": "Top European, Mideast diplomats to meet in Istanbul Friday: Turkish diplomatic source",
-     "url": "https://www.arabnews.com/middle-east/top-european-mideast-diplomats-to-meet-in-istanbul-friday-turkish-diplomatic-source-3007682"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T09:46:31Z",
-     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
-     "url": "https://www.al-monitor.com/originals/2026/10/turkey-host-regional-and-european-foreign-ministers-talks-regional-conflicts"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-22T10:19:43Z",
-     "headline": "Türkiye to host key summit with regional, European powers",
-     "url": "https://www.hurriyetdailynews.com/turkiye-to-host-key-summit-with-regional-european-powers-228472"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T03:19:51Z",
+     "headline": "Urgent: Police investigating shooting in Florida university",
+     "url": "https://english.news.cn/20261025/ed448aff17414a92bd45e6e713aa39c9/c.html"
     },
     {
      "outlet": "Anadolu Agency (English)",
      "country": "TUR",
-     "time": "2026-10-22T10:39:18Z",
-     "headline": "Turkish foreign minister to host top diplomats in R4, R4+E3 meetings in Istanbul on Friday",
-     "url": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-to-host-top-diplomats-in-r4-r4-e3-meetings-in-istanbul-on-friday/4097039"
+     "time": "2026-10-25T03:34:08Z",
+     "headline": "Shooting near Florida university stadium leaves victims, prompts safety alerts",
+     "url": "https://www.aa.com.tr/en/americas/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts/4099932"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T03:34:08Z",
+     "headline": "11 shot, 1 more injured near Florida university stadium: Police",
+     "url": "https://www.aa.com.tr/en/americas/11-shot-1-more-injured-near-florida-university-stadium-police/4099932"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:16:32Z",
+     "headline": "VIDEO: Shooting at Florida State University, dozens injured",
+     "url": "https://en.mehrnews.com/news/248884/VIDEO-Shooting-at-Florida-State-University-dozens-injured"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T05:19:19Z",
+     "headline": "6 children among 12 injured in shooting near Florida university stadium",
+     "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:28:10Z",
+     "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
+     "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354#publisher=newsstand"
     },
     {
      "outlet": "Cyprus Mail",
      "country": "CYP",
-     "time": "2026-10-22T11:20:38Z",
-     "headline": "Turkey to host regional and European foreign ministers for talks on regional conflicts",
-     "url": "https://cyprus-mail.com/2026/10/22/turkey-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflicts"
+     "time": "2026-10-25T05:35:36Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://cyprus-mail.com/2026/10/25/eleven-shot-near-florida-am-university-in-tallahassee"
     },
     {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Türkiye to host regional, European foreign ministers for talks on regional conflicts",
-     "url": "https://www.turkiyetoday.com/nation/turkiye-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflic-3230826"
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T05:39:59Z",
+     "headline": "At least 12 injured in late-night shooting near Florida A&M University stadium in Tallahassee",
+     "url": "https://www.jpost.com/international/article-912735"
     },
     {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T18:54:55Z",
-     "headline": "Pakistan, Egypt, Saudi Arabia, Turkiye to meet European trio in Istanbul",
-     "url": "https://www.dawn.com/news/2039053/pakistan-egypt-saudi-arabia-turkiye-to-meet-european-trio-in-istanbul"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T00:00:00Z",
-     "headline": "Iran war live: European, Middle East FMs in Istanbul for security talks",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-23T02:40:01Z",
-     "headline": "Istanbul meeting: A new division of labor in the Iran war?",
-     "url": "https://www.iranintl.com/en/202610232329"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
+     "outlet": "Arab News",
      "country": "SAU",
-     "time": "2026-10-23T04:56:50Z",
-     "headline": "Istanbul Hosts Middle East, European FMs to Discuss Regional Crises",
-     "url": "https://english.aawsat.com/node/5332571"
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/news/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
     },
     {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T05:41:32Z",
-     "headline": "Istanbul to host European, regional ministers for crisis talks",
-     "url": "https://www.hurriyetdailynews.com/istanbul-to-host-european-regional-ministers-for-crisis-talks-228494"
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/world/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
     },
     {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T08:50:14Z",
-     "headline": "European, Mideast foreign ministers hold talks in Istanbul",
-     "url": "https://www.newarab.com/news/european-mideast-foreign-ministers-hold-talks-istanbul"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-23T11:17:39Z",
-     "headline": "European, Mideast foreign ministers discuss regional crises in İstanbul",
-     "url": "https://www.turkishminute.com/2026/10/23/european-mideast-foreign-ministers-discuss-regional-crises-in-istanbul/"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T11:51:23Z",
-     "headline": "Regional powers, European heavyweights meet in Istanbul for 1st joint talks",
-     "url": "https://www.hurriyetdailynews.com/regional-powers-european-heavyweights-meet-in-istanbul-for-1st-joint-talks-228515"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T12:30:28Z",
-     "headline": "European, Mideast foreign ministers hold talks in Istanbul",
-     "url": "https://www.al-monitor.com/originals/2026/10/european-mideast-foreign-ministers-hold-talks-istanbul"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T05:46:41Z",
+     "headline": "At least 12 injured in shooting near Florida university stadium",
+     "url": "https://english.news.cn/20261025/e201c807db2e415bacd802c7a9b405ba/c.html"
     },
     {
      "outlet": "Gulf News",
      "country": "ARE",
-     "time": "2026-10-23T14:43:44Z",
-     "headline": "European and Middle Eastern powers hold key talks on Strait of Hormuz and Yemen crises",
-     "url": "https://gulfnews.com/world/mena/european-and-middle-eastern-powers-hold-key-talks-on-strait-of-hormuz-and-yemen-crises-1.500720913"
+     "time": "2026-10-25T05:49:43Z",
+     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
+     "url": "https://gulfnews.com/world/americas/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida-1.500722740"
     },
     {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:17:14Z",
-     "headline": "R4+E3 foreign ministers' meeting begins in Istanbul with Italy's participation",
-     "url": "https://www.aa.com.tr/en/europe/r4-e3-foreign-ministers-meeting-begins-in-istanbul-with-italys-participation/4098817"
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:07:47Z",
+     "headline": "Twelve injured, including six juveniles, in shooting near Florida university",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
     },
     {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:35:32Z",
-     "headline": "Turkish foreign minister warns new attack on Iran would escalate regional conflict",
-     "url": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-warns-new-attack-on-iran-would-escalate-regional-conflict/4098832"
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-25T07:11:50Z",
+     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
+     "url": "https://www.dailymirror.lk/international/At-least-12-people-injured-in-shooting-near-a-football-stadium-in-Florida/107-353350"
     },
     {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T15:54:00Z",
-     "headline": "Türkiye warns against renewed strikes on Iran as Istanbul hosts high-level talks",
-     "url": "https://www.hurriyetdailynews.com/turkiye-warns-against-renewed-strikes-on-iran-as-istanbul-hosts-high-level-talks-228536"
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:15:29Z",
+     "headline": "Eleven Shot near Florida A&M University in Tallahassee",
+     "url": "https://english.aawsat.com/node/5333323"
     },
     {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T16:25:30Z",
-     "headline": "Turkish, Italian foreign ministers meet in Istanbul",
-     "url": "https://www.aa.com.tr/en/turkiye/turkish-italian-foreign-ministers-meet-in-istanbul/4098888"
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T07:54:00Z",
+     "headline": "11 people shot at homecoming party near Florida university campus",
+     "url": "https://www.straitstimes.com/world/united-states/11-people-shot-at-homecoming-party-near-florida-university-campus"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T16:11:09Z",
+     "headline": "At least 12 injured, including six kids, after mass shooting near Florida A&M University",
+     "url": "https://www.independent.co.uk/news/world/americas/florida-am-university-shooting-campus-football-b3072993.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T16:25:13Z",
+     "headline": "12 Injured, Including Six Minors, in Shooting Near Florida A&M University",
+     "url": "https://www.khaama.com/shooting-near-florida-am-university-12-injured/"
     }
    ]
   },
@@ -11923,315 +11323,6 @@
      "time": "2026-10-25T15:07:06Z",
      "headline": "Storms batter Europe hitting power supplies, flights and phones",
      "url": "https://www.arabnews.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-3008213"
-    }
-   ]
-  },
-  {
-   "id": 5498,
-   "title": "Israeli drone strike kills two Palestinians in Gaza City",
-   "category": "Geopolitics",
-   "importance": 5.75,
-   "risk": 7.1,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 17,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-25T16:13:06Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T15:40:25Z",
-     "headline": "Seven killed in Gaza as Israel targets university campus and other sites",
-     "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
     }
    ]
   },
@@ -13367,6 +12458,138 @@
    ]
   },
   {
+   "id": 27872,
+   "title": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
+   "category": "Geopolitics",
+   "importance": 5.7,
+   "risk": 0.0,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "SGP",
+    "ARE",
+    "NGA",
+    "CYP",
+    "JAM",
+    "SAU",
+    "ZAF",
+    "QAT",
+    "NAM",
+    "TWN"
+   ],
+   "first_seen": "2026-10-24T13:41:17Z",
+   "last_seen": "2026-10-25T16:37:09Z",
+   "page": "event/27872.html",
+   "reports": [
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T13:41:17Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders' perfect start",
+     "url": "https://www.channelnewsasia.com/sport/arsenal-join-man-city-summit-after-villa-end-leaders-perfect-start-6488951"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T16:23:25Z",
+     "headline": "Arsenal go level at top of Premier League with Man City after easing to win over Everton",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T16:29:24Z",
+     "headline": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
+     "url": "https://www.vanguardngr.com/2026/10/epl-arsenal-see-off-everton-go-joint-top-after-man-city-defeat/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T16:39:46Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
+     "url": "https://cyprus-mail.com/2026/10/24/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T17:06:42Z",
+     "headline": "Arsenal Beat Everton To Join Man City At Premier League Summit",
+     "url": "https://www.channelstv.com/2026/10/24/arsenal-beat-everton-to-join-man-city-at-premier-league-summit/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T17:14:54Z",
+     "headline": "EPL: Arsenal beat Everton 2-0 to level with Man City on points",
+     "url": "https://punchng.com/epl-arsenal-beat-everton-2-0-to-level-with-man-city-on-points/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T17:17:11Z",
+     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/man-citys-perfect-start-ended-aston-villa-arsenal-go-joint-top/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T17:25:19Z",
+     "headline": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
+     "url": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T17:25:34Z",
+     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
+     "url": "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T17:43:07Z",
+     "headline": "Man City Falls at Aston Villa and Arsenal Moves Level on Top of Premier League",
+     "url": "https://english.aawsat.com/node/5333216"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-24T19:37:05Z",
+     "headline": "EPL: Arsenal defeat Everton, Manchester City lose 100% record",
+     "url": "https://dailytrust.com/epl-arsenal-defeat-everton-manchester-city-lose-100-record/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T20:01:00Z",
+     "headline": "Premier League wrap: Man City suffer first defeat, Arsenal fire against Everton",
+     "url": "https://iol.co.za/sport/soccer/premier-league/2026-10-24-premier-league-wrap-man-city-suffer-first-defeat-arsenal-fire-against-everton/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T20:03:29Z",
+     "headline": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-24T20:27:07Z",
+     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
+     "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:09Z",
+     "headline": "Arsenal join Man City at summit after Villa upset",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
+    }
+   ]
+  },
+  {
    "id": 6450,
    "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
    "category": "Geopolitics",
@@ -14061,6 +13284,461 @@
      "time": "2026-10-23T08:35:15Z",
      "headline": "First human case of Shamonda virus: What is it, what are the risks",
      "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
+    }
+   ]
+  },
+  {
+   "id": 17224,
+   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+   "category": "Society & Law",
+   "importance": 5.64,
+   "risk": 3.08,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 15,
+   "countries": [
+    "NZL",
+    "GHA",
+    "ARE",
+    "NGA",
+    "UGA",
+    "SAU",
+    "ZAF",
+    "SGP",
+    "TWN",
+    "PAK",
+    "CYP",
+    "IND",
+    "JAM"
+   ],
+   "first_seen": "2026-10-21T19:19:19Z",
+   "last_seen": "2026-10-25T16:22:31Z",
+   "page": "event/17224.html",
+   "reports": [
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-21T19:19:19Z",
+     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
+     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T01:54:00Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T02:44:14Z",
+     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T06:51:35Z",
+     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-22T08:06:43Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T08:08:07Z",
+     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
+     "url": "https://english.aawsat.com/node/5332254"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T08:34:33Z",
+     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
+     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T09:29:00Z",
+     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
+     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T17:55:54Z",
+     "headline": "Fernandes to remain Man Utd captain despite outburst",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:01:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:17:41Z",
+     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
+     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Bruno Fernandes takes aim at Carrick",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T06:43:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:49:17Z",
+     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
+     "url": "https://english.aawsat.com/node/5332601"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T07:32:46Z",
+     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
+     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T07:54:57Z",
+     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
+     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T11:44:35Z",
+     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
+     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T14:54:49Z",
+     "headline": "Bruno Fernandes’ home burgled during Man Utd’s 4-1 defeat to Como",
+     "url": "https://www.vanguardngr.com/2026/10/bruno-fernandes-home-burgled-during-man-utds-4-1-defeat-to-como/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-23T18:56:40Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address 01:48",
+     "url": "https://nilepost.co.ug/sports/380962/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address-0148"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-24T03:54:18Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address",
+     "url": "https://www.myjoyonline.com/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T12:53:31Z",
+     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
+     "url": "https://cyprus-mail.com/2026/10/25/fernandes-pays-price-for-criticism-as-carrick-drops-united-captain"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T12:56:41Z",
+     "headline": "Fernandes pays price for criticism as Carrick drops United captain",
+     "url": "https://www.channelnewsasia.com/sport/fernandes-pays-price-criticism-carrick-drops-united-captain-6490541"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T13:13:35Z",
+     "headline": "Man Utd’s Fernandes dropped by Carrick after Como outburst",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utds-fernandes-dropped-carrick-como-outburst/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T13:48:11Z",
+     "headline": "EPL: Carrick benches Bruno Fernandes after Como outburst",
+     "url": "https://www.vanguardngr.com/2026/10/epl-carrick-bench-bruno-fernandes-after-como-outburst/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T16:22:31Z",
+     "headline": "Fernandes left on bench for Man Utd defeat",
+     "url": "https://nilepost.co.ug/sports/381327/fernandes-left-on-bench-for-man-utd-defeat"
+    }
+   ]
+  },
+  {
+   "id": 5926,
+   "title": "Sri Lanka suffers nationwide electricity blackout",
+   "category": "Energy & Environment",
+   "importance": 5.61,
+   "risk": 5.09,
+   "confidence": 0.84,
+   "status": "peaking",
+   "outlets": 13,
+   "countries": [
+    "IND",
+    "AZE",
+    "OMN",
+    "SGP",
+    "LKA",
+    "PAK",
+    "ZAF",
+    "CHN",
+    "DEU",
+    "USA",
+    "TWN",
+    "NLD"
+   ],
+   "first_seen": "2026-10-16T04:34:02Z",
+   "last_seen": "2026-10-25T03:30:00Z",
+   "page": "event/5926.html",
+   "reports": [
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-16T04:34:02Z",
+     "headline": "Indian-made stents under scrutiny after complications in Sri Lanka",
+     "url": "https://timesofindia.indiatimes.com/india/stent-safety-concerns-reach-centre-after-reports-of-complications-with-indian-made-devices-in-sri-lanka/articleshow/134982424.cms"
+    },
+    {
+     "outlet": "The Hindu",
+     "country": "IND",
+     "time": "2026-10-16T10:52:26Z",
+     "headline": "Vijay writes to Centre over arrest of fishermen by Sri Lanka",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu//article71548451.ece"
+    },
+    {
+     "outlet": "AZERTAC (English)",
+     "country": "AZE",
+     "time": "2026-10-16T13:38:00Z",
+     "headline": "Azerbaijan, Sri Lanka strengthen political dialogue",
+     "url": "https://azertag.az/en/xeber/azerbaijan_sri_lanka_strengthen_political_dialogue-4466457"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-17T07:09:19Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.omanobserver.om/article/1197904/world/asia/sri-lanka-suffers-nationwide-electricity-blackout"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-17T09:26:14Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.channelnewsasia.com/asia/sri-lanka-blackout-6468131"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-17T12:17:00Z",
+     "headline": "Power outage reported across Sri Lanka",
+     "url": "https://www.dailymirror.lk/breaking-news/Power-outage-reported-across-Sri-Lanka/108-352762"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-17T12:17:06Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.brecorder.com/news/40444679/sri-lanka-suffers-nationwide-electricity-blackout"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:28:00Z",
+     "headline": "Sri Lanka’s 22 million people hit by six-hour blackout as grid shuts down",
+     "url": "https://iol.co.za/news/world/2026-10-17-sri-lankas-22-million-people-hit-by-six-hour-blackout-as-grid-shuts-down/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-17T14:29:50Z",
+     "headline": "Sri Lanka restores power transmission system after nationwide outage",
+     "url": "https://english.news.cn/20261017/c8f3bb1d8981417e9a866dcf6fa94ff3/c.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-19T15:50:15Z",
+     "headline": "Sri Lanka’s first insulin manufacturing plant to begin production in 2027",
+     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka’s-first-insulin-manufacturing-plant-to-begin-production-in-2027/108-352894"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-22T08:37:11Z",
+     "headline": "Sri Lanka CERT warns of critical PHP security vulnerabilities",
+     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-critical-PHP-security-vulnerabilities/108-353158"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T11:02:46Z",
+     "headline": "Sri Lanka maintains landslide alerts as prolonged rainfall threatens over 30,000 locations",
+     "url": "https://english.news.cn/20261022/53e63900ae1040a58d63d65b1de9501e/c.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T06:40:21Z",
+     "headline": "Complaint lodged over Sri Lanka Police Facebook post",
+     "url": "https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Sri-Lanka-Police-Facebook-post/108-353248"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:29:00Z",
+     "headline": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+     "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Mongabay",
+     "country": "USA",
+     "time": "2026-10-23T15:37:36Z",
+     "headline": "Death of iconic elephant in Sri Lanka pushes authorities to fast-track protection efforts",
+     "url": "https://news.mongabay.com/2026/10/death-of-iconic-elephant-in-sri-lanka-pushes-authorities-to-fast-track-protection-efforts/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:35Z",
+     "headline": "Sri Lanka, S Africa win in stunners",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/24/2003866528"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T02:13:34Z",
+     "headline": "Sri Lanka to set up joint wildlife-military center to protect elephants",
+     "url": "https://english.news.cn/20261024/68f6a14e1f1f48a5ba1830b39892d55e/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T01:18:37Z",
+     "headline": "Over 500 kg drugs seized on Sri Lanka's southern coast",
+     "url": "https://english.news.cn/20261025/ce0859c7ef314f298f71521878a286e6/c.html"
+    },
+    {
+     "outlet": "OCCRP",
+     "country": "NLD",
+     "time": "2026-10-25T03:30:00Z",
+     "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
+     "url": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities"
+    }
+   ]
+  },
+  {
+   "id": 28332,
+   "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+   "category": "Geopolitics",
+   "importance": 5.61,
+   "risk": 6.69,
+   "confidence": 0.85,
+   "status": "peaking",
+   "outlets": 9,
+   "countries": [
+    "GBR",
+    "CAN",
+    "NZL",
+    "USA",
+    "IND",
+    "IRN",
+    "AFG",
+    "TUR"
+   ],
+   "first_seen": "2026-10-24T22:13:39Z",
+   "last_seen": "2026-10-25T12:23:20Z",
+   "page": "event/28332.html",
+   "reports": [
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T22:13:39Z",
+     "headline": "Obama unloads on Trump over the Iran war and mocks the president’s diplomatic strategy",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/obama-ohio-rally-trump-iran-war-b3072832.html"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-24T22:18:58Z",
+     "headline": "'They’re the nicest people': Obama mocks Trump for hitting Canada with tariffs",
+     "url": "https://www.cbc.ca/news/world/obama-trump-canada-tariffs-9.7394871?cmp=rss"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T22:56:17Z",
+     "headline": "Watch: Obama mocks Trump's White House decorations",
+     "url": "https://www.stuff.co.nz/world-news/361050879/obama-ohio-assails-cruelty-and-indecency-trump-and-h"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T00:05:25Z",
+     "headline": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+     "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T00:39:20Z",
+     "headline": "‘Saddam Hussein opened a cheesecake factory’: Obama’s jibe at Trump’s White House",
+     "url": "https://timesofindia.indiatimes.com/world/us/saddam-hussein-opened-a-cheesecake-factory-obamas-jibe-at-trumps-white-house/articleshow/135180806.cms"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T03:15:33Z",
+     "headline": "Obama slams Trump’s Iran war for driving up costs",
+     "url": "https://en.mehrnews.com/news/248870/Obama-slams-Trump-s-Iran-war-for-driving-up-costs"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T07:35:17Z",
+     "headline": "Obama Slams Trump’s Iran Strategy and White House Renovations at Campaign Rallies",
+     "url": "https://www.khaama.com/obama-slams-trumps-iran-strategy-and-white-house-renovations-at-campaign-rallies/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-25T09:50:35Z",
+     "headline": "Obama: Iran now has veto power over Strait of Hormuz",
+     "url": "https://en.irna.ir/photo/86302810/Obama-Iran-now-has-veto-power-over-Strait-of-Hormuz"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T12:23:20Z",
+     "headline": "Obama blames Trump for rising costs, ‘unnecessary war’ on campaign trail",
+     "url": "https://www.turkiyetoday.com/world/obama-blames-trump-for-rising-costs-unnecessary-war-on-campaign-trail-3230995"
     }
    ]
   }
