@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T11:16:48Z",
+ "generated": "2026-10-25T11:32:48Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1996,6 +1996,325 @@
    ]
   },
   {
+   "id": 22647,
+   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+   "category": "Geopolitics",
+   "importance": 7.19,
+   "risk": 7.71,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 34,
+   "countries": [
+    "ISR",
+    "USA",
+    "IRQ",
+    "IND",
+    "SAU",
+    "QAT",
+    "GHA",
+    "CHN",
+    "TUR",
+    "ARE",
+    "CYP",
+    "SGP",
+    "GBR",
+    "OMN",
+    "FRA",
+    "PAK",
+    "IRL",
+    "TWN",
+    "CAN",
+    "THA",
+    "KWT",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T04:58:08Z",
+   "last_seen": "2026-10-25T11:21:13Z",
+   "page": "event/22647.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T04:58:08Z",
+     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T05:15:21Z",
+     "headline": "Israeli military says forces kill suspected shooters near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T06:00:27Z",
+     "headline": "More on the shooting attack near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T07:25:53Z",
+     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
+     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T07:29:39Z",
+     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T10:32:49Z",
+     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:24:28Z",
+     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
+     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:30:02Z",
+     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
+     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T16:32:27Z",
+     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:42:01Z",
+     "headline": "Netanyahu vows collective punishment after Hebron shooting",
+     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:00:48Z",
+     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:50:39Z",
+     "headline": "Rights group says Israel plans to displace Palestinians after attack",
+     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T18:38:26Z",
+     "headline": "Israel locks down occupied West Bank after Hebron shooting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T19:05:01Z",
+     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T21:21:00Z",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T21:32:41Z",
+     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:37:00Z",
+     "headline": "Israel launches military operation in Hebron after two soldiers killed",
+     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T22:12:01Z",
+     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:27:22Z",
+     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T23:07:17Z",
+     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T00:00:00Z",
+     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:04:36Z",
+     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:42:09Z",
+     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israel launches major West Bank raids after soldiers killed",
+     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Hebron families after deadly attack",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Palestinian families after troops killed",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:40:54Z",
+     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T11:17:36Z",
+     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T11:20:22Z",
+     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:54:15Z",
+     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T12:19:34Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T12:27:16Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T12:29:06Z",
+     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T12:37:31Z",
+     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T12:57:48Z",
+     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:46:36Z",
+     "headline": "Palestinian Authority condemns 'collective punishment'",
+     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T13:46:43Z",
+     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
+     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:50:12Z",
+     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T14:08:36Z",
+     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
+     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:23:26Z",
+     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
+     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
+    }
+   ]
+  },
+  {
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
@@ -2035,7 +2354,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-23T09:12:24Z",
-   "last_seen": "2026-10-25T04:27:44Z",
+   "last_seen": "2026-10-25T10:51:00Z",
    "page": "event/24812.html",
    "reports": [
     {
@@ -3279,618 +3598,6 @@
    ]
   },
   {
-   "id": 22647,
-   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-   "category": "Geopolitics",
-   "importance": 7.01,
-   "risk": 7.66,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 33,
-   "countries": [
-    "ISR",
-    "USA",
-    "IRQ",
-    "IND",
-    "SAU",
-    "QAT",
-    "GHA",
-    "CHN",
-    "TUR",
-    "ARE",
-    "CYP",
-    "SGP",
-    "GBR",
-    "OMN",
-    "FRA",
-    "PAK",
-    "IRL",
-    "TWN",
-    "CAN",
-    "THA",
-    "KWT",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-25T10:23:38Z",
-   "page": "event/22647.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T04:58:08Z",
-     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T05:15:21Z",
-     "headline": "Israeli military says forces kill suspected shooters near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T06:00:27Z",
-     "headline": "More on the shooting attack near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T07:25:53Z",
-     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
-     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T07:29:39Z",
-     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:32:49Z",
-     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:24:28Z",
-     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
-     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:30:02Z",
-     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
-     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T16:32:27Z",
-     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:42:01Z",
-     "headline": "Netanyahu vows collective punishment after Hebron shooting",
-     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:00:48Z",
-     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:50:39Z",
-     "headline": "Rights group says Israel plans to displace Palestinians after attack",
-     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T18:38:26Z",
-     "headline": "Israel locks down occupied West Bank after Hebron shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T19:05:01Z",
-     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T21:21:00Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T21:32:41Z",
-     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:37:00Z",
-     "headline": "Israel launches military operation in Hebron after two soldiers killed",
-     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T22:12:01Z",
-     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:27:22Z",
-     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T23:07:17Z",
-     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T00:00:00Z",
-     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:04:36Z",
-     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:42:09Z",
-     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israel launches major West Bank raids after soldiers killed",
-     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Hebron families after deadly attack",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Palestinian families after troops killed",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:40:54Z",
-     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T11:17:36Z",
-     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T11:20:22Z",
-     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:54:15Z",
-     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T12:19:34Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T12:27:16Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T12:29:06Z",
-     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T12:37:31Z",
-     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T12:57:48Z",
-     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T13:46:36Z",
-     "headline": "Palestinian Authority condemns 'collective punishment'",
-     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T13:46:43Z",
-     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
-     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:50:12Z",
-     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T14:08:36Z",
-     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
-     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T14:23:26Z",
-     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
-     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
-    }
-   ]
-  },
-  {
-   "id": 24595,
-   "title": "Israel launches major West Bank operation after soldiers killed",
-   "category": "Geopolitics",
-   "importance": 7.0,
-   "risk": 6.77,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 28,
-   "countries": [
-    "USA",
-    "CAN",
-    "ISR",
-    "IND",
-    "MAR",
-    "IRL",
-    "AUS",
-    "TUR",
-    "CHN",
-    "PAK",
-    "SGP",
-    "EGY",
-    "QAT",
-    "FRA",
-    "SAU",
-    "GBR",
-    "IRN"
-   ],
-   "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T10:29:23Z",
-   "page": "event/24595.html",
-   "reports": [
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T11:01:29Z",
-     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:39:37Z",
-     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T15:06:27Z",
-     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
-     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T16:26:16Z",
-     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
-     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T18:35:15Z",
-     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
-     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T19:50:03Z",
-     "headline": "West Bank attack may boost Netanyahu's election chances",
-     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-23T20:22:10Z",
-     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T21:30:10Z",
-     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T21:38:54Z",
-     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T21:53:53Z",
-     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:19:41Z",
-     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T00:39:40Z",
-     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
-     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T02:11:25Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T05:31:00Z",
-     "headline": "Israel launches West Bank operation after attack days before election",
-     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:33:56Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-24T07:51:51Z",
-     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T09:14:40Z",
-     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T10:33:52Z",
-     "headline": "Netanyahu orders West Bank operation",
-     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:52:55Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:24:19Z",
-     "headline": "Full lockdown of occupied West Bank begins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israel to close all land crossings with West Bank on election day",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-24T14:31:04Z",
-     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:20:29Z",
-     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
-     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T22:09:44Z",
-     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
-     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T00:40:49Z",
-     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T01:17:13Z",
-     "headline": "Israel says closing all land crossings with West Bank on election day",
-     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:33:31Z",
-     "headline": "Israel presses ahead with West Bank army operation days before election",
-     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T03:21:35Z",
-     "headline": "Netanyahu shares text warning of 'second Holocaust' if he is not elected",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T05:00:08Z",
-     "headline": "Israel to close key access point on election day",
-     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:15:52Z",
-     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:29:04Z",
-     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
-     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T06:58:52Z",
-     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T07:02:17Z",
-     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
-     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:45:46Z",
-     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
-     "url": "https://english.aawsat.com/node/5333333"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T08:49:00Z",
-     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
-     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T10:29:23Z",
-     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
-     "url": "https://english.aawsat.com/node/5333383"
-    }
-   ]
-  },
-  {
    "id": 8843,
    "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
    "category": "Energy & Environment",
@@ -4788,6 +4495,307 @@
    ]
   },
   {
+   "id": 24595,
+   "title": "Israel launches major West Bank operation after soldiers killed",
+   "category": "Geopolitics",
+   "importance": 6.94,
+   "risk": 6.7,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 29,
+   "countries": [
+    "USA",
+    "CAN",
+    "ISR",
+    "IND",
+    "MAR",
+    "IRL",
+    "AUS",
+    "TUR",
+    "CHN",
+    "PAK",
+    "SGP",
+    "EGY",
+    "QAT",
+    "FRA",
+    "SAU",
+    "GBR",
+    "IRN",
+    "NZL"
+   ],
+   "first_seen": "2026-10-23T08:05:06Z",
+   "last_seen": "2026-10-25T11:22:06Z",
+   "page": "event/24595.html",
+   "reports": [
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T11:01:29Z",
+     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:39:37Z",
+     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T15:06:27Z",
+     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T16:26:16Z",
+     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T18:35:15Z",
+     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T19:50:03Z",
+     "headline": "West Bank attack may boost Netanyahu's election chances",
+     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
+    },
+    {
+     "outlet": "Foreign Policy",
+     "country": "USA",
+     "time": "2026-10-23T20:22:10Z",
+     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T21:30:10Z",
+     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T21:38:54Z",
+     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T21:53:53Z",
+     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:19:41Z",
+     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-24T00:39:40Z",
+     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
+     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T02:11:25Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T05:31:00Z",
+     "headline": "Israel launches West Bank operation after attack days before election",
+     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:33:56Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-24T07:51:51Z",
+     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T09:14:40Z",
+     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T10:33:52Z",
+     "headline": "Netanyahu orders West Bank operation",
+     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:52:55Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:24:19Z",
+     "headline": "Full lockdown of occupied West Bank begins",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:31:04Z",
+     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:20:29Z",
+     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
+     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T22:09:44Z",
+     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
+     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T00:40:49Z",
+     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T01:17:13Z",
+     "headline": "Israel says closing all land crossings with West Bank on election day",
+     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:33:31Z",
+     "headline": "Israel presses ahead with West Bank army operation days before election",
+     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "Netanyahu shares text warning of 'second Holocaust' if he is not elected",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T05:00:08Z",
+     "headline": "Israel to close key access point on election day",
+     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:15:52Z",
+     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:29:04Z",
+     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T06:58:52Z",
+     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T07:02:17Z",
+     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
+     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:45:46Z",
+     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
+     "url": "https://english.aawsat.com/node/5333333"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T08:49:00Z",
+     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T10:29:23Z",
+     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
+     "url": "https://english.aawsat.com/node/5333383"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T11:22:06Z",
+     "headline": "Military conducts massive West Bank operation, days before Israeli election",
+     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -5663,11 +5671,11 @@
    "id": 23924,
    "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
    "category": "Technology & Cyber",
-   "importance": 6.58,
-   "risk": 6.7,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 18,
+   "importance": 6.61,
+   "risk": 6.71,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 19,
    "countries": [
     "IND",
     "ISR",
@@ -5683,7 +5691,7 @@
     "AFG"
    ],
    "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-25T10:09:20Z",
+   "last_seen": "2026-10-25T10:52:01Z",
    "page": "event/23924.html",
    "reports": [
     {
@@ -5832,6 +5840,13 @@
      "time": "2026-10-25T10:09:20Z",
      "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
      "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T10:52:01Z",
+     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole’ after limits hit drone operations",
+     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
     }
    ]
   },
@@ -7178,6 +7193,317 @@
      "time": "2026-10-24T21:26:17Z",
      "headline": "Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
      "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464"
+    }
+   ]
+  },
+  {
+   "id": 16782,
+   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+   "category": "Geopolitics",
+   "importance": 6.27,
+   "risk": 5.39,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 21,
+   "countries": [
+    "OMN",
+    "KWT",
+    "SAU",
+    "TUR",
+    "PAK",
+    "CHN",
+    "ARE",
+    "RUS",
+    "IRQ",
+    "AZE",
+    "USA",
+    "CYP",
+    "QAT",
+    "IRN"
+   ],
+   "first_seen": "2026-10-20T05:10:15Z",
+   "last_seen": "2026-10-25T11:07:28Z",
+   "page": "event/16782.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T05:10:15Z",
+     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
+     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-20T08:53:00Z",
+     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:04:54Z",
+     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
+     "url": "https://english.aawsat.com/node/5331492"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T04:16:00Z",
+     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T04:30:28Z",
+     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
+     "url": "https://english.aawsat.com/node/5331807"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T22:38:35Z",
+     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T00:12:00Z",
+     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-22T02:41:20Z",
+     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
+     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
+     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T09:19:34Z",
+     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T10:21:14Z",
+     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
+     "url": "https://english.aawsat.com/node/5332304"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T10:40:40Z",
+     "headline": "Saudi-led coalition claims drone downed over Riyadh",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:59:07Z",
+     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
+     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T00:24:39Z",
+     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:48:20Z",
+     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
+     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T01:15:08Z",
+     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T01:31:40Z",
+     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T04:30:30Z",
+     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
+     "url": "https://english.aawsat.com/node/5332564"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T00:41:30Z",
+     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
+     "url": "https://english.aawsat.com/node/5332979"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T00:53:49Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
+     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:49:40Z",
+     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:48:56Z",
+     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:01:00Z",
+     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
+     "url": "https://tass.com/world/2207235"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:15:24Z",
+     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
+     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T06:01:35Z",
+     "headline": "Saudi-led Coalition strikes Saada, Taiz",
+     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T06:21:05Z",
+     "headline": "Two explosions heard in Riyadh following alert",
+     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T06:29:13Z",
+     "headline": "Ballistic missiles targeting Saudi cities intercepted",
+     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T06:42:57Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T09:14:58Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T09:43:24Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T10:01:14Z",
+     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
+     "url": "https://english.aawsat.com/node/5333054"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T10:14:00Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T11:13:29Z",
+     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
+     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
     }
    ]
   },
@@ -10084,316 +10410,6 @@
      "time": "2026-10-25T10:05:42Z",
      "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
      "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
-    }
-   ]
-  },
-  {
-   "id": 16782,
-   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-   "category": "Geopolitics",
-   "importance": 5.92,
-   "risk": 5.29,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 20,
-   "countries": [
-    "OMN",
-    "KWT",
-    "SAU",
-    "TUR",
-    "PAK",
-    "CHN",
-    "ARE",
-    "RUS",
-    "IRQ",
-    "AZE",
-    "USA",
-    "CYP",
-    "QAT"
-   ],
-   "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-25T10:42:51Z",
-   "page": "event/16782.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T05:10:15Z",
-     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
-     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-20T08:53:00Z",
-     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:04:54Z",
-     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
-     "url": "https://english.aawsat.com/node/5331492"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T04:16:00Z",
-     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T04:30:28Z",
-     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
-     "url": "https://english.aawsat.com/node/5331807"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T22:38:35Z",
-     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T00:12:00Z",
-     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T02:41:20Z",
-     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
-     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T07:07:55Z",
-     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
-     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:19:34Z",
-     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T10:21:14Z",
-     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
-     "url": "https://english.aawsat.com/node/5332304"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T10:40:40Z",
-     "headline": "Saudi-led coalition claims drone downed over Riyadh",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:59:07Z",
-     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
-     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T00:24:39Z",
-     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:48:20Z",
-     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
-     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T01:15:08Z",
-     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T01:31:40Z",
-     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T04:30:30Z",
-     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
-     "url": "https://english.aawsat.com/node/5332564"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T00:41:30Z",
-     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
-     "url": "https://english.aawsat.com/node/5332979"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T00:53:49Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
-     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:49:40Z",
-     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:48:56Z",
-     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T03:01:00Z",
-     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
-     "url": "https://tass.com/world/2207235"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:15:24Z",
-     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
-     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T06:01:35Z",
-     "headline": "Saudi-led Coalition strikes Saada, Taiz",
-     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T06:21:05Z",
-     "headline": "Two explosions heard in Riyadh following alert",
-     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T06:29:13Z",
-     "headline": "Ballistic missiles targeting Saudi cities intercepted",
-     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T06:42:57Z",
-     "headline": "Morning update",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T09:14:58Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T09:43:24Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T10:01:14Z",
-     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
-     "url": "https://english.aawsat.com/node/5333054"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T10:14:00Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T11:13:29Z",
-     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
-     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
     }
    ]
   },
