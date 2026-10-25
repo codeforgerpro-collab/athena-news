@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:20:26Z",
+ "generated": "2026-10-25T17:37:04Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -6248,6 +6248,175 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "importance": 6.45,
+   "risk": 1.72,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-25T17:32:19Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after nearly 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    }
+   ]
+  },
+  {
    "id": 13172,
    "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
    "category": "Geopolitics",
@@ -9043,203 +9212,11 @@
    ]
   },
   {
-   "id": 21280,
-   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-   "category": "Geopolitics",
-   "importance": 5.98,
-   "risk": 3.23,
-   "confidence": 0.93,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "RUS",
-    "AZE",
-    "AFG",
-    "TUR",
-    "NGA",
-    "CHN",
-    "SAU",
-    "UKR",
-    "QAT",
-    "SGP",
-    "PAK",
-    "CYP",
-    "USA",
-    "ISR"
-   ],
-   "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-25T12:49:20Z",
-   "page": "event/21280.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T12:24:01Z",
-     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
-     "url": "https://tass.com/politics/2206267"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:53:00Z",
-     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
-     "url": "https://www.azernews.az/region/266020.html"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-22T17:09:14Z",
-     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
-     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T19:55:06Z",
-     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
-     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T09:57:00Z",
-     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
-     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:20:46Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:31:40Z",
-     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
-     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:39:35Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T10:52:05Z",
-     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T11:04:40Z",
-     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
-     "url": "https://tass.com/politics/2206847"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:02:52Z",
-     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
-     "url": "https://tass.com/politics/2206883"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:42:49Z",
-     "headline": "Russia, Ukraine and the US set for November peace talks",
-     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T12:49:49Z",
-     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
-     "url": "https://www.kyivpost.com/post/87990"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T12:54:44Z",
-     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T14:00:00Z",
-     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
-     "url": "https://www.azernews.az/region/266090.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:21:52Z",
-     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
-     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T16:23:50Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T16:46:32Z",
-     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://www.al-monitor.com/originals/2026/10/zelenskiy-says-ukrainian-russian-and-us-negotiators-meet-early-november-abu-dhabi"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T18:11:00Z",
-     "headline": "Zelenskyy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-     "url": "https://en.apa.az/europe/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi-531925"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T19:00:07Z",
-     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
-     "url": "https://www.vanguardngr.com/2026/10/russia-says-ukraine-us-talks-planned-for-abu-dhabi/"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T07:05:00Z",
-     "headline": "Ukraine-US-Russia talks could take place in Abu Dhabi or Switzerland – Sky News",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059512/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T10:31:00Z",
-     "headline": "US-Ukraine-Russia Talks Slated for Abu Dhabi or Switzerland",
-     "url": "https://www.kyivpost.com/post/88064"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T12:49:20Z",
-     "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
-     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
-    }
-   ]
-  },
-  {
    "id": 5498,
    "title": "Israeli drone strike kills two Palestinians in Gaza City",
    "category": "Geopolitics",
-   "importance": 5.94,
-   "risk": 7.25,
+   "importance": 6.0,
+   "risk": 7.3,
    "confidence": 0.92,
    "status": "spreading",
    "outlets": 17,
@@ -9258,7 +9235,7 @@
     "ISR"
    ],
    "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-25T16:23:33Z",
+   "last_seen": "2026-10-25T17:30:25Z",
    "page": "event/5498.html",
    "reports": [
     {
@@ -9540,6 +9517,198 @@
      "time": "2026-10-25T14:39:06Z",
      "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
      "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    }
+   ]
+  },
+  {
+   "id": 21280,
+   "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+   "category": "Geopolitics",
+   "importance": 5.98,
+   "risk": 3.23,
+   "confidence": 0.93,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "RUS",
+    "AZE",
+    "AFG",
+    "TUR",
+    "NGA",
+    "CHN",
+    "SAU",
+    "UKR",
+    "QAT",
+    "SGP",
+    "PAK",
+    "CYP",
+    "USA",
+    "ISR"
+   ],
+   "first_seen": "2026-10-22T12:24:01Z",
+   "last_seen": "2026-10-25T12:49:20Z",
+   "page": "event/21280.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T12:24:01Z",
+     "headline": "Abu Dhabi currently considered as venue for Russia-US-Ukraine meeting — Kremlin",
+     "url": "https://tass.com/politics/2206267"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:53:00Z",
+     "headline": "Peskov: US-Russia-Ukraine talks likely in Abu Dhabi",
+     "url": "https://www.azernews.az/region/266020.html"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-22T17:09:14Z",
+     "headline": "Kremlin Says Abu Dhabi Being Considered for Russia-US-Ukraine Talks",
+     "url": "https://www.khaama.com/abu-dhabi-talks-russia-us-ukraine/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T19:55:06Z",
+     "headline": "Russia considers Abu Dhabi for trilateral talks with US, Ukraine",
+     "url": "https://www.turkiyetoday.com/region/russia-considers-abu-dhabi-for-trilateral-talks-with-us-ukraine-3230834"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T09:57:00Z",
+     "headline": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
+     "url": "https://en.apa.az/cis-countries/kremlin-trilateral-talks-on-ukraine-planned-in-abu-dhabi-in-first-half-of-november-531836"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:20:46Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://punchng.com/russia-says-ukraine-us-talks-planned-for-abu-dhabi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:31:40Z",
+     "headline": "Russia, U.S., Ukraine to hold talks in UAE in November: Kremlin",
+     "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:39:35Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.arabnews.com/world/russia-says-ukraine-us-talks-planned-for-abu-dhabi-3007884"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T10:52:05Z",
+     "headline": "Kremlin says trilateral Ukraine peace talks scheduled for ‘1st half of November’ in Abu Dhabi",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T11:04:40Z",
+     "headline": "Abu Dhabi talks are set to take place in trilateral format — Kremlin",
+     "url": "https://tass.com/politics/2206847"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:02:52Z",
+     "headline": "Kremlin briefing addresses EU participation in Ukraine talks, security framework",
+     "url": "https://tass.com/politics/2206883"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:42:49Z",
+     "headline": "Russia, Ukraine and the US set for November peace talks",
+     "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T12:49:49Z",
+     "headline": "Abu Dhabi Considered for Ukraine-Russia-US Talks in November",
+     "url": "https://www.kyivpost.com/post/87990"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T12:54:44Z",
+     "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T14:00:00Z",
+     "headline": "Russia, US and Ukraine to hold trilateral talks in Abu Dhabi in November",
+     "url": "https://www.azernews.az/region/266090.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:21:52Z",
+     "headline": "Ukrainian, Russian and US negotiators to meet in Abu Dhabi, says Zelensky",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T16:23:50Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.brecorder.com/news/40445646/zelenskiy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T16:46:32Z",
+     "headline": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://www.al-monitor.com/originals/2026/10/zelenskiy-says-ukrainian-russian-and-us-negotiators-meet-early-november-abu-dhabi"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T18:11:00Z",
+     "headline": "Zelenskyy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+     "url": "https://en.apa.az/europe/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-early-november-in-abu-dhabi-531925"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T19:00:07Z",
+     "headline": "Russia says Ukraine, US talks ‘planned’ for Abu Dhabi",
+     "url": "https://www.vanguardngr.com/2026/10/russia-says-ukraine-us-talks-planned-for-abu-dhabi/"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T07:05:00Z",
+     "headline": "Ukraine-US-Russia talks could take place in Abu Dhabi or Switzerland – Sky News",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059512/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T10:31:00Z",
+     "headline": "US-Ukraine-Russia Talks Slated for Abu Dhabi or Switzerland",
+     "url": "https://www.kyivpost.com/post/88064"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T12:49:20Z",
+     "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
     }
    ]
   },
@@ -10183,151 +10352,6 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "importance": 5.85,
-   "risk": 1.66,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-25T17:10:11Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after nearly 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled Venezuelan opposition leader announces her return",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    }
-   ]
-  },
-  {
    "id": 14052,
    "title": "Storm Boelo lashes UK, cutting power and cancelling flights",
    "category": "Energy & Environment",
@@ -10461,7 +10485,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T10:03:31Z",
-     "headline": "More than 82,000 properties without power as Storm Boelo batters UK",
+     "headline": "One dead and 82,000 properties without power as Storm Boelo batters UK",
      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk"
     },
     {
@@ -13657,164 +13681,139 @@
    ]
   },
   {
-   "id": 5926,
-   "title": "Sri Lanka suffers nationwide electricity blackout",
+   "id": 28776,
+   "title": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
    "category": "Energy & Environment",
-   "importance": 5.61,
-   "risk": 5.09,
-   "confidence": 0.84,
-   "status": "peaking",
-   "outlets": 13,
+   "importance": 5.64,
+   "risk": 2.37,
+   "confidence": 0.85,
+   "status": "spreading",
+   "outlets": 11,
    "countries": [
-    "IND",
-    "AZE",
-    "OMN",
+    "NGA",
     "SGP",
-    "LKA",
-    "PAK",
-    "ZAF",
-    "CHN",
-    "DEU",
-    "USA",
-    "TWN",
-    "NLD"
+    "IND",
+    "UGA",
+    "GHA",
+    "AZE",
+    "JAM",
+    "ARE"
    ],
-   "first_seen": "2026-10-16T04:34:02Z",
-   "last_seen": "2026-10-25T03:30:00Z",
-   "page": "event/5926.html",
+   "first_seen": "2026-10-25T06:59:31Z",
+   "last_seen": "2026-10-25T18:09:10Z",
+   "page": "event/28776.html",
    "reports": [
     {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-16T04:34:02Z",
-     "headline": "Indian-made stents under scrutiny after complications in Sri Lanka",
-     "url": "https://timesofindia.indiatimes.com/india/stent-safety-concerns-reach-centre-after-reports-of-complications-with-indian-made-devices-in-sri-lanka/articleshow/134982424.cms"
-    },
-    {
-     "outlet": "The Hindu",
-     "country": "IND",
-     "time": "2026-10-16T10:52:26Z",
-     "headline": "Vijay writes to Centre over arrest of fishermen by Sri Lanka",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu//article71548451.ece"
-    },
-    {
-     "outlet": "AZERTAC (English)",
-     "country": "AZE",
-     "time": "2026-10-16T13:38:00Z",
-     "headline": "Azerbaijan, Sri Lanka strengthen political dialogue",
-     "url": "https://azertag.az/en/xeber/azerbaijan_sri_lanka_strengthen_political_dialogue-4466457"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-17T07:09:19Z",
-     "headline": "Sri Lanka suffers nationwide electricity blackout",
-     "url": "https://www.omanobserver.om/article/1197904/world/asia/sri-lanka-suffers-nationwide-electricity-blackout"
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T06:59:31Z",
+     "headline": "EPL: Carrick reveals regular Ferguson, Solskjaer talks",
+     "url": "https://punchng.com/epl-carrick-reveals-regular-ferguson-solskjaer-talks/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
      "outlet": "CNA (Channel NewsAsia)",
      "country": "SGP",
-     "time": "2026-10-17T09:26:14Z",
-     "headline": "Sri Lanka suffers nationwide electricity blackout",
-     "url": "https://www.channelnewsasia.com/asia/sri-lanka-blackout-6468131"
+     "time": "2026-10-25T12:56:41Z",
+     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
+     "url": "https://www.channelnewsasia.com/sport/carrick-drops-united-captain-fernandes-bench-against-bournemouth-6490541"
     },
     {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-17T12:17:00Z",
-     "headline": "Power outage reported across Sri Lanka",
-     "url": "https://www.dailymirror.lk/breaking-news/Power-outage-reported-across-Sri-Lanka/108-352762"
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T14:07:41Z",
+     "headline": "EPL: Carrick to bench Brruno for Bournemouth clash — Report",
+     "url": "https://punchng.com/epl-carrick-to-bench-brruno-for-bournemouth-clash-report/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-17T12:17:06Z",
-     "headline": "Sri Lanka suffers nationwide electricity blackout",
-     "url": "https://www.brecorder.com/news/40444679/sri-lanka-suffers-nationwide-electricity-blackout"
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T14:15:21Z",
+     "headline": "Carrick Drops Fernandes After Como Outburst",
+     "url": "https://www.channelstv.com/2026/10/25/carrick-drops-fernandes-after-como-outburst/"
     },
     {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T13:28:00Z",
-     "headline": "Sri Lanka’s 22 million people hit by six-hour blackout as grid shuts down",
-     "url": "https://iol.co.za/news/world/2026-10-17-sri-lankas-22-million-people-hit-by-six-hour-blackout-as-grid-shuts-down/"
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T14:28:50Z",
+     "headline": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
+     "url": "https://indianexpress.com/article/sports/football/michael-carrick-dropped-bruno-fernandes-manchester-united-10936441/"
     },
     {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-17T14:29:50Z",
-     "headline": "Sri Lanka restores power transmission system after nationwide outage",
-     "url": "https://english.news.cn/20261017/c8f3bb1d8981417e9a866dcf6fa94ff3/c.html"
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T16:10:03Z",
+     "headline": "[UPDATED] Bournemouth Batter Man Utd, Leave Carrick On The Brink",
+     "url": "https://www.channelstv.com/2026/10/25/just-in-bournemouth-batter-man-utd-leave-carrick-on-the-brink/"
     },
     {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-19T15:50:15Z",
-     "headline": "Sri Lanka’s first insulin manufacturing plant to begin production in 2027",
-     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka’s-first-insulin-manufacturing-plant-to-begin-production-in-2027/108-352894"
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T16:16:39Z",
+     "headline": "Bournemouth Punish United After Fernandes is Dropped",
+     "url": "https://nilepost.co.ug/sports/381322/bournemouth-punish-united-after-fernandes-is-dropped"
     },
     {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-22T08:37:11Z",
-     "headline": "Sri Lanka CERT warns of critical PHP security vulnerabilities",
-     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-critical-PHP-security-vulnerabilities/108-353158"
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T16:16:52Z",
+     "headline": "Bournemouth beat Man Utd to increase pressure on Carrick",
+     "url": "https://www.myjoyonline.com/bournemouth-beat-man-utd-to-increase-pressure-on-carrick/"
     },
     {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T11:02:46Z",
-     "headline": "Sri Lanka maintains landslide alerts as prolonged rainfall threatens over 30,000 locations",
-     "url": "https://english.news.cn/20261022/53e63900ae1040a58d63d65b1de9501e/c.html"
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T16:28:07Z",
+     "headline": "Man United’s misery continues, suffer 3-0 defeat to Bournemouth",
+     "url": "https://www.vanguardngr.com/2026/10/man-uniteds-misery-continues-suffer-3-0-defeat-to-bournemouth/"
     },
     {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-23T06:40:21Z",
-     "headline": "Complaint lodged over Sri Lanka Police Facebook post",
-     "url": "https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Sri-Lanka-Police-Facebook-post/108-353248"
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-25T16:29:22Z",
+     "headline": "Manchester United suffer home loss, Liverpool claim maiden Anfield win",
+     "url": "https://dailytrust.com/manchester-united-suffer-home-loss-liverpool-claim-maiden-anfield-win/"
     },
     {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T09:29:00Z",
-     "headline": "Sri Lanka: Death of iconic elephant raises habitat concerns",
-     "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf"
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T16:37:00Z",
+     "headline": "Manchester United extended their winless run to eight matches with heavy defeat to Bournemouth",
+     "url": "https://en.apa.az/football/manchester-united-extended-their-winless-run-to-eight-matches-with-heavy-defeat-to-bournemouth-532067"
     },
     {
-     "outlet": "Mongabay",
-     "country": "USA",
-     "time": "2026-10-23T15:37:36Z",
-     "headline": "Death of iconic elephant in Sri Lanka pushes authorities to fast-track protection efforts",
-     "url": "https://news.mongabay.com/2026/10/death-of-iconic-elephant-in-sri-lanka-pushes-authorities-to-fast-track-protection-efforts/"
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T16:55:12Z",
+     "headline": "Man Utd battered by Bournemouth to leave Carrick on the brink",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utd-battered-bournemouth-leave-carrick-brink/"
     },
     {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-23T16:39:35Z",
-     "headline": "Sri Lanka, S Africa win in stunners",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/24/2003866528"
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T17:12:58Z",
+     "headline": "Carrick unsure over Man Utd future after Bournemouth loss",
+     "url": "https://www.vanguardngr.com/2026/10/carrick-unsure-over-man-utd-future-after-bournemouth-loss/"
     },
     {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T02:13:34Z",
-     "headline": "Sri Lanka to set up joint wildlife-military center to protect elephants",
-     "url": "https://english.news.cn/20261024/68f6a14e1f1f48a5ba1830b39892d55e/c.html"
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T17:16:06Z",
+     "headline": "EPL: Bournemouth thrash Man United 3-0, pressure mounts on Carrick",
+     "url": "https://punchng.com/epl-bournemouth-thrash-man-united-3-0-pressure-mounts-on-carrick/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T01:18:37Z",
-     "headline": "Over 500 kg drugs seized on Sri Lanka's southern coast",
-     "url": "https://english.news.cn/20261025/ce0859c7ef314f298f71521878a286e6/c.html"
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T17:17:32Z",
+     "headline": "Man United v Bournemouth ratings: Disaster at Old Trafford as Tielemans and Dalot struggle",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/"
     },
     {
-     "outlet": "OCCRP",
-     "country": "NLD",
-     "time": "2026-10-25T03:30:00Z",
-     "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
-     "url": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities"
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T18:09:10Z",
+     "headline": "Manchester United suffer eighth winless match against Bournemouth",
+     "url": "https://punchng.com/manchester-united-suffer-eighth-winless-match-against-bournemouth/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   }
