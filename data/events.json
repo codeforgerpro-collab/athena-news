@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:33:59Z",
+ "generated": "2026-10-25T23:51:00Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.59,
+   "importance": 8.64,
    "risk": 4.51,
    "confidence": 0.89,
    "status": "spreading",
-   "outlets": 44,
+   "outlets": 46,
    "countries": [
     "USA",
     "BEL",
@@ -38,10 +38,11 @@
     "SAU",
     "CHN",
     "NZL",
-    "KOR"
+    "KOR",
+    "JPN"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-25T23:15:42Z",
+   "last_seen": "2026-10-25T23:46:21Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -11711,6 +11712,265 @@
    ]
   },
   {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.79,
+   "risk": 1.35,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "TUR"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-25T23:33:20Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    }
+   ]
+  },
+  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -12431,258 +12691,6 @@
    ]
   },
   {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.73,
-   "risk": 1.34,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
-    "TUR"
-   ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-25T23:06:56Z",
-   "page": "event/23444.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    }
-   ]
-  },
-  {
    "id": 27893,
    "title": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal'",
    "category": "Geopolitics",
@@ -13322,6 +13330,159 @@
      "time": "2026-10-25T16:37:09Z",
      "headline": "Arsenal join Man City at summit after Villa upset",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
+    }
+   ]
+  },
+  {
+   "id": 30188,
+   "title": "Brazil's Supreme Court extends voting in presidential runoff for two hours over transport issues",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.69,
+   "risk": 1.43,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 9,
+   "countries": [
+    "DEU",
+    "BRA",
+    "TUR",
+    "CHN",
+    "SGP",
+    "RUS",
+    "GBR",
+    "USA",
+    "JPN"
+   ],
+   "first_seen": "2026-10-25T14:13:00Z",
+   "last_seen": "2026-10-25T23:45:00Z",
+   "page": "event/30188.html",
+   "reports": [
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T14:13:00Z",
+     "headline": "Brazil's Supreme Court extends voting in presidential runoff for two hours over transport issues",
+     "url": "https://www.dw.com/en/brazil-s-supreme-court-extends-voting-in-presidential-runoff-for-two-hours-over-transport-issues/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T14:13:00Z",
+     "headline": "Brazil elections: Voting extended after transport complaints",
+     "url": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T17:43:12Z",
+     "headline": "Lula Campaign Asks to Extend Voting Hours",
+     "url": "https://www.riotimesonline.com/lula-campaign-asks-to-extend-voting-hours-bus-cuts-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T20:37:00Z",
+     "headline": "Zanin Extends Brazil Voting to 6 p.m. ET",
+     "url": "https://www.riotimesonline.com/zanin-extends-brazil-runoff-voting-tse-pauses-count-2026/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T20:39:00Z",
+     "headline": "Brazil Supreme Court extends presidential voting by 2 hours",
+     "url": "https://www.aa.com.tr/en/politics/brazil-supreme-court-extends-presidential-voting-by-2-hours/4100472"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T20:55:26Z",
+     "headline": "Brazil’s Count Is Paused: What Happens Next",
+     "url": "https://www.riotimesonline.com/brazil-count-paused-as-flavios-odds-slide/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T21:28:00Z",
+     "headline": "Brazil elections: Vote counting resumes after extension",
+     "url": "https://www.dw.com/en/brazil-elections-vote-counting-resumes-after-extension/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T21:41:01Z",
+     "headline": "Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
+     "url": "https://english.news.cn/20261026/f0c1827913ff4a7390bd6be455fe7ae9/c.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T21:50:10Z",
+     "headline": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
+     "url": "https://www.channelnewsasia.com/world/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours-6490261"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-25T22:04:49Z",
+     "headline": "Voting at Brazil’s runoff presidential election extended for two hours",
+     "url": "https://tass.com/world/2207623"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T22:17:09Z",
+     "headline": "Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
+     "url": "https://english.news.cn/20261026/3c7100c5dc80458482120bd7e5714216/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T22:17:09Z",
+     "headline": "Flash: Voting ends in Brazil's presidential runoff",
+     "url": "https://english.news.cn/20261026/efaea61632bd4f84bf5b617a539cb181/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T22:33:52Z",
+     "headline": "Urgent: Voting ends in Brazil's presidential runoff after 2-hour extension",
+     "url": "https://english.news.cn/20261026/6189a8d0aea549f081ef6e3e7cc70781/c.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T22:45:01Z",
+     "headline": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T22:45:35Z",
+     "headline": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T23:10:29Z",
+     "headline": "Voting ends in Brazil's presidential runoff after 2-hour extension",
+     "url": "https://english.news.cn/20261026/879f815275a7471bb232f4c0e75c5043/c.html"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-25T23:30:09Z",
+     "headline": "Brazil resumes vote counting after last-minute extension of polling hours in tense presidential race",
+     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/006000c"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T23:45:00Z",
+     "headline": "Brazil elections: Votes being tallied after polls close",
+     "url": "https://www.dw.com/en/brazil-elections-votes-being-tallied-after-polls-close/live-79755630?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
@@ -14141,324 +14302,6 @@
      "time": "2026-10-25T12:31:31Z",
      "headline": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
      "url": "https://indianexpress.com/article/explained/explained-global/starlink-starshield-ukraine-drone-war-speed-restrictions-10936301/"
-    }
-   ]
-  },
-  {
-   "id": 19970,
-   "title": "France reports first human Shamonda virus case",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 5.65,
-   "risk": 5.45,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 34,
-   "countries": [
-    "OMN",
-    "SGP",
-    "GBR",
-    "IND",
-    "IRL",
-    "AZE",
-    "SWE",
-    "TUR",
-    "ISR",
-    "BEL",
-    "FRA",
-    "CHN",
-    "NGA",
-    "PAK",
-    "QAT",
-    "ARE",
-    "USA",
-    "DEU",
-    "MAR",
-    "CAN"
-   ],
-   "first_seen": "2026-10-22T04:48:26Z",
-   "last_seen": "2026-10-24T11:59:28Z",
-   "page": "event/19970.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T04:48:26Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.omanobserver.om/article/1198225/scitech/science/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T08:36:24Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.straitstimes.com/world/europe/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:00Z",
-     "headline": "France reports first Shamonda virus case in human who later died",
-     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T08:41:45Z",
-     "headline": "Deadly Shamonda virus detected in human for first time in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-detected-symptoms-b3071284.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T08:46:33Z",
-     "headline": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
-     "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T09:04:32Z",
-     "headline": "France reports first death of human from Shamonda virus",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596411-shamonda-virus/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T09:13:00Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://en.apa.az/europe/france-reports-first-human-shamonda-virus-case-531619"
-    },
-    {
-     "outlet": "ECDC news",
-     "country": "SWE",
-     "time": "2026-10-22T09:13:22Z",
-     "headline": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
-     "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:36:59Z",
-     "headline": "France reports 1st human case of Shamonda virus after patient’s death",
-     "url": "https://www.aa.com.tr/en/europe/france-reports-1st-human-case-of-shamonda-virus-after-patient-s-death/4096943"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T09:38:19Z",
-     "headline": "French patient dies after Shamonda virus detected in human for first time",
-     "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-912535"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:44:12Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.channelnewsasia.com/world/france-reports-first-human-shamonda-virus-case-6482136"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-22T10:01:36Z",
-     "headline": "Europe on alert as France reports first human Shamonda virus case",
-     "url": "https://www.rapporteur.com/news/europe-on-alert-as-france-reports-first-human-shamonda-virus-case/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T10:06:31Z",
-     "headline": "Shamonda virus detected in human for first time in France; patient dies",
-     "url": "https://timesofindia.indiatimes.com/science/shamonda-virus-detected-in-human-for-first-time-in-france-patient-dies/articleshow/135115138.cms"
-    },
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-22T10:10:10Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.thelocal.fr/20261022/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:17:21Z",
-     "headline": "What is Shamonda virus? Symptoms and origin after first human case confirmed in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-symptoms-human-case-b3071325.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T10:52:17Z",
-     "headline": "France reports world's first documented case of human infection with Shamonda virus",
-     "url": "https://english.news.cn/20261022/37386b7727eb4381accce646b6b4b5e8/c.html"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T10:59:03Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.vanguardngr.com/2026/10/france-reports-first-human-shamonda-virus-case-says-no-health-risk/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T11:04:14Z",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:13:52Z",
-     "headline": "14 EU Countries Affected As France Reports First Case Of Human Shamonda Virus",
-     "url": "https://www.channelstv.com/2026/10/22/14-eu-countries-affected-as-france-reports-first-case-of-human-shamonda-virus/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:15:08Z",
-     "headline": "Human Shamonda Virus: Reported Case Has No Health Risk, Says France",
-     "url": "https://www.channelstv.com/2026/10/22/human-shamonda-virus-reported-case-has-no-health-risk-says-france/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:20:08Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://punchng.com/france-reports-first-human-shamonda-virus-case/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:24:15Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://tribune.com.pk/story/2636360/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T11:28:05Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T11:43:04Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://gulfnews.com/world/europe/france-reports-first-human-shamonda-virus-case-says-no-health-risk-3-1.500719806"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T11:45:00Z",
-     "headline": "France records first human case of Shamonda virus as patient dies",
-     "url": "https://en.protothema.gr/2026/10/22/france-records-first-human-case-of-shamonda-virus-as-patient-dies/"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-22T12:00:00Z",
-     "headline": "First human case of Shamonda virus reported in France as patient dies",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168652"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T12:22:56Z",
-     "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
-     "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T12:46:00Z",
-     "headline": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
-     "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-22T13:13:55Z",
-     "headline": "France reports first ever human Shamonda virus case in patient who died",
-     "url": "https://en.hespress.com/147788-france-reports-first-ever-human-shamonda-virus-case-in-patient-who-died.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T13:14:26Z",
-     "headline": "First known human case of Shamonda virus confirmed in France",
-     "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T13:28:00Z",
-     "headline": "First human case of livestock virus Shamonda unlikely to lead to wider spread, WHO says",
-     "url": "https://en.apa.az/america/first-human-case-of-livestock-virus-shamonda-unlikely-to-lead-to-wider-spread-who-says-531670"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T14:26:05Z",
-     "headline": "France reports first human case of livestock virus Shamonda in patient who later died",
-     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T14:41:38Z",
-     "headline": "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
-     "url": "https://www.straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T14:59:25Z",
-     "headline": "1st human case of livestock virus Shamonda reported in France",
-     "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T15:07:01Z",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T15:14:40Z",
-     "headline": "Shamonda virus: First human case reported in France; patient dies",
-     "url": "https://indianexpress.com/article/world/first-human-case-shamonda-virus-france-lyon-death-10932667/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:30:54Z",
-     "headline": "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
-     "url": "https://www.aa.com.tr/en/europe/who-investigates-transmission-public-health-risks-of-1st-human-case-of-shamonda-virus-in-france/4097666"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T17:52:59Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T02:08:07Z",
-     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
-     "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T08:35:15Z",
-     "headline": "First human case of Shamonda virus: What is it, what are the risks",
-     "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
     }
    ]
   }
