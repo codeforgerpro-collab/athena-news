@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T03:30:29Z",
+ "generated": "2026-10-25T03:46:29Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8545,13 +8545,13 @@
   },
   {
    "id": 24595,
-   "title": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+   "title": "Israel launches major West Bank operation after soldiers killed",
    "category": "Geopolitics",
-   "importance": 6.02,
+   "importance": 6.04,
    "risk": 6.35,
    "confidence": 0.9,
    "status": "spreading",
-   "outlets": 23,
+   "outlets": 24,
    "countries": [
     "USA",
     "CAN",
@@ -8570,7 +8570,7 @@
     "SAU"
    ],
    "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T01:33:31Z",
+   "last_seen": "2026-10-25T03:21:35Z",
    "page": "event/24595.html",
    "reports": [
     {
@@ -8714,6 +8714,13 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
     },
     {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
      "outlet": "Euronews English",
      "country": "FRA",
      "time": "2026-10-24T14:31:04Z",
@@ -8754,6 +8761,13 @@
      "time": "2026-10-25T01:33:31Z",
      "headline": "Israel presses ahead with West Bank army operation days before election",
      "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "IDF Announces General Closure for West Bank Palestinians on Election Day",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
     }
    ]
   },
@@ -11843,6 +11857,123 @@
    ]
   },
   {
+   "id": 19946,
+   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+   "category": "Society & Law",
+   "importance": 5.72,
+   "risk": 0.0,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 12,
+   "countries": [
+    "GRC",
+    "NLD",
+    "SWE",
+    "PRT",
+    "BGR",
+    "ARE",
+    "CYP",
+    "ISR",
+    "UKR"
+   ],
+   "first_seen": "2026-10-22T07:54:23Z",
+   "last_seen": "2026-10-25T03:25:00Z",
+   "page": "event/19946.html",
+   "reports": [
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T07:54:23Z",
+     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T03:00:36Z",
+     "headline": "Daylight Saving Time Ends in Greece This Weekend",
+     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T04:18:41Z",
+     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
+     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-23T11:41:45Z",
+     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
+     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
+    },
+    {
+     "outlet": "The Local Sweden",
+     "country": "SWE",
+     "time": "2026-10-23T12:46:40Z",
+     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
+     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
+    },
+    {
+     "outlet": "The Portugal News",
+     "country": "PRT",
+     "time": "2026-10-23T13:03:00Z",
+     "headline": "Portugal has been switching to winter time for 30 years",
+     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T15:09:00Z",
+     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
+     "url": "https://www.novinite.com/view_news.php?id=241192"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:00:00Z",
+     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
+     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-24T05:20:04Z",
+     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
+     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T08:20:24Z",
+     "headline": "Clocks go back one hour on Sunday as winter time begins",
+     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:19:55Z",
+     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
+     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
+    },
+    {
+     "outlet": "DutchNews.nl",
+     "country": "NLD",
+     "time": "2026-10-24T13:38:05Z",
+     "headline": "More sleep on Sunday as clocks go back an hour",
+     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T03:25:00Z",
+     "headline": "Ukraine switches to standard time tonight",
+     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
+    }
+   ]
+  },
+  {
    "id": 6981,
    "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
    "category": "Business",
@@ -12443,205 +12574,6 @@
      "time": "2026-10-24T03:30:09Z",
      "headline": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban",
      "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/024000c"
-    }
-   ]
-  },
-  {
-   "id": 26435,
-   "title": "US intelligence chief says Iran 'increases efforts' to target Americans",
-   "category": "Geopolitics",
-   "importance": 5.69,
-   "risk": 5.22,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 23,
-   "countries": [
-    "USA",
-    "OMN",
-    "SAU",
-    "AFG",
-    "SGP",
-    "AUS",
-    "ISR",
-    "IRQ",
-    "IND",
-    "LBN",
-    "QAT",
-    "TWN",
-    "PAK",
-    "GBR"
-   ],
-   "first_seen": "2026-10-24T03:13:10Z",
-   "last_seen": "2026-10-24T17:53:13Z",
-   "page": "event/26435.html",
-   "reports": [
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-24T03:13:10Z",
-     "headline": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns",
-     "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T03:24:37Z",
-     "headline": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
-     "url": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T03:35:49Z",
-     "headline": "Iran in ‘advanced stages’ of planning attacks against Americans: US officials",
-     "url": "https://www.omanobserver.om/article/1198444/world/region/iran-in-advanced-stages-of-planning-attacks-against-americans-us-officials"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T04:28:47Z",
-     "headline": "US intelligence chief warns Iran targeting Americans in Middle East",
-     "url": "https://www.arabnews.com/middle-east/us-intelligence-chief-warns-iran-targeting-americans-in-middle-east-3007998"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-24T04:49:23Z",
-     "headline": "US Intel Warns of Advanced Iranian Assassination Plots Against American Officials: Axios",
-     "url": "https://www.khaama.com/us-intel-warns-of-advanced-iranian-assassination-plots-against-american-officials-axios/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T05:30:00Z",
-     "headline": "Iran in ‘advanced stages’ of planning attacks against Americans, officials say",
-     "url": "https://www.straitstimes.com/world/united-states/iran-in-advanced-stages-of-planning-attacks-against-americans-officials-say"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T05:43:08Z",
-     "headline": "US intelligence chief says Iran 'increases efforts' to target Americans",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-intelligence-chief-says-iran-increases-efforts-target-americans"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T06:14:00Z",
-     "headline": "Iran's latest threat against the US takes aim at new targets",
-     "url": "https://www.sbs.com.au/news/article/irans-latest-threat-against-the-us-takes-aim-at-new-targets/kr7uxuczj"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T06:47:12Z",
-     "headline": "Report: Iran steps up efforts to assassinate U.S. officials in Middle East, officials say",
-     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/report-iran-steps-up-efforts-to-assassinate-u-s-officials-in-middle-east/000001a1-6c48-d34e-a1b9-fe4f04050000"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T07:20:00Z",
-     "headline": "US Says Threat to Americans Highest Since Iran War Began",
-     "url": "https://www.kurdistan24.net/en/story/948143/us-says-threat-to-americans-highest-since-iran-war-began"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T08:34:10Z",
-     "headline": "'Iran's Plot Against Americans Have Reached Advanced Stages': US Spy Chief",
-     "url": "https://www.ndtv.com/world-news/us-iran-war-irans-plot-against-americans-have-reached-advanced-stages-us-spy-chief-12229269#publisher=newsstand"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:53:22Z",
-     "headline": "Iran Reportedly in ‘Advanced Stages’ of Planning Attacks Against Americans",
-     "url": "https://english.aawsat.com/node/5333052"
-    },
-    {
-     "outlet": "Naharnet",
-     "country": "LBN",
-     "time": "2026-10-24T09:53:35Z",
-     "headline": "US reduces staffing in Lebanon, 3 Arab countries over Iran fears",
-     "url": "https://www.naharnet.com/stories/en/323321-us-reduces-staffing-in-lebanon-3-arab-countries-over-iran-fears"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-24T09:57:21Z",
-     "headline": "Advanced Iranian plots to assassinate US officials as Washington cuts embassy staff across Middle East",
-     "url": "https://en.protothema.gr/2026/10/24/advanced-iranian-plots-to-assassinate-us-officials-as-washington-cuts-embassy-staff-across-middle-east/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T10:21:10Z",
-     "headline": "US on alert as Iran's plan to target Americans abroad in 'advanced stages': Report",
-     "url": "https://timesofindia.indiatimes.com/world/us/us-on-alert-iran-plots-to-target-american-personnel-abroad-reach-advanced-stages-report/articleshow/135167534.cms"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:49:18Z",
-     "headline": "Iranian plots to kill U.S. officials in Middle East have reached ‘advanced stages,’ intel warns",
-     "url": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:51:21Z",
-     "headline": "Is Iran planning attacks on Americans; why is the US on alert?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-24T15:09:20Z",
-     "headline": "U.S. is reducing staffing at 4 Middle East embassies over increased threats from Iran",
-     "url": "https://www.pbs.org/newshour/politics/u-s-is-reducing-staffing-at-4-middle-east-embassies-over-increased-threats-from-iran"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-24T15:44:53Z",
-     "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-     "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T16:07:17Z",
-     "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-24T16:39:54Z",
-     "headline": "US spy chief warns Iran is preparing to target Americans",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866594"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T16:46:17Z",
-     "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-     "url": "https://www.brecorder.com/news/40445764/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T16:46:39Z",
-     "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-ramped-efforts-target-us-personnel-intelligence-memo-warns"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T17:53:13Z",
-     "headline": "Iran’s lethal plots against US officials abroad reach ‘advanced stages,’ memo reveals",
-     "url": "https://www.independent.co.uk/news/world/americas/iran-middle-east-us-threats-personnel-b3072772.html"
     }
    ]
   },
