@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T06:10:36Z",
+ "generated": "2026-10-25T06:26:36Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -4444,6 +4444,256 @@
    ]
   },
   {
+   "id": 24595,
+   "title": "Israel launches major West Bank operation after soldiers killed",
+   "category": "Geopolitics",
+   "importance": 6.84,
+   "risk": 6.71,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 25,
+   "countries": [
+    "USA",
+    "CAN",
+    "ISR",
+    "IND",
+    "MAR",
+    "IRL",
+    "AUS",
+    "TUR",
+    "CHN",
+    "PAK",
+    "SGP",
+    "EGY",
+    "QAT",
+    "FRA",
+    "SAU",
+    "IRN"
+   ],
+   "first_seen": "2026-10-23T08:05:06Z",
+   "last_seen": "2026-10-25T06:58:52Z",
+   "page": "event/24595.html",
+   "reports": [
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T11:01:29Z",
+     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:39:37Z",
+     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T15:06:27Z",
+     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T16:26:16Z",
+     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T18:35:15Z",
+     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T19:50:03Z",
+     "headline": "West Bank attack may boost Netanyahu's election chances",
+     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
+    },
+    {
+     "outlet": "Foreign Policy",
+     "country": "USA",
+     "time": "2026-10-23T20:22:10Z",
+     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T21:30:10Z",
+     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T21:38:54Z",
+     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T21:53:53Z",
+     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:19:41Z",
+     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-24T00:39:40Z",
+     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
+     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T02:11:25Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T05:31:00Z",
+     "headline": "Israel launches West Bank operation after attack days before election",
+     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:33:56Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-24T07:51:51Z",
+     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T09:14:40Z",
+     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T10:33:52Z",
+     "headline": "Netanyahu orders West Bank operation",
+     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:24:19Z",
+     "headline": "Full lockdown of occupied West Bank begins",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:31:04Z",
+     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:20:29Z",
+     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
+     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T22:09:44Z",
+     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
+     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T00:40:49Z",
+     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T01:17:13Z",
+     "headline": "Israel says closing all land crossings with West Bank on election day",
+     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:33:31Z",
+     "headline": "Israel presses ahead with West Bank army operation days before election",
+     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "IDF Announces General Closure for West Bank Palestinians on Election Day",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T05:00:08Z",
+     "headline": "Israel to close key access point on election day",
+     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:29:04Z",
+     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T06:58:52Z",
+     "headline": "IDF forcibly evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
+    }
+   ]
+  },
+  {
    "id": 8134,
    "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
    "category": "Trade & Industry",
@@ -4947,249 +5197,6 @@
      "time": "2026-10-25T00:17:03Z",
      "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
      "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 24595,
-   "title": "Israel launches major West Bank operation after soldiers killed",
-   "category": "Geopolitics",
-   "importance": 6.77,
-   "risk": 6.67,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 25,
-   "countries": [
-    "USA",
-    "CAN",
-    "ISR",
-    "IND",
-    "MAR",
-    "IRL",
-    "AUS",
-    "TUR",
-    "CHN",
-    "PAK",
-    "SGP",
-    "EGY",
-    "QAT",
-    "FRA",
-    "SAU",
-    "IRN"
-   ],
-   "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T05:29:04Z",
-   "page": "event/24595.html",
-   "reports": [
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T11:01:29Z",
-     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:39:37Z",
-     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T15:06:27Z",
-     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
-     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T16:26:16Z",
-     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
-     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T18:35:15Z",
-     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
-     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T19:50:03Z",
-     "headline": "West Bank attack may boost Netanyahu's election chances",
-     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-23T20:22:10Z",
-     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T21:30:10Z",
-     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T21:38:54Z",
-     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T21:53:53Z",
-     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:19:41Z",
-     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T00:39:40Z",
-     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
-     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T02:11:25Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T05:31:00Z",
-     "headline": "Israel launches West Bank operation after attack days before election",
-     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:33:56Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-24T07:51:51Z",
-     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T09:14:40Z",
-     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T10:33:52Z",
-     "headline": "Netanyahu orders West Bank operation",
-     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:24:19Z",
-     "headline": "Full lockdown of occupied West Bank begins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israel to close all land crossings with West Bank on election day",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-24T14:31:04Z",
-     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:20:29Z",
-     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
-     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T22:09:44Z",
-     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
-     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T00:40:49Z",
-     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T01:17:13Z",
-     "headline": "Israel says closing all land crossings with West Bank on election day",
-     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:33:31Z",
-     "headline": "Israel presses ahead with West Bank army operation days before election",
-     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T03:21:35Z",
-     "headline": "IDF Announces General Closure for West Bank Palestinians on Election Day",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T05:00:08Z",
-     "headline": "Israel to close key access point on election day",
-     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:29:04Z",
-     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
-     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
     }
    ]
   },
@@ -10704,6 +10711,116 @@
    ]
   },
   {
+   "id": 28591,
+   "title": "Eleven shot near Florida A&M university in Tallahassee",
+   "category": "Health & Science",
+   "importance": 5.8,
+   "risk": 6.38,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 10,
+   "countries": [
+    "CHN",
+    "TUR",
+    "IRN",
+    "IND",
+    "CYP",
+    "ISR",
+    "SAU",
+    "ARE",
+    "GBR"
+   ],
+   "first_seen": "2026-10-25T03:19:51Z",
+   "last_seen": "2026-10-25T06:07:47Z",
+   "page": "event/28591.html",
+   "reports": [
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T03:19:51Z",
+     "headline": "Urgent: Police investigating shooting in Florida university",
+     "url": "https://english.news.cn/20261025/ed448aff17414a92bd45e6e713aa39c9/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T03:34:08Z",
+     "headline": "Shooting near Florida university stadium leaves victims, prompts safety alerts",
+     "url": "https://www.aa.com.tr/en/americas/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts/4099932"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:16:32Z",
+     "headline": "VIDEO: Shooting at Florida State University, dozens injured",
+     "url": "https://en.mehrnews.com/news/248884/VIDEO-Shooting-at-Florida-State-University-dozens-injured"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T05:19:19Z",
+     "headline": "6 children among 12 injured in shooting near Florida university stadium",
+     "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:28:10Z",
+     "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
+     "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354#publisher=newsstand"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T05:35:36Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://cyprus-mail.com/2026/10/25/eleven-shot-near-florida-am-university-in-tallahassee"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T05:39:59Z",
+     "headline": "At least 12 injured in late-night shooting near Florida A&M University stadium in Tallahassee",
+     "url": "https://www.jpost.com/international/article-912735"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/news/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/world/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T05:46:41Z",
+     "headline": "At least 12 injured in shooting near Florida university stadium",
+     "url": "https://english.news.cn/20261025/e201c807db2e415bacd802c7a9b405ba/c.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T05:49:43Z",
+     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
+     "url": "https://gulfnews.com/world/americas/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida-1.500722740"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:07:47Z",
+     "headline": "Eleven sustain gunshot wounds in shooting near Florida university",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -11278,6 +11395,130 @@
      "time": "2026-10-24T16:39:54Z",
      "headline": "Bayern coach to take weeks in recovery",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/25/2003866571"
+    }
+   ]
+  },
+  {
+   "id": 19946,
+   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+   "category": "Society & Law",
+   "importance": 5.78,
+   "risk": 0.0,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 12,
+   "countries": [
+    "GRC",
+    "NLD",
+    "SWE",
+    "PRT",
+    "BGR",
+    "ARE",
+    "CYP",
+    "ISR",
+    "UKR"
+   ],
+   "first_seen": "2026-10-22T07:54:23Z",
+   "last_seen": "2026-10-25T06:17:57Z",
+   "page": "event/19946.html",
+   "reports": [
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T07:54:23Z",
+     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T03:00:36Z",
+     "headline": "Daylight Saving Time Ends in Greece This Weekend",
+     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T04:18:41Z",
+     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
+     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-23T11:41:45Z",
+     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
+     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
+    },
+    {
+     "outlet": "The Local Sweden",
+     "country": "SWE",
+     "time": "2026-10-23T12:46:40Z",
+     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
+     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
+    },
+    {
+     "outlet": "The Portugal News",
+     "country": "PRT",
+     "time": "2026-10-23T13:03:00Z",
+     "headline": "Portugal has been switching to winter time for 30 years",
+     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T15:09:00Z",
+     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
+     "url": "https://www.novinite.com/view_news.php?id=241192"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:00:00Z",
+     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
+     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-24T05:20:04Z",
+     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
+     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T08:20:24Z",
+     "headline": "Clocks go back one hour on Sunday as winter time begins",
+     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:19:55Z",
+     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
+     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
+    },
+    {
+     "outlet": "DutchNews.nl",
+     "country": "NLD",
+     "time": "2026-10-24T13:38:05Z",
+     "headline": "More sleep on Sunday as clocks go back an hour",
+     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T03:25:00Z",
+     "headline": "Ukraine switches to standard time tonight",
+     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T06:17:57Z",
+     "headline": "Clocks turned back one hour at 3 a.m. overnight",
+     "url": "https://nltimes.nl/2026/10/25/clocks-turned-back-one-hour-3-overnight"
     }
    ]
   },
@@ -12308,123 +12549,6 @@
    ]
   },
   {
-   "id": 19946,
-   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-   "category": "Society & Law",
-   "importance": 5.72,
-   "risk": 0.0,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 12,
-   "countries": [
-    "GRC",
-    "NLD",
-    "SWE",
-    "PRT",
-    "BGR",
-    "ARE",
-    "CYP",
-    "ISR",
-    "UKR"
-   ],
-   "first_seen": "2026-10-22T07:54:23Z",
-   "last_seen": "2026-10-25T03:25:00Z",
-   "page": "event/19946.html",
-   "reports": [
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T07:54:23Z",
-     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T03:00:36Z",
-     "headline": "Daylight Saving Time Ends in Greece This Weekend",
-     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T04:18:41Z",
-     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
-     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-23T11:41:45Z",
-     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
-     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
-    },
-    {
-     "outlet": "The Local Sweden",
-     "country": "SWE",
-     "time": "2026-10-23T12:46:40Z",
-     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
-     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
-    },
-    {
-     "outlet": "The Portugal News",
-     "country": "PRT",
-     "time": "2026-10-23T13:03:00Z",
-     "headline": "Portugal has been switching to winter time for 30 years",
-     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T15:09:00Z",
-     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
-     "url": "https://www.novinite.com/view_news.php?id=241192"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:00:00Z",
-     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
-     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-24T05:20:04Z",
-     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
-     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T08:20:24Z",
-     "headline": "Clocks go back one hour on Sunday as winter time begins",
-     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:19:55Z",
-     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
-     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
-    },
-    {
-     "outlet": "DutchNews.nl",
-     "country": "NLD",
-     "time": "2026-10-24T13:38:05Z",
-     "headline": "More sleep on Sunday as clocks go back an hour",
-     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T03:25:00Z",
-     "headline": "Ukraine switches to standard time tonight",
-     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
-    }
-   ]
-  },
-  {
    "id": 6981,
    "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
    "category": "Business",
@@ -12883,148 +13007,6 @@
      "time": "2026-10-23T14:13:22Z",
      "headline": "Saudi Arabia postpones UN data, Saudi statistics forums until 2027 amid Houthi attacks",
      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-postpones-un-data-saudi-statistics-forums-until-2027-amid-houthi-attacks/4098691"
-    }
-   ]
-  },
-  {
-   "id": 20228,
-   "title": "New York City bans horse-drawn carriages from 2028",
-   "category": "Geopolitics",
-   "importance": 5.7,
-   "risk": 4.26,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "GBR",
-    "SAU",
-    "USA",
-    "CAN",
-    "SGP",
-    "FRA",
-    "AUS",
-    "KOR",
-    "ARE",
-    "GRC",
-    "IRL",
-    "TUR",
-    "JPN"
-   ],
-   "first_seen": "2026-10-22T09:06:48Z",
-   "last_seen": "2026-10-24T03:30:09Z",
-   "page": "event/20228.html",
-   "reports": [
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:06:48Z",
-     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:41:03Z",
-     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
-     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:08:12Z",
-     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T19:39:32Z",
-     "headline": "Trump laments NY horse drawn carriage ban",
-     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
-    },
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-22T20:46:05Z",
-     "headline": "A final farewell to NYC’s horse carriage industry",
-     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T20:48:56Z",
-     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T21:55:13Z",
-     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
-     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T23:34:00Z",
-     "headline": "New York City bans horse-drawn carriages from June 2028",
-     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T00:18:53Z",
-     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
-     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T02:20:12Z",
-     "headline": "New York City bans horse-drawn carriages from 2028",
-     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
-     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:37:24Z",
-     "headline": "New York votes to ban horse carriages",
-     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T09:00:51Z",
-     "headline": "NYC Votes to Ban Carriage Horses",
-     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
-    },
-    {
-     "outlet": "The Irish Times",
-     "country": "IRL",
-     "time": "2026-10-23T11:03:13Z",
-     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
-     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:16:14Z",
-     "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
-     "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T03:30:09Z",
-     "headline": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/024000c"
     }
    ]
   }
