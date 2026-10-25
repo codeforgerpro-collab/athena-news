@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:13:28Z",
+ "generated": "2026-10-25T19:34:29Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9,10 +9,10 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 7.56,
-   "risk": 3.34,
-   "confidence": 0.9,
+   "risk": 3.29,
+   "confidence": 0.89,
    "status": "peaking",
-   "outlets": 26,
+   "outlets": 27,
    "countries": [
     "USA",
     "BEL",
@@ -31,10 +31,11 @@
     "THA",
     "UKR",
     "GRC",
-    "IRL"
+    "IRL",
+    "BRA"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-25T16:02:30Z",
+   "last_seen": "2026-10-25T19:19:27Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -300,8 +301,22 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T16:02:30Z",
-     "headline": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+     "headline": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T19:10:39Z",
+     "headline": "Serbia’s Vučić Says He Would Accept Defeat",
+     "url": "https://www.riotimesonline.com/serbia-vucic-would-accept-defeat-first-estimate-tonight/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T19:16:52Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic’s long grip on power",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-in-historic-election-as-students-seek-to-end-vucics-long-grip-on-power"
     }
    ]
   },
@@ -1876,6 +1891,236 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.18,
+   "risk": 1.86,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 26,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-25T19:28:40Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    }
+   ]
+  },
+  {
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
@@ -2839,227 +3084,6 @@
      "time": "2026-10-16T17:08:27Z",
      "headline": "Masked settlers target Washington Post journalist in latest attack in occupied West Bank",
      "url": "https://www.independent.co.uk/news/world/middle-east/israel-settler-west-bank-washington-post-b3068246.html"
-    }
-   ]
-  },
-  {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.03,
-   "risk": 1.73,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 24,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR",
-    "AUS"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-25T18:55:39Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
     }
    ]
   },
@@ -6804,6 +6828,154 @@
    ]
   },
   {
+   "id": 27784,
+   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.4,
+   "risk": 4.62,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 17,
+   "countries": [
+    "NPL",
+    "USA",
+    "ARE",
+    "PAK",
+    "OMN",
+    "CYP",
+    "QAT",
+    "SGP",
+    "IRL",
+    "GBR",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-24T15:28:17Z",
+   "last_seen": "2026-10-25T19:25:51Z",
+   "page": "event/27784.html",
+   "reports": [
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-24T15:28:17Z",
+     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
+     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T03:45:20Z",
+     "headline": "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T11:01:09Z",
+     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
+     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T12:14:44Z",
+     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T12:19:03Z",
+     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:25:37Z",
+     "headline": "Saudi says Riyadh airport reopens despite threats",
+     "url": "https://www.omanobserver.om/article/1198545/world/region/saudi-says-riyadh-airport-reopens-despite-threats"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T12:44:47Z",
+     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-25T12:49:33Z",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T13:36:55Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:49:33Z",
+     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
+     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T15:35:00Z",
+     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T15:58:15Z",
+     "headline": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia",
+     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T18:54:12Z",
+     "headline": "Riyadh airport reopens despite renewed Houthi threats",
+     "url": "https://www.rte.ie/news/middle-east/2026/1025/1596819-riyadh-airport-reopens/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:19:37Z",
+     "headline": "Saudi Arabia reopens Riyadh airport after Houthi attacks but flights remain limited",
+     "url": "https://www.independent.co.uk/news/world/middle-east/saudi-arabia-riyadh-airport-houthis-king-khalid-b3073057.html"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-25T19:25:51Z",
+     "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-25-saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats/"
+    }
+   ]
+  },
+  {
    "id": 23956,
    "title": "France: 1 killed, 4 wounded after shooting near Paris",
    "category": "Society & Law",
@@ -8365,6 +8537,322 @@
    ]
   },
   {
+   "id": 16998,
+   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.11,
+   "risk": 3.72,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 27,
+   "countries": [
+    "OMN",
+    "ARE",
+    "JPN",
+    "USA",
+    "TUR",
+    "SAU",
+    "KWT",
+    "SGP",
+    "RUS",
+    "MAR",
+    "IND",
+    "BGD",
+    "CHN",
+    "THA",
+    "AUS",
+    "AZE",
+    "NGA",
+    "IRQ"
+   ],
+   "first_seen": "2026-10-20T02:51:41Z",
+   "last_seen": "2026-10-25T19:21:01Z",
+   "page": "event/16998.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T02:51:41Z",
+     "headline": "Riyadh Airport reopens, but with limited capacity",
+     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-20T13:16:27Z",
+     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
+     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-21T23:54:54Z",
+     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
+     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "Simple Flying",
+     "country": "USA",
+     "time": "2026-10-23T15:00:20Z",
+     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
+     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T20:27:30Z",
+     "headline": "Riyadh airport splits domestic and international flights between two terminals",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T20:30:29Z",
+     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
+     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:08:45Z",
+     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
+     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T21:14:13Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T21:22:00Z",
+     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
+     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:50:06Z",
+     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T22:25:00Z",
+     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
+     "url": "https://tass.com/world/2207361"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-24T22:51:01Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T23:05:18Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T00:00:23Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
+     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T02:21:39Z",
+     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T02:59:25Z",
+     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T03:30:34Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T04:03:15Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T04:10:58Z",
+     "headline": "Houthis renew warning against using King Khalid airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T05:23:12Z",
+     "headline": "Riyadh Airport Partially Resumes Operations",
+     "url": "https://english.aawsat.com/node/5333303"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:44:26Z",
+     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
+     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T05:56:33Z",
+     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
+     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T06:48:00Z",
+     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T07:12:51Z",
+     "headline": "Riyadh airport announces partial reopening",
+     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T09:27:31Z",
+     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
+     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "Houthis claim strikes on a major Saudi Arabian airport hours after flights resumed",
+     "url": "https://www.sbs.com.au/news/article/houthis-claim-strikes-on-a-major-saudi-arabian-airport-hours-after-flights-resumed/5pe6uf0qw"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:07:34Z",
+     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-25T14:35:41Z",
+     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
+     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Houthis say attacked Riyadh airport hours after flights resume",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T16:32:35Z",
+     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
+     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T18:20:00Z",
+     "headline": "Houthis reported strikes on Riyadh airport and military bases",
+     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T18:40:56Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-25T18:42:42Z",
+     "headline": "Houthis say they attacked Riyadh Airport and military bases",
+     "url": "https://tass.com/world/2207607"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T19:19:00Z",
+     "headline": "Houthis Claim New Strike on Riyadh Airport After Flights Resume",
+     "url": "https://www.kurdistan24.net/en/story/948539/houthis-claim-new-strike-on-riyadh-airport-after-flights-resume"
+    }
+   ]
+  },
+  {
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
@@ -9898,138 +10386,6 @@
    ]
   },
   {
-   "id": 27784,
-   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.96,
-   "risk": 4.64,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 15,
-   "countries": [
-    "NPL",
-    "USA",
-    "ARE",
-    "PAK",
-    "OMN",
-    "CYP",
-    "QAT",
-    "SGP",
-    "IRL"
-   ],
-   "first_seen": "2026-10-24T15:28:17Z",
-   "last_seen": "2026-10-25T18:54:12Z",
-   "page": "event/27784.html",
-   "reports": [
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-24T15:28:17Z",
-     "headline": "Houthi attacks raise safety fears among Nepali workers in Saudi Arabia",
-     "url": "https://kathmandupost.com/nepali-diaspora/2026/10/24/houthi-attacks-raise-safety-fears-among-nepali-workers-in-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T03:45:20Z",
-     "headline": "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/25/live-riyadh-saudi-houthi-missile/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T11:01:09Z",
-     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
-     "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T12:14:44Z",
-     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T12:19:03Z",
-     "headline": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:25:37Z",
-     "headline": "Saudi says Riyadh airport reopens despite threats",
-     "url": "https://www.omanobserver.om/article/1198545/world/region/saudi-says-riyadh-airport-reopens-despite-threats"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T12:44:47Z",
-     "headline": "Houthis fire missiles at Saudi Arabia as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/houthis-fire-missiles-saudi-arabia-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-25T12:49:33Z",
-     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T13:36:55Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
-     "url": "https://cyprus-mail.com/2026/10/25/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:49:33Z",
-     "headline": "Saudi air defences intercept Houthi barrage near Mecca",
-     "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T15:35:00Z",
-     "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats but little traffic",
-     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T15:58:15Z",
-     "headline": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia",
-     "url": "https://gulfnews.com/uae/uae-residents-update-trump-hints-at-iran-strikes-injuries-reported-in-houthi-attack-on-saudi-arabia-1.500723238"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T18:54:12Z",
-     "headline": "Riyadh airport reopens despite renewed Houthi threats",
-     "url": "https://www.rte.ie/news/middle-east/2026/1025/1596819-riyadh-airport-reopens/"
-    }
-   ]
-  },
-  {
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
@@ -10668,300 +11024,6 @@
      "time": "2026-10-24T21:55:00Z",
      "headline": "Trump admits to discussing situation in Ukraine with Elon Musk",
      "url": "https://tass.com/world/2207357"
-    }
-   ]
-  },
-  {
-   "id": 16998,
-   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.86,
-   "risk": 3.66,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 26,
-   "countries": [
-    "OMN",
-    "ARE",
-    "JPN",
-    "USA",
-    "TUR",
-    "SAU",
-    "KWT",
-    "SGP",
-    "RUS",
-    "MAR",
-    "IND",
-    "BGD",
-    "CHN",
-    "THA",
-    "AUS",
-    "AZE",
-    "NGA"
-   ],
-   "first_seen": "2026-10-20T02:51:41Z",
-   "last_seen": "2026-10-25T18:42:42Z",
-   "page": "event/16998.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T02:51:41Z",
-     "headline": "Riyadh Airport reopens, but with limited capacity",
-     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-20T13:16:27Z",
-     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
-     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-21T23:54:54Z",
-     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
-     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "Simple Flying",
-     "country": "USA",
-     "time": "2026-10-23T15:00:20Z",
-     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
-     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T20:27:30Z",
-     "headline": "Riyadh airport splits domestic and international flights between two terminals",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T20:30:29Z",
-     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:08:45Z",
-     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
-     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T21:14:13Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T21:22:00Z",
-     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
-     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:06Z",
-     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T22:25:00Z",
-     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
-     "url": "https://tass.com/world/2207361"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-24T22:51:01Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T23:05:18Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:00:23Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
-     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T02:21:39Z",
-     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T02:59:25Z",
-     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T03:30:34Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T04:03:15Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T04:10:58Z",
-     "headline": "Houthis renew warning against using King Khalid airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T05:23:12Z",
-     "headline": "Riyadh Airport Partially Resumes Operations",
-     "url": "https://english.aawsat.com/node/5333303"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:44:26Z",
-     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
-     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T05:56:33Z",
-     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
-     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T06:48:00Z",
-     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T07:12:51Z",
-     "headline": "Riyadh airport announces partial reopening",
-     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T09:27:31Z",
-     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
-     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:07:34Z",
-     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-25T14:35:41Z",
-     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T16:32:35Z",
-     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
-     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T18:20:00Z",
-     "headline": "Houthis reported strikes on Riyadh airport and military bases",
-     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T18:40:56Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-25T18:42:42Z",
-     "headline": "Houthis say they attacked Riyadh Airport and military bases",
-     "url": "https://tass.com/world/2207607"
     }
    ]
   },
@@ -11774,15 +11836,171 @@
    ]
   },
   {
+   "id": 17297,
+   "title": "4 pilots killed as two Philippine military planes crash during training",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 5.77,
+   "risk": 7.2,
+   "confidence": 0.85,
+   "status": "fading",
+   "outlets": 15,
+   "countries": [
+    "AUS",
+    "SAU",
+    "CHN",
+    "AZE",
+    "NGA",
+    "IND",
+    "SGP",
+    "TUR",
+    "NZL",
+    "KWT",
+    "ARE",
+    "PAK"
+   ],
+   "first_seen": "2026-10-19T13:00:00Z",
+   "last_seen": "2026-10-24T21:25:41Z",
+   "page": "event/17297.html",
+   "reports": [
+    {
+     "outlet": "Lowy Institute — The Interpreter",
+     "country": "AUS",
+     "time": "2026-10-19T13:00:00Z",
+     "headline": "Words as weapons in the West Philippine Sea",
+     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-21T20:50:40Z",
+     "headline": "Philippines probes illegal recruitment of nationals in Russia",
+     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:47:15Z",
+     "headline": "1 killed, 2 injured in southern Philippines",
+     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T06:55:50Z",
+     "headline": "4 pilots killed in Philippine plane crash",
+     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T07:21:00Z",
+     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
+     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-24T07:31:49Z",
+     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
+     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T07:40:36Z",
+     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
+     "url": "https://english.aawsat.com/node/5333023"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-24T07:45:23Z",
+     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
+     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T07:51:14Z",
+     "headline": "4 pilots killed in north Philippine plane crash",
+     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T07:59:41Z",
+     "headline": "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
+     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T08:06:51Z",
+     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
+     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:37:30Z",
+     "headline": "4 Philippine Air Force pilots killed as training aircraft crash",
+     "url": "https://www.aa.com.tr/en/asia-pacific/4-philippine-air-force-pilots-killed-as-training-aircraft-crash/4099304"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T08:41:53Z",
+     "headline": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
+     "url": "https://www.stuff.co.nz/world-news/361050750/2-philippine-air-force-planes-collide-during-training-flig"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T08:50:01Z",
+     "headline": "Four pilots die in Philippines air force mid-air collision",
+     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T08:53:00Z",
+     "headline": "Four Philippine Air Force Pilots Killed in Training Aircraft Crash",
+     "url": "https://www.arabtimesonline.com/news/four-philippine-air-force-pilots-killed-in-training-aircraft-crash/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T09:38:13Z",
+     "headline": "4 pilots killed as two Philippine military planes crash during training",
+     "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "Mid-air collision of Philippines military planes kills four pilots",
+     "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
+    }
+   ]
+  },
+  {
    "id": 25322,
    "title": "Bayern Munich coach Kompany in hospital after collapsing",
    "category": "Health & Science",
    "cat": 7,
-   "importance": 5.78,
-   "risk": 1.44,
+   "importance": 5.77,
+   "risk": 1.39,
    "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 22,
+   "status": "peaking",
+   "outlets": 23,
    "countries": [
     "GHA",
     "SGP",
@@ -11799,10 +12017,11 @@
     "JAM",
     "AUS",
     "PAK",
-    "TWN"
+    "TWN",
+    "NAM"
    ],
    "first_seen": "2026-10-23T15:53:22Z",
-   "last_seen": "2026-10-24T16:39:54Z",
+   "last_seen": "2026-10-25T19:29:12Z",
    "page": "event/25322.html",
    "reports": [
     {
@@ -12007,162 +12226,20 @@
      "time": "2026-10-24T16:39:54Z",
      "headline": "Bayern coach to take weeks in recovery",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/25/2003866571"
-    }
-   ]
-  },
-  {
-   "id": 17297,
-   "title": "4 pilots killed as two Philippine military planes crash during training",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.77,
-   "risk": 7.2,
-   "confidence": 0.85,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "AUS",
-    "SAU",
-    "CHN",
-    "AZE",
-    "NGA",
-    "IND",
-    "SGP",
-    "TUR",
-    "NZL",
-    "KWT",
-    "ARE",
-    "PAK"
-   ],
-   "first_seen": "2026-10-19T13:00:00Z",
-   "last_seen": "2026-10-24T21:25:41Z",
-   "page": "event/17297.html",
-   "reports": [
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-19T13:00:00Z",
-     "headline": "Words as weapons in the West Philippine Sea",
-     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
     },
     {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T20:50:40Z",
-     "headline": "Philippines probes illegal recruitment of nationals in Russia",
-     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:47:15Z",
-     "headline": "1 killed, 2 injured in southern Philippines",
-     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T06:55:50Z",
-     "headline": "4 pilots killed in Philippine plane crash",
-     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
-    },
-    {
-     "outlet": "Channels TV",
+     "outlet": "Vanguard",
      "country": "NGA",
-     "time": "2026-10-24T07:31:49Z",
-     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
-     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
+     "time": "2026-10-25T19:16:26Z",
+     "headline": "Bayern beat Freiburg to reclaim top spot as Kompany remains hospitalised",
+     "url": "https://www.vanguardngr.com/2026/10/bayern-beat-freiburg-to-reclaim-top-spot-as-kompany-remains-hospitalised/"
     },
     {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T07:40:36Z",
-     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
-     "url": "https://english.aawsat.com/node/5333023"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-24T07:45:23Z",
-     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
-     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T07:51:14Z",
-     "headline": "4 pilots killed in north Philippine plane crash",
-     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T07:59:41Z",
-     "headline": "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
-     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T08:06:51Z",
-     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
-     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:37:30Z",
-     "headline": "4 Philippine Air Force pilots killed as training aircraft crash",
-     "url": "https://www.aa.com.tr/en/asia-pacific/4-philippine-air-force-pilots-killed-as-training-aircraft-crash/4099304"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T08:41:53Z",
-     "headline": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
-     "url": "https://www.stuff.co.nz/world-news/361050750/2-philippine-air-force-planes-collide-during-training-flig"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T08:50:01Z",
-     "headline": "Four pilots die in Philippines air force mid-air collision",
-     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T08:53:00Z",
-     "headline": "Four Philippine Air Force Pilots Killed in Training Aircraft Crash",
-     "url": "https://www.arabtimesonline.com/news/four-philippine-air-force-pilots-killed-in-training-aircraft-crash/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T09:38:13Z",
-     "headline": "4 pilots killed as two Philippine military planes crash during training",
-     "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:41Z",
-     "headline": "Mid-air collision of Philippines military planes kills four pilots",
-     "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T19:29:12Z",
+     "headline": "Bayern beat Freiburg to reclaim top spot after Kompany illness",
+     "url": "https://www.namibian.com.na/bayern-beat-freiburg-to-reclaim-top-spot-after-kompany-illness/"
     }
    ]
   },
