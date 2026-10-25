@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T13:08:53Z",
+ "generated": "2026-10-25T13:24:54Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -3921,13 +3921,13 @@
   },
   {
    "id": 24595,
-   "title": "Israel launches major West Bank operation after soldiers killed",
+   "title": "Israel to close all West Bank land crossings on election day",
    "category": "Geopolitics",
-   "importance": 7.01,
-   "risk": 6.74,
+   "importance": 7.0,
+   "risk": 6.71,
    "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 29,
+   "status": "spreading",
+   "outlets": 30,
    "countries": [
     "USA",
     "CAN",
@@ -3946,10 +3946,11 @@
     "SAU",
     "GBR",
     "IRN",
-    "NZL"
+    "NZL",
+    "DEU"
    ],
    "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T12:31:01Z",
+   "last_seen": "2026-10-25T13:09:00Z",
    "page": "event/24595.html",
    "reports": [
     {
@@ -4224,6 +4225,13 @@
      "time": "2026-10-25T12:31:01Z",
      "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
      "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T13:09:00Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
@@ -6174,7 +6182,7 @@
      "outlet": "NBC News (World)",
      "country": "USA",
      "time": "2026-10-25T10:52:01Z",
-     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole’",
+     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole’, Kyiv denies breaching terms",
      "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
     }
    ]
@@ -6717,7 +6725,7 @@
    "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
    "category": "Geopolitics",
    "importance": 6.46,
-   "risk": 1.6,
+   "risk": 1.64,
    "confidence": 0.92,
    "status": "spreading",
    "outlets": 18,
@@ -6738,7 +6746,7 @@
     "IRL"
    ],
    "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-25T12:48:31Z",
+   "last_seen": "2026-10-25T13:10:36Z",
    "page": "event/13172.html",
    "reports": [
     {
@@ -6971,6 +6979,13 @@
      "time": "2026-10-25T12:48:31Z",
      "headline": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
      "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T13:10:36Z",
+     "headline": "What are Brazilian voters' main concerns?",
+     "url": "https://www.straitstimes.com/world/what-are-brazilian-voters-main-concerns"
     }
    ]
   },
@@ -13010,7 +13025,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-25T01:20:52Z",
-     "headline": "Nearly 1,000 people arrested during protests in France",
+     "headline": "Over 1,300 people arrested during protests in France",
      "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/"
     },
     {
@@ -13054,6 +13069,271 @@
      "time": "2026-10-25T10:34:00Z",
      "headline": "Fresh Clashes Rock France as Protesters March On",
      "url": "https://www.kyivpost.com/post/88102"
+    }
+   ]
+  },
+  {
+   "id": 16196,
+   "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
+   "category": "Geopolitics",
+   "importance": 5.7,
+   "risk": 4.51,
+   "confidence": 0.94,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "USA",
+    "RUS",
+    "SGP",
+    "CAN",
+    "UKR",
+    "CHN",
+    "EGY",
+    "FRA",
+    "AZE",
+    "TUR"
+   ],
+   "first_seen": "2026-10-21T07:43:43Z",
+   "last_seen": "2026-10-25T13:07:00Z",
+   "page": "event/16196.html",
+   "reports": [
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-21T07:43:43Z",
+     "headline": "After Witkoff Meeting, Putin 'Ready To Resume' US-Led Peace Talks With Ukraine",
+     "url": "https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T13:56:19Z",
+     "headline": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
+     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T13:58:51Z",
+     "headline": "Putin and Witkoff discuss resumption of trilateral talks on Ukraine — Kremlin aide",
+     "url": "https://tass.com/politics/2205599"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:05:00Z",
+     "headline": "Putin says Russia ready to resume trilateral talks in November — aide",
+     "url": "https://tass.com/politics/2205585"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T14:06:28Z",
+     "headline": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
+     "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:25:23Z",
+     "headline": "New approaches by EU, Ukraine of little use for settlement — Kremlin aide",
+     "url": "https://tass.com/politics/2205653"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:36:05Z",
+     "headline": "Kremlin says it’s ready to resume trilateral talks but sees little ‘useful’ in new proposals from Ukraine and the EU",
+     "url": "https://meduza.io/en/news/2026/10/21/kremlin-says-it-s-ready-to-resume-trilateral-talks-but-sees-little-useful-in-new-proposals-from-ukraine-and-the-eu"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:49:38Z",
+     "headline": "New round of trilateral talks on Ukraine could take place in Abu Dhabi — Kremlin aide",
+     "url": "https://tass.com/politics/2205685"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:58:21Z",
+     "headline": "Putin yet to decide on Russian delegation to new trilateral Ukraine talks",
+     "url": "https://tass.com/politics/2205691"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:05:57Z",
+     "headline": "Everyone interested in meeting between Russia, China and US, Kremlin aide says",
+     "url": "https://tass.com/politics/2205699"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:35:20Z",
+     "headline": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
+     "url": "https://tass.com/politics/2205735"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:40:53Z",
+     "headline": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
+     "url": "https://tass.com/politics/2205747"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T15:42:32Z",
+     "headline": "Putin to resume three-way talks with Ukraine, Washington: Kremlin",
+     "url": "https://globalnews.ca/news/12111003/putin-to-resume-ukraine-washington-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T16:14:00Z",
+     "headline": "Putin ‘Ready’ for Three-Way Ukraine Talks in November, Kremlin Says",
+     "url": "https://www.kyivpost.com/post/87775"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-21T17:20:10Z",
+     "headline": "Moscow tells Witkoff it is ready to resume trilateral talks in first ten days of Nov",
+     "url": "https://en.interfax.com.ua/news/general/1224138.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T17:41:08Z",
+     "headline": "Ukraine Counts on Beijing’s ‘Constructive Role’ as Sybiha Meets Chinese Ambassador",
+     "url": "https://www.kyivpost.com/post/87782"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Russia ready to resume trilateral talks with US, Ukraine in mid-November",
+     "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad8f19be4b06d4aa05640d2.html"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-22T13:38:18Z",
+     "headline": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
+     "url": "https://www.egyptindependent.com/massive-strikes-hit-kyiv-hours-after-putin-agrees-to-fresh-peace-talks/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T13:39:13Z",
+     "headline": "Kremlin spokesman weighs in on upcoming trilateral talks with Ukraine",
+     "url": "https://tass.com/politics/2206323"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T15:50:09Z",
+     "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+     "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T16:43:59Z",
+     "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T18:57:19Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://tass.com/politics/2206531"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-22T18:58:00Z",
+     "headline": "Putin: Russia has told US it is ready to resume trilateral talks",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059305/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T19:16:00Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://en.apa.az/cis-countries/russia-ready-to-resume-trilateral-talks-on-ukraine-putin-531713"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T22:41:21Z",
+     "headline": "Talks with US,Ukraine to focus on security guarantees — Putin",
+     "url": "https://tass.com/politics/2206565"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T22:56:45Z",
+     "headline": "Putin reaffirms Russia’s readiness to resume trilateral peace talks on Ukraine war",
+     "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-reaffirms-russia-s-readiness-to-resume-trilateral-peace-talks-on-ukraine-war/4097897"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-23T04:59:52Z",
+     "headline": "Putin says talks must focus on security for Russia, Ukraine and Europe",
+     "url": "https://news.cgtn.com/news/2026-10-23/Putin-says-talks-must-focus-on-security-for-Russia-Ukraine-and-Europe-1Rtigdo2s00/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T08:00:49Z",
+     "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
+     "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T17:23:06Z",
+     "headline": "Flash: Ukraine ready for trilateral meeting with U.S., Russia: Zelensky",
+     "url": "https://english.news.cn/20261024/b20146e6b11f408785605554ff5b2c62/c.html"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T18:39:00Z",
+     "headline": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177634-zelensky-ukraine-ready-for-negotiations-at-any-time-russia-determines-whether-they-take-place.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T19:45:30Z",
+     "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
+     "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-25T11:47:00Z",
+     "headline": "Russia ready to hold preliminary talks with Ukraine after 4 November",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/25/8059626/"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-25T13:05:29Z",
+     "headline": "Moscow ready to resume trilateral talks with Ukraine, US after Nov. 4, Kremlin aide says",
+     "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T13:07:00Z",
+     "headline": "Russia Open to US-Ukraine Trilateral Talks After Nov. 4",
+     "url": "https://www.kyivpost.com/post/88122"
     }
    ]
   },
@@ -13435,323 +13715,6 @@
      "time": "2026-10-25T12:31:31Z",
      "headline": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
      "url": "https://indianexpress.com/article/explained/explained-global/starlink-starshield-ukraine-drone-war-speed-restrictions-10936301/"
-    }
-   ]
-  },
-  {
-   "id": 19970,
-   "title": "France reports first human Shamonda virus case",
-   "category": "Health & Science",
-   "importance": 5.65,
-   "risk": 5.45,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 34,
-   "countries": [
-    "OMN",
-    "SGP",
-    "GBR",
-    "IND",
-    "IRL",
-    "AZE",
-    "SWE",
-    "TUR",
-    "ISR",
-    "BEL",
-    "FRA",
-    "CHN",
-    "NGA",
-    "PAK",
-    "QAT",
-    "ARE",
-    "USA",
-    "DEU",
-    "MAR",
-    "CAN"
-   ],
-   "first_seen": "2026-10-22T04:48:26Z",
-   "last_seen": "2026-10-24T11:59:28Z",
-   "page": "event/19970.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T04:48:26Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.omanobserver.om/article/1198225/scitech/science/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T08:36:24Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.straitstimes.com/world/europe/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:00Z",
-     "headline": "France reports first Shamonda virus case in human who later died",
-     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T08:41:45Z",
-     "headline": "Deadly Shamonda virus detected in human for first time in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-detected-symptoms-b3071284.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T08:46:33Z",
-     "headline": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
-     "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T09:04:32Z",
-     "headline": "France reports first death of human from Shamonda virus",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596411-shamonda-virus/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T09:13:00Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://en.apa.az/europe/france-reports-first-human-shamonda-virus-case-531619"
-    },
-    {
-     "outlet": "ECDC news",
-     "country": "SWE",
-     "time": "2026-10-22T09:13:22Z",
-     "headline": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
-     "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:36:59Z",
-     "headline": "France reports 1st human case of Shamonda virus after patient’s death",
-     "url": "https://www.aa.com.tr/en/europe/france-reports-1st-human-case-of-shamonda-virus-after-patient-s-death/4096943"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T09:38:19Z",
-     "headline": "French patient dies after Shamonda virus detected in human for first time",
-     "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-912535"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:44:12Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.channelnewsasia.com/world/france-reports-first-human-shamonda-virus-case-6482136"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-22T10:01:36Z",
-     "headline": "Europe on alert as France reports first human Shamonda virus case",
-     "url": "https://www.rapporteur.com/news/europe-on-alert-as-france-reports-first-human-shamonda-virus-case/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T10:06:31Z",
-     "headline": "Shamonda virus detected in human for first time in France; patient dies",
-     "url": "https://timesofindia.indiatimes.com/science/shamonda-virus-detected-in-human-for-first-time-in-france-patient-dies/articleshow/135115138.cms"
-    },
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-22T10:10:10Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.thelocal.fr/20261022/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:17:21Z",
-     "headline": "What is Shamonda virus? Symptoms and origin after first human case confirmed in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-symptoms-human-case-b3071325.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T10:52:17Z",
-     "headline": "France reports world's first documented case of human infection with Shamonda virus",
-     "url": "https://english.news.cn/20261022/37386b7727eb4381accce646b6b4b5e8/c.html"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T10:59:03Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.vanguardngr.com/2026/10/france-reports-first-human-shamonda-virus-case-says-no-health-risk/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T11:04:14Z",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:13:52Z",
-     "headline": "14 EU Countries Affected As France Reports First Case Of Human Shamonda Virus",
-     "url": "https://www.channelstv.com/2026/10/22/14-eu-countries-affected-as-france-reports-first-case-of-human-shamonda-virus/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:15:08Z",
-     "headline": "Human Shamonda Virus: Reported Case Has No Health Risk, Says France",
-     "url": "https://www.channelstv.com/2026/10/22/human-shamonda-virus-reported-case-has-no-health-risk-says-france/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:20:08Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://punchng.com/france-reports-first-human-shamonda-virus-case/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:24:15Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://tribune.com.pk/story/2636360/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T11:28:05Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T11:43:04Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://gulfnews.com/world/europe/france-reports-first-human-shamonda-virus-case-says-no-health-risk-3-1.500719806"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T11:45:00Z",
-     "headline": "France records first human case of Shamonda virus as patient dies",
-     "url": "https://en.protothema.gr/2026/10/22/france-records-first-human-case-of-shamonda-virus-as-patient-dies/"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-22T12:00:00Z",
-     "headline": "First human case of Shamonda virus reported in France as patient dies",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168652"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T12:22:56Z",
-     "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
-     "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T12:46:00Z",
-     "headline": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
-     "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-22T13:13:55Z",
-     "headline": "France reports first ever human Shamonda virus case in patient who died",
-     "url": "https://en.hespress.com/147788-france-reports-first-ever-human-shamonda-virus-case-in-patient-who-died.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T13:14:26Z",
-     "headline": "First known human case of Shamonda virus confirmed in France",
-     "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T13:28:00Z",
-     "headline": "First human case of livestock virus Shamonda unlikely to lead to wider spread, WHO says",
-     "url": "https://en.apa.az/america/first-human-case-of-livestock-virus-shamonda-unlikely-to-lead-to-wider-spread-who-says-531670"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T14:26:05Z",
-     "headline": "France reports first human case of livestock virus Shamonda in patient who later died",
-     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T14:41:38Z",
-     "headline": "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
-     "url": "https://www.straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T14:59:25Z",
-     "headline": "1st human case of livestock virus Shamonda reported in France",
-     "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T15:07:01Z",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T15:14:40Z",
-     "headline": "Shamonda virus: First human case reported in France; patient dies",
-     "url": "https://indianexpress.com/article/world/first-human-case-shamonda-virus-france-lyon-death-10932667/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:30:54Z",
-     "headline": "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
-     "url": "https://www.aa.com.tr/en/europe/who-investigates-transmission-public-health-risks-of-1st-human-case-of-shamonda-virus-in-france/4097666"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T17:52:59Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T02:08:07Z",
-     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
-     "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T08:35:15Z",
-     "headline": "First human case of Shamonda virus: What is it, what are the risks",
-     "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
     }
    ]
   }
