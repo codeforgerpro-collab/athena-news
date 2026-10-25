@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T18:21:29Z",
+ "generated": "2026-10-25T18:38:07Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -4061,6 +4061,212 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.95,
+   "risk": 1.73,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 23,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-25T18:30:37Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -4711,6 +4917,242 @@
    ]
   },
   {
+   "id": 23924,
+   "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+   "category": "Technology & Cyber",
+   "cat": 5,
+   "importance": 6.79,
+   "risk": 5.96,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 25,
+   "countries": [
+    "IND",
+    "ISR",
+    "UKR",
+    "RUS",
+    "SGP",
+    "GBR",
+    "KOR",
+    "USA",
+    "TUR",
+    "SAU",
+    "NGA",
+    "AFG",
+    "TWN",
+    "NZL",
+    "CAN"
+   ],
+   "first_seen": "2026-10-23T09:37:24Z",
+   "last_seen": "2026-10-25T18:25:58Z",
+   "page": "event/23924.html",
+   "reports": [
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T09:37:24Z",
+     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
+     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T04:18:16Z",
+     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
+     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T05:50:42Z",
+     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
+     "url": "https://www.jpost.com/international/article-912682"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T19:35:00Z",
+     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T19:35:32Z",
+     "headline": "Kiev violated Starlink terms of service, Musk says",
+     "url": "https://tass.com/world/2207339"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:00Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T21:27:03Z",
+     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
+     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T23:02:03Z",
+     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T00:44:31Z",
+     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
+     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T00:57:45Z",
+     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T01:52:13Z",
+     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
+     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T04:18:52Z",
+     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
+     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T05:23:00Z",
+     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
+     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:45:31Z",
+     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T06:31:00Z",
+     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
+     "url": "https://www.kyivpost.com/post/88082"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:55:29Z",
+     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
+     "url": "https://english.aawsat.com/node/5333337"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T08:15:24Z",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T08:25:54Z",
+     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
+     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T09:22:18Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
+     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T10:02:00Z",
+     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
+     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T10:09:20Z",
+     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
+     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T10:52:01Z",
+     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
+     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T14:55:09Z",
+     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T15:35:22Z",
+     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:07Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866614"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T16:49:36Z",
+     "headline": "Ukraine hits back at Musk's ‘strange’ claim over Starlink use",
+     "url": "https://www.stuff.co.nz/world-news/361051022/ukraine-disputes-elon-musks-claim-its-military-violated"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+     "url": "https://abcnews.com/International/wireStory/ukraine-disputes-elon-musks-claim-military-violated-starlinks-137552738"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-25T18:18:49Z",
+     "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
+     "url": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
+    }
+   ]
+  },
+  {
    "id": 8134,
    "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
    "category": "Trade & Industry",
@@ -5125,190 +5567,6 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.63,
-   "risk": 1.72,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 20,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-25T17:47:02Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    }
-   ]
-  },
-  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -5440,227 +5698,6 @@
      "time": "2026-10-24T02:38:21Z",
      "headline": "Airbnb bans checkout chores: Hosts can't force guests to strip beds or do dishes",
      "url": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-announces-a-new-ban-that-goes-into-effect-starting-november-20-tells-hosts-across-the-world-that-you-cannot-make-guests-complete-/articleshow/135160238.cms"
-    }
-   ]
-  },
-  {
-   "id": 23924,
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 6.57,
-   "risk": 6.05,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 23,
-   "countries": [
-    "IND",
-    "ISR",
-    "UKR",
-    "RUS",
-    "SGP",
-    "GBR",
-    "KOR",
-    "USA",
-    "TUR",
-    "SAU",
-    "NGA",
-    "AFG",
-    "TWN",
-    "NZL"
-   ],
-   "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-25T16:54:12Z",
-   "page": "event/23924.html",
-   "reports": [
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T09:37:24Z",
-     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
-     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T04:18:16Z",
-     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
-     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T05:50:42Z",
-     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
-     "url": "https://www.jpost.com/international/article-912682"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T19:35:00Z",
-     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T19:35:32Z",
-     "headline": "Kiev violated Starlink terms of service, Musk says",
-     "url": "https://tass.com/world/2207339"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:27:00Z",
-     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T21:27:03Z",
-     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
-     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T23:02:03Z",
-     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
-     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T00:44:31Z",
-     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T00:57:45Z",
-     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T01:52:13Z",
-     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
-     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T04:18:52Z",
-     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
-     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T05:23:00Z",
-     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
-     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:45:31Z",
-     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T06:31:00Z",
-     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
-     "url": "https://www.kyivpost.com/post/88082"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:55:29Z",
-     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
-     "url": "https://english.aawsat.com/node/5333337"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T08:15:24Z",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T08:25:54Z",
-     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
-     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T09:22:18Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
-     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T10:02:00Z",
-     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
-     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T10:09:20Z",
-     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
-     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T10:52:01Z",
-     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
-     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T14:55:09Z",
-     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T15:35:22Z",
-     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-25T16:37:07Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866614"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T16:49:36Z",
-     "headline": "Ukraine hits back at Musk's ‘strange’ claim over Starlink use",
-     "url": "https://www.stuff.co.nz/world-news/361051022/ukraine-disputes-elon-musks-claim-its-military-violated"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://abcnews.com/International/wireStory/ukraine-disputes-elon-musks-claim-military-violated-starlinks-137552738"
     }
    ]
   },
@@ -7643,7 +7680,7 @@
     "ISR"
    ],
    "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-25T17:49:52Z",
+   "last_seen": "2026-10-25T18:12:13Z",
    "page": "event/5498.html",
    "reports": [
     {
@@ -7925,6 +7962,160 @@
      "time": "2026-10-25T14:39:06Z",
      "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
      "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    }
+   ]
+  },
+  {
+   "id": 28776,
+   "title": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.12,
+   "risk": 2.42,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "NGA",
+    "SGP",
+    "IND",
+    "UGA",
+    "GHA",
+    "AZE",
+    "JAM",
+    "ARE",
+    "SAU",
+    "NAM"
+   ],
+   "first_seen": "2026-10-25T06:59:31Z",
+   "last_seen": "2026-10-25T18:27:45Z",
+   "page": "event/28776.html",
+   "reports": [
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T06:59:31Z",
+     "headline": "EPL: Carrick reveals regular Ferguson, Solskjaer talks",
+     "url": "https://punchng.com/epl-carrick-reveals-regular-ferguson-solskjaer-talks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T12:56:41Z",
+     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
+     "url": "https://www.channelnewsasia.com/sport/carrick-drops-united-captain-fernandes-bench-against-bournemouth-6490541"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T14:07:41Z",
+     "headline": "EPL: Carrick to bench Brruno for Bournemouth clash — Report",
+     "url": "https://punchng.com/epl-carrick-to-bench-brruno-for-bournemouth-clash-report/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T14:15:21Z",
+     "headline": "Carrick Drops Fernandes After Como Outburst",
+     "url": "https://www.channelstv.com/2026/10/25/carrick-drops-fernandes-after-como-outburst/"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T14:28:50Z",
+     "headline": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
+     "url": "https://indianexpress.com/article/sports/football/michael-carrick-dropped-bruno-fernandes-manchester-united-10936441/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T16:10:03Z",
+     "headline": "[UPDATED] Bournemouth Batter Man Utd, Leave Carrick On The Brink",
+     "url": "https://www.channelstv.com/2026/10/25/just-in-bournemouth-batter-man-utd-leave-carrick-on-the-brink/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T16:16:39Z",
+     "headline": "Bournemouth Punish United After Fernandes is Dropped",
+     "url": "https://nilepost.co.ug/sports/381322/bournemouth-punish-united-after-fernandes-is-dropped"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T16:16:52Z",
+     "headline": "Bournemouth beat Man Utd to increase pressure on Carrick",
+     "url": "https://www.myjoyonline.com/bournemouth-beat-man-utd-to-increase-pressure-on-carrick/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T16:28:07Z",
+     "headline": "Man United’s misery continues, suffer 3-0 defeat to Bournemouth",
+     "url": "https://www.vanguardngr.com/2026/10/man-uniteds-misery-continues-suffer-3-0-defeat-to-bournemouth/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-25T16:29:22Z",
+     "headline": "Manchester United suffer home loss, Liverpool claim maiden Anfield win",
+     "url": "https://dailytrust.com/manchester-united-suffer-home-loss-liverpool-claim-maiden-anfield-win/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T16:37:00Z",
+     "headline": "Manchester United extended their winless run to eight matches with heavy defeat to Bournemouth",
+     "url": "https://en.apa.az/football/manchester-united-extended-their-winless-run-to-eight-matches-with-heavy-defeat-to-bournemouth-532067"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T16:55:12Z",
+     "headline": "Man Utd battered by Bournemouth to leave Carrick on the brink",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utd-battered-bournemouth-leave-carrick-brink/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T17:12:58Z",
+     "headline": "Carrick unsure over Man Utd future after Bournemouth loss",
+     "url": "https://www.vanguardngr.com/2026/10/carrick-unsure-over-man-utd-future-after-bournemouth-loss/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T17:16:06Z",
+     "headline": "EPL: Bournemouth thrash Man United 3-0, pressure mounts on Carrick",
+     "url": "https://punchng.com/epl-bournemouth-thrash-man-united-3-0-pressure-mounts-on-carrick/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T17:17:32Z",
+     "headline": "Man United v Bournemouth ratings: Disaster at Old Trafford as Tielemans and Dalot struggle",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T17:56:32Z",
+     "headline": "Carrick Unsure Over Man Utd Future After Bournemouth Loss",
+     "url": "https://english.aawsat.com/node/5333553"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T18:09:10Z",
+     "headline": "Manchester United suffer eighth winless match against Bournemouth",
+     "url": "https://punchng.com/manchester-united-suffer-eighth-winless-match-against-bournemouth/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T18:27:45Z",
+     "headline": "Carrick on the brink as Man Utd misery mounts, Isak stars for Liverpool",
+     "url": "https://www.namibian.com.na/carrick-on-the-brink-as-man-utd-misery-mounts-isak-stars-for-liverpool/"
     }
    ]
   },
@@ -10596,152 +10787,6 @@
    ]
   },
   {
-   "id": 28776,
-   "title": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 5.84,
-   "risk": 2.4,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "NGA",
-    "SGP",
-    "IND",
-    "UGA",
-    "GHA",
-    "AZE",
-    "JAM",
-    "ARE",
-    "SAU"
-   ],
-   "first_seen": "2026-10-25T06:59:31Z",
-   "last_seen": "2026-10-25T18:09:10Z",
-   "page": "event/28776.html",
-   "reports": [
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T06:59:31Z",
-     "headline": "EPL: Carrick reveals regular Ferguson, Solskjaer talks",
-     "url": "https://punchng.com/epl-carrick-reveals-regular-ferguson-solskjaer-talks/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T12:56:41Z",
-     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
-     "url": "https://www.channelnewsasia.com/sport/carrick-drops-united-captain-fernandes-bench-against-bournemouth-6490541"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T14:07:41Z",
-     "headline": "EPL: Carrick to bench Brruno for Bournemouth clash — Report",
-     "url": "https://punchng.com/epl-carrick-to-bench-brruno-for-bournemouth-clash-report/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T14:15:21Z",
-     "headline": "Carrick Drops Fernandes After Como Outburst",
-     "url": "https://www.channelstv.com/2026/10/25/carrick-drops-fernandes-after-como-outburst/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T14:28:50Z",
-     "headline": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
-     "url": "https://indianexpress.com/article/sports/football/michael-carrick-dropped-bruno-fernandes-manchester-united-10936441/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T16:10:03Z",
-     "headline": "[UPDATED] Bournemouth Batter Man Utd, Leave Carrick On The Brink",
-     "url": "https://www.channelstv.com/2026/10/25/just-in-bournemouth-batter-man-utd-leave-carrick-on-the-brink/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-25T16:16:39Z",
-     "headline": "Bournemouth Punish United After Fernandes is Dropped",
-     "url": "https://nilepost.co.ug/sports/381322/bournemouth-punish-united-after-fernandes-is-dropped"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T16:16:52Z",
-     "headline": "Bournemouth beat Man Utd to increase pressure on Carrick",
-     "url": "https://www.myjoyonline.com/bournemouth-beat-man-utd-to-increase-pressure-on-carrick/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T16:28:07Z",
-     "headline": "Man United’s misery continues, suffer 3-0 defeat to Bournemouth",
-     "url": "https://www.vanguardngr.com/2026/10/man-uniteds-misery-continues-suffer-3-0-defeat-to-bournemouth/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-25T16:29:22Z",
-     "headline": "Manchester United suffer home loss, Liverpool claim maiden Anfield win",
-     "url": "https://dailytrust.com/manchester-united-suffer-home-loss-liverpool-claim-maiden-anfield-win/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T16:37:00Z",
-     "headline": "Manchester United extended their winless run to eight matches with heavy defeat to Bournemouth",
-     "url": "https://en.apa.az/football/manchester-united-extended-their-winless-run-to-eight-matches-with-heavy-defeat-to-bournemouth-532067"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T16:55:12Z",
-     "headline": "Man Utd battered by Bournemouth to leave Carrick on the brink",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utd-battered-bournemouth-leave-carrick-brink/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T17:12:58Z",
-     "headline": "Carrick unsure over Man Utd future after Bournemouth loss",
-     "url": "https://www.vanguardngr.com/2026/10/carrick-unsure-over-man-utd-future-after-bournemouth-loss/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T17:16:06Z",
-     "headline": "EPL: Bournemouth thrash Man United 3-0, pressure mounts on Carrick",
-     "url": "https://punchng.com/epl-bournemouth-thrash-man-united-3-0-pressure-mounts-on-carrick/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T17:17:32Z",
-     "headline": "Man United v Bournemouth ratings: Disaster at Old Trafford as Tielemans and Dalot struggle",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T17:56:32Z",
-     "headline": "Carrick Unsure Over Man Utd Future After Bournemouth Loss",
-     "url": "https://english.aawsat.com/node/5333553"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T18:09:10Z",
-     "headline": "Manchester United suffer eighth winless match against Bournemouth",
-     "url": "https://punchng.com/manchester-united-suffer-eighth-winless-match-against-bournemouth/?utm_source=rss.punchng.com&utm_medium=web"
-    }
-   ]
-  },
-  {
    "id": 24689,
    "title": "Trump says he will fix any Starlink access problem in Ukraine",
    "category": "Technology & Cyber",
@@ -12076,118 +12121,6 @@
      "time": "2026-10-24T15:00:00Z",
      "headline": "These clever apps show off the iPhone Duo’s potential",
      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
-    }
-   ]
-  },
-  {
-   "id": 19863,
-   "title": "Barclays bank to cut about 5,000 jobs amid AI drive",
-   "category": "Economy & Markets",
-   "cat": 2,
-   "importance": 5.72,
-   "risk": 1.57,
-   "confidence": 0.85,
-   "status": "fading",
-   "outlets": 12,
-   "countries": [
-    "IRL",
-    "USA",
-    "GBR",
-    "PAK",
-    "NLD",
-    "SAU",
-    "NGA",
-    "CYP",
-    "KEN",
-    "IND"
-   ],
-   "first_seen": "2026-10-22T06:13:39Z",
-   "last_seen": "2026-10-23T18:37:14Z",
-   "page": "event/19863.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T06:13:39Z",
-     "headline": "Barclays cuts 5,000 jobs as AI makes work more efficient",
-     "url": "https://www.rte.ie/news/business/2026/1022/1596386-barclays-quarterly-results/"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-22T08:17:07Z",
-     "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
-     "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html"
-    },
-    {
-     "outlet": "BBC Business",
-     "country": "GBR",
-     "time": "2026-10-22T08:19:47Z",
-     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T09:02:12Z",
-     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
-     "url": "https://www.brecorder.com/news/40445446/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-22T09:31:41Z",
-     "headline": "Barclays to cut 5,000 jobs this year as AI makes the bank more efficient",
-     "url": "https://thenextweb.com/news/barclays-5000-job-cuts-ai"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T09:35:28Z",
-     "headline": "Barclays Bank to Cut about 5,000 Jobs amid AI Drive",
-     "url": "https://english.aawsat.com/node/5332286"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:16:53Z",
-     "headline": "Barclays bank to cut about 5,000 jobs amid AI drive",
-     "url": "https://punchng.com/barclays-bank-to-cut-about-5000-jobs-amid-ai-drive/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-22T12:45:54Z",
-     "headline": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-     "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T03:30:00Z",
-     "headline": "Barclays to cut 5,000 jobs as AI technology replaces support roles",
-     "url": "https://cyprus-mail.com/2026/10/23/barclays-to-cut-5000-jobs-as-ai-technology-replaces-support-roles"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T06:09:07Z",
-     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "url": "https://www.kbc.co.ke/barclays-cutting-5000-jobs-as-it-increases-reliance-on-ai/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T10:20:24Z",
-     "headline": "Barclays to cut 5,000 jobs, cites AI efficiency; here's what employee presentation said",
-     "url": "https://timesofindia.indiatimes.com/technology/tech-news/uks-biggest-bank-barclays-to-cut-5000-jobs-and-puts-it-on-ai-efficiency-heres-what-presentation-to-employees-said-on-job-cuts/articleshow/135142611.cms"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-23T18:37:14Z",
-     "headline": "Barclays is the latest company to trim its workforce for AI efficiency",
-     "url": "https://www.fastcompany.com/91629360/barclays-layoffs-ai-push"
     }
    ]
   },
@@ -13900,6 +13833,212 @@
      "time": "2026-10-25T17:15:37Z",
      "headline": "Jamaica hit Sri Lanka for six at U15 World Cup",
      "url": "https://www.jamaicaobserver.com/2026/10/25/jamaica-hit-sri-lanka-six-u15-world-cup/"
+    }
+   ]
+  },
+  {
+   "id": 17224,
+   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.64,
+   "risk": 3.08,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 15,
+   "countries": [
+    "NZL",
+    "GHA",
+    "ARE",
+    "NGA",
+    "UGA",
+    "SAU",
+    "ZAF",
+    "SGP",
+    "TWN",
+    "PAK",
+    "CYP",
+    "IND",
+    "JAM"
+   ],
+   "first_seen": "2026-10-21T19:19:19Z",
+   "last_seen": "2026-10-25T16:22:31Z",
+   "page": "event/17224.html",
+   "reports": [
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-21T19:19:19Z",
+     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
+     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T01:54:00Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T02:44:14Z",
+     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T06:51:35Z",
+     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-22T08:06:43Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T08:08:07Z",
+     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
+     "url": "https://english.aawsat.com/node/5332254"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T08:34:33Z",
+     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
+     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T09:29:00Z",
+     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
+     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T17:55:54Z",
+     "headline": "Fernandes to remain Man Utd captain despite outburst",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:01:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:17:41Z",
+     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
+     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Bruno Fernandes takes aim at Carrick",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T06:43:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:49:17Z",
+     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
+     "url": "https://english.aawsat.com/node/5332601"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T07:32:46Z",
+     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
+     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T07:54:57Z",
+     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
+     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T11:44:35Z",
+     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
+     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T14:54:49Z",
+     "headline": "Bruno Fernandes’ home burgled during Man Utd’s 4-1 defeat to Como",
+     "url": "https://www.vanguardngr.com/2026/10/bruno-fernandes-home-burgled-during-man-utds-4-1-defeat-to-como/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-23T18:56:40Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address 01:48",
+     "url": "https://nilepost.co.ug/sports/380962/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address-0148"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-24T03:54:18Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address",
+     "url": "https://www.myjoyonline.com/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T12:53:31Z",
+     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
+     "url": "https://cyprus-mail.com/2026/10/25/fernandes-pays-price-for-criticism-as-carrick-drops-united-captain"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T12:56:41Z",
+     "headline": "Fernandes pays price for criticism as Carrick drops United captain",
+     "url": "https://www.channelnewsasia.com/sport/fernandes-pays-price-criticism-carrick-drops-united-captain-6490541"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T13:13:35Z",
+     "headline": "Man Utd’s Fernandes dropped by Carrick after Como outburst",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utds-fernandes-dropped-carrick-como-outburst/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T13:48:11Z",
+     "headline": "EPL: Carrick benches Bruno Fernandes after Como outburst",
+     "url": "https://www.vanguardngr.com/2026/10/epl-carrick-bench-bruno-fernandes-after-como-outburst/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T16:22:31Z",
+     "headline": "Fernandes left on bench for Man Utd defeat",
+     "url": "https://nilepost.co.ug/sports/381327/fernandes-left-on-bench-for-man-utd-defeat"
     }
    ]
   }
