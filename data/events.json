@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T07:14:39Z",
+ "generated": "2026-10-25T07:30:39Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -4217,7 +4217,7 @@
      "outlet": "Haaretz (English)",
      "country": "ISR",
      "time": "2026-10-25T03:21:35Z",
-     "headline": "IDF Announces General Closure for West Bank Palestinians on Election Day",
+     "headline": "Eisenkot seeks to block Netanyahu-police chief election integrity meeting",
      "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
     },
     {
@@ -5168,7 +5168,7 @@
    "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
    "category": "Trade & Industry",
    "importance": 6.66,
-   "risk": 3.72,
+   "risk": 3.7,
    "confidence": 0.86,
    "status": "spreading",
    "outlets": 24,
@@ -5192,7 +5192,7 @@
     "AUS"
    ],
    "first_seen": "2026-10-23T09:32:27Z",
-   "last_seen": "2026-10-25T06:31:50Z",
+   "last_seen": "2026-10-25T07:22:03Z",
    "page": "event/26704.html",
    "reports": [
     {
@@ -8519,6 +8519,131 @@
    ]
   },
   {
+   "id": 28591,
+   "title": "Eleven shot near Florida A&M university in Tallahassee",
+   "category": "Health & Science",
+   "importance": 6.09,
+   "risk": 6.51,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "CHN",
+    "TUR",
+    "IRN",
+    "IND",
+    "CYP",
+    "ISR",
+    "SAU",
+    "ARE",
+    "GBR",
+    "LKA"
+   ],
+   "first_seen": "2026-10-25T03:19:51Z",
+   "last_seen": "2026-10-25T07:15:29Z",
+   "page": "event/28591.html",
+   "reports": [
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T03:19:51Z",
+     "headline": "Urgent: Police investigating shooting in Florida university",
+     "url": "https://english.news.cn/20261025/ed448aff17414a92bd45e6e713aa39c9/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T03:34:08Z",
+     "headline": "Shooting near Florida university stadium leaves victims, prompts safety alerts",
+     "url": "https://www.aa.com.tr/en/americas/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts/4099932"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:16:32Z",
+     "headline": "VIDEO: Shooting at Florida State University, dozens injured",
+     "url": "https://en.mehrnews.com/news/248884/VIDEO-Shooting-at-Florida-State-University-dozens-injured"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T05:19:19Z",
+     "headline": "6 children among 12 injured in shooting near Florida university stadium",
+     "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:28:10Z",
+     "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
+     "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354#publisher=newsstand"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T05:35:36Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://cyprus-mail.com/2026/10/25/eleven-shot-near-florida-am-university-in-tallahassee"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T05:39:59Z",
+     "headline": "At least 12 injured in late-night shooting near Florida A&M University stadium in Tallahassee",
+     "url": "https://www.jpost.com/international/article-912735"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/news/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T05:42:50Z",
+     "headline": "Eleven shot near Florida A&M university in Tallahassee",
+     "url": "https://www.arabnews.com/world/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T05:46:41Z",
+     "headline": "At least 12 injured in shooting near Florida university stadium",
+     "url": "https://english.news.cn/20261025/e201c807db2e415bacd802c7a9b405ba/c.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T05:49:43Z",
+     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
+     "url": "https://gulfnews.com/world/americas/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida-1.500722740"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:07:47Z",
+     "headline": "Eleven sustain gunshot wounds in shooting near Florida university",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-25T07:11:50Z",
+     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
+     "url": "https://www.dailymirror.lk/international/At-least-12-people-injured-in-shooting-near-a-football-stadium-in-Florida/107-353350"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:15:29Z",
+     "headline": "Eleven Shot near Florida A&M University in Tallahassee",
+     "url": "https://english.aawsat.com/node/5333323"
+    }
+   ]
+  },
+  {
    "id": 23924,
    "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
    "category": "Technology & Cyber",
@@ -8639,6 +8764,138 @@
      "time": "2026-10-25T06:31:00Z",
      "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
      "url": "https://www.kyivpost.com/post/88082"
+    }
+   ]
+  },
+  {
+   "id": 19946,
+   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+   "category": "Society & Law",
+   "importance": 6.07,
+   "risk": 0.0,
+   "confidence": 0.87,
+   "status": "peaking",
+   "outlets": 13,
+   "countries": [
+    "GRC",
+    "NLD",
+    "SWE",
+    "PRT",
+    "BGR",
+    "ARE",
+    "CYP",
+    "ISR",
+    "UKR",
+    "LVA"
+   ],
+   "first_seen": "2026-10-22T07:54:23Z",
+   "last_seen": "2026-10-25T07:12:07Z",
+   "page": "event/19946.html",
+   "reports": [
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-22T07:54:23Z",
+     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
+     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T03:00:36Z",
+     "headline": "Daylight Saving Time Ends in Greece This Weekend",
+     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T04:18:41Z",
+     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
+     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-23T11:41:45Z",
+     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
+     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
+    },
+    {
+     "outlet": "The Local Sweden",
+     "country": "SWE",
+     "time": "2026-10-23T12:46:40Z",
+     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
+     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
+    },
+    {
+     "outlet": "The Portugal News",
+     "country": "PRT",
+     "time": "2026-10-23T13:03:00Z",
+     "headline": "Portugal has been switching to winter time for 30 years",
+     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T15:09:00Z",
+     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
+     "url": "https://www.novinite.com/view_news.php?id=241192"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:00:00Z",
+     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
+     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-24T05:20:04Z",
+     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
+     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T08:20:24Z",
+     "headline": "Clocks go back one hour on Sunday as winter time begins",
+     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:19:55Z",
+     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
+     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
+    },
+    {
+     "outlet": "DutchNews.nl",
+     "country": "NLD",
+     "time": "2026-10-24T13:38:05Z",
+     "headline": "More sleep on Sunday as clocks go back an hour",
+     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T03:25:00Z",
+     "headline": "Ukraine switches to standard time tonight",
+     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T06:17:57Z",
+     "headline": "Clocks turned back one hour at 3 a.m. overnight",
+     "url": "https://nltimes.nl/2026/10/25/clocks-turned-back-one-hour-3-overnight"
+    },
+    {
+     "outlet": "LSM English",
+     "country": "LVA",
+     "time": "2026-10-25T07:12:07Z",
+     "headline": "Have you put your clocks back?",
+     "url": "https://eng.lsm.lv/article/weather/weather/25.10.2026-have-you-put-your-clocks-back.a668965/?utm_source=rss&utm_campaign=rss&utm_medium=links"
     }
    ]
   },
@@ -8940,124 +9197,6 @@
      "time": "2026-10-24T23:27:47Z",
      "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
      "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
-    }
-   ]
-  },
-  {
-   "id": 28591,
-   "title": "Eleven shot near Florida A&M university in Tallahassee",
-   "category": "Health & Science",
-   "importance": 5.99,
-   "risk": 6.46,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 11,
-   "countries": [
-    "CHN",
-    "TUR",
-    "IRN",
-    "IND",
-    "CYP",
-    "ISR",
-    "SAU",
-    "ARE",
-    "GBR",
-    "LKA"
-   ],
-   "first_seen": "2026-10-25T03:19:51Z",
-   "last_seen": "2026-10-25T07:11:50Z",
-   "page": "event/28591.html",
-   "reports": [
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T03:19:51Z",
-     "headline": "Urgent: Police investigating shooting in Florida university",
-     "url": "https://english.news.cn/20261025/ed448aff17414a92bd45e6e713aa39c9/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T03:34:08Z",
-     "headline": "Shooting near Florida university stadium leaves victims, prompts safety alerts",
-     "url": "https://www.aa.com.tr/en/americas/shooting-near-florida-university-stadium-leaves-victims-prompts-safety-alerts/4099932"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:16:32Z",
-     "headline": "VIDEO: Shooting at Florida State University, dozens injured",
-     "url": "https://en.mehrnews.com/news/248884/VIDEO-Shooting-at-Florida-State-University-dozens-injured"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T05:19:19Z",
-     "headline": "6 children among 12 injured in shooting near Florida university stadium",
-     "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:28:10Z",
-     "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
-     "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354#publisher=newsstand"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T05:35:36Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://cyprus-mail.com/2026/10/25/eleven-shot-near-florida-am-university-in-tallahassee"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T05:39:59Z",
-     "headline": "At least 12 injured in late-night shooting near Florida A&M University stadium in Tallahassee",
-     "url": "https://www.jpost.com/international/article-912735"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T05:42:50Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://www.arabnews.com/news/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T05:42:50Z",
-     "headline": "Eleven shot near Florida A&M university in Tallahassee",
-     "url": "https://www.arabnews.com/world/eleven-shot-near-florida-am-university-in-tallahassee-3008144"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T05:46:41Z",
-     "headline": "At least 12 injured in shooting near Florida university stadium",
-     "url": "https://english.news.cn/20261025/e201c807db2e415bacd802c7a9b405ba/c.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T05:49:43Z",
-     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
-     "url": "https://gulfnews.com/world/americas/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida-1.500722740"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:07:47Z",
-     "headline": "Eleven sustain gunshot wounds in shooting near Florida university",
-     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
-    },
-    {
-     "outlet": "Daily Mirror",
-     "country": "LKA",
-     "time": "2026-10-25T07:11:50Z",
-     "headline": "At least 12 people injured in shooting near a football stadium in Florida",
-     "url": "https://www.dailymirror.lk/international/At-least-12-people-injured-in-shooting-near-a-football-stadium-in-Florida/107-353350"
     }
    ]
   },
@@ -10968,6 +11107,197 @@
    ]
   },
   {
+   "id": 20210,
+   "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+   "category": "Geopolitics",
+   "importance": 5.8,
+   "risk": 3.17,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-25T07:14:50Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    }
+   ]
+  },
+  {
    "id": 16728,
    "title": "Global hacking attempts / Govts, companies rush to patch PHP flaws",
    "category": "Business",
@@ -11546,130 +11876,6 @@
    ]
   },
   {
-   "id": 19946,
-   "title": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-   "category": "Society & Law",
-   "importance": 5.78,
-   "risk": 0.0,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 12,
-   "countries": [
-    "GRC",
-    "NLD",
-    "SWE",
-    "PRT",
-    "BGR",
-    "ARE",
-    "CYP",
-    "ISR",
-    "UKR"
-   ],
-   "first_seen": "2026-10-22T07:54:23Z",
-   "last_seen": "2026-10-25T06:17:57Z",
-   "page": "event/19946.html",
-   "reports": [
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T07:54:23Z",
-     "headline": "Clocks go back this Sunday: When daylight saving time ends in Greece",
-     "url": "https://en.protothema.gr/2026/10/22/clocks-go-back-this-sunday-when-daylight-saving-time-ends-in-greece/"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T03:00:36Z",
-     "headline": "Daylight Saving Time Ends in Greece This Weekend",
-     "url": "https://www.tovima.com/society/daylight-saving-time-ends-in-greece-this-weekend/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T04:18:41Z",
-     "headline": "Greece Turns Clocks Back This Sunday: What You Need to Know",
-     "url": "https://greekcitytimes.com/2026/10/23/time-change-2024-winter-time-in-greece-and-its-implications-2greece-winter-time-2026/"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-23T11:41:45Z",
-     "headline": "Clocks go back this Sunday as debate over daylight saving time continues",
-     "url": "https://nltimes.nl/2026/10/23/clocks-go-back-sunday-debate-daylight-saving-time-continues"
-    },
-    {
-     "outlet": "The Local Sweden",
-     "country": "SWE",
-     "time": "2026-10-23T12:46:40Z",
-     "headline": "Bid farewell to evening daylight as clocks set to go back in Sweden",
-     "url": "https://www.thelocal.se/20261023/bid-farewell-to-evening-daylight-as-clocks-set-to-go-back-in-sweden"
-    },
-    {
-     "outlet": "The Portugal News",
-     "country": "PRT",
-     "time": "2026-10-23T13:03:00Z",
-     "headline": "Portugal has been switching to winter time for 30 years",
-     "url": "https://www.theportugalnews.com/news/2026-10-23/portugal-has-been-switching-to-winter-time-for-30-years/1104865"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T15:09:00Z",
-     "headline": "Clocks Go Back One Hour in Bulgaria This Sunday",
-     "url": "https://www.novinite.com/view_news.php?id=241192"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:00:00Z",
-     "headline": "UK clocks go back on Oct 25: What the end of British Summer Time means for you",
-     "url": "https://gulfnews.com/world/europe/uk-clocks-go-back-on-oct-25-what-the-end-of-british-summer-time-means-for-you-1.500721649"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-24T05:20:04Z",
-     "headline": "Clocks go back one hour in the Netherlands early Sunday morning",
-     "url": "https://nltimes.nl/2026/10/24/clocks-go-back-one-hour-netherlands-early-sunday-morning"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T08:20:24Z",
-     "headline": "Clocks go back one hour on Sunday as winter time begins",
-     "url": "https://cyprus-mail.com/2026/10/24/clocks-go-back-one-hour-on-sunday-as-winter-time-begins"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:19:55Z",
-     "headline": "Winter Time 2026: Time to change Israel's government - and our clocks",
-     "url": "https://www.haaretz.com/israel-news/2026-10-24/ty-article/winter-time-2026-its-time-for-a-change-for-israels-government-and-for-clocks/000001a1-6ccf-d1b7-a5a9-6ddf260a0000"
-    },
-    {
-     "outlet": "DutchNews.nl",
-     "country": "NLD",
-     "time": "2026-10-24T13:38:05Z",
-     "headline": "More sleep on Sunday as clocks go back an hour",
-     "url": "https://www.dutchnews.nl/2026/10/more-sleep-on-sunday-as-clocks-go-back-an-hour/"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T03:25:00Z",
-     "headline": "Ukraine switches to standard time tonight",
-     "url": "https://www.ukrinform.net/rubric-society/4177888-ukraine-switches-to-standard-time-tonight.html"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-25T06:17:57Z",
-     "headline": "Clocks turned back one hour at 3 a.m. overnight",
-     "url": "https://nltimes.nl/2026/10/25/clocks-turned-back-one-hour-3-overnight"
-    }
-   ]
-  },
-  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -11821,190 +12027,6 @@
      "time": "2026-10-24T21:25:41Z",
      "headline": "Mid-air collision of Philippines military planes kills four pilots",
      "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
-    }
-   ]
-  },
-  {
-   "id": 20210,
-   "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-   "category": "Geopolitics",
-   "importance": 5.77,
-   "risk": 2.37,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-25T05:32:00Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
     }
    ]
   },
