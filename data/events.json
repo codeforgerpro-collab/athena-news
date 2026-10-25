@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T09:06:43Z",
+ "generated": "2026-10-25T09:22:43Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -3572,7 +3572,7 @@
      "outlet": "Haaretz (English)",
      "country": "ISR",
      "time": "2026-10-25T03:21:35Z",
-     "headline": "Eisenkot seeks to block Netanyahu-police chief election integrity meeting",
+     "headline": "Israel's election czar rejects appeal against Netanyahu-police chief meeting",
      "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
     },
     {
@@ -5264,6 +5264,218 @@
    ]
   },
   {
+   "id": 12369,
+   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "category": "Geopolitics",
+   "importance": 6.66,
+   "risk": 4.97,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "USA",
+    "IRQ",
+    "PAK",
+    "RUS",
+    "IND",
+    "AZE",
+    "TUR",
+    "IRN",
+    "ARM",
+    "ISR",
+    "AUS",
+    "KOR",
+    "DEU"
+   ],
+   "first_seen": "2026-10-17T21:04:33Z",
+   "last_seen": "2026-10-25T09:13:00Z",
+   "page": "event/12369.html",
+   "reports": [
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-17T21:04:33Z",
+     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T16:47:19Z",
+     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
+     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T16:55:10Z",
+     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T17:02:28Z",
+     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-19T17:25:01Z",
+     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
+     "url": "https://tass.com/world/2204325"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-19T17:32:00Z",
+     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-19T17:36:00Z",
+     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
+     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:42:37Z",
+     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
+     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T12:11:32Z",
+     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T12:18:00Z",
+     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
+     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:49:02Z",
+     "headline": "Houthis target Saudi Arabian Defense Ministry building",
+     "url": "https://www.azernews.az/region/266023.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:50:14Z",
+     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:22:48Z",
+     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
+     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T13:54:02Z",
+     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-22T14:34:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
+     "url": "https://news.am/en/news/1069685"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T18:12:21Z",
+     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
+     "url": "https://www.jpost.com/middle-east/article-912598"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:38:04Z",
+     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T16:39:17Z",
+     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
+     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T16:52:27Z",
+     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
+     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T17:25:00Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T17:34:58Z",
+     "headline": "Houthis claim seven attacks on Saudi targets",
+     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T17:41:42Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://tass.com/world/2207323"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T19:25:25Z",
+     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
+     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
+     "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T08:07:02Z",
+     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist",
+     "url": "https://www.koreatimes.co.kr/world/20261025/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist?utm_source=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T09:13:00Z",
+     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+     "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
    "id": 16347,
    "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
    "category": "Business",
@@ -5927,210 +6139,6 @@
      "time": "2026-10-24T08:48:33Z",
      "headline": "‘We were told 2 days’: Family awaits body of Indian killed in Saudi airport attack",
      "url": "https://indianexpress.com/article/cities/lucknow/dammam-airport-attack-gorakhpur-worker-kamlesh-pandey-repatriation-10935045/"
-    }
-   ]
-  },
-  {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
-   "category": "Geopolitics",
-   "importance": 6.5,
-   "risk": 4.78,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 17,
-   "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
-    "TUR",
-    "IRN",
-    "ARM",
-    "ISR",
-    "AUS",
-    "KOR"
-   ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-25T08:07:02Z",
-   "page": "event/12369.html",
-   "reports": [
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:38:04Z",
-     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T16:39:17Z",
-     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
-     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T16:52:27Z",
-     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
-     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T17:25:00Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T17:34:58Z",
-     "headline": "Houthis claim seven attacks on Saudi targets",
-     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T17:41:42Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://tass.com/world/2207323"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T19:25:25Z",
-     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:41Z",
-     "headline": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
-     "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T08:07:02Z",
-     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist",
-     "url": "https://www.koreatimes.co.kr/world/20261025/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist?utm_source=rss"
     }
    ]
   },
@@ -11934,6 +11942,314 @@
    ]
   },
   {
+   "id": 16782,
+   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+   "category": "Geopolitics",
+   "importance": 5.77,
+   "risk": 5.41,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 17,
+   "countries": [
+    "OMN",
+    "KWT",
+    "SAU",
+    "TUR",
+    "PAK",
+    "CHN",
+    "ARE",
+    "RUS",
+    "IRQ",
+    "AZE",
+    "CYP"
+   ],
+   "first_seen": "2026-10-20T05:10:15Z",
+   "last_seen": "2026-10-25T09:14:10Z",
+   "page": "event/16782.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T05:10:15Z",
+     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
+     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-20T08:53:00Z",
+     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:04:54Z",
+     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
+     "url": "https://english.aawsat.com/node/5331492"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T04:16:00Z",
+     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T04:30:28Z",
+     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
+     "url": "https://english.aawsat.com/node/5331807"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T22:38:35Z",
+     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T00:12:00Z",
+     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-22T02:41:20Z",
+     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
+     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
+     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T09:19:34Z",
+     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T10:21:14Z",
+     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
+     "url": "https://english.aawsat.com/node/5332304"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T10:40:40Z",
+     "headline": "Saudi-led coalition claims drone downed over Riyadh",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:59:07Z",
+     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
+     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T00:24:39Z",
+     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:48:20Z",
+     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
+     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T01:15:08Z",
+     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T01:31:40Z",
+     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T04:30:30Z",
+     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
+     "url": "https://english.aawsat.com/node/5332564"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T00:41:30Z",
+     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
+     "url": "https://english.aawsat.com/node/5332979"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T00:53:49Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
+     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:49:40Z",
+     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:48:56Z",
+     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:01:00Z",
+     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
+     "url": "https://tass.com/world/2207235"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:15:24Z",
+     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
+     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T06:01:35Z",
+     "headline": "Saudi-led Coalition strikes Saada, Taiz",
+     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T06:21:05Z",
+     "headline": "Two explosions heard in Riyadh following alert",
+     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T06:29:13Z",
+     "headline": "Ballistic missiles targeting Saudi cities intercepted",
+     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T06:42:57Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T09:14:58Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T09:43:24Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T10:01:14Z",
+     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
+     "url": "https://english.aawsat.com/node/5333054"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T10:14:00Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T11:13:29Z",
+     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
+     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T01:36:12Z",
+     "headline": "Saudi-led coalition intercepts drone over Riyadh region",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-drone-over-riyadh-region/4099927"
+    }
+   ]
+  },
+  {
    "id": 19748,
    "title": "Police fire tear gas as new French demonstrations kick off",
    "category": "Society & Law",
@@ -12969,148 +13285,6 @@
      "time": "2026-10-23T14:13:22Z",
      "headline": "Saudi Arabia postpones UN data, Saudi statistics forums until 2027 amid Houthi attacks",
      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-postpones-un-data-saudi-statistics-forums-until-2027-amid-houthi-attacks/4098691"
-    }
-   ]
-  },
-  {
-   "id": 20228,
-   "title": "New York City bans horse-drawn carriages from 2028",
-   "category": "Geopolitics",
-   "importance": 5.7,
-   "risk": 4.26,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "GBR",
-    "SAU",
-    "USA",
-    "CAN",
-    "SGP",
-    "FRA",
-    "AUS",
-    "KOR",
-    "ARE",
-    "GRC",
-    "IRL",
-    "TUR",
-    "JPN"
-   ],
-   "first_seen": "2026-10-22T09:06:48Z",
-   "last_seen": "2026-10-24T03:30:09Z",
-   "page": "event/20228.html",
-   "reports": [
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:06:48Z",
-     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:41:03Z",
-     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
-     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:08:12Z",
-     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T19:39:32Z",
-     "headline": "Trump laments NY horse drawn carriage ban",
-     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
-    },
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-22T20:46:05Z",
-     "headline": "A final farewell to NYC’s horse carriage industry",
-     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T20:48:56Z",
-     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T21:55:13Z",
-     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
-     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T23:34:00Z",
-     "headline": "New York City bans horse-drawn carriages from June 2028",
-     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T00:18:53Z",
-     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
-     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T02:20:12Z",
-     "headline": "New York City bans horse-drawn carriages from 2028",
-     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
-     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:37:24Z",
-     "headline": "New York votes to ban horse carriages",
-     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T09:00:51Z",
-     "headline": "NYC Votes to Ban Carriage Horses",
-     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
-    },
-    {
-     "outlet": "The Irish Times",
-     "country": "IRL",
-     "time": "2026-10-23T11:03:13Z",
-     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
-     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:16:14Z",
-     "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
-     "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T03:30:09Z",
-     "headline": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/024000c"
     }
    ]
   }
