@@ -1,8 +1,325 @@
 {
- "generated": "2026-10-25T20:32:46Z",
+ "generated": "2026-10-25T20:49:46Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
+  {
+   "id": 20210,
+   "title": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.56,
+   "risk": 3.28,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 27,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC",
+    "IRL",
+    "BRA"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-25T21:21:59Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Polls closed in Serbia's election where strongman Vucic is facing student protest movement",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Student protesters aim for electoral victory over Serbia's long-serving leader",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Polling Stations Close In Serbia As Vucic Faces Stiff Challenge In Pivotal Parliamentary Election",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T15:39:39Z",
+     "headline": "Serbia votes as students seek to end Vucic's long grip",
+     "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T16:02:30Z",
+     "headline": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T19:10:39Z",
+     "headline": "Serbia’s Vučić Says He Would Accept Defeat",
+     "url": "https://www.riotimesonline.com/serbia-vucic-would-accept-defeat-first-estimate-tonight/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T19:16:52Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic’s long grip on power",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-in-historic-election-as-students-seek-to-end-vucics-long-grip-on-power"
+    }
+   ]
+  },
   {
    "id": 8775,
    "title": "Trump fires White House Press Secretary Katie Zacharia",
@@ -328,323 +645,6 @@
      "time": "2026-10-16T22:30:21Z",
      "headline": "Capehart and Continetti on the White House press secretary's quick exit",
      "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
-    }
-   ]
-  },
-  {
-   "id": 20210,
-   "title": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.49,
-   "risk": 3.26,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 27,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR",
-    "GRC",
-    "IRL",
-    "BRA"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-25T21:21:59Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Polls closed in Serbia's election where strongman Vucic is facing student protest movement",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Student protesters aim for electoral victory over Serbia's long-serving leader",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Polling Stations Close In Serbia As Vucic Faces Stiff Challenge In Pivotal Parliamentary Election",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-25T12:57:13Z",
-     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:40:10Z",
-     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T14:01:55Z",
-     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
-     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T15:39:39Z",
-     "headline": "Serbia votes as students seek to end Vucic's long grip",
-     "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T16:02:30Z",
-     "headline": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T19:10:39Z",
-     "headline": "Serbia’s Vučić Says He Would Accept Defeat",
-     "url": "https://www.riotimesonline.com/serbia-vucic-would-accept-defeat-first-estimate-tonight/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T19:16:52Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic’s long grip on power",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-in-historic-election-as-students-seek-to-end-vucics-long-grip-on-power"
     }
    ]
   },
@@ -6583,11 +6583,11 @@
    "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
    "category": "Trade & Industry",
    "cat": 4,
-   "importance": 6.4,
-   "risk": 4.57,
-   "confidence": 0.88,
+   "importance": 6.5,
+   "risk": 4.53,
+   "confidence": 0.87,
    "status": "peaking",
-   "outlets": 17,
+   "outlets": 18,
    "countries": [
     "NPL",
     "USA",
@@ -6599,10 +6599,11 @@
     "SGP",
     "IRL",
     "GBR",
-    "ZAF"
+    "ZAF",
+    "TUR"
    ],
    "first_seen": "2026-10-24T15:28:17Z",
-   "last_seen": "2026-10-25T19:25:51Z",
+   "last_seen": "2026-10-25T20:34:19Z",
    "page": "event/27784.html",
    "reports": [
     {
@@ -6730,6 +6731,13 @@
      "time": "2026-10-25T19:25:51Z",
      "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
      "url": "https://www.dailymaverick.co.za/article/2026-10-25-saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T20:34:19Z",
+     "headline": "US warns of escalating security threats in Saudi Arabia as Riyadh airport partly reopens",
+     "url": "https://www.aa.com.tr/en/americas/us-warns-of-escalating-security-threats-in-saudi-arabia-as-riyadh-airport-partly-reopens/4100467"
     }
    ]
   },
@@ -6738,8 +6746,8 @@
    "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
    "category": "Trade & Industry",
    "cat": 4,
-   "importance": 6.38,
-   "risk": 3.98,
+   "importance": 6.44,
+   "risk": 4.0,
    "confidence": 0.91,
    "status": "spreading",
    "outlets": 29,
@@ -10251,7 +10259,7 @@
      "outlet": "Al Jazeera English",
      "country": "QAT",
      "time": "2026-10-25T20:00:04Z",
-     "headline": "Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off",
+     "headline": "Brazil election results 2026 live: Top court extends voting for two hours",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
     }
    ]
@@ -10628,312 +10636,6 @@
      "time": "2026-10-25T02:00:49Z",
      "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
-    }
-   ]
-  },
-  {
-   "id": 16877,
-   "title": "Websites go dark as AI exposes critical security flaws",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 5.9,
-   "risk": 4.66,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 28,
-   "countries": [
-    "IRL",
-    "PAK",
-    "CAN",
-    "USA",
-    "FRA",
-    "OMN",
-    "GBR",
-    "URY",
-    "ZAF",
-    "NGA",
-    "KOR",
-    "NPL",
-    "PHL",
-    "DEU",
-    "SGP",
-    "MOZ",
-    "BGD",
-    "ARE",
-    "TUR",
-    "SSD",
-    "LTU",
-    "SAU"
-   ],
-   "first_seen": "2026-10-21T07:46:45Z",
-   "last_seen": "2026-10-23T20:36:34Z",
-   "page": "event/16877.html",
-   "reports": [
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T07:46:45Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-21T10:25:05Z",
-     "headline": "Government websites in Europe, elsewhere go dark as software flaw sparks security scramble",
-     "url": "https://tribune.com.pk/story/2636150/government-websites-in-europe-elsewhere-go-dark-as-software-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T13:48:03Z",
-     "headline": "Ottawa taking down some federal websites over critical global vulnerability",
-     "url": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/"
-    },
-    {
-     "outlet": "Krebs on Security",
-     "country": "USA",
-     "time": "2026-10-21T15:26:07Z",
-     "headline": "Widespread PHP Flaw May Cause Many Site Outages Today",
-     "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T16:58:44Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-21T17:16:01Z",
-     "headline": "Websites go dark as AI exposes critical security flaws worldwide",
-     "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T01:13:37Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198215/scitech/technology/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T02:00:00Z",
-     "headline": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
-     "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-22T02:14:00Z",
-     "headline": "Global alert over two critical PHP flaws forces government websites offline",
-     "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T03:30:41Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198223/business/markets/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-22T04:56:51Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T06:31:17Z",
-     "headline": "Websites Go Dark As AI Exposes Critical Security Flaws",
-     "url": "https://www.channelstv.com/2026/10/22/websites-go-dark-as-ai-exposes-critical-security-flaws/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T07:02:03Z",
-     "headline": "Websites go dark worldwide as AI exposes critical security flaws",
-     "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws?utm_source=rss"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-22T07:22:22Z",
-     "headline": "What is PHP, and why are security flaws putting European government websites at risk?",
-     "url": "https://kathmandupost.com/world/2026/10/22/what-is-php-and-why-are-security-flaws-putting-european-government-websites-at-risk"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-22T07:39:01Z",
-     "headline": "Asian governments step up cyber defenses after PHP flaw",
-     "url": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T08:25:25Z",
-     "headline": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
-     "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/"
-    },
-    {
-     "outlet": "The Local Germany",
-     "country": "DEU",
-     "time": "2026-10-22T08:35:54Z",
-     "headline": "Thousands of websites offline across Germany due to security flaw",
-     "url": "https://www.thelocal.de/20261022/thousands-of-websites-offline-across-germany-due-to-security-flaw"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-22T08:37:02Z",
-     "headline": "PHP security flaws alarm Korean government, companies",
-     "url": "https://www.koreatimes.co.kr/business/tech-science/20261022/php-security-flaws-alarm-korean-government-companies?utm_source=rss"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-22T08:47:45Z",
-     "headline": "Websites go dark after AI exposes major programming language security flaw",
-     "url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:38Z",
-     "headline": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet",
-     "url": "https://www.straitstimes.com/world/websites-go-dark-worldwide-as-ai-uncovers-flaws-in-code-powering-much-of-the-internet"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T09:14:07Z",
-     "headline": "What is PHP, the programming language that forced government websites offline over critical security flaws?",
-     "url": "https://en.protothema.gr/2026/10/22/what-is-php-the-programming-language-that-forced-government-websites-offline-over-critical-security-flaws/"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T09:16:43Z",
-     "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-     "url": "https://clubofmozambique.com/news/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-22T10:01:11Z",
-     "headline": "How two PHP flaws brought down websites around the world",
-     "url": "https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T11:26:32Z",
-     "headline": "Governments, companies take websites offline over PHP flaws",
-     "url": "https://www.straitstimes.com/world/governments-companies-take-websites-offline-over-php-flaws"
-    },
-    {
-     "outlet": "Guardian Business",
-     "country": "GBR",
-     "time": "2026-10-22T11:36:38Z",
-     "headline": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T11:48:14Z",
-     "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T12:13:46Z",
-     "headline": "UK orders dozens of official websites offline after flaw warnings",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/uk-orders-dozens-of-official-websites-offline-after-flaw-warnings/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-22T13:02:45Z",
-     "headline": "Turkey issues cyber warning as website flaws spark global alarm",
-     "url": "https://www.turkishminute.com/2026/10/22/turkey-issues-cyber-warning-as-website-flaws-spark-global-alarm/"
-    },
-    {
-     "outlet": "Eye Radio",
-     "country": "SSD",
-     "time": "2026-10-22T13:46:25Z",
-     "headline": "National Communication Authority warns South Sudanese websites of global cybersecurity threat",
-     "url": "https://eyeradio.org/national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat/?utm_source=rss&utm_medium=rss&utm_campaign=national-communication-authority-warns-south-sudanese-websites-of-global-cybersecurity-threat"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:25:25Z",
-     "headline": "Websites go dark as AI exposes critical security flaws",
-     "url": "https://www.omanobserver.om/article/1198392/business/economy/websites-go-dark-as-ai-exposes-critical-security-flaws"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T15:55:08Z",
-     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-     "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
-    },
-    {
-     "outlet": "LRT English",
-     "country": "LTU",
-     "time": "2026-10-22T19:54:19Z",
-     "headline": "Around 100 Lithuanian websites vulnerable to critical PHP flaw, cybersecurity chief says",
-     "url": "https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Banks and government agencies take websites offline over PHP security flaws",
-     "url": "https://kathmandupost.com/money/2026/10/23/banks-and-government-agencies-take-websites-offline-over-php-security-flaws"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-23T06:41:41Z",
-     "headline": "Nepal takes government websites offline over critical PHP flaws",
-     "url": "https://kathmandupost.com/science-technology/2026/10/23/nepal-takes-government-websites-offline-over-critical-php-flaws"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:32:20Z",
-     "headline": "Websites Go Dark as AI Exposes Critical Security Flaws",
-     "url": "https://english.aawsat.com/node/5332613"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T13:59:56Z",
-     "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-     "url": "https://www.omanobserver.om/article/1198417/business/what-is-php-why-are-government-and-business-websites-going-offline"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T17:05:00Z",
-     "headline": "OFFLINE: SA’s Presidency website taken down as cybersecurity flaw sparks warnings across the world",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-sas-presidency-website-taken-down-as-cybersecurity-flaw-sparks-warnings-across-the-world/"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-23T20:36:34Z",
-     "headline": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
-     "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/"
     }
    ]
   },
@@ -14328,6 +14030,169 @@
      "time": "2026-10-25T17:15:37Z",
      "headline": "Jamaica hit Sri Lanka for six at U15 World Cup",
      "url": "https://www.jamaicaobserver.com/2026/10/25/jamaica-hit-sri-lanka-six-u15-world-cup/"
+    }
+   ]
+  },
+  {
+   "id": 5926,
+   "title": "Sri Lanka suffers nationwide electricity blackout",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 5.61,
+   "risk": 5.09,
+   "confidence": 0.84,
+   "status": "peaking",
+   "outlets": 13,
+   "countries": [
+    "IND",
+    "AZE",
+    "OMN",
+    "SGP",
+    "LKA",
+    "PAK",
+    "ZAF",
+    "CHN",
+    "DEU",
+    "USA",
+    "TWN",
+    "NLD"
+   ],
+   "first_seen": "2026-10-16T04:34:02Z",
+   "last_seen": "2026-10-25T03:30:00Z",
+   "page": "event/5926.html",
+   "reports": [
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-16T04:34:02Z",
+     "headline": "Indian-made stents under scrutiny after complications in Sri Lanka",
+     "url": "https://timesofindia.indiatimes.com/india/stent-safety-concerns-reach-centre-after-reports-of-complications-with-indian-made-devices-in-sri-lanka/articleshow/134982424.cms"
+    },
+    {
+     "outlet": "The Hindu",
+     "country": "IND",
+     "time": "2026-10-16T10:52:26Z",
+     "headline": "Vijay writes to Centre over arrest of fishermen by Sri Lanka",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu//article71548451.ece"
+    },
+    {
+     "outlet": "AZERTAC (English)",
+     "country": "AZE",
+     "time": "2026-10-16T13:38:00Z",
+     "headline": "Azerbaijan, Sri Lanka strengthen political dialogue",
+     "url": "https://azertag.az/en/xeber/azerbaijan_sri_lanka_strengthen_political_dialogue-4466457"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-17T07:09:19Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.omanobserver.om/article/1197904/world/asia/sri-lanka-suffers-nationwide-electricity-blackout"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-17T09:26:14Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.channelnewsasia.com/asia/sri-lanka-blackout-6468131"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-17T12:17:00Z",
+     "headline": "Power outage reported across Sri Lanka",
+     "url": "https://www.dailymirror.lk/breaking-news/Power-outage-reported-across-Sri-Lanka/108-352762"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-17T12:17:06Z",
+     "headline": "Sri Lanka suffers nationwide electricity blackout",
+     "url": "https://www.brecorder.com/news/40444679/sri-lanka-suffers-nationwide-electricity-blackout"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:28:00Z",
+     "headline": "Sri Lanka’s 22 million people hit by six-hour blackout as grid shuts down",
+     "url": "https://iol.co.za/news/world/2026-10-17-sri-lankas-22-million-people-hit-by-six-hour-blackout-as-grid-shuts-down/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-17T14:29:50Z",
+     "headline": "Sri Lanka restores power transmission system after nationwide outage",
+     "url": "https://english.news.cn/20261017/c8f3bb1d8981417e9a866dcf6fa94ff3/c.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-19T15:50:15Z",
+     "headline": "Sri Lanka’s first insulin manufacturing plant to begin production in 2027",
+     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka’s-first-insulin-manufacturing-plant-to-begin-production-in-2027/108-352894"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-22T08:37:11Z",
+     "headline": "Sri Lanka CERT warns of critical PHP security vulnerabilities",
+     "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-critical-PHP-security-vulnerabilities/108-353158"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T11:02:46Z",
+     "headline": "Sri Lanka maintains landslide alerts as prolonged rainfall threatens over 30,000 locations",
+     "url": "https://english.news.cn/20261022/53e63900ae1040a58d63d65b1de9501e/c.html"
+    },
+    {
+     "outlet": "Daily Mirror",
+     "country": "LKA",
+     "time": "2026-10-23T06:40:21Z",
+     "headline": "Complaint lodged over Sri Lanka Police Facebook post",
+     "url": "https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Sri-Lanka-Police-Facebook-post/108-353248"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T09:29:00Z",
+     "headline": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+     "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Mongabay",
+     "country": "USA",
+     "time": "2026-10-23T15:37:36Z",
+     "headline": "Death of iconic elephant in Sri Lanka pushes authorities to fast-track protection efforts",
+     "url": "https://news.mongabay.com/2026/10/death-of-iconic-elephant-in-sri-lanka-pushes-authorities-to-fast-track-protection-efforts/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-23T16:39:35Z",
+     "headline": "Sri Lanka, S Africa win in stunners",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/24/2003866528"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T02:13:34Z",
+     "headline": "Sri Lanka to set up joint wildlife-military center to protect elephants",
+     "url": "https://english.news.cn/20261024/68f6a14e1f1f48a5ba1830b39892d55e/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T01:18:37Z",
+     "headline": "Over 500 kg drugs seized on Sri Lanka's southern coast",
+     "url": "https://english.news.cn/20261025/ce0859c7ef314f298f71521878a286e6/c.html"
+    },
+    {
+     "outlet": "OCCRP",
+     "country": "NLD",
+     "time": "2026-10-25T03:30:00Z",
+     "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
+     "url": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities"
     }
    ]
   }
