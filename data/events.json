@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T15:48:59Z",
+ "generated": "2026-10-25T16:05:00Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1543,6 +1543,325 @@
    ]
   },
   {
+   "id": 22647,
+   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+   "category": "Geopolitics",
+   "importance": 7.31,
+   "risk": 7.33,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 34,
+   "countries": [
+    "ISR",
+    "USA",
+    "IRQ",
+    "IND",
+    "SAU",
+    "QAT",
+    "GHA",
+    "CHN",
+    "TUR",
+    "ARE",
+    "CYP",
+    "SGP",
+    "GBR",
+    "OMN",
+    "FRA",
+    "PAK",
+    "IRL",
+    "TWN",
+    "CAN",
+    "THA",
+    "KWT",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T04:58:08Z",
+   "last_seen": "2026-10-25T16:46:02Z",
+   "page": "event/22647.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T04:58:08Z",
+     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T05:15:21Z",
+     "headline": "Israeli military says forces kill suspected shooters near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T06:00:27Z",
+     "headline": "More on the shooting attack near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T07:25:53Z",
+     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
+     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T07:29:39Z",
+     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T10:32:49Z",
+     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:24:28Z",
+     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
+     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:30:02Z",
+     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
+     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T16:32:27Z",
+     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:42:01Z",
+     "headline": "Netanyahu vows collective punishment after Hebron shooting",
+     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:00:48Z",
+     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:50:39Z",
+     "headline": "Rights group says Israel plans to displace Palestinians after attack",
+     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T18:38:26Z",
+     "headline": "Israel locks down occupied West Bank after Hebron shooting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T19:05:01Z",
+     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T21:21:00Z",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T21:32:41Z",
+     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:37:00Z",
+     "headline": "Israel launches military operation in Hebron after two soldiers killed",
+     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T22:12:01Z",
+     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:27:22Z",
+     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T23:07:17Z",
+     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T00:00:00Z",
+     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:04:36Z",
+     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:42:09Z",
+     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israel launches major West Bank raids after soldiers killed",
+     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Hebron families after deadly attack",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Palestinian families after troops killed",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:40:54Z",
+     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T11:17:36Z",
+     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T11:20:22Z",
+     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:54:15Z",
+     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T12:19:34Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T12:27:16Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T12:29:06Z",
+     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T12:37:31Z",
+     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T12:57:48Z",
+     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:46:36Z",
+     "headline": "Palestinian Authority condemns 'collective punishment'",
+     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T13:46:43Z",
+     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
+     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:50:12Z",
+     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T14:08:36Z",
+     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
+     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:23:26Z",
+     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
+     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
+    }
+   ]
+  },
+  {
    "id": 9153,
    "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
    "category": "Trade & Industry",
@@ -1860,325 +2179,6 @@
      "time": "2026-10-20T14:47:15Z",
      "headline": "Iran Says Burning Tanker Found In Hormuz Restricted Zone, CENTCOM Rejected",
      "url": "https://www.kurdistan24.net/en/story/947421/iran-says-burning-tanker-found-in-hormuz-restricted-zone-centcom-rejected"
-    }
-   ]
-  },
-  {
-   "id": 22647,
-   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-   "category": "Geopolitics",
-   "importance": 7.25,
-   "risk": 7.31,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 34,
-   "countries": [
-    "ISR",
-    "USA",
-    "IRQ",
-    "IND",
-    "SAU",
-    "QAT",
-    "GHA",
-    "CHN",
-    "TUR",
-    "ARE",
-    "CYP",
-    "SGP",
-    "GBR",
-    "OMN",
-    "FRA",
-    "PAK",
-    "IRL",
-    "TWN",
-    "CAN",
-    "THA",
-    "KWT",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-25T15:31:44Z",
-   "page": "event/22647.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T04:58:08Z",
-     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T05:15:21Z",
-     "headline": "Israeli military says forces kill suspected shooters near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T06:00:27Z",
-     "headline": "More on the shooting attack near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T07:25:53Z",
-     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
-     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T07:29:39Z",
-     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:32:49Z",
-     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:24:28Z",
-     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
-     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:30:02Z",
-     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
-     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T16:32:27Z",
-     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:42:01Z",
-     "headline": "Netanyahu vows collective punishment after Hebron shooting",
-     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:00:48Z",
-     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:50:39Z",
-     "headline": "Rights group says Israel plans to displace Palestinians after attack",
-     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T18:38:26Z",
-     "headline": "Israel locks down occupied West Bank after Hebron shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T19:05:01Z",
-     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T21:21:00Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T21:32:41Z",
-     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:37:00Z",
-     "headline": "Israel launches military operation in Hebron after two soldiers killed",
-     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T22:12:01Z",
-     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:27:22Z",
-     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T23:07:17Z",
-     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T00:00:00Z",
-     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:04:36Z",
-     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:42:09Z",
-     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israel launches major West Bank raids after soldiers killed",
-     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Hebron families after deadly attack",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Palestinian families after troops killed",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:40:54Z",
-     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T11:17:36Z",
-     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T11:20:22Z",
-     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:54:15Z",
-     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T12:19:34Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T12:27:16Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T12:29:06Z",
-     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T12:37:31Z",
-     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T12:57:48Z",
-     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T13:46:36Z",
-     "headline": "Palestinian Authority condemns 'collective punishment'",
-     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T13:46:43Z",
-     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
-     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:50:12Z",
-     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T14:08:36Z",
-     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
-     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T14:23:26Z",
-     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
-     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
     }
    ]
   },
@@ -4663,7 +4663,7 @@
      "outlet": "Haaretz (English)",
      "country": "ISR",
      "time": "2026-10-25T03:21:35Z",
-     "headline": "Netanyahu shares text warning of 'second Holocaust' if he is not elected",
+     "headline": "Head of far-right yeshiva in West Bank endorses Ofer Winter's party",
      "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
     },
     {
@@ -10704,100 +10704,6 @@
    ]
   },
   {
-   "id": 23981,
-   "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-   "category": "Geopolitics",
-   "importance": 5.85,
-   "risk": 0.0,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 10,
-   "countries": [
-    "PAK",
-    "TUR",
-    "SGP",
-    "CYP",
-    "CAN",
-    "USA",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T05:00:54Z",
-   "last_seen": "2026-10-23T15:51:51Z",
-   "page": "event/23981.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T05:00:54Z",
-     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
-     "url": "https://tribune.com.pk/story/2636496/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:50:48Z",
-     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
-     "url": "https://www.aa.com.tr/en/americas/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier/4098242"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T09:51:45Z",
-     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-     "url": "https://www.straitstimes.com/world/europe/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:59:24Z",
-     "headline": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
-     "url": "https://cyprus-mail.com/2026/10/23/carney-says-canada-raised-issues-on-lgbtq-rights-during-meetings-in-turkey"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T10:43:04Z",
-     "headline": "Carney defends doing business with countries that don’t share Canada’s values",
-     "url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771?cmp=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T11:04:27Z",
-     "headline": "Canada needs Turkish defense expertise to protect Canadians: Carney",
-     "url": "https://www.turkiyetoday.com/world/canada-needs-turkish-defense-expertise-to-protect-canadians-carney-3230872"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-23T12:15:51Z",
-     "headline": "Canada ‘in need of Turkish expertise’ to strengthen its defenses: Premier",
-     "url": "https://www.hurriyetdailynews.com/canada-in-need-of-turkish-expertise-to-strengthen-its-defenses-premier-228518"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-23T13:56:52Z",
-     "headline": "Carney sees growing chances for Canadian role in Turkey’s nuclear plans",
-     "url": "https://www.turkishminute.com/2026/10/23/carney-sees-growing-chances-for-canadian-role-in-turkeys-nuclear-plans/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T14:21:28Z",
-     "headline": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
-     "url": "https://www.arabnews.com/middle-east/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye-3007901"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T15:51:51Z",
-     "headline": "Carney dismisses US accusations of Canadian election interference",
-     "url": "https://www.straitstimes.com/world/carney-dismisses-us-accusations-of-canadian-election-interference"
-    }
-   ]
-  },
-  {
    "id": 24689,
    "title": "Trump says he will fix any Starlink access problem in Ukraine",
    "category": "Technology & Cyber",
@@ -11830,7 +11736,7 @@
      "outlet": "RTÉ News",
      "country": "IRL",
      "time": "2026-10-24T23:01:00Z",
-     "headline": "18,000 premises without power following Storm Boelo",
+     "headline": "18,000 without power as yellow alerts issued for tomorrow",
      "url": "https://www.rte.ie/news/ireland/2026/1025/1596760-storm-boelo-power-ireland/"
     },
     {
@@ -11844,7 +11750,7 @@
      "outlet": "The Irish Times",
      "country": "IRL",
      "time": "2026-10-25T09:04:05Z",
-     "headline": "Thousands of homes without power after strong winds brought by Storm Boelo",
+     "headline": "Further weather warnings issued as thousands remain without power after Storm Boelo",
      "url": "https://www.irishtimes.com/ireland/2026/10/25/thousands-of-homes-without-power-after-strong-winds-brought-by-storm-boelo/"
     },
     {
@@ -11879,7 +11785,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-25T14:59:00Z",
-     "headline": "Storm Boelo lashes Britain, cutting power and cancelling flights",
+     "headline": "Storms batter Europe hitting power supplies, flights and phones",
      "url": "https://www.straitstimes.com/world/europe/storm-boelo-lashes-britain-cutting-power-and-cancelling-flights"
     },
     {
@@ -11945,7 +11851,7 @@
      "outlet": "The New York Times (World)",
      "country": "USA",
      "time": "2026-10-25T12:14:44Z",
-     "headline": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+     "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
     },
     {
@@ -13120,6 +13026,315 @@
      "time": "2026-10-25T13:07:00Z",
      "headline": "Russia Open to US-Ukraine Trilateral Talks After Nov. 4",
      "url": "https://www.kyivpost.com/post/88122"
+    }
+   ]
+  },
+  {
+   "id": 5498,
+   "title": "Israeli drone strike kills two Palestinians in Gaza City",
+   "category": "Geopolitics",
+   "importance": 5.69,
+   "risk": 7.05,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-25T15:55:31Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T15:40:25Z",
+     "headline": "Seven killed in Gaza as Israel targets university campus and other sites",
+     "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
     }
    ]
   },
