@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:44:57Z",
+ "generated": "2026-10-25T15:00:57Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -6574,218 +6574,106 @@
    ]
   },
   {
-   "id": 28198,
-   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-   "category": "Geopolitics",
-   "importance": 6.48,
-   "risk": 6.82,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 23,
+   "id": 19902,
+   "title": "Audi to Build Factory in Georgia, Trump Says",
+   "category": "Trade & Industry",
+   "importance": 6.45,
+   "risk": 2.61,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 11,
    "countries": [
-    "USA",
-    "JAM",
-    "NGA",
-    "SGP",
-    "QAT",
-    "SAU",
-    "IRL",
-    "GBR",
-    "GHA",
-    "PHL",
-    "BGD",
-    "OMN",
     "PAK",
-    "ZAF",
-    "KEN",
-    "FRA",
+    "USA",
+    "RUS",
+    "DEU",
+    "IND",
+    "ARE",
+    "TUR",
+    "SAU",
+    "GBR",
     "CYP"
    ],
-   "first_seen": "2026-10-23T03:59:00Z",
-   "last_seen": "2026-10-25T13:30:26Z",
-   "page": "event/28198.html",
+   "first_seen": "2026-10-22T08:01:32Z",
+   "last_seen": "2026-10-25T14:48:28Z",
+   "page": "event/19902.html",
    "reports": [
     {
-     "outlet": "Politico",
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T08:01:32Z",
+     "headline": "Audi gets new China leadership to face bruising competition",
+     "url": "https://www.brecorder.com/news/40445440/audi-gets-new-china-leadership-to-face-bruising-competition"
+    },
+    {
+     "outlet": "New York Times Business",
      "country": "USA",
-     "time": "2026-10-23T03:59:00Z",
-     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
-     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
+     "time": "2026-10-25T00:27:04Z",
+     "headline": "Audi to Build Factory in Georgia, Trump Says",
+     "url": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
     },
     {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T20:01:59Z",
-     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-25T02:50:00Z",
+     "headline": "Audi to invest $4.2 billion in building car plant in US — Trump",
+     "url": "https://tass.com/economy/2207389"
     },
     {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T21:17:54Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T21:18:50Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:33:40Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T00:34:43Z",
-     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T00:37:13Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T01:08:53Z",
-     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T02:27:15Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T02:45:31Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T03:19:10Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-25T04:03:53Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T04:15:07Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty'",
-     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T04:44:00Z",
+     "headline": "Trump announces Audi will build $4 billion factory in US",
+     "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf"
     },
     {
      "outlet": "Business Recorder",
      "country": "PAK",
-     "time": "2026-10-25T04:44:43Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+     "time": "2026-10-25T04:53:35Z",
+     "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
+     "url": "https://www.brecorder.com/news/40445853/trump-announces-audi-will-build-4-billion-us-factory-in-georgia"
     },
     {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T07:09:37Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T07:14:13Z",
+     "headline": "$4.2 Billion Investment, 2,00,000 Cars A Year: Trump On Audi's Big US Plan",
+     "url": "https://www.ndtv.com/world-news/trump-on-audis-big-us-plan-4-2-billion-investment-2-00-000-cars-a-year-midterms-12232680#publisher=newsstand"
     },
     {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T07:34:12Z",
-     "headline": "Obama criticises Trump over Iran war, rising prices",
-     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T07:17:29Z",
+     "headline": "Trump says Audi to invest $4.2b in its first US auto plant",
+     "url": "https://gulfnews.com/auto/news/trump-says-audi-to-invest-42b-in-its-first-us-auto-plant-1.500722693"
     },
     {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T07:55:00Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T07:24:34Z",
+     "headline": "Audi to build first US factory in Georgia with $4.2B investment",
+     "url": "https://www.turkiyetoday.com/business/audi-to-build-first-us-factory-in-georgia-with-42-billion-investment-3230969"
     },
     {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T08:20:30Z",
-     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
-     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T12:20:06Z",
+     "headline": "Trump announces new Audi factory at Georgia campaign rally",
+     "url": "https://thehill.com/homenews/state-watch/6170630-trump-announces-audi-factory-georgia/"
     },
     {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T08:44:17Z",
-     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T13:43:19Z",
+     "headline": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+     "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
     },
     {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T08:47:49Z",
-     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
-     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-25T09:29:57Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T10:05:42Z",
-     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:36:56Z",
-     "headline": "Obama hits campaign trail for democrats",
-     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T14:48:28Z",
+     "headline": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
+     "url": "https://cyprus-mail.com/2026/10/25/audi-defends-decision-to-stand-by-trump-on-4-billion-us-factory-in-georgia"
     }
    ]
   },
@@ -7725,6 +7613,230 @@
      "time": "2026-10-25T13:23:56Z",
      "headline": "Suspect in deadly Paris suburb shooting moved to psychiatric unit",
      "url": "https://www.rfi.fr/en/france/20261025-suspect-in-deadly-paris-suburb-shooting-moved-to-psychiatric-unit"
+    }
+   ]
+  },
+  {
+   "id": 28198,
+   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+   "category": "Geopolitics",
+   "importance": 6.29,
+   "risk": 7.16,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 24,
+   "countries": [
+    "USA",
+    "JAM",
+    "NGA",
+    "SGP",
+    "QAT",
+    "SAU",
+    "IRL",
+    "GBR",
+    "GHA",
+    "PHL",
+    "BGD",
+    "OMN",
+    "PAK",
+    "ZAF",
+    "KEN",
+    "FRA",
+    "CYP",
+    "AUS"
+   ],
+   "first_seen": "2026-10-23T03:59:00Z",
+   "last_seen": "2026-10-25T14:42:37Z",
+   "page": "event/28198.html",
+   "reports": [
+    {
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-23T03:59:00Z",
+     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
+     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T20:01:59Z",
+     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T21:17:54Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T21:18:50Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:33:40Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T00:34:43Z",
+     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T00:37:13Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T01:08:53Z",
+     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T02:27:15Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T02:45:31Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T03:19:10Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-25T04:03:53Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T04:15:07Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty'",
+     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T04:44:43Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T07:09:37Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T07:34:12Z",
+     "headline": "Obama criticises Trump over Iran war, rising prices",
+     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T07:55:00Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T08:20:30Z",
+     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
+     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T08:44:17Z",
+     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T08:47:49Z",
+     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
+     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-25T09:29:57Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T10:05:42Z",
+     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:36:56Z",
+     "headline": "Obama hits campaign trail for democrats",
+     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T14:42:37Z",
+     "headline": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
+     "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060"
     }
    ]
   },
@@ -8873,7 +8985,7 @@
     "GBR"
    ],
    "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-24T23:27:47Z",
+   "last_seen": "2026-10-25T14:51:24Z",
    "page": "event/23496.html",
    "reports": [
     {
@@ -9141,6 +9253,13 @@
      "time": "2026-10-24T23:27:47Z",
      "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
      "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T14:51:24Z",
+     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
+     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
     }
    ]
   },
@@ -12114,248 +12233,6 @@
      "time": "2026-10-23T18:37:14Z",
      "headline": "Barclays is the latest company to trim its workforce for AI efficiency",
      "url": "https://www.fastcompany.com/91629360/barclays-layoffs-ai-push"
-    }
-   ]
-  },
-  {
-   "id": 16998,
-   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-   "category": "Trade & Industry",
-   "importance": 5.72,
-   "risk": 3.8,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 23,
-   "countries": [
-    "OMN",
-    "ARE",
-    "JPN",
-    "USA",
-    "TUR",
-    "SAU",
-    "KWT",
-    "SGP",
-    "RUS",
-    "MAR",
-    "IND",
-    "BGD",
-    "CHN",
-    "THA",
-    "AUS"
-   ],
-   "first_seen": "2026-10-20T02:51:41Z",
-   "last_seen": "2026-10-25T10:07:34Z",
-   "page": "event/16998.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T02:51:41Z",
-     "headline": "Riyadh Airport reopens, but with limited capacity",
-     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-20T13:16:27Z",
-     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
-     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-21T23:54:54Z",
-     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
-     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "Simple Flying",
-     "country": "USA",
-     "time": "2026-10-23T15:00:20Z",
-     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
-     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T20:27:30Z",
-     "headline": "Riyadh airport splits domestic and international flights between two terminals",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T20:30:29Z",
-     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:08:45Z",
-     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
-     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T21:14:13Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T21:22:00Z",
-     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
-     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:06Z",
-     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T22:25:00Z",
-     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
-     "url": "https://tass.com/world/2207361"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-24T22:51:01Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T23:05:18Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:00:23Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
-     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T02:21:39Z",
-     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T02:59:25Z",
-     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T03:30:34Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T04:03:15Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T04:10:58Z",
-     "headline": "Houthis renew warning against using King Khalid airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T05:23:12Z",
-     "headline": "Riyadh Airport Partially Resumes Operations",
-     "url": "https://english.aawsat.com/node/5333303"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:44:26Z",
-     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
-     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T05:56:33Z",
-     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
-     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T06:48:00Z",
-     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T07:12:51Z",
-     "headline": "Riyadh airport announces partial reopening",
-     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T09:27:31Z",
-     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
-     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:07:34Z",
-     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
     }
    ]
   },
