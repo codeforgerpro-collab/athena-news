@@ -1,11 +1,25 @@
 
 (function(){
   // WEB-1.4: one script for every language — the words come from W (site_i18n.JS), chosen by the page's lang
-  var d=document.documentElement, LG=d.getAttribute("lang")||"en", ALL={"en":{"now":"just now","m":" min ago","h":" h ago","d":" days ago","brk":"Breaking","lat":"Latest","new":"New","risk":"Risk","pause":"Pause","pp":"Pause / play","clock":"Your local time","intl":"en-GB"},"el":{"now":"μόλις τώρα","m":" λεπτά πριν","h":" ώρες πριν","d":" ημέρες πριν","brk":"Έκτακτο","lat":"Τελευταία","new":"Νέο","risk":"Κίνδυνος","pause":"Παύση","pp":"Παύση / συνέχεια","clock":"Η ώρα σας","intl":"el-GR"},"es":{"now":"ahora mismo","m":" min","h":" h","d":" días","pre":"hace ","brk":"Última hora","lat":"Lo último","new":"Nuevo","risk":"Riesgo","pause":"Pausa","pp":"Pausa / reanudar","clock":"Su hora local","intl":"es-ES"},"fr":{"now":"à l'instant","m":" min","h":" h","d":" jours","pre":"il y a ","brk":"Dernière minute","lat":"En continu","new":"Nouveau","risk":"Risque","pause":"Pause","pp":"Pause / lecture","clock":"Votre heure locale","intl":"fr-FR"},"de":{"now":"gerade eben","m":" Min.","h":" Std.","d":" Tagen","pre":"vor ","brk":"Eilmeldung","lat":"Neueste","new":"Neu","risk":"Risiko","pause":"Pause","pp":"Pause / weiter","clock":"Ihre Ortszeit","intl":"de-DE"},"ar":{"now":"الآن","m":" دقيقة","h":" ساعة","d":" يوم","pre":"قبل ","brk":"عاجل","lat":"الأحدث","new":"جديد","risk":"الخطر","pause":"إيقاف مؤقت","pp":"إيقاف / تشغيل","clock":"توقيتك المحلي","intl":"ar"},"ru":{"now":"только что","m":" мин назад","h":" ч назад","d":" дн. назад","brk":"Срочно","lat":"Последнее","new":"Новое","risk":"Риск","pause":"Пауза","pp":"Пауза / продолжить","clock":"Ваше местное время","intl":"ru-RU"}}, W=ALL[LG]||ALL.en, LOC=W.intl||"en-GB";
-  try{var t=localStorage.getItem("athena-site-theme");if(t)d.setAttribute("data-theme",t);}catch(e){}
-  var b=document.getElementById("theme");
-  if(b)b.addEventListener("click",function(){var cur=d.getAttribute("data-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
-    var n=cur==="dark"?"light":"dark";d.setAttribute("data-theme",n);try{localStorage.setItem("athena-site-theme",n);}catch(e){}});
+  var d=document.documentElement, LG=d.getAttribute("lang")||"en", ALL={"en":{"now":"just now","m":" min ago","h":" h ago","d":" days ago","brk":"Breaking","lat":"Latest","new":"New","risk":"Risk","pause":"Pause","pp":"Pause / play","clock":"Your local time","wclose":"Fold the welcome","wopen":"Show the welcome","intl":"en-GB"},"el":{"now":"μόλις τώρα","m":" λεπτά πριν","h":" ώρες πριν","d":" ημέρες πριν","brk":"Έκτακτο","lat":"Τελευταία","new":"Νέο","risk":"Κίνδυνος","pause":"Παύση","pp":"Παύση / συνέχεια","clock":"Η ώρα σας","wclose":"Σύμπτυξη του καλωσορίσματος","wopen":"Εμφάνιση του καλωσορίσματος","intl":"el-GR"},"es":{"now":"ahora mismo","m":" min","h":" h","d":" días","pre":"hace ","brk":"Última hora","lat":"Lo último","new":"Nuevo","risk":"Riesgo","pause":"Pausa","pp":"Pausa / reanudar","clock":"Su hora local","wclose":"Plegar la bienvenida","wopen":"Mostrar la bienvenida","intl":"es-ES"},"fr":{"now":"à l'instant","m":" min","h":" h","d":" jours","pre":"il y a ","brk":"Dernière minute","lat":"En continu","new":"Nouveau","risk":"Risque","pause":"Pause","pp":"Pause / lecture","clock":"Votre heure locale","wclose":"Replier l'accueil","wopen":"Afficher l'accueil","intl":"fr-FR"},"de":{"now":"gerade eben","m":" Min.","h":" Std.","d":" Tagen","pre":"vor ","brk":"Eilmeldung","lat":"Neueste","new":"Neu","risk":"Risiko","pause":"Pause","pp":"Pause / weiter","clock":"Ihre Ortszeit","wclose":"Willkommen einklappen","wopen":"Willkommen anzeigen","intl":"de-DE"},"ar":{"now":"الآن","m":" دقيقة","h":" ساعة","d":" يوم","pre":"قبل ","brk":"عاجل","lat":"الأحدث","new":"جديد","risk":"الخطر","pause":"إيقاف مؤقت","pp":"إيقاف / تشغيل","clock":"توقيتك المحلي","wclose":"طيّ الترحيب","wopen":"إظهار الترحيب","intl":"ar"},"ru":{"now":"только что","m":" мин назад","h":" ч назад","d":" дн. назад","brk":"Срочно","lat":"Последнее","new":"Новое","risk":"Риск","pause":"Пауза","pp":"Пауза / продолжить","clock":"Ваше местное время","wclose":"Свернуть приветствие","wopen":"Показать приветствие","intl":"ru-RU"}}, W=ALL[LG]||ALL.en, LOC=W.intl||"en-GB";
+  // WEB-1.6: display modes (assets/theme.js applied the saved one before the page was drawn)
+  var DARK={night:1,future:1,neon:1},mm=document.querySelector("details.modes");
+  function markMode(){var cur=d.getAttribute("data-theme")||"auto";[].forEach.call(document.querySelectorAll("[data-set-mode]"),function(x){
+    x.setAttribute("aria-pressed",x.getAttribute("data-set-mode")===cur?"true":"false");});}
+  [].forEach.call(document.querySelectorAll("[data-set-mode]"),function(x){x.addEventListener("click",function(){var m=x.getAttribute("data-set-mode");
+    if(m==="auto"){d.removeAttribute("data-theme");d.removeAttribute("data-tone");}else{d.setAttribute("data-theme",m);d.setAttribute("data-tone",DARK[m]?"dark":"light");}
+    try{if(m==="auto"){localStorage.removeItem("athena-site-mode");localStorage.removeItem("athena-site-theme");}else localStorage.setItem("athena-site-mode",m);}catch(e){}
+    markMode();if(mm)mm.open=false;});});markMode();
+  if(mm)document.addEventListener("click",function(e){if(mm.open&&!mm.contains(e.target))mm.open=false;});
+  // WEB-1.6: the welcome's live line — the top events roll by (still for readers who ask for less motion)
+  var rl=document.querySelector(".roller");
+  if(rl){var its=[];try{its=JSON.parse(rl.getAttribute("data-items")||"[]");}catch(e){}
+    var still=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches,nm=rl.querySelector(".rl-name"),fg=rl.querySelector(".rl-fig"),k=0,hold=false;
+    rl.addEventListener("mouseenter",function(){hold=true;});rl.addEventListener("mouseleave",function(){hold=false;});
+    rl.addEventListener("focusin",function(){hold=true;});rl.addEventListener("focusout",function(){hold=false;});
+    if(its.length>1&&!still)setInterval(function(){if(hold||document.hidden)return;k=(k+1)%its.length;var it=its[k];
+      rl.classList.remove("in");void rl.offsetWidth;nm.textContent=it[0];nm.setAttribute("href",it[2]);fg.textContent=it[1];
+      rl.setAttribute("data-rk",it[3]>=8?"crit":it[3]>=6?"high":it[3]>=4?"elev":"");rl.classList.add("in");},4800);}
   function ago(s){var m=Math.round((Date.now()-Date.parse(s))/60000);if(isNaN(m))return null;if(m<2)return W.now;var p=W.pre||"";
     if(m<60)return p+m+W.m;var h=Math.round(m/60);if(h<48)return p+h+W.h;return p+Math.round(h/24)+W.d;}
   function esc(x){return String(x==null?"":x).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -62,6 +76,15 @@
     [].forEach.call(trk,function(el){var v=(j.trk||{})[el.getAttribute("data-trk")];if(!v)return;
       el.innerHTML='<span class="rk '+rc(v.risk)+'">'+esc(W.risk)+' '+(+v.risk).toFixed(1)+'</span>'+(v.week>v.prev*1.15+0.5?' ▲':v.week<v.prev*0.85-0.5?' ▼':'');});
   }).catch(function(){});
+  // WEB-1.7: filter the signals by kind
+  [].forEach.call(document.querySelectorAll("[data-kf]"),function(b){b.addEventListener("click",function(){var k=b.getAttribute("data-kf");
+    [].forEach.call(document.querySelectorAll("[data-kf]"),function(x){x.setAttribute("aria-pressed",x===b?"true":"false");});
+    [].forEach.call(document.querySelectorAll("li.sg"),function(li){li.hidden=!!k&&li.getAttribute("data-kind")!==k;});});});
+  // WEB-1.5: the welcome folds to a single line for readers who have seen it (remembered in this browser only)
+  var wl=document.getElementById("welcome"),wc=document.getElementById("w-close");
+  if(wl&&wc){var mini=false;try{mini=localStorage.getItem("athena-welcome")==="mini";}catch(e){}
+    var setm=function(m){wl.classList.toggle("mini",m);wc.setAttribute("aria-expanded",m?"false":"true");wc.setAttribute("aria-label",m?W.wopen:W.wclose);wc.title=wc.getAttribute("aria-label");};
+    setm(mini);wc.hidden=false;wc.addEventListener("click",function(){mini=!mini;setm(mini);try{localStorage.setItem("athena-welcome",mini?"mini":"full");}catch(e){}});}
   [].forEach.call(document.querySelectorAll("time[datetime]:not(#clock)"),function(t){var a=ago(t.getAttribute("datetime"));
     if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fmt.format(new Date(t.getAttribute("datetime")));}
     if(fmt)t.title=fmt.format(new Date(t.getAttribute("datetime")));});
