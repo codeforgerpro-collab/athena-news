@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T12:36:52Z",
+ "generated": "2026-10-25T12:52:53Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1239,6 +1239,325 @@
    ]
   },
   {
+   "id": 22647,
+   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+   "category": "Geopolitics",
+   "importance": 7.37,
+   "risk": 7.86,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 34,
+   "countries": [
+    "ISR",
+    "USA",
+    "IRQ",
+    "IND",
+    "SAU",
+    "QAT",
+    "GHA",
+    "CHN",
+    "TUR",
+    "ARE",
+    "CYP",
+    "SGP",
+    "GBR",
+    "OMN",
+    "FRA",
+    "PAK",
+    "IRL",
+    "TWN",
+    "CAN",
+    "THA",
+    "KWT",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T04:58:08Z",
+   "last_seen": "2026-10-25T12:33:37Z",
+   "page": "event/22647.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T04:58:08Z",
+     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T05:15:21Z",
+     "headline": "Israeli military says forces kill suspected shooters near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T06:00:27Z",
+     "headline": "More on the shooting attack near Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T07:25:53Z",
+     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
+     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T07:29:39Z",
+     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T10:32:49Z",
+     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:24:28Z",
+     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
+     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T12:30:02Z",
+     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
+     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T16:32:27Z",
+     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:42:01Z",
+     "headline": "Netanyahu vows collective punishment after Hebron shooting",
+     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:00:48Z",
+     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T17:50:39Z",
+     "headline": "Rights group says Israel plans to displace Palestinians after attack",
+     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T18:38:26Z",
+     "headline": "Israel locks down occupied West Bank after Hebron shooting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T19:05:01Z",
+     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T21:21:00Z",
+     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T21:32:41Z",
+     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:37:00Z",
+     "headline": "Israel launches military operation in Hebron after two soldiers killed",
+     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T22:12:01Z",
+     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:27:22Z",
+     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T23:07:17Z",
+     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T00:00:00Z",
+     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:04:36Z",
+     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:42:09Z",
+     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israel launches major West Bank raids after soldiers killed",
+     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Hebron families after deadly attack",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T08:31:57Z",
+     "headline": "Israeli forces displace Palestinian families after troops killed",
+     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T08:40:54Z",
+     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T11:17:36Z",
+     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T11:20:22Z",
+     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:54:15Z",
+     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-24T12:19:34Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T12:27:16Z",
+     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T12:29:06Z",
+     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T12:37:31Z",
+     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T12:57:48Z",
+     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
+     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:46:36Z",
+     "headline": "Palestinian Authority condemns 'collective punishment'",
+     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T13:46:43Z",
+     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
+     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:50:12Z",
+     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T14:08:36Z",
+     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
+     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:23:26Z",
+     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
+     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
+    }
+   ]
+  },
+  {
    "id": 23500,
    "title": "First Russian diesel tanker heads to New York after Putin-Trump deal: Report",
    "category": "Energy & Environment",
@@ -1992,325 +2311,6 @@
      "time": "2026-10-20T14:47:15Z",
      "headline": "Iran Says Burning Tanker Found In Hormuz Restricted Zone, CENTCOM Rejected",
      "url": "https://www.kurdistan24.net/en/story/947421/iran-says-burning-tanker-found-in-hormuz-restricted-zone-centcom-rejected"
-    }
-   ]
-  },
-  {
-   "id": 22647,
-   "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-   "category": "Geopolitics",
-   "importance": 7.19,
-   "risk": 7.71,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 34,
-   "countries": [
-    "ISR",
-    "USA",
-    "IRQ",
-    "IND",
-    "SAU",
-    "QAT",
-    "GHA",
-    "CHN",
-    "TUR",
-    "ARE",
-    "CYP",
-    "SGP",
-    "GBR",
-    "OMN",
-    "FRA",
-    "PAK",
-    "IRL",
-    "TWN",
-    "CAN",
-    "THA",
-    "KWT",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T04:58:08Z",
-   "last_seen": "2026-10-25T12:17:39Z",
-   "page": "event/22647.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T04:58:08Z",
-     "headline": "Five Israelis wounded in West Bank shooting near Hebron: Two Palestinian assailants killed",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-23/ty-article/idf-two-israelis-wounded-in-west-bank-shooting-attack-near-hebron/000001a1-670e-d29a-a1a5-e7af44bc0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T05:15:21Z",
-     "headline": "Israeli military says forces kill suspected shooters near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T06:00:27Z",
-     "headline": "More on the shooting attack near Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T07:25:53Z",
-     "headline": "Hebron shooting: 2 Palestinians killed, 6 Israelis wounded",
-     "url": "https://www.newarab.com/news/hebron-shooting-2-palestinians-killed-6-israelis-wounded"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T07:29:39Z",
-     "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912642"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T10:32:49Z",
-     "headline": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:24:28Z",
-     "headline": "Israel vows major West Bank operation after attack kills 2 troops",
-     "url": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T12:30:02Z",
-     "headline": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
-     "url": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T16:32:27Z",
-     "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:42:01Z",
-     "headline": "Netanyahu vows collective punishment after Hebron shooting",
-     "url": "https://www.newarab.com/news/netanyahu-vows-collective-punishment-after-hebron-shooting"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:00:48Z",
-     "headline": "Netanyahu vows large-scale West Bank operation, starting with expulsion of Palestinians in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-large-scale-west-bank-operation-starting-expulsion"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:50:39Z",
-     "headline": "Rights group says Israel plans to displace Palestinians after attack",
-     "url": "https://www.arabnews.com/middle-east/rights-group-says-israel-plans-to-displace-palestinians-after-attack-3007953"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T18:38:26Z",
-     "headline": "Israel locks down occupied West Bank after Hebron shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T19:05:01Z",
-     "headline": "Rights group urges global pressure to halt Israel’s planned expulsions in Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-urges-global-pressure-halt-israels-planned-expulsions"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T21:21:00Z",
-     "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.myjoyonline.com/israeli-forces-begin-demolishing-palestinian-buildings-in-hebron-after-two-israeli-soldiers-shot-dead/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T21:32:41Z",
-     "headline": "Israeli forces launch raid on Hebron after West Bank shooting attack",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/israeli-forces-launch-raid-on-hebron-after-west-bank-shooting-attack/000001a1-6aa9-d46d-a1fd-eaa972130000"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:37:00Z",
-     "headline": "Israel launches military operation in Hebron after two soldiers killed",
-     "url": "https://english.news.cn/20261024/d8e53ddde9dd4ad9be2af149f61a9aa1/c.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T22:12:01Z",
-     "headline": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912675"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:27:22Z",
-     "headline": "Military vehicles storm West Bank’s Hebron as Israeli army starts days-long lockdown",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T23:07:17Z",
-     "headline": "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-launches-limited-counterterrorism-operation-after-2-idf-troops-killed-in-west-bank/articleshow/135158205.cms"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T00:00:00Z",
-     "headline": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:04:36Z",
-     "headline": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:42:09Z",
-     "headline": "Dozens of Palestinians detained during Israeli raids in West Bank",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-palestinians-detained-during-israeli-raids-west-bank"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israel launches major West Bank raids after soldiers killed",
-     "url": "https://www.newarab.com/news/israel-launches-major-west-bank-raids-after-soldiers-killed"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Hebron families after deadly attack",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-hebron-families-after-deadly-attack"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T08:31:57Z",
-     "headline": "Israeli forces displace Palestinian families after troops killed",
-     "url": "https://www.newarab.com/news/israeli-forces-displace-palestinian-families-after-troops-killed"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:40:54Z",
-     "headline": "Israeli army continues Hebron siege for 2nd day, arrests 19 Palestinians in West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-hebron-siege-for-2nd-day-arrests-19-palestinians-in-west-bank/4099312"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T11:17:36Z",
-     "headline": "More than 1,500 Palestinians driven from homes in Hebron since Friday",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-1500-palestinians-driven-homes-hebron-friday"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T11:20:22Z",
-     "headline": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:54:15Z",
-     "headline": "Israel Cracks Down in West Bank City After Deadly Attack",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-24T12:19:34Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://cyprus-mail.com/2026/10/24/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T12:27:16Z",
-     "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-     "url": "https://www.straitstimes.com/world/middle-east/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T12:29:06Z",
-     "headline": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T12:37:31Z",
-     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T12:57:48Z",
-     "headline": "Hebron municipality: 250 families evacuated from homes during IDF raid",
-     "url": "https://www.haaretz.com/west-bank/2026-10-24/ty-article/.premium/hebron-municipality-250-families-evacuated-from-homes-during-idf-raid/000001a1-6d77-d77d-a5f5-efff399c0000"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T13:46:36Z",
-     "headline": "Palestinian Authority condemns 'collective punishment'",
-     "url": "https://www.omanobserver.om/article/1198500/world/region/palestinian-authority-condemns-collective-punishment"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T13:46:43Z",
-     "headline": "Netanyahu says plans major West Bank operation as Israel places Hebron under closure after deadly attack",
-     "url": "https://english.news.cn/20261024/68aadf2a08214945a8677d547e597174/c.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:50:12Z",
-     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-     "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T14:08:36Z",
-     "headline": "Israeli Forces Displace Families In West Bank's Hebron After Deadly Attack",
-     "url": "https://www.ndtv.com/world-news/israeli-forces-displace-families-in-west-banks-hebron-after-deadly-attack-12230249#publisher=newsstand"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T14:23:26Z",
-     "headline": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
-     "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron"
     }
    ]
   },
@@ -3920,6 +3920,314 @@
    ]
   },
   {
+   "id": 24595,
+   "title": "Israel launches major West Bank operation after soldiers killed",
+   "category": "Geopolitics",
+   "importance": 7.01,
+   "risk": 6.74,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 29,
+   "countries": [
+    "USA",
+    "CAN",
+    "ISR",
+    "IND",
+    "MAR",
+    "IRL",
+    "AUS",
+    "TUR",
+    "CHN",
+    "PAK",
+    "SGP",
+    "EGY",
+    "QAT",
+    "FRA",
+    "SAU",
+    "GBR",
+    "IRN",
+    "NZL"
+   ],
+   "first_seen": "2026-10-23T08:05:06Z",
+   "last_seen": "2026-10-25T12:31:01Z",
+   "page": "event/24595.html",
+   "reports": [
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-23T08:05:06Z",
+     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
+     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-23T11:01:29Z",
+     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T12:39:37Z",
+     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-23T15:06:27Z",
+     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T16:26:16Z",
+     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-23T18:35:15Z",
+     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
+     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-23T19:50:03Z",
+     "headline": "West Bank attack may boost Netanyahu's election chances",
+     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
+    },
+    {
+     "outlet": "Foreign Policy",
+     "country": "USA",
+     "time": "2026-10-23T20:22:10Z",
+     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-23T21:30:10Z",
+     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
+     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T21:38:54Z",
+     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T21:53:53Z",
+     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
+     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T00:19:41Z",
+     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-24T00:39:40Z",
+     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
+     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T02:11:25Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T05:31:00Z",
+     "headline": "Israel launches West Bank operation after attack days before election",
+     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T05:33:56Z",
+     "headline": "Israel launches major West Bank operation after soldiers killed",
+     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-24T07:51:51Z",
+     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T09:14:40Z",
+     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T10:33:52Z",
+     "headline": "Netanyahu orders West Bank operation",
+     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T13:52:55Z",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:24:19Z",
+     "headline": "Full lockdown of occupied West Bank begins",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T14:30:28Z",
+     "headline": "Israel to close all land crossings with West Bank on election day",
+     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-24T14:31:04Z",
+     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:20:29Z",
+     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
+     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T22:09:44Z",
+     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
+     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T00:40:49Z",
+     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T01:17:13Z",
+     "headline": "Israel says closing all land crossings with West Bank on election day",
+     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:33:31Z",
+     "headline": "Israel presses ahead with West Bank army operation days before election",
+     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T03:21:35Z",
+     "headline": "Netanyahu shares text warning of 'second Holocaust' if he is not elected",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T05:00:08Z",
+     "headline": "Israel to close key access point on election day",
+     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:15:52Z",
+     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T05:29:04Z",
+     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T06:58:52Z",
+     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T07:02:17Z",
+     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
+     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:45:46Z",
+     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
+     "url": "https://english.aawsat.com/node/5333333"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T08:49:00Z",
+     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T10:29:23Z",
+     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
+     "url": "https://english.aawsat.com/node/5333383"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T11:22:06Z",
+     "headline": "Military conducts massive West Bank operation, days before Israeli election",
+     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T12:31:01Z",
+     "headline": "Israeli military conducts massive West Bank operation, days before Israel election",
+     "url": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
+    }
+   ]
+  },
+  {
    "id": 8843,
    "title": "Earthquake of magnitude 7 kills at least 16 in Tibet",
    "category": "Energy & Environment",
@@ -4813,307 +5121,6 @@
      "time": "2026-10-24T12:52:25Z",
      "headline": "Security high as France braces for new protests",
      "url": "https://www.bangkokpost.com/world/3342823/security-high-as-france-braces-for-new-protests"
-    }
-   ]
-  },
-  {
-   "id": 24595,
-   "title": "Israel launches major West Bank operation after soldiers killed",
-   "category": "Geopolitics",
-   "importance": 6.94,
-   "risk": 6.7,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 29,
-   "countries": [
-    "USA",
-    "CAN",
-    "ISR",
-    "IND",
-    "MAR",
-    "IRL",
-    "AUS",
-    "TUR",
-    "CHN",
-    "PAK",
-    "SGP",
-    "EGY",
-    "QAT",
-    "FRA",
-    "SAU",
-    "GBR",
-    "IRN",
-    "NZL"
-   ],
-   "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-25T11:22:06Z",
-   "page": "event/24595.html",
-   "reports": [
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-23T08:05:06Z",
-     "headline": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
-     "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-23T11:01:29Z",
-     "headline": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-     "url": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T12:39:37Z",
-     "headline": "Squad commander, combat soldier killed in West Bank terror attack, IDF confirms",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912657"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-23T15:06:27Z",
-     "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
-     "url": "https://www.pbs.org/newshour/world/israeli-military-says-2-soldiers-were-killed-in-the-west-bank-attack-that-also-left-2-gunmen-dead"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T16:26:16Z",
-     "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
-     "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-23T18:35:15Z",
-     "headline": "Netanyahu launches major West Bank operation after Israeli soldiers killed",
-     "url": "https://en.hespress.com/147877-netanyahu-launches-major-west-bank-operation-after-israeli-soldiers-killed.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T19:50:03Z",
-     "headline": "West Bank attack may boost Netanyahu's election chances",
-     "url": "https://www.rte.ie/news/analysis-and-comment/2026/1023/1596677-israel-analysis/"
-    },
-    {
-     "outlet": "Foreign Policy",
-     "country": "USA",
-     "time": "2026-10-23T20:22:10Z",
-     "headline": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-     "url": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-23T21:30:10Z",
-     "headline": "Netanyahu vows 'house-by-house' retaliation after two soldiers killed in West Bank",
-     "url": "https://www.sbs.com.au/news/article/netanyahu-vows-house-by-house-retaliation-after-two-idf-soldiers-killed-in-west-bank/8q4y7dmzk"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T21:38:54Z",
-     "headline": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T21:53:53Z",
-     "headline": "Netanyahu threatens largest Israeli military offensive in West Bank since 1967",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-threatens-largest-israeli-military-offensive-in-west-bank-since-1967-3230902"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T00:19:41Z",
-     "headline": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T00:39:40Z",
-     "headline": "Netanyahu says Israel is planning a major West Bank military operation",
-     "url": "https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T02:11:25Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T05:31:00Z",
-     "headline": "Israel launches West Bank operation after attack days before election",
-     "url": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T05:33:56Z",
-     "headline": "Israel launches major West Bank operation after soldiers killed",
-     "url": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-24T07:51:51Z",
-     "headline": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "url": "https://www.egyptindependent.com/israel-begins-demolitions-in-west-bank-city-after-two-soldiers-killed-in-shooting-attack/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T09:14:40Z",
-     "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T10:33:52Z",
-     "headline": "Netanyahu orders West Bank operation",
-     "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T13:52:55Z",
-     "headline": "Israel to close all West Bank land crossings on election day",
-     "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:24:19Z",
-     "headline": "Full lockdown of occupied West Bank begins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T14:30:28Z",
-     "headline": "Israel to close all land crossings with West Bank on election day",
-     "url": "https://www.al-monitor.com/originals/2026/10/israel-close-all-land-crossings-west-bank-election-day"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-24T14:31:04Z",
-     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-     "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:20:29Z",
-     "headline": "1,200 Palestinians displaced in West Bank operation after Israeli soldiers killed",
-     "url": "https://www.sbs.com.au/news/article/1-200-palestinians-displaced-in-west-bank-operation-after-israeli-soldiers-killed/2fbwt93yf"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T22:09:44Z",
-     "headline": "IDF announces general closure for West Bank Palestinians on Israel's Election Day",
-     "url": "https://www.haaretz.com/west-bank/2026-10-25/ty-article/.premium/idf-announces-general-west-bank-closure-on-israels-election-day/000001a1-6fe4-d9e6-a5b1-6feda7180000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T00:40:49Z",
-     "headline": "Israel restricts entry of Palestinian labourers to West Bank areas",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T01:17:13Z",
-     "headline": "Israel says closing all land crossings with West Bank on election day",
-     "url": "https://www.arabnews.com/middle-east/israel-says-closing-all-land-crossings-with-west-bank-on-election-day-3008141"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:33:31Z",
-     "headline": "Israel presses ahead with West Bank army operation days before election",
-     "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T03:21:35Z",
-     "headline": "Netanyahu shares text warning of 'second Holocaust' if he is not elected",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T05:00:08Z",
-     "headline": "Israel to close key access point on election day",
-     "url": "https://www.sbs.com.au/news/article/israel-to-close-key-access-point-on-election-day/aixn91czk"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:15:52Z",
-     "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T05:29:04Z",
-     "headline": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
-     "url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T06:58:52Z",
-     "headline": "IDF evacuates Israeli rioters after fire breaks out near Palestinian West Bank town",
-     "url": "https://www.jpost.com/israel-news/defense-news/article-912736"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T07:02:17Z",
-     "headline": "Israel to seal off West Bank on election day, barring Palestinian workers",
-     "url": "https://www.turkiyetoday.com/region/israel-to-seal-off-west-bank-on-election-day-barring-palestinian-workers-3230968"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:45:46Z",
-     "headline": "Israel to Close All Land Crossings with West Bank on Election Day",
-     "url": "https://english.aawsat.com/node/5333333"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T08:49:00Z",
-     "headline": "Israel to close all land crossings with West Bank on Oct 27 election day",
-     "url": "https://www.straitstimes.com/world/middle-east/israel-to-close-all-land-crossings-with-west-bank-on-oct-27-election-day"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T10:29:23Z",
-     "headline": "Days before Israeli Election, Military Conducts Massive West Bank Operation",
-     "url": "https://english.aawsat.com/node/5333383"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T11:22:06Z",
-     "headline": "Military conducts massive West Bank operation, days before Israeli election",
-     "url": "https://www.stuff.co.nz/world-news/361051016/days-israeli-election-military-conducts-massive-west"
     }
    ]
   },
@@ -6706,6 +6713,268 @@
    ]
   },
   {
+   "id": 13172,
+   "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
+   "category": "Geopolitics",
+   "importance": 6.46,
+   "risk": 1.6,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "URY",
+    "USA",
+    "FRA",
+    "TUR",
+    "QAT",
+    "SGP",
+    "MOZ",
+    "BRA",
+    "NLD",
+    "AUS",
+    "EGY",
+    "GBR",
+    "CYP",
+    "IRL"
+   ],
+   "first_seen": "2026-10-18T19:43:00Z",
+   "last_seen": "2026-10-25T12:48:31Z",
+   "page": "event/13172.html",
+   "reports": [
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-18T19:43:00Z",
+     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
+     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-19T06:15:00Z",
+     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
+     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T08:03:24Z",
+     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
+     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T09:21:10Z",
+     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-19T14:13:23Z",
+     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-19T14:16:05Z",
+     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-19T17:24:28Z",
+     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T09:06:35Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
+    },
+    {
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T10:06:12Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T02:21:54Z",
+     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
+     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T08:44:07Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T09:48:00Z",
+     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
+     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:02:00Z",
+     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T10:30:00Z",
+     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
+     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T08:08:03Z",
+     "headline": "Brazil candidates make final campaign push ahead of presidential runoff",
+     "url": "http://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T11:14:47Z",
+     "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+     "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T22:09:36Z",
+     "headline": "On eve of Brazilian presidential runoff, polls put Bolsonaro narrowly ahead of Lula",
+     "url": "https://www.aa.com.tr/en/americas/on-eve-of-brazilian-presidential-runoff-polls-put-bolsonaro-narrowly-ahead-of-lula/4099904"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T23:36:38Z",
+     "headline": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T23:44:10Z",
+     "headline": "Tens of thousands take to streets in Brazil ahead of closely contested runoff",
+     "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T05:30:40Z",
+     "headline": "Brazilian candidates hold final rallies as runoff race remains tight",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-candidates-hold-final-rallies-as-runoff-race-remains-tight/4099954"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T05:52:27Z",
+     "headline": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+     "url": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T06:05:34Z",
+     "headline": "What to know as Brazilians choose between Lula and Bolsonaro in tense presidential runoff",
+     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T07:02:00Z",
+     "headline": "Brazil chooses between Lula and Bolsonaro in its tightest runoff in recent history",
+     "url": "https://en.mercopress.com/2026/10/25/brazil-chooses-between-lula-and-bolsonaro-in-its-tightest-runoff-in-recent-history?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-25T07:25:10Z",
+     "headline": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
+     "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T08:00:58Z",
+     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:37:28Z",
+     "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
+     "url": "https://cyprus-mail.com/2026/10/25/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr"
+    },
+    {
+     "outlet": "Agência Brasil (English)",
+     "country": "BRA",
+     "time": "2026-10-25T10:00:00Z",
+     "headline": "Brazil to elect its next president this Sunday",
+     "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/brazil-elect-its-next-president-sunday"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:40:38Z",
+     "headline": "Polls open in Brazil presidential runoff",
+     "url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T11:49:26Z",
+     "headline": "Brazilians head to polls in presidential election",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596792-brazil-election/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T11:51:22Z",
+     "headline": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/latest-brazilians-choose-lula-flvio-bolsonaro-presidential-runoff-137550398"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T12:24:28Z",
+     "headline": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.",
+     "url": "https://cyprus-mail.com/2026/10/25/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T12:48:31Z",
+     "headline": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
+     "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections"
+    }
+   ]
+  },
+  {
    "id": 16782,
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
@@ -7014,254 +7283,6 @@
      "time": "2026-10-25T00:46:40Z",
      "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
      "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
-    }
-   ]
-  },
-  {
-   "id": 13172,
-   "title": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
-   "category": "Geopolitics",
-   "importance": 6.34,
-   "risk": 1.41,
-   "confidence": 0.92,
-   "status": "peaking",
-   "outlets": 18,
-   "countries": [
-    "URY",
-    "USA",
-    "FRA",
-    "TUR",
-    "QAT",
-    "SGP",
-    "MOZ",
-    "BRA",
-    "NLD",
-    "AUS",
-    "EGY",
-    "GBR",
-    "CYP",
-    "IRL"
-   ],
-   "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-25T12:24:28Z",
-   "page": "event/13172.html",
-   "reports": [
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-18T19:43:00Z",
-     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
-     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-19T06:15:00Z",
-     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
-     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T08:03:24Z",
-     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
-     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T09:21:10Z",
-     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
-     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-19T14:13:23Z",
-     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-19T14:16:05Z",
-     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
-     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T17:24:28Z",
-     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:35Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T10:06:12Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T02:21:54Z",
-     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
-     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T08:44:07Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T09:48:00Z",
-     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
-     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:02:00Z",
-     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T10:30:00Z",
-     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
-     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-24T08:08:03Z",
-     "headline": "Brazil candidates make final campaign push ahead of presidential runoff",
-     "url": "http://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T11:14:47Z",
-     "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
-     "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T22:09:36Z",
-     "headline": "On eve of Brazilian presidential runoff, polls put Bolsonaro narrowly ahead of Lula",
-     "url": "https://www.aa.com.tr/en/americas/on-eve-of-brazilian-presidential-runoff-polls-put-bolsonaro-narrowly-ahead-of-lula/4099904"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T23:36:38Z",
-     "headline": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T23:44:10Z",
-     "headline": "Tens of thousands take to streets in Brazil ahead of closely contested runoff",
-     "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T05:30:40Z",
-     "headline": "Brazilian candidates hold final rallies as runoff race remains tight",
-     "url": "https://www.aa.com.tr/en/americas/brazilian-candidates-hold-final-rallies-as-runoff-race-remains-tight/4099954"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T05:52:27Z",
-     "headline": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
-     "url": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T06:05:34Z",
-     "headline": "What to know as Brazilians choose between Lula and Bolsonaro in tense presidential runoff",
-     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T07:02:00Z",
-     "headline": "Brazil chooses between Lula and Bolsonaro in its tightest runoff in recent history",
-     "url": "https://en.mercopress.com/2026/10/25/brazil-chooses-between-lula-and-bolsonaro-in-its-tightest-runoff-in-recent-history?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-25T07:25:10Z",
-     "headline": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
-     "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T08:00:58Z",
-     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-     "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:37:28Z",
-     "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
-     "url": "https://cyprus-mail.com/2026/10/25/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr"
-    },
-    {
-     "outlet": "Agência Brasil (English)",
-     "country": "BRA",
-     "time": "2026-10-25T10:00:00Z",
-     "headline": "Brazil to elect its next president this Sunday",
-     "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/brazil-elect-its-next-president-sunday"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T11:49:26Z",
-     "headline": "Brazilians head to polls in presidential election",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596792-brazil-election/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T11:51:22Z",
-     "headline": "The Latest: Brazilians choose between Lula and Flávio Bolsonaro in presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/latest-brazilians-choose-lula-flvio-bolsonaro-presidential-runoff-137550398"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T12:24:28Z",
-     "headline": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.",
-     "url": "https://cyprus-mail.com/2026/10/25/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr"
     }
    ]
   },
@@ -8049,171 +8070,6 @@
      "time": "2026-10-24T01:55:15Z",
      "headline": "Australian MP's condition improves after alleged car attack",
      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
-    }
-   ]
-  },
-  {
-   "id": 22478,
-   "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-   "category": "Technology & Cyber",
-   "importance": 6.1,
-   "risk": 1.26,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 15,
-   "countries": [
-    "RUS",
-    "BEL",
-    "UKR",
-    "GHA",
-    "GBR",
-    "NZL",
-    "USA",
-    "SAU"
-   ],
-   "first_seen": "2026-10-23T01:09:05Z",
-   "last_seen": "2026-10-24T15:31:14Z",
-   "page": "event/22478.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T01:09:05Z",
-     "headline": "Ukrainian military says using Starlink satellite network without restrictions — media",
-     "url": "https://tass.com/world/2206615"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T07:28:58Z",
-     "headline": "Starlink speed restrictions remain in place in Ukraine despite Trump’s claim they were lifted",
-     "url": "https://meduza.io/en/news/2026/10/23/starlink-speed-restrictions-remain-in-place-in-ukraine-despite-trump-s-claim-they-were-lifted"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T08:05:53Z",
-     "headline": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-     "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T08:22:00Z",
-     "headline": "Ukraine has not confirmed lifting of Starlink/Starshield speed limits",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059366/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T08:57:17Z",
-     "headline": "Some Starlink, Starshield restrictions still remain in Ukraine - former adviser",
-     "url": "https://tass.com/world/2206711"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:44:05Z",
-     "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "url": "https://www.myjoyonline.com/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T12:09:08Z",
-     "headline": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T18:57:00Z",
-     "headline": "President: Speed limits for Starlink and Starshield remain in effect",
-     "url": "https://www.ukrinform.net/rubric-ato/4177636-president-speed-limits-for-starlink-and-starshield-remain-in-effect.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T06:37:00Z",
-     "headline": "Starlink is working again at speeds above 400 km/h – UP sources",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T06:56:00Z",
-     "headline": "Starlink, Starshield Speeds Exceed 161 km/h in Ukraine, MoD Says",
-     "url": "https://www.kyivpost.com/post/88053"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T07:15:00Z",
-     "headline": "Starlink and Starshield operating at speeds above 161 km/h – source",
-     "url": "https://www.ukrinform.net/rubric-ato/4177728-starlink-and-starshield-operating-at-speeds-above-161-kmh-source.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T10:45:48Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.independent.co.uk/news/world/americas/ukraine-kyiv-melania-trump-moscow-donald-trump-b3072656.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T11:09:40Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.stuff.co.nz/world-news/361050785/ukraine-says-starlink-speed-limits-lifted-after-slowdown-t"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-24T13:00:35Z",
-     "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-     "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T13:11:00Z",
-     "headline": "Zelenskyy confirms Starlink and Starshield are back up and running: Now we have the speed we need",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059550/"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-24T13:29:00Z",
-     "headline": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
-     "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T14:15:00Z",
-     "headline": "Starlink and Starshield back to required speeds – Zelensky",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T14:37:27Z",
-     "headline": "Ukraine says Starlink back to normal after week of throttling",
-     "url": "https://www.arabnews.com/world/ukraine-says-starlink-back-to-normal-after-week-of-throttling-3008067"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-24T15:18:06Z",
-     "headline": "Starlink in Ukraine Back to Normal After Week of Throttling",
-     "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T15:31:14Z",
-     "headline": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-     "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
     }
    ]
   },
@@ -9040,152 +8896,6 @@
    ]
   },
   {
-   "id": 23090,
-   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-   "category": "Geopolitics",
-   "importance": 6.01,
-   "risk": 5.74,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "ISR",
-    "SAU",
-    "FRA",
-    "IND",
-    "USA",
-    "QAT",
-    "SGP",
-    "AUS",
-    "IRN",
-    "AFG"
-   ],
-   "first_seen": "2026-10-22T20:16:39Z",
-   "last_seen": "2026-10-25T08:38:24Z",
-   "page": "event/23090.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-22T20:16:39Z",
-     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T09:38:38Z",
-     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T16:15:37Z",
-     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T16:54:29Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T18:21:09Z",
-     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T18:21:55Z",
-     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T18:23:08Z",
-     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
-     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T18:30:22Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T19:11:48Z",
-     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T20:21:07Z",
-     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
-     "url": "https://www.jpost.com/israel-news/article-912722"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:07Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T23:20:47Z",
-     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
-     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T23:34:37Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:10:00Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T04:51:29Z",
-     "headline": "Thousands protest against Netanyahu ahead of elections",
-     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T07:25:46Z",
-     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T08:38:24Z",
-     "headline": "Thousands of Israelis Rally Against Netanyahu Ahead of Parliamentary Election",
-     "url": "https://www.khaama.com/tel-aviv-protest-october-7-inquiry-israel-election/"
-    }
-   ]
-  },
-  {
    "id": 26331,
    "title": "Fire devastates former Hitler guest house 'Eagle's Nest'",
    "category": "Society & Law",
@@ -9446,6 +9156,159 @@
      "time": "2026-10-25T10:36:00Z",
      "headline": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "id": 23090,
+   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+   "category": "Geopolitics",
+   "importance": 6.01,
+   "risk": 5.43,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "ISR",
+    "SAU",
+    "FRA",
+    "IND",
+    "USA",
+    "QAT",
+    "SGP",
+    "AUS",
+    "IRN",
+    "AFG"
+   ],
+   "first_seen": "2026-10-22T20:16:39Z",
+   "last_seen": "2026-10-25T11:38:01Z",
+   "page": "event/23090.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-22T20:16:39Z",
+     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T09:38:38Z",
+     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T16:15:37Z",
+     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T16:54:29Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T18:21:09Z",
+     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T18:21:55Z",
+     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T18:23:08Z",
+     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
+     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T18:30:22Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T19:11:48Z",
+     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T20:21:07Z",
+     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
+     "url": "https://www.jpost.com/israel-news/article-912722"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:50:07Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-24T23:20:47Z",
+     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
+     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T23:34:37Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T00:10:00Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T04:51:29Z",
+     "headline": "Thousands protest against Netanyahu ahead of elections",
+     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T07:25:46Z",
+     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T08:38:24Z",
+     "headline": "Thousands of Israelis Rally Against Netanyahu Ahead of Parliamentary Election",
+     "url": "https://www.khaama.com/tel-aviv-protest-october-7-inquiry-israel-election/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:38:01Z",
+     "headline": "Israel: Demonstrators rally against government ahead of election",
+     "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election"
     }
    ]
   },
@@ -9767,11 +9630,11 @@
    "id": 21280,
    "title": "Kremlin: Trilateral talks on Ukraine planned in Abu Dhabi in first half of November",
    "category": "Geopolitics",
-   "importance": 5.96,
-   "risk": 3.26,
+   "importance": 5.98,
+   "risk": 3.23,
    "confidence": 0.93,
    "status": "fading",
-   "outlets": 18,
+   "outlets": 19,
    "countries": [
     "RUS",
     "AZE",
@@ -9785,10 +9648,11 @@
     "SGP",
     "PAK",
     "CYP",
-    "USA"
+    "USA",
+    "ISR"
    ],
    "first_seen": "2026-10-22T12:24:01Z",
-   "last_seen": "2026-10-24T10:31:00Z",
+   "last_seen": "2026-10-25T12:49:20Z",
    "page": "event/21280.html",
    "reports": [
     {
@@ -9944,6 +9808,13 @@
      "time": "2026-10-24T10:31:00Z",
      "headline": "US-Ukraine-Russia Talks Slated for Abu Dhabi or Switzerland",
      "url": "https://www.kyivpost.com/post/88064"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T12:49:20Z",
+     "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
     }
    ]
   },
@@ -10125,213 +9996,6 @@
      "time": "2026-10-25T02:00:49Z",
      "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
-    }
-   ]
-  },
-  {
-   "id": 28198,
-   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-   "category": "Geopolitics",
-   "importance": 5.92,
-   "risk": 7.15,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 21,
-   "countries": [
-    "USA",
-    "JAM",
-    "NGA",
-    "SGP",
-    "QAT",
-    "SAU",
-    "IRL",
-    "GBR",
-    "GHA",
-    "PHL",
-    "BGD",
-    "OMN",
-    "PAK",
-    "ZAF",
-    "KEN"
-   ],
-   "first_seen": "2026-10-23T03:59:00Z",
-   "last_seen": "2026-10-25T10:05:42Z",
-   "page": "event/28198.html",
-   "reports": [
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-23T03:59:00Z",
-     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
-     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T20:01:59Z",
-     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T21:17:54Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T21:18:50Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:33:40Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T00:34:43Z",
-     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T00:37:13Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T01:08:53Z",
-     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T02:27:15Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T02:45:31Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T03:19:10Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-25T04:03:53Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T04:15:07Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty'",
-     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T04:44:43Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T07:09:37Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T07:34:12Z",
-     "headline": "Obama criticises Trump over Iran war, rising prices",
-     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T07:55:00Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T08:20:30Z",
-     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
-     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T08:44:17Z",
-     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T08:47:49Z",
-     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
-     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-25T09:29:57Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T10:05:42Z",
-     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
     }
    ]
   },
@@ -10893,6 +10557,221 @@
      "time": "2026-10-24T21:55:00Z",
      "headline": "Trump admits to discussing situation in Ukraine with Elon Musk",
      "url": "https://tass.com/world/2207357"
+    }
+   ]
+  },
+  {
+   "id": 28198,
+   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+   "category": "Geopolitics",
+   "importance": 5.87,
+   "risk": 6.52,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 22,
+   "countries": [
+    "USA",
+    "JAM",
+    "NGA",
+    "SGP",
+    "QAT",
+    "SAU",
+    "IRL",
+    "GBR",
+    "GHA",
+    "PHL",
+    "BGD",
+    "OMN",
+    "PAK",
+    "ZAF",
+    "KEN",
+    "FRA"
+   ],
+   "first_seen": "2026-10-23T03:59:00Z",
+   "last_seen": "2026-10-25T11:36:56Z",
+   "page": "event/28198.html",
+   "reports": [
+    {
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-23T03:59:00Z",
+     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
+     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T20:01:59Z",
+     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T21:17:54Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T21:18:50Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:33:40Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T00:34:43Z",
+     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T00:37:13Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T01:08:53Z",
+     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T02:27:15Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T02:45:31Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T03:19:10Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-25T04:03:53Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T04:15:07Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty'",
+     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T04:44:43Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T07:09:37Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T07:34:12Z",
+     "headline": "Obama criticises Trump over Iran war, rising prices",
+     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T07:55:00Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T08:20:30Z",
+     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
+     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T08:44:17Z",
+     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T08:47:49Z",
+     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
+     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-25T09:29:57Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T10:05:42Z",
+     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:36:56Z",
+     "headline": "Obama hits campaign trail for democrats",
+     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
     }
    ]
   },
@@ -11919,6 +11798,317 @@
    ]
   },
   {
+   "id": 6981,
+   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+   "category": "Business",
+   "importance": 5.73,
+   "risk": 1.77,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 24,
+   "countries": [
+    "ARE",
+    "ZAF",
+    "SGP",
+    "USA",
+    "COL",
+    "PAK",
+    "TWN",
+    "IND",
+    "SAU",
+    "KOR",
+    "NLD",
+    "CYP",
+    "OMN",
+    "EGY"
+   ],
+   "first_seen": "2026-10-16T09:13:27Z",
+   "last_seen": "2026-10-25T12:42:22Z",
+   "page": "event/6981.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-16T09:13:27Z",
+     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
+     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-16T13:13:00Z",
+     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-16T14:17:00Z",
+     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
+     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-16T22:31:26Z",
+     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-17T04:01:00Z",
+     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
+     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-17T11:27:08Z",
+     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-17T13:00:00Z",
+     "headline": "iPhone Duo orders open in South Africa at R48k",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
+    },
+    {
+     "outlet": "News24",
+     "country": "ZAF",
+     "time": "2026-10-19T15:52:21Z",
+     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
+     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T12:28:35Z",
+     "headline": "Apple iPhone Duo review: Your productivity will hinge on this pocket rocket",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-21T14:57:30Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T00:00:00Z",
+     "headline": "Apple’s iPhone factories will not make India the next China",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:51:22Z",
+     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
+     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-22T02:52:45Z",
+     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
+     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-22T03:30:19Z",
+     "headline": "6 things to know before you buy the iPhone Duo",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T07:20:48Z",
+     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
+     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T08:46:00Z",
+     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-22T11:22:04Z",
+     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:27:10Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T01:10:00Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:26:45Z",
+     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
+     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
+    },
+    {
+     "outlet": "DigiTimes Asia",
+     "country": "TWN",
+     "time": "2026-10-23T02:41:12Z",
+     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
+     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:54:14Z",
+     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
+     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T05:07:00Z",
+     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T05:56:19Z",
+     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
+     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T06:12:57Z",
+     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
+     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:32:24Z",
+     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
+     "url": "https://english.aawsat.com/node/5332596"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-23T06:40:50Z",
+     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
+     "url": "https://www.koreaherald.com/article/10912978"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:18:36Z",
+     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
+     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T07:59:01Z",
+     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
+     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T08:23:31Z",
+     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
+     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T08:54:10Z",
+     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
+     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
+    },
+    {
+     "outlet": "Mothership",
+     "country": "SGP",
+     "time": "2026-10-23T11:07:09Z",
+     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
+     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T11:14:58Z",
+     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
+     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
+    },
+    {
+     "outlet": "Fast Company",
+     "country": "USA",
+     "time": "2026-10-23T11:54:00Z",
+     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
+     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T14:04:00Z",
+     "headline": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed",
+     "url": "https://iol.co.za/technology/2026-10-23-iphone-duo-south-africa-launch-apples-r48000-foldable-reviewed/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:53:57Z",
+     "headline": "Apple's foldable iPhone hits stores",
+     "url": "https://www.omanobserver.om/article/1198429/world/apples-foldable-iphone-hits-stores"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T18:34:58Z",
+     "headline": "Apple's foldable iPhone hits stores with US$2,000 price tag and scarce supply",
+     "url": "https://www.channelnewsasia.com/world/iphone-duo-foldable-apple-launch-ternus-6487866"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T05:00:00Z",
+     "headline": "iPhone Duo goes on sale in SA, but taking it out on contract is going to break the bank",
+     "url": "https://iol.co.za/technology/gadgets/2026-10-24-iphone-duo-goes-on-sale-in-sa-but-taking-it-out-on-contract-is-going-to-break-the-bank/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T10:00:00Z",
+     "headline": "iPhone Duo, why it's already the best folding phone in South Africa",
+     "url": "https://iol.co.za/technology/2026-10-24-iphone-duo-why-its-already-the-best-folding-phone-in-south-africa/"
+    },
+    {
+     "outlet": "TechCrunch",
+     "country": "USA",
+     "time": "2026-10-24T15:00:00Z",
+     "headline": "These clever apps show off the iPhone Duo’s potential",
+     "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+    }
+   ]
+  },
+  {
    "id": 9132,
    "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
    "category": "Health & Science",
@@ -12400,316 +12590,6 @@
      "time": "2026-10-25T10:07:34Z",
      "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
      "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
-    }
-   ]
-  },
-  {
-   "id": 6981,
-   "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-   "category": "Business",
-   "importance": 5.71,
-   "risk": 1.91,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 23,
-   "countries": [
-    "ARE",
-    "ZAF",
-    "SGP",
-    "USA",
-    "COL",
-    "PAK",
-    "TWN",
-    "IND",
-    "SAU",
-    "KOR",
-    "NLD",
-    "CYP",
-    "OMN"
-   ],
-   "first_seen": "2026-10-16T09:13:27Z",
-   "last_seen": "2026-10-25T05:04:29Z",
-   "page": "event/6981.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-16T09:13:27Z",
-     "headline": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
-     "url": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-5-things-apples-foldable-changes-and-what-it-costs-you-1.500712941"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-16T13:13:00Z",
-     "headline": "iPhone Duo price confirmed in South Africa: Starts at just under R50k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-16-iphone-duo-price-confirmed-in-south-africa-starts-at-just-under-r50k/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-16T14:17:00Z",
-     "headline": "Apple iPhone Duo orders slip into 2027 amid preorder frenzy",
-     "url": "https://www.straitstimes.com/world/united-states/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-16T22:31:26Z",
-     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-17T04:01:00Z",
-     "headline": "5 Android Foldable Phones That Compete With Apple’s iPhone Duo",
-     "url": "https://colombiaone.com/2026/10/16/android-foldable-phones-iphone-duo-alternatives/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-17T11:27:08Z",
-     "headline": "Apple to 'work hard' to fulfil iPhone Duo deliveries as orders overwhelm stock",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/17/apple-to-work-hard-to-fulfil-iphone-duo-deliveries-as-orders-overwhelm-stock/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-17T13:00:00Z",
-     "headline": "iPhone Duo orders open in South Africa at R48k",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-17-iphone-duo-orders-open-in-south-africa-at-r48k/"
-    },
-    {
-     "outlet": "News24",
-     "country": "ZAF",
-     "time": "2026-10-19T15:52:21Z",
-     "headline": "News24 | Cheapest foldable iPhone will cost you R48 000 in SA",
-     "url": "https://www.news24.com/business/tech/iphone-duo-now-available-in-sa-from-r47-999-20261019-0625"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T12:28:35Z",
-     "headline": "Apple iPhone Duo review: Your productivity will hinge on this pocket rocket",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-21T14:57:30Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Apple’s iPhone factories will not make India the next China",
-     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/22/2003866396"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:51:22Z",
-     "headline": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-     "url": "https://www.digitimes.com/news/a20261022PD219/iphone-apple-shipments-demand-foldable.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-22T02:52:45Z",
-     "headline": "iPhone Duo preorders surge, but sales momentum remains uncertain",
-     "url": "https://www.digitimes.com/news/a20261022PD209/iphone-sales-apple-foldable-demand.html"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T03:30:19Z",
-     "headline": "6 things to know before you buy the iPhone Duo",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-duo-6-things-to-know-before-buying-10931612/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T07:20:48Z",
-     "headline": "Apple will have limited iPhone Duo units available in stores on Friday",
-     "url": "https://tribune.com.pk/story/2636330/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T08:46:00Z",
-     "headline": "Hands-on with the iPhone Duo: Will Apple's R48k foldable be worth the hype?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-22-hands-on-with-the-iphone-duo-will-apples-r48k-foldable-be-worth-the-hype/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T11:22:04Z",
-     "headline": "Can a customer buy more than two iPhones at one time: What Apple Store 'warning' says",
-     "url": "https://timesofindia.indiatimes.com/technology/tech-news/can-a-customer-buy-more-than-two-iphones-at-one-time-heres-what-apple-store-warning-in-india-says/articleshow/135117430.cms"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:27:10Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://tribune.com.pk/story/2636465/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T01:10:00Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.straitstimes.com/world/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:26:45Z",
-     "headline": "Apple's iPhone Duo and touchscreen MacBook could accelerate OLED TDDI adoption",
-     "url": "https://www.digitimes.com/news/a20261023PD215/apple-iphone-macbook-tddi-adoption.html"
-    },
-    {
-     "outlet": "DigiTimes Asia",
-     "country": "TWN",
-     "time": "2026-10-23T02:41:12Z",
-     "headline": "Apple's foldable iPhone Duo launches in China with delivery stretching into 2027",
-     "url": "https://www.digitimes.com/news/a20261023PD223/iphone-foldable-apple-2027-launch.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:54:14Z",
-     "headline": "Apple launches into foldable market as iPhone Duo sales begin",
-     "url": "https://www.brecorder.com/news/40445582/apple-launches-into-foldable-market-as-iphone-duo-sales-begin"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T05:07:00Z",
-     "headline": "iPhone Duo SA contract prices revealed: Do you need to sell a kidney?",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-23-iphone-duo-sa-contract-prices-revealed-do-you-need-to-sell-a-kidney/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T05:56:19Z",
-     "headline": "iPhone Duo on sale in UAE today: Prices, features, colours and everything you need to know",
-     "url": "https://gulfnews.com/technology/iphone-duo-on-sale-in-uae-today-prices-features-colours-and-everything-you-need-to-know-1.500720713"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T06:12:57Z",
-     "headline": "iPhone Duo on sale in UAE: Is Apple's Dh8,499 foldable worth it? The real cost of owning one",
-     "url": "https://gulfnews.com/uae/iphone-duo-on-sale-in-uae-is-apples-dh8499-foldable-worth-it-the-real-cost-of-owning-one-1.500720723"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:32:24Z",
-     "headline": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
-     "url": "https://english.aawsat.com/node/5332596"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-23T06:40:50Z",
-     "headline": "'Because it's Apple': What drives Korea's first iPhone Duo buyers",
-     "url": "https://www.koreaherald.com/article/10912978"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:18:36Z",
-     "headline": "Why the iPhone Duo camera falls behind the iPhone 18 Pro: What the foldable sacrifices",
-     "url": "https://gulfnews.com/technology/why-the-iphone-duo-camera-falls-behind-the-iphone-18-pro-what-the-foldable-sacrifices-1.500720786"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T07:59:01Z",
-     "headline": "iPhone Duo out: Vietnamese man, 30, admits it's his 15th year in S'pore to buy latest iPhone",
-     "url": "https://mothership.sg/2026/10/iphone-duo-singapore-launch/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:23:31Z",
-     "headline": "Something quirky with the iPhone Duo: Apple’s $1,999 foldable runs some apps like tiny iPhone apps",
-     "url": "https://gulfnews.com/technology/something-quirky-with-the-iphone-duo-apples-1999-foldable-runs-some-apps-like-tiny-iphone-apps-1.500720801"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T08:54:10Z",
-     "headline": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
-     "url": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
-    },
-    {
-     "outlet": "Mothership",
-     "country": "SGP",
-     "time": "2026-10-23T11:07:09Z",
-     "headline": "iPhone Duo going for up to S$8,888 on Carousell after launch in S'pore on Oct. 23",
-     "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T11:14:58Z",
-     "headline": "Apple’s foldable iPhone hits stores with €2,300 price tag and scarce supply",
-     "url": "https://cyprus-mail.com/2026/10/23/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply"
-    },
-    {
-     "outlet": "Fast Company",
-     "country": "USA",
-     "time": "2026-10-23T11:54:00Z",
-     "headline": "The iPhone Duo goes on sale today. Here’s how you could still get one in a store, despite ‘extraordinary’ demand",
-     "url": "https://www.fastcompany.com/91628982/iphone-duo-on-sale-today-apple-store-walk-in-strong-demand"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T14:04:00Z",
-     "headline": "iPhone Duo South Africa launch: Apple's R48,000 foldable reviewed",
-     "url": "https://iol.co.za/technology/2026-10-23-iphone-duo-south-africa-launch-apples-r48000-foldable-reviewed/"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:53:57Z",
-     "headline": "Apple's foldable iPhone hits stores",
-     "url": "https://www.omanobserver.om/article/1198429/world/apples-foldable-iphone-hits-stores"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T18:34:58Z",
-     "headline": "Apple's foldable iPhone hits stores with US$2,000 price tag and scarce supply",
-     "url": "https://www.channelnewsasia.com/world/iphone-duo-foldable-apple-launch-ternus-6487866"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T05:00:00Z",
-     "headline": "iPhone Duo goes on sale in SA, but taking it out on contract is going to break the bank",
-     "url": "https://iol.co.za/technology/gadgets/2026-10-24-iphone-duo-goes-on-sale-in-sa-but-taking-it-out-on-contract-is-going-to-break-the-bank/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T10:00:00Z",
-     "headline": "iPhone Duo, why it's already the best folding phone in South Africa",
-     "url": "https://iol.co.za/technology/2026-10-24-iphone-duo-why-its-already-the-best-folding-phone-in-south-africa/"
-    },
-    {
-     "outlet": "TechCrunch",
-     "country": "USA",
-     "time": "2026-10-24T15:00:00Z",
-     "headline": "These clever apps show off the iPhone Duo’s potential",
-     "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
     }
    ]
   },
@@ -13382,6 +13262,179 @@
      "time": "2026-10-24T19:21:39Z",
      "headline": "Iran finishes sixth at Nagoya Asian Para Games",
      "url": "https://en.mehrnews.com/news/248865/Iran-finishes-sixth-at-Nagoya-Asian-Para-Games"
+    }
+   ]
+  },
+  {
+   "id": 22478,
+   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+   "category": "Technology & Cyber",
+   "importance": 5.66,
+   "risk": 1.05,
+   "confidence": 0.88,
+   "status": "fading",
+   "outlets": 16,
+   "countries": [
+    "RUS",
+    "BEL",
+    "UKR",
+    "GHA",
+    "GBR",
+    "NZL",
+    "USA",
+    "SAU",
+    "IND"
+   ],
+   "first_seen": "2026-10-23T01:09:05Z",
+   "last_seen": "2026-10-25T12:31:31Z",
+   "page": "event/22478.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T01:09:05Z",
+     "headline": "Ukrainian military says using Starlink satellite network without restrictions — media",
+     "url": "https://tass.com/world/2206615"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T07:28:58Z",
+     "headline": "Starlink speed restrictions remain in place in Ukraine despite Trump’s claim they were lifted",
+     "url": "https://meduza.io/en/news/2026/10/23/starlink-speed-restrictions-remain-in-place-in-ukraine-despite-trump-s-claim-they-were-lifted"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T08:05:53Z",
+     "headline": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
+     "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-23T08:22:00Z",
+     "headline": "Ukraine has not confirmed lifting of Starlink/Starshield speed limits",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059366/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T08:57:17Z",
+     "headline": "Some Starlink, Starshield restrictions still remain in Ukraine - former adviser",
+     "url": "https://tass.com/world/2206711"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-23T10:44:05Z",
+     "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "url": "https://www.myjoyonline.com/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T12:09:08Z",
+     "headline": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T18:57:00Z",
+     "headline": "President: Speed limits for Starlink and Starshield remain in effect",
+     "url": "https://www.ukrinform.net/rubric-ato/4177636-president-speed-limits-for-starlink-and-starshield-remain-in-effect.html"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T06:37:00Z",
+     "headline": "Starlink is working again at speeds above 400 km/h – UP sources",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T06:56:00Z",
+     "headline": "Starlink, Starshield Speeds Exceed 161 km/h in Ukraine, MoD Says",
+     "url": "https://www.kyivpost.com/post/88053"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T07:15:00Z",
+     "headline": "Starlink and Starshield operating at speeds above 161 km/h – source",
+     "url": "https://www.ukrinform.net/rubric-ato/4177728-starlink-and-starshield-operating-at-speeds-above-161-kmh-source.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T10:45:48Z",
+     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+     "url": "https://www.independent.co.uk/news/world/americas/ukraine-kyiv-melania-trump-moscow-donald-trump-b3072656.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T11:09:40Z",
+     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+     "url": "https://www.stuff.co.nz/world-news/361050785/ukraine-says-starlink-speed-limits-lifted-after-slowdown-t"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-24T13:00:35Z",
+     "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+     "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T13:11:00Z",
+     "headline": "Zelenskyy confirms Starlink and Starshield are back up and running: Now we have the speed we need",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059550/"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-24T13:29:00Z",
+     "headline": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
+     "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T14:15:00Z",
+     "headline": "Starlink and Starshield back to required speeds – Zelensky",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T14:37:27Z",
+     "headline": "Ukraine says Starlink back to normal after week of throttling",
+     "url": "https://www.arabnews.com/world/ukraine-says-starlink-back-to-normal-after-week-of-throttling-3008067"
+    },
+    {
+     "outlet": "The Moscow Times",
+     "country": "RUS",
+     "time": "2026-10-24T15:18:06Z",
+     "headline": "Starlink in Ukraine Back to Normal After Week of Throttling",
+     "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T15:31:14Z",
+     "headline": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+     "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T12:31:31Z",
+     "headline": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
+     "url": "https://indianexpress.com/article/explained/explained-global/starlink-starshield-ukraine-drone-war-speed-restrictions-10936301/"
     }
    ]
   },
