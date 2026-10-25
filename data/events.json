@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T08:34:42Z",
+ "generated": "2026-10-25T08:50:42Z",
  "method": "WEB-1.1",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -6442,6 +6442,167 @@
    ]
   },
   {
+   "id": 23924,
+   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+   "category": "Technology & Cyber",
+   "importance": 6.38,
+   "risk": 6.68,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "IND",
+    "ISR",
+    "UKR",
+    "RUS",
+    "SGP",
+    "GBR",
+    "KOR",
+    "USA",
+    "TUR",
+    "SAU",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T09:37:24Z",
+   "last_seen": "2026-10-25T09:22:18Z",
+   "page": "event/23924.html",
+   "reports": [
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T09:37:24Z",
+     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
+     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T04:18:16Z",
+     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
+     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T05:50:42Z",
+     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
+     "url": "https://www.jpost.com/international/article-912682"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T19:35:00Z",
+     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T19:35:32Z",
+     "headline": "Kiev violated Starlink terms of service, Musk says",
+     "url": "https://tass.com/world/2207339"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:00Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T21:27:03Z",
+     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
+     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T23:02:03Z",
+     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T00:44:31Z",
+     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
+     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T00:57:45Z",
+     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T01:52:13Z",
+     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
+     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T04:18:52Z",
+     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
+     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T05:23:00Z",
+     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
+     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:45:31Z",
+     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T06:31:00Z",
+     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
+     "url": "https://www.kyivpost.com/post/88082"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:55:29Z",
+     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
+     "url": "https://english.aawsat.com/node/5333337"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T08:15:24Z",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T08:25:54Z",
+     "headline": "Elon Musk says Ukraine used Starlink ‘to kill people’. Then a message for ‘evil warmongers’",
+     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T09:22:18Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
+     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
+    }
+   ]
+  },
+  {
    "id": 16293,
    "title": "Canada opens free trade talks with Turkiye",
    "category": "Geopolitics",
@@ -6892,160 +7053,6 @@
      "time": "2026-10-25T07:54:00Z",
      "headline": "11 people shot at homecoming party near Florida university campus",
      "url": "https://www.straitstimes.com/world/united-states/11-people-shot-at-homecoming-party-near-florida-university-campus"
-    }
-   ]
-  },
-  {
-   "id": 23924,
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-   "category": "Technology & Cyber",
-   "importance": 6.32,
-   "risk": 6.55,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 17,
-   "countries": [
-    "IND",
-    "ISR",
-    "UKR",
-    "RUS",
-    "SGP",
-    "GBR",
-    "KOR",
-    "USA",
-    "TUR",
-    "SAU",
-    "NGA"
-   ],
-   "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-25T09:22:18Z",
-   "page": "event/23924.html",
-   "reports": [
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T09:37:24Z",
-     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
-     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T04:18:16Z",
-     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
-     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T05:50:42Z",
-     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
-     "url": "https://www.jpost.com/international/article-912682"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T19:35:00Z",
-     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T19:35:32Z",
-     "headline": "Kiev violated Starlink terms of service, Musk says",
-     "url": "https://tass.com/world/2207339"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:27:00Z",
-     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T21:27:03Z",
-     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
-     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T23:02:03Z",
-     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
-     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T00:44:31Z",
-     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T00:57:45Z",
-     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T01:52:13Z",
-     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
-     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T04:18:52Z",
-     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
-     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T05:23:00Z",
-     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
-     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:45:31Z",
-     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T06:31:00Z",
-     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
-     "url": "https://www.kyivpost.com/post/88082"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:55:29Z",
-     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
-     "url": "https://english.aawsat.com/node/5333337"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T08:15:24Z",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T09:22:18Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
-     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
     }
    ]
   },
@@ -8085,6 +8092,225 @@
      "time": "2026-10-23T12:36:02Z",
      "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
      "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
+    }
+   ]
+  },
+  {
+   "id": 13172,
+   "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+   "category": "Geopolitics",
+   "importance": 6.16,
+   "risk": 1.39,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "URY",
+    "USA",
+    "FRA",
+    "TUR",
+    "QAT",
+    "SGP",
+    "MOZ",
+    "BRA",
+    "NLD",
+    "AUS",
+    "EGY",
+    "GBR",
+    "CYP"
+   ],
+   "first_seen": "2026-10-18T19:43:00Z",
+   "last_seen": "2026-10-25T08:37:28Z",
+   "page": "event/13172.html",
+   "reports": [
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-18T19:43:00Z",
+     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
+     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-19T06:15:00Z",
+     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
+     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T08:03:24Z",
+     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
+     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T09:21:10Z",
+     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-19T14:13:23Z",
+     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-19T14:16:05Z",
+     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-19T17:24:28Z",
+     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T09:06:35Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
+    },
+    {
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T10:06:12Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T02:21:54Z",
+     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
+     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T08:44:07Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T09:48:00Z",
+     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
+     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:02:00Z",
+     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T10:30:00Z",
+     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
+     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T08:08:03Z",
+     "headline": "Brazil candidates make final campaign push ahead of presidential runoff",
+     "url": "http://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T11:14:47Z",
+     "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+     "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T22:09:36Z",
+     "headline": "On eve of Brazilian presidential runoff, polls put Bolsonaro narrowly ahead of Lula",
+     "url": "https://www.aa.com.tr/en/americas/on-eve-of-brazilian-presidential-runoff-polls-put-bolsonaro-narrowly-ahead-of-lula/4099904"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T23:36:38Z",
+     "headline": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T23:44:10Z",
+     "headline": "Tens of thousands take to streets in Brazil ahead of closely contested runoff",
+     "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T05:30:40Z",
+     "headline": "Brazilian candidates hold final rallies as runoff race remains tight",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-candidates-hold-final-rallies-as-runoff-race-remains-tight/4099954"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T05:52:27Z",
+     "headline": "Brazil faces a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+     "url": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T06:05:34Z",
+     "headline": "What to know as Brazilians choose between Lula and Bolsonaro in tense presidential runoff",
+     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T07:02:00Z",
+     "headline": "Brazil chooses between Lula and Bolsonaro in its tightest runoff in recent history",
+     "url": "https://en.mercopress.com/2026/10/25/brazil-chooses-between-lula-and-bolsonaro-in-its-tightest-runoff-in-recent-history?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-25T07:25:10Z",
+     "headline": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
+     "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T08:00:58Z",
+     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:37:28Z",
+     "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
+     "url": "https://cyprus-mail.com/2026/10/25/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr"
     }
    ]
   },
@@ -9219,6 +9445,152 @@
      "time": "2026-10-24T23:27:47Z",
      "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
      "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
+    }
+   ]
+  },
+  {
+   "id": 23090,
+   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+   "category": "Geopolitics",
+   "importance": 6.01,
+   "risk": 5.74,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "ISR",
+    "SAU",
+    "FRA",
+    "IND",
+    "USA",
+    "QAT",
+    "SGP",
+    "AUS",
+    "IRN",
+    "AFG"
+   ],
+   "first_seen": "2026-10-22T20:16:39Z",
+   "last_seen": "2026-10-25T08:38:24Z",
+   "page": "event/23090.html",
+   "reports": [
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-22T20:16:39Z",
+     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T09:38:38Z",
+     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T16:15:37Z",
+     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T16:54:29Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T18:21:09Z",
+     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T18:21:55Z",
+     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T18:23:08Z",
+     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
+     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-24T18:30:22Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T19:11:48Z",
+     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T20:21:07Z",
+     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
+     "url": "https://www.jpost.com/israel-news/article-912722"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:50:07Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-24T23:20:47Z",
+     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
+     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T23:34:37Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T00:10:00Z",
+     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-25T04:51:29Z",
+     "headline": "Thousands protest against Netanyahu ahead of elections",
+     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T07:25:46Z",
+     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T08:38:24Z",
+     "headline": "Thousands of Israelis Rally Against Netanyahu Ahead of Parliamentary Election",
+     "url": "https://www.khaama.com/tel-aviv-protest-october-7-inquiry-israel-election/"
     }
    ]
   },
@@ -11887,144 +12259,6 @@
    ]
   },
   {
-   "id": 23090,
-   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-   "category": "Geopolitics",
-   "importance": 5.73,
-   "risk": 5.67,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 13,
-   "countries": [
-    "ISR",
-    "SAU",
-    "FRA",
-    "IND",
-    "USA",
-    "QAT",
-    "SGP",
-    "AUS",
-    "IRN"
-   ],
-   "first_seen": "2026-10-22T20:16:39Z",
-   "last_seen": "2026-10-25T07:25:46Z",
-   "page": "event/23090.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-22T20:16:39Z",
-     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T09:38:38Z",
-     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T16:15:37Z",
-     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T16:54:29Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T18:21:09Z",
-     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T18:21:55Z",
-     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T18:23:08Z",
-     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
-     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T18:30:22Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T19:11:48Z",
-     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T20:21:07Z",
-     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
-     "url": "https://www.jpost.com/israel-news/article-912722"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:07Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T23:20:47Z",
-     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
-     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T23:34:37Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:10:00Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T04:51:29Z",
-     "headline": "Thousands protest against Netanyahu ahead of elections",
-     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T07:25:46Z",
-     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
-    }
-   ]
-  },
-  {
    "id": 9132,
    "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
    "category": "Health & Science",
@@ -12897,148 +13131,6 @@
      "time": "2026-10-23T14:13:22Z",
      "headline": "Saudi Arabia postpones UN data, Saudi statistics forums until 2027 amid Houthi attacks",
      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-postpones-un-data-saudi-statistics-forums-until-2027-amid-houthi-attacks/4098691"
-    }
-   ]
-  },
-  {
-   "id": 20228,
-   "title": "New York City bans horse-drawn carriages from 2028",
-   "category": "Geopolitics",
-   "importance": 5.7,
-   "risk": 4.26,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "GBR",
-    "SAU",
-    "USA",
-    "CAN",
-    "SGP",
-    "FRA",
-    "AUS",
-    "KOR",
-    "ARE",
-    "GRC",
-    "IRL",
-    "TUR",
-    "JPN"
-   ],
-   "first_seen": "2026-10-22T09:06:48Z",
-   "last_seen": "2026-10-24T03:30:09Z",
-   "page": "event/20228.html",
-   "reports": [
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T09:06:48Z",
-     "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:41:03Z",
-     "headline": "End of an era as NYC finally moves to ban Central Park horse-drawn carriages",
-     "url": "https://www.independent.co.uk/news/world/americas/new-york-central-park-horse-carriage-ban-b3071362.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:08:12Z",
-     "headline": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "url": "https://www.arabnews.com/offbeat/facing-a-ban-on-horse-drawn-carriages-central-parks-drivers-fear-for-their-livelihoods-3007787"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-22T19:39:32Z",
-     "headline": "Trump laments NY horse drawn carriage ban",
-     "url": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/"
-    },
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-22T20:46:05Z",
-     "headline": "A final farewell to NYC’s horse carriage industry",
-     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T20:48:56Z",
-     "headline": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-     "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T21:55:13Z",
-     "headline": "New York City council votes to advance bill that would ban horse-drawn carriages",
-     "url": "https://www.cbc.ca/news/world/new-york-horse-carriage-ban-9.7391918?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T23:34:00Z",
-     "headline": "New York City bans horse-drawn carriages from June 2028",
-     "url": "https://www.straitstimes.com/world/united-states/new-york-city-bans-horse-drawn-carriages-from-june-2028"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T00:18:53Z",
-     "headline": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
-     "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T02:20:12Z",
-     "headline": "New York City bans horse-drawn carriages from 2028",
-     "url": "https://www.abc.net.au/news/2026-10-23/new-york-city-bans-horse-drawn-carriages/107300910"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T06:37:02Z",
-     "headline": "New York votes to ban Central Park horse carriages after decades of debate",
-     "url": "https://www.koreatimes.co.kr/world/20261023/new-york-votes-to-ban-central-park-horse-carriages-after-decades-of-debate?utm_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T08:37:24Z",
-     "headline": "New York votes to ban horse carriages",
-     "url": "https://gulfnews.com/world/americas/new-york-votes-to-ban-horse-carriages-1.500720904"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T09:00:51Z",
-     "headline": "NYC Votes to Ban Carriage Horses",
-     "url": "https://www.tovima.com/wsj/nyc-votes-to-ban-carriage-horses/"
-    },
-    {
-     "outlet": "The Irish Times",
-     "country": "IRL",
-     "time": "2026-10-23T11:03:13Z",
-     "headline": "New York ban on horse-drawn carriages ends 160-year-old industry for Irish emigrants",
-     "url": "https://www.irishtimes.com/ireland/2026/10/23/new-york-ban-on-horse-drawn-carriages-ends-160-year-old-industry-for-irish-emigrants/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T15:16:14Z",
-     "headline": "New York City Council votes to ban horse-drawn carriages by 2028",
-     "url": "https://www.aa.com.tr/en/americas/new-york-city-council-votes-to-ban-horse-drawn-carriages-by-2028/4098816"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T03:30:09Z",
-     "headline": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/024000c"
     }
    ]
   }
