@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T07:09:48Z",
+ "generated": "2026-10-26T07:26:29Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9,7 +9,7 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.65,
-   "risk": 3.67,
+   "risk": 3.66,
    "confidence": 0.9,
    "status": "spreading",
    "outlets": 53,
@@ -52,7 +52,7 @@
     "MOZ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T06:49:00Z",
+   "last_seen": "2026-10-26T07:21:48Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -342,7 +342,7 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.22,
+   "importance": 8.28,
    "risk": 8.2,
    "confidence": 0.89,
    "status": "spreading",
@@ -386,7 +386,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T06:14:01Z",
+   "last_seen": "2026-10-26T07:06:30Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -4089,15 +4089,209 @@
    ]
   },
   {
+   "id": 8134,
+   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.78,
+   "risk": 6.67,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 20,
+   "countries": [
+    "IRQ",
+    "IRN",
+    "KWT",
+    "ARM",
+    "OMN",
+    "USA",
+    "PAK",
+    "SGP",
+    "CYP",
+    "ISR",
+    "ZAF",
+    "IND",
+    "ARE",
+    "BGD",
+    "TUR"
+   ],
+   "first_seen": "2026-10-16T14:30:51Z",
+   "last_seen": "2026-10-24T12:54:37Z",
+   "page": "event/8134.html",
+   "reports": [
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-16T14:30:51Z",
+     "headline": "Iran’s undersea cable threat raises risks for Iraq",
+     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T12:29:27Z",
+     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
+     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-19T19:28:00Z",
+     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
+     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-20T05:39:00Z",
+     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
+     "url": "https://news.am/en/news/1068984"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T05:14:43Z",
+     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
+     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-21T11:33:57Z",
+     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
+     "url": "https://www.iranintl.com/en/202610216166"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-22T09:32:45Z",
+     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
+     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T13:32:06Z",
+     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
+     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T12:28:13Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://tribune.com.pk/story/2636561/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T16:57:01Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war with US and Israel resumes, officials say",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T17:10:20Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T17:22:07Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T17:25:01Z",
+     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T17:46:29Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T18:04:24Z",
+     "headline": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T18:21:13Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+     "url": "https://www.sabcnews.com/sabcnews/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T20:43:00Z",
+     "headline": "Iran Threatens to Target Undersea Internet Cables if US, Israel Resume Strikes",
+     "url": "https://www.arabtimesonline.com/news/iran-threatens-to-target-undersea-internet-cables-if-us-israel-resume-strikes/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T22:28:29Z",
+     "headline": "Iran has plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/iran-has-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/000001a1-6a66-d29a-a1a5-eae7e53d0000"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T00:54:03Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T01:42:39Z",
+     "headline": "\"Don't Play With Fire\": Iran Warns Of Undersea Cable Attacks If War Resumes",
+     "url": "https://www.ndtv.com/world-news/iran-warns-of-undersea-cable-attacks-if-war-resumes-12228134#publisher=newsstand"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T03:39:13Z",
+     "headline": "Starlink vs submarine cables: Can satellites keep the internet running when cables break?",
+     "url": "https://gulfnews.com/technology/starlink-vs-submarine-cables-can-satellites-keep-the-internet-running-when-cables-break-1.500721822"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-24T06:00:55Z",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.thedailystar.net/news/world/global-conflicts/news/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-4306161"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Iran readies plans to target Gulf undersea cables if US, Israel strike again",
+     "url": "https://www.turkiyetoday.com/region/iran-readies-plans-to-target-gulf-undersea-cables-if-us-israel-strike-again-3230933"
+    }
+   ]
+  },
+  {
    "id": 24595,
    "title": "Israel to close all West Bank land crossings on election day",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.83,
-   "risk": 6.24,
+   "importance": 6.78,
+   "risk": 6.21,
    "confidence": 0.89,
    "status": "fading",
-   "outlets": 32,
+   "outlets": 33,
    "countries": [
     "USA",
     "CAN",
@@ -4121,7 +4315,7 @@
     "TWN"
    ],
    "first_seen": "2026-10-23T08:05:06Z",
-   "last_seen": "2026-10-26T01:06:00Z",
+   "last_seen": "2026-10-26T07:00:25Z",
    "page": "event/24595.html",
    "reports": [
     {
@@ -4407,200 +4601,6 @@
    ]
   },
   {
-   "id": 8134,
-   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.78,
-   "risk": 6.67,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 20,
-   "countries": [
-    "IRQ",
-    "IRN",
-    "KWT",
-    "ARM",
-    "OMN",
-    "USA",
-    "PAK",
-    "SGP",
-    "CYP",
-    "ISR",
-    "ZAF",
-    "IND",
-    "ARE",
-    "BGD",
-    "TUR"
-   ],
-   "first_seen": "2026-10-16T14:30:51Z",
-   "last_seen": "2026-10-24T12:54:37Z",
-   "page": "event/8134.html",
-   "reports": [
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-16T14:30:51Z",
-     "headline": "Iran’s undersea cable threat raises risks for Iraq",
-     "url": "https://shafaq.com/en/Report/Iran-s-undersea-cable-threat-raises-risks-for-Iraq"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-17T12:29:27Z",
-     "headline": "Persian Gulf Internet, AI Infrastructures within Iran’s reach",
-     "url": "https://en.mehrnews.com/news/248648/Persian-Gulf-Internet-AI-Infrastructures-within-Iran-s-reach"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-19T19:28:00Z",
-     "headline": "Iranian Regime Threatens to Cut Undersea Internet Cables, Strike Gulf Data Centres and AI Facilities",
-     "url": "https://www.arabtimesonline.com/news/iranian-regime-threatens-to-cut-undersea-internet-cables-strike-gulf-data-centres-and-ai-facilities/"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-20T05:39:00Z",
-     "headline": "Iran's Islamic Revolutionary Guard Corps threatens to strike underwater internet cables in Strait of Hormuz",
-     "url": "https://news.am/en/news/1068984"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T05:14:43Z",
-     "headline": "Iran threatens to attack undersea internet cables in Strait of Hormuz",
-     "url": "https://www.omanobserver.om/article/1198163/world/region/iran-threatens-to-attack-undersea-internet-cables-in-strait-of-hormuz"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-21T11:33:57Z",
-     "headline": "IRGC threatens undersea cables, but can it disrupt global internet?",
-     "url": "https://www.iranintl.com/en/202610216166"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-22T09:32:45Z",
-     "headline": "Gulf cable threats could boost Iraq’s internet transit role",
-     "url": "https://shafaq.com/en/society/Gulf-cable-threats-could-boost-Iraq-s-internet-transit-role"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T13:32:06Z",
-     "headline": "What Iran’s threats to Hormuz internet cables mean for Gulf",
-     "url": "https://www.al-monitor.com/originals/2026/10/what-irans-threats-hormuz-internet-cables-mean-gulf"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T12:28:13Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://tribune.com.pk/story/2636561/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T16:57:01Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war with US and Israel resumes, officials say",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T17:10:20Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://cyprus-mail.com/2026/10/23/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T17:22:07Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.newarab.com/news/iran-has-plans-hit-gulf-undersea-cables-if-war-resumes"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T17:25:01Z",
-     "headline": "Iran has plans to target Gulf undersea cables if attacked again, officials say",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-plans-target-gulf-undersea-cables-if-attacked-again-officials"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T17:46:29Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T18:04:24Z",
-     "headline": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912668"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T18:21:13Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
-     "url": "https://www.sabcnews.com/sabcnews/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T20:43:00Z",
-     "headline": "Iran Threatens to Target Undersea Internet Cables if US, Israel Resume Strikes",
-     "url": "https://www.arabtimesonline.com/news/iran-threatens-to-target-undersea-internet-cables-if-us-israel-resume-strikes/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T22:28:29Z",
-     "headline": "Iran has plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/iran-has-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/000001a1-6a66-d29a-a1a5-eae7e53d0000"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T00:54:03Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T01:42:39Z",
-     "headline": "\"Don't Play With Fire\": Iran Warns Of Undersea Cable Attacks If War Resumes",
-     "url": "https://www.ndtv.com/world-news/iran-warns-of-undersea-cable-attacks-if-war-resumes-12228134#publisher=newsstand"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T03:39:13Z",
-     "headline": "Starlink vs submarine cables: Can satellites keep the internet running when cables break?",
-     "url": "https://gulfnews.com/technology/starlink-vs-submarine-cables-can-satellites-keep-the-internet-running-when-cables-break-1.500721822"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-24T06:00:55Z",
-     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-     "url": "https://www.thedailystar.net/news/world/global-conflicts/news/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-4306161"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Iran readies plans to target Gulf undersea cables if US, Israel strike again",
-     "url": "https://www.turkiyetoday.com/region/iran-readies-plans-to-target-gulf-undersea-cables-if-us-israel-strike-again-3230933"
-    }
-   ]
-  },
-  {
    "id": 23924,
    "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
    "category": "Technology & Cyber",
@@ -4879,7 +4879,7 @@
    "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.56,
+   "importance": 6.63,
    "risk": 1.96,
    "confidence": 0.9,
    "status": "spreading",
@@ -4922,6 +4922,13 @@
      "time": "2026-10-26T01:54:55Z",
      "headline": "Officials from Mecca pact countries to meet Iranian officials",
      "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
     },
     {
      "outlet": "Middle East Eye",
@@ -5032,7 +5039,7 @@
      "outlet": "Mehr News (English)",
      "country": "IRN",
      "time": "2026-10-26T07:02:02Z",
-     "headline": "Iran, Mecca Defence Alliance to hold talka today",
+     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
      "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
     },
     {
@@ -5041,6 +5048,533 @@
      "time": "2026-10-26T07:02:15Z",
      "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
      "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+    }
+   ]
+  },
+  {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.58,
+   "risk": 1.4,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 24,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "ARE",
+    "TUR",
+    "JAM",
+    "GHA",
+    "OMN",
+    "UGA",
+    "KOR",
+    "FRA"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-26T07:17:48Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T22:43:27Z",
+     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T23:09:14Z",
+     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
+     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T00:10:18Z",
+     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:54:52Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://tribune.com.pk/story/2636973/real-madrid-beat-barcelona-in-la-liga-clasico"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T01:05:42Z",
+     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
+     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:06:53Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou",
+     "url": "https://www.omanobserver.om/article/1198578/sports/real-madrid-defeat-barcelona-at-camp-nou"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:37:49Z",
+     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
+     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
+    }
+   ]
+  },
+  {
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 6.54,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 14,
+   "countries": [
+    "ARE",
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "OMN",
+    "PAK",
+    "TUR",
+    "KOR",
+    "GHA"
+   ],
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T07:21:16Z",
+   "page": "event/18222.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T01:59:07Z",
+     "headline": "Kane favourite for Ballon d'Or",
+     "url": "https://tribune.com.pk/story/2636981/kane-favourite-for-ballon-dor"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T05:45:00Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:55:29Z",
+     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
+     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-26T06:06:49Z",
+     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
+     "url": "https://www.koreaherald.com/article/10915050"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:17:18Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T07:21:16Z",
+     "headline": "Joy Sports journalists make Ballon d’Or 2026 predictions",
+     "url": "https://www.myjoyonline.com/joy-sports-journalists-make-ballon-dor-2026-predictions/"
     }
    ]
   },
@@ -5900,274 +6434,6 @@
    ]
   },
   {
-   "id": 28198,
-   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.5,
-   "risk": 7.28,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 26,
-   "countries": [
-    "USA",
-    "JAM",
-    "NGA",
-    "SGP",
-    "QAT",
-    "SAU",
-    "IRL",
-    "GBR",
-    "GHA",
-    "PHL",
-    "BGD",
-    "OMN",
-    "PAK",
-    "ZAF",
-    "KEN",
-    "FRA",
-    "CYP",
-    "AUS",
-    "TWN"
-   ],
-   "first_seen": "2026-10-23T03:59:00Z",
-   "last_seen": "2026-10-25T18:08:38Z",
-   "page": "event/28198.html",
-   "reports": [
-    {
-     "outlet": "Politico",
-     "country": "USA",
-     "time": "2026-10-23T03:59:00Z",
-     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
-     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T20:01:59Z",
-     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
-     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T21:17:54Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T21:18:50Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:33:40Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T00:34:43Z",
-     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T00:37:13Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T01:08:53Z",
-     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:48:25Z",
-     "headline": "Obama blasts Trump while campaigning for US midterms",
-     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T02:27:15Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T02:45:31Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T03:19:10Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-25T04:03:53Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T04:15:07Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty'",
-     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T04:44:43Z",
-     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T07:09:37Z",
-     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T07:34:12Z",
-     "headline": "Obama criticises Trump over Iran war, rising prices",
-     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T07:55:00Z",
-     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T08:20:30Z",
-     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
-     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T08:44:17Z",
-     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T08:47:49Z",
-     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
-     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-25T09:29:57Z",
-     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T10:05:42Z",
-     "headline": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
-     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:36:56Z",
-     "headline": "Obama hits campaign trail for democrats",
-     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:07:52Z",
-     "headline": "Obama blasts Trump's 'chaos, cruelty' while in support of Democrats",
-     "url": "https://www.omanobserver.om/article/1198540/world/americas/obama-blasts-trumps-chaos-cruelty-while-in-support-of-democrats"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T14:42:37Z",
-     "headline": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
-     "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T15:31:57Z",
-     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
-     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T16:25:12Z",
-     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
-     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-25T16:37:07Z",
-     "headline": "Barack Obama blasts Trump’s ‘chaos and cruelty’",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866615"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T17:52:00Z",
-     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-     "url": "https://www.channelnewsasia.com/world/trump-campaigns-in-michigan-day-after-obama-rallies-democrats-6490341"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T18:08:38Z",
-     "headline": "Obama blasts Trump’s ‘chaos, cruelty’",
-     "url": "https://www.thedailystar.net/news/world/united-states/news/obama-blasts-trumps-chaos-cruelty-4307431"
-    }
-   ]
-  },
-  {
    "id": 26704,
    "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
    "category": "Trade & Industry",
@@ -6480,320 +6746,6 @@
      "time": "2026-10-25T00:17:03Z",
      "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
      "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
-    }
-   ]
-  },
-  {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.43,
-   "risk": 1.38,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 22,
-   "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
-    "ARE",
-    "TUR",
-    "JAM",
-    "GHA",
-    "UGA",
-    "KOR",
-    "FRA"
-   ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T06:41:38Z",
-   "page": "event/23444.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T22:43:27Z",
-     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T23:09:14Z",
-     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
-     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T23:33:20Z",
-     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T00:10:18Z",
-     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:54:52Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://tribune.com.pk/story/2636973/real-madrid-beat-barcelona-in-la-liga-clasico"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T01:05:42Z",
-     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
-     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:37:49Z",
-     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
-     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:45:34Z",
-     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
     }
    ]
   },
@@ -7350,14 +7302,192 @@
    ]
   },
   {
+   "id": 24414,
+   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
+   "category": "Technology & Cyber",
+   "cat": 5,
+   "importance": 6.24,
+   "risk": 1.55,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "UKR",
+    "AZE",
+    "SGP",
+    "PHL",
+    "SAU",
+    "FRA",
+    "USA",
+    "BEL",
+    "IND",
+    "TUR",
+    "GBR",
+    "AUS",
+    "NLD"
+   ],
+   "first_seen": "2026-10-23T11:06:00Z",
+   "last_seen": "2026-10-25T14:09:46Z",
+   "page": "event/24414.html",
+   "reports": [
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:06:00Z",
+     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
+     "url": "https://www.kyivpost.com/post/87981"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-24T07:57:46Z",
+     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T08:29:00Z",
+     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
+     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T08:48:06Z",
+     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T08:58:00Z",
+     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
+     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T09:16:59Z",
+     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-24T09:28:32Z",
+     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
+     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T09:32:09Z",
+     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
+     "url": "https://english.aawsat.com/node/5333048"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T09:48:23Z",
+     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
+     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:08:45Z",
+     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-24T10:09:36Z",
+     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
+     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T10:11:40Z",
+     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
+     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-24T11:04:40Z",
+     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
+     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:40:04Z",
+     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
+     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T11:51:20Z",
+     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
+     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T12:07:11Z",
+     "headline": "Ukraine reports Starlink operating again after slowdown",
+     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T12:12:40Z",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
+     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T13:09:37Z",
+     "headline": "Ukraine says Starlink at normal speed after delays impede military",
+     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T13:34:00Z",
+     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
+     "url": "https://www.kyivpost.com/post/88079"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-25T14:09:46Z",
+     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
+     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
+    }
+   ]
+  },
+  {
    "id": 27784,
    "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
    "category": "Trade & Industry",
    "cat": 4,
-   "importance": 6.28,
-   "risk": 4.27,
+   "importance": 6.22,
+   "risk": 4.32,
    "confidence": 0.87,
-   "status": "peaking",
+   "status": "fading",
    "outlets": 19,
    "countries": [
     "NPL",
@@ -7526,6 +7656,13 @@
      "url": "https://gulfnews.com/world/gulf/yemen/how-can-yemen-s-houthi-militia-take-on-saudi-arabia-and-what-do-they-want-1.500723002"
     },
     {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:02:25Z",
+     "headline": "Saudi oil pumping stations, Riyadh airport attacked: Ansar Allah",
+     "url": "https://www.omanobserver.om/article/1198577/world/region/saudi-oil-pumping-stations-riyadh-airport-attacked-ansar-allah"
+    },
+    {
      "outlet": "The National",
      "country": "ARE",
      "time": "2026-10-26T03:57:04Z",
@@ -7535,15 +7672,291 @@
    ]
   },
   {
+   "id": 28198,
+   "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.19,
+   "risk": 6.67,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 27,
+   "countries": [
+    "USA",
+    "JAM",
+    "NGA",
+    "SGP",
+    "QAT",
+    "SAU",
+    "IRL",
+    "GBR",
+    "GHA",
+    "PHL",
+    "BGD",
+    "OMN",
+    "PAK",
+    "ZAF",
+    "KEN",
+    "FRA",
+    "CYP",
+    "AUS",
+    "TWN",
+    "AZE"
+   ],
+   "first_seen": "2026-10-23T03:59:00Z",
+   "last_seen": "2026-10-26T07:14:00Z",
+   "page": "event/28198.html",
+   "reports": [
+    {
+     "outlet": "Politico",
+     "country": "USA",
+     "time": "2026-10-23T03:59:00Z",
+     "headline": "Can Angie Nixon prove Democrats can win in Florida?",
+     "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T20:01:59Z",
+     "headline": "Obama endorses Nixon, Jolly in last-minute campaign boost",
+     "url": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T21:17:54Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/obama-blasts-trumps-chaos-cruelty-campaigning-democrats/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-24T21:18:50Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:33:40Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.straitstimes.com/world/united-states/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T00:34:43Z",
+     "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T00:37:13Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.arabnews.com/world/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-3008138"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T01:08:53Z",
+     "headline": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-blasts-trump-while-campaigning-for-us-midterms/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:48:25Z",
+     "headline": "Obama blasts Trump while campaigning for US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1025/1596761-obama-trump-us-midterms/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T02:27:15Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T02:45:31Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.straitstimes.com/world/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T03:19:10Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-25T04:03:53Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://www.thedailystar.net/news/world/news/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats-4306826"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T04:15:07Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty'",
+     "url": "https://www.omanobserver.om/article/1198512/world/obama-blasts-trumps-chaos-and-cruelty"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T04:44:43Z",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "url": "https://www.brecorder.com/news/40445852/obama-unloads-on-trump-while-stumping-for-democrats-ahead-of-midterms"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T07:09:37Z",
+     "headline": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+     "url": "https://www.vanguardngr.com/2026/10/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats-2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T07:34:12Z",
+     "headline": "Obama criticises Trump over Iran war, rising prices",
+     "url": "https://punchng.com/obama-criticises-trump-over-iran-war-rising-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T07:55:00Z",
+     "headline": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://iol.co.za/news/world/2026-10-25-obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T08:20:30Z",
+     "headline": "Obama Blasts Trump Over Iran War, Cost of Living at Midterm Rallies",
+     "url": "https://www.channelstv.com/2026/10/25/obama-blasts-trump-over-iran-war-cost-of-living-at-midterm-rallies/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T08:44:17Z",
+     "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+     "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T08:47:49Z",
+     "headline": "Trump calls Obama ‘grossly incompetent’ after ex-president unloads on him at rallies ahead of US midterms",
+     "url": "https://www.dawn.com/news/2039697/trump-calls-obama-grossly-incompetent-after-ex-president-unloads-on-him-at-rallies-ahead-of-us-midterms"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-25T09:29:57Z",
+     "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://capitalfm.africa/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T10:05:42Z",
+     "headline": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+     "url": "https://www.straitstimes.com/world/trump-campaigns-in-michigan-a-day-after-obama-rallies-democrats"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:36:56Z",
+     "headline": "Obama hits campaign trail for democrats",
+     "url": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:07:52Z",
+     "headline": "Obama blasts Trump's 'chaos, cruelty' while in support of Democrats",
+     "url": "https://www.omanobserver.om/article/1198540/world/americas/obama-blasts-trumps-chaos-cruelty-while-in-support-of-democrats"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T14:42:37Z",
+     "headline": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
+     "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T15:31:57Z",
+     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
+     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T16:25:12Z",
+     "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
+     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:07Z",
+     "headline": "Barack Obama blasts Trump’s ‘chaos and cruelty’",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866615"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T17:52:00Z",
+     "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+     "url": "https://www.channelnewsasia.com/world/trump-campaigns-in-michigan-day-after-obama-rallies-democrats-6490341"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T18:08:38Z",
+     "headline": "Obama blasts Trump’s ‘chaos, cruelty’",
+     "url": "https://www.thedailystar.net/news/world/united-states/news/obama-blasts-trumps-chaos-cruelty-4307431"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T07:14:00Z",
+     "headline": "Obama and Trump exchange sharp criticism as US midterm elections approach",
+     "url": "https://www.azernews.az/region/266197.html"
+    }
+   ]
+  },
+  {
    "id": 17275,
    "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
    "category": "Energy & Environment",
    "cat": 3,
-   "importance": 6.28,
-   "risk": 1.92,
+   "importance": 6.18,
+   "risk": 1.88,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 18,
+   "outlets": 19,
    "countries": [
     "SAU",
     "PAK",
@@ -7563,7 +7976,7 @@
     "TUR"
    ],
    "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-26T05:59:46Z",
+   "last_seen": "2026-10-26T07:13:00Z",
    "page": "event/17275.html",
    "reports": [
     {
@@ -7803,184 +8216,13 @@
      "time": "2026-10-26T05:59:46Z",
      "headline": "Antonelli wins US Grand Prix but must wait for title",
      "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
-    }
-   ]
-  },
-  {
-   "id": 24414,
-   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 6.24,
-   "risk": 1.55,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "UKR",
-    "AZE",
-    "SGP",
-    "PHL",
-    "SAU",
-    "FRA",
-    "USA",
-    "BEL",
-    "IND",
-    "TUR",
-    "GBR",
-    "AUS",
-    "NLD"
-   ],
-   "first_seen": "2026-10-23T11:06:00Z",
-   "last_seen": "2026-10-25T14:09:46Z",
-   "page": "event/24414.html",
-   "reports": [
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:06:00Z",
-     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
-     "url": "https://www.kyivpost.com/post/87981"
     },
     {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-24T07:57:46Z",
-     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
-     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T08:29:00Z",
-     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
-     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T08:48:06Z",
-     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T08:58:00Z",
-     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
-     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T09:16:59Z",
-     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-24T09:28:32Z",
-     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
-     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:32:09Z",
-     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
-     "url": "https://english.aawsat.com/node/5333048"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T09:48:23Z",
-     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
-     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T10:08:45Z",
-     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-24T10:09:36Z",
-     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T10:11:40Z",
-     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
-     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-24T11:04:40Z",
-     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
-     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:40:04Z",
-     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
-     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T11:51:20Z",
-     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
-     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T12:07:11Z",
-     "headline": "Ukraine reports Starlink operating again after slowdown",
-     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T12:12:40Z",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
-     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T13:09:37Z",
-     "headline": "Ukraine says Starlink at normal speed after delays impede military",
-     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T13:34:00Z",
-     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
-     "url": "https://www.kyivpost.com/post/88079"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-25T14:09:46Z",
-     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
-     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T07:13:00Z",
+     "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
+     "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
     }
    ]
   },
@@ -8672,505 +8914,6 @@
      "time": "2026-10-26T03:17:26Z",
      "headline": "Bolsonaro refuses to concede, says he will seek annulment of Brazil vote",
      "url": "https://www.brecorder.com/news/40445949/bolsonaro-refuses-to-concede-says-he-will-seek-annulment-of-brazil-vote"
-    }
-   ]
-  },
-  {
-   "id": 18222,
-   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 6.14,
-   "risk": 0.0,
-   "confidence": 0.86,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "ARE",
-    "DEU",
-    "NGA",
-    "SAU",
-    "QAT",
-    "ZAF",
-    "BRA",
-    "OMN",
-    "TUR",
-    "KOR"
-   ],
-   "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T06:06:49Z",
-   "page": "event/18222.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T04:30:04Z",
-     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:40:58Z",
-     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T08:33:00Z",
-     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T09:16:06Z",
-     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
-     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:58:09Z",
-     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
-     "url": "https://english.aawsat.com/node/5332582"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T07:56:27Z",
-     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:39:59Z",
-     "headline": "My wife eager to know Ballon d’Or result, says Kane",
-     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T11:52:16Z",
-     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:05:00Z",
-     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T17:00:00Z",
-     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
-     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:21:34Z",
-     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-24T17:27:11Z",
-     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
-     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T06:31:01Z",
-     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:38:57Z",
-     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T01:35:01Z",
-     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
-     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:36:53Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T03:06:40Z",
-     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T03:34:59Z",
-     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T05:45:00Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:55:29Z",
-     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
-     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-26T06:06:49Z",
-     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
-     "url": "https://www.koreaherald.com/article/10915050"
-    }
-   ]
-  },
-  {
-   "id": 5498,
-   "title": "Israeli drone strike kills two Palestinians in Gaza City",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.12,
-   "risk": 7.4,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 17,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-25T18:12:13Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:24:26Z",
-     "headline": "Israeli strike on Gaza university kills three",
-     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
     }
    ]
   },
@@ -11696,6 +11439,117 @@
      "time": "2026-10-25T20:54:00Z",
      "headline": "Storm Boelo has delayed more than 1,500 flights in Britain",
      "url": "https://en.apa.az/europe/storm-boelo-has-delayed-more-than-1500-flights-in-britain-532101"
+    }
+   ]
+  },
+  {
+   "id": 29318,
+   "title": "Shock and grief in a Jordanian village after church attack",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.81,
+   "risk": 7.5,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "SAU",
+    "USA",
+    "THA",
+    "JAM",
+    "QAT",
+    "AZE",
+    "CYP",
+    "IRQ",
+    "KWT"
+   ],
+   "first_seen": "2026-10-25T11:13:12Z",
+   "last_seen": "2026-10-26T07:12:00Z",
+   "page": "event/29318.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T11:13:12Z",
+     "headline": "Shock and Grief in a Jordanian Village after Church Attack",
+     "url": "https://english.aawsat.com/node/5333409"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T11:30:22Z",
+     "headline": "Shock and grief in a Jordanian village after church attack",
+     "url": "https://www.al-monitor.com/originals/2026/10/shock-and-grief-jordanian-village-after-church-attack"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as eight victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-eight-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as nine victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-nine-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:16:48Z",
+     "headline": "Jordanians mourn victims of deadly church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T19:19:55Z",
+     "headline": "Jordanians reject attempts to sow division in society",
+     "url": "https://www.arabnews.com/middle-east/jordanians-reject-attempts-to-sow-division-in-society-3008225"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-26T05:08:40Z",
+     "headline": "Jordanian security forces say they've arrested three men in deadly church attack",
+     "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T06:00:00Z",
+     "headline": "Jordan arrests three suspects over church attack that killed nine",
+     "url": "https://www.azernews.az/region/266192.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T06:25:55Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://cyprus-mail.com/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T06:57:34Z",
+     "headline": "Jordan detains three suspects in deadly church attack",
+     "url": "https://shafaq.com/en/Middle-East/Jordan-detains-three-suspects-in-deadly-church-attack"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-26T07:10:00Z",
+     "headline": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
+     "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T07:12:00Z",
+     "headline": "Jordan Arrests Three Suspects Over Church Attack That Killed Nine",
+     "url": "https://www.arabtimesonline.com/news/jordan-arrests-three-suspects-over-church-attack-that-killed-nine/"
     }
    ]
   },
