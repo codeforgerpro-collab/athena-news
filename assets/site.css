@@ -464,3 +464,30 @@ button.mtc:hover{box-shadow:0 4px 14px rgba(0,0,0,.12);transform:translateY(-1px
 .mtpcols{display:grid;grid-template-columns:1fr 1fr;gap:24px}
 .mtf{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 10px}.mtf .qchip[aria-pressed=true]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 @media (max-width:760px){.mtpcols{grid-template-columns:1fr}.mtph h2{font-size:23px}}
+
+/* WEB-1.13 help, the living band, the Mind Graph guide */
+.amb{position:relative;height:92px;overflow:hidden;background:linear-gradient(180deg,var(--paper2),transparent);border-bottom:1px solid var(--rule)}
+.amb canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+.ambcap{font-size:12.5px;color:var(--muted);margin:6px 0 0;font-style:italic;letter-spacing:.1px}
+@media (max-width:640px){.amb{height:66px}.ambcap{font-size:12px}}
+@media print{.amb,.ambcap,.hp{display:none!important}}
+.hp{position:fixed;inset-inline-end:18px;bottom:18px;z-index:60}
+.hpbtn{list-style:none;cursor:pointer;display:flex;align-items:center;gap:8px;background:var(--ink);color:var(--paper);border-radius:999px;
+padding:9px 15px 9px 9px;box-shadow:0 6px 22px rgba(0,0,0,.22);font:600 14px/1 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;user-select:none}
+.hpbtn::-webkit-details-marker{display:none}.hpbtn span{display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;
+background:var(--gold);color:#fff;font-size:16px;font-weight:800}
+.hpbtn:hover,.hpbtn:focus-visible{transform:translateY(-1px);outline:2px solid var(--gold);outline-offset:2px}
+.hp[open] .hpbtn{opacity:.0;pointer-events:none}
+.hpbox{position:fixed;inset-inline-end:18px;bottom:18px;width:min(420px,calc(100vw - 36px));max-height:min(78vh,640px);overflow:auto;background:var(--card);
+color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);border-radius:16px;padding:16px 20px 14px;box-shadow:0 18px 50px rgba(0,0,0,.28)}
+.hph{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}.hph h2{font-family:var(--head);font-size:21px;margin:0}
+.hpx{border:0;background:var(--chip);color:var(--ink);width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:14px;flex:none}
+.hpbox h3{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);margin:14px 0 4px}
+.hpbox ul{margin:0;padding-inline-start:18px}.hpbox li{margin:5px 0;line-height:1.45}
+@media (max-width:640px){.hpbtn b{display:none}.hpbtn{padding:9px}.hp{inset-inline-end:12px;bottom:12px}.hpbox{inset-inline:12px;bottom:12px;width:auto}}
+.mgguide{border:1px solid var(--rule);border-inline-start:4px solid var(--gold);background:var(--card);border-radius:12px;padding:10px 16px;margin:8px 0 12px}
+.mgguide summary{cursor:pointer;font-family:var(--head);font-size:18px;font-weight:700}.mgguide p{margin:8px 0}
+.mglegend{list-style:none;padding:0;margin:6px 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:6px 18px}
+.mglegend li{display:flex;gap:10px;align-items:flex-start;line-height:1.4}.mglegend svg{flex:none;margin-top:1px}
+.mgl-h{font-weight:700;margin-top:10px!important}.mglook{margin:0;padding-inline-start:20px}.mglook li{margin:3px 0}
+.mgbar label[title],.mgbar select[title],.mgbar button[title]{cursor:help}
