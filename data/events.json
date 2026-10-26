@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T15:08:34Z",
+ "generated": "2026-10-26T15:26:35Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9,10 +9,10 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.81,
-   "risk": 4.79,
+   "risk": 4.86,
    "confidence": 0.88,
    "status": "spreading",
-   "outlets": 61,
+   "outlets": 63,
    "countries": [
     "USA",
     "BEL",
@@ -46,6 +46,7 @@
     "LKA",
     "GEO",
     "GHA",
+    "OMN",
     "ALB",
     "EGY",
     "UGA"
@@ -338,14 +339,14 @@
   },
   {
    "id": 25521,
-   "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+   "title": "Brazil's President Lula da Silva wins historic 4th term after defeating Flavio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.75,
-   "risk": 3.76,
+   "risk": 3.75,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 64,
+   "outlets": 65,
    "countries": [
     "QAT",
     "USA",
@@ -389,7 +390,7 @@
     "TZA"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T14:04:39Z",
+   "last_seen": "2026-10-26T15:11:20Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -1335,6 +1336,532 @@
    ]
   },
   {
+   "id": 29318,
+   "title": "Jordan: 3 arrested over deadly church attack",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 7.55,
+   "risk": 7.09,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 27,
+   "countries": [
+    "SAU",
+    "USA",
+    "THA",
+    "JAM",
+    "QAT",
+    "PAK",
+    "AZE",
+    "CYP",
+    "IRQ",
+    "KWT",
+    "ARE",
+    "GBR",
+    "ZAF",
+    "DEU",
+    "CAN",
+    "OMN",
+    "GHA",
+    "NZL",
+    "AUS",
+    "FRA"
+   ],
+   "first_seen": "2026-10-25T11:13:12Z",
+   "last_seen": "2026-10-26T15:12:52Z",
+   "page": "event/29318.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T11:13:12Z",
+     "headline": "Shock and Grief in a Jordanian Village after Church Attack",
+     "url": "https://english.aawsat.com/node/5333409"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T11:30:22Z",
+     "headline": "Shock and grief in a Jordanian village after church attack",
+     "url": "https://www.al-monitor.com/originals/2026/10/shock-and-grief-jordanian-village-after-church-attack"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as eight victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-eight-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as nine victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-nine-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:16:48Z",
+     "headline": "Jordanians mourn victims of deadly church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T19:19:55Z",
+     "headline": "Jordanians reject attempts to sow division in society",
+     "url": "https://www.arabnews.com/middle-east/jordanians-reject-attempts-to-sow-division-in-society-3008225"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T04:06:26Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://tribune.com.pk/story/2637002/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T04:37:31Z",
+     "headline": "Jordan arrests 3 over church attack",
+     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-over-church-attack-3008281"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T04:46:30Z",
+     "headline": "Jordan arrests three suspects over deadly church attack after shootout, state media says",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordan-arrests-three-suspects-over-deadly-church-attack-after-shootout-state"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T04:46:30Z",
+     "headline": "Jordan arrests three relatives over deadly church attack after shootout, officials say",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordan-arrests-three-relatives-over-deadly-church-attack-after-shootout-officials"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-26T05:08:40Z",
+     "headline": "Jordanian security forces say they've arrested three men in deadly church attack",
+     "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T06:00:00Z",
+     "headline": "Jordan arrests three suspects over church attack that killed nine",
+     "url": "https://www.azernews.az/region/266192.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T06:25:55Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://cyprus-mail.com/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T06:57:34Z",
+     "headline": "Jordan detains three suspects in deadly church attack",
+     "url": "https://shafaq.com/en/Middle-East/Jordan-detains-three-suspects-in-deadly-church-attack"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-26T07:10:00Z",
+     "headline": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
+     "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T07:12:00Z",
+     "headline": "Jordan Arrests Three Suspects Over Church Attack That Killed Nine",
+     "url": "https://www.arabtimesonline.com/news/jordan-arrests-three-suspects-over-church-attack-that-killed-nine/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T08:14:38Z",
+     "headline": "Jordan arrests three suspects in Karak church attack after three-hour gun battle",
+     "url": "https://gulfnews.com/world/mena/jordan-arrests-three-suspects-in-karak-church-attack-after-three-hour-gun-battle-1.500723708"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-26T08:27:00Z",
+     "headline": "Three men arrested in shootout after deadly attack on church in Jordan",
+     "url": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T09:08:09Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T09:27:13Z",
+     "headline": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-26T10:12:00Z",
+     "headline": "Jordan: 3 arrested over deadly church attack",
+     "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-26T10:25:39Z",
+     "headline": "Jordan arrests 3 suspects in deadly church attack after gunbattle",
+     "url": "https://www.cbc.ca/news/world/jordan-church-attack-arrests-9.7395806?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T11:08:48Z",
+     "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T11:16:52Z",
+     "headline": "Jordan arrests 3 in dawn raid over Karak attack",
+     "url": "https://www.omanobserver.om/article/1198605/world/region/jordan-arrests-3-in-dawn-raid-over-karak-attack"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T11:55:56Z",
+     "headline": "Jordan arrests 3 in dawn raid over church attack",
+     "url": "https://www.dawn.com/news/2039967/jordan-arrests-3-in-dawn-raid-over-church-attack"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T12:29:50Z",
+     "headline": "Jordan says three family members behind church attack",
+     "url": "https://www.arabnews.com/middle-east/jordan-says-three-family-members-behind-church-attack-3008350"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T12:29:50Z",
+     "headline": "Jordan arrests 3 in dawn raid over deadly church attack",
+     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-in-dawn-raid-over-deadly-church-attack-3008350"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T12:37:21Z",
+     "headline": "Jordan arrests three men suspected of deadly church attack after shootout",
+     "url": "https://www.myjoyonline.com/jordan-arrests-three-men-suspected-of-deadly-church-attack-after-shootout/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T12:44:22Z",
+     "headline": "Jordan says three family members behind Karak church attack",
+     "url": "https://www.newarab.com/news/jordan-says-three-family-members-behind-karak-church-attack"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-26T13:10:50Z",
+     "headline": "Jordanian security forces arrest 3 men over last week's deadly church attack",
+     "url": "https://www.stuff.co.nz/world-news/361051206/jordanian-security-forces-arrest-3-men-over-last-weeks-deadl"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-26T13:30:00Z",
+     "headline": "Dendias tells Jordanian ambassador protecting Christian communities in Middle East is a priority for Greece",
+     "url": "https://en.protothema.gr/2026/10/26/dendias-tells-jordanian-ambassador-protecting-christian-communities-in-middle-east-is-a-priority-for-greece/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T13:46:23Z",
+     "headline": "Jordan arrests three relatives over deadly church attack",
+     "url": "https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T15:12:52Z",
+     "headline": "Jordan arrests three following deadly terror attack on church",
+     "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church"
+    }
+   ]
+  },
+  {
+   "id": 31230,
+   "title": "US singer Chris Brown spared jail after pleading guilty over UK nightclub incident",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 7.51,
+   "risk": 2.11,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 28,
+   "countries": [
+    "USA",
+    "PAK",
+    "GBR",
+    "MYS",
+    "ARE",
+    "IRL",
+    "ZWE",
+    "JAM",
+    "NGA",
+    "NAM",
+    "TUR",
+    "AUS",
+    "SGP",
+    "ZAF",
+    "CYP"
+   ],
+   "first_seen": "2026-10-26T06:22:33Z",
+   "last_seen": "2026-10-26T15:24:15Z",
+   "page": "event/31230.html",
+   "reports": [
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-26T06:22:33Z",
+     "headline": "Singer Chris Brown to be sentenced over bottle attack at a London nightclub",
+     "url": "https://abcnews.com/International/wireStory/singer-chris-brown-sentenced-bottle-attack-london-nightclub-137563436"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T09:32:52Z",
+     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
+     "url": "https://tribune.com.pk/story/2637040/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T10:18:42Z",
+     "headline": "R&B superstar Chris Brown handed 8-month suspended sentence over tequila bottle attack in London nightclub",
+     "url": "https://www.standard.co.uk/news/crime/chris-brown-london-nightclub-assault-sentence-b1302329.html"
+    },
+    {
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T11:15:14Z",
+     "headline": "Chris Brown arrives at UK court for sentencing over nightclub attack",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/chris-brown-arrives-at-uk-court-for-sentencing-over-nightclub-attack"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T12:18:08Z",
+     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
+     "url": "https://www.standard.co.uk/culture/music/chris-brown-southwark-crown-court-mayfair-tape-london-b1302350.html"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T12:18:08Z",
+     "headline": "Footage shows Chris Brown launch tequila bottle attack on man in nightclub",
+     "url": "https://www.irishnews.com/news/uk/chris-brown-avoids-jail-after-admitting-nightclub-affray-charge-26YMGXORLVLU5PPOZIXJ5TZ3TU/"
+    },
+    {
+     "outlet": "Belfast Telegraph",
+     "country": "GBR",
+     "time": "2026-10-26T12:18:08Z",
+     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
+     "url": "https://www.belfasttelegraph.co.uk/entertainment/news/chris-brown-avoids-jail-after-admitting-nightclub-affray-charge/a/163621112.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T12:21:31Z",
+     "headline": "Chris Brown faces up to 3 years in prison for London nightclub bottle attack",
+     "url": "https://gulfnews.com/entertainment/chris-brown-faces-up-to-3-years-in-prison-for-london-nightclub-bottle-attack-1.500724193"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-26T12:21:42Z",
+     "headline": "Chris Brown given suspended sentence in London for affray",
+     "url": "https://www.rte.ie/entertainment/2026/1026/1596862-chris-brown-given-suspended-sentence-in-london-for-affray/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-26T12:28:24Z",
+     "headline": "Chris Brown given suspended sentence over bottle attack at London club",
+     "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club"
+    },
+    {
+     "outlet": "The Herald",
+     "country": "ZWE",
+     "time": "2026-10-26T12:31:14Z",
+     "headline": "BREAKING: Chris Brown handed suspended jail term over London nightclub attack",
+     "url": "https://www.heraldonline.co.zw/breaking-chris-brown-handed-suspended-jail-term-over-london-nightclub-attack/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T12:32:21Z",
+     "headline": "US singer Chris Brown spared jail after pleading guilty over UK nightclub incident",
+     "url": "https://www.brecorder.com/news/40445994/us-singer-chris-brown-spared-jail-after-pleading-guilty-over-uk-nightclub-incident"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T12:38:22Z",
+     "headline": "Chris Brown avoids jail over UK nightclub brawl",
+     "url": "https://www.jamaicaobserver.com/2026/10/26/chris-brown-avoids-jail-uk-nightclub-brawl/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T12:38:25Z",
+     "headline": "Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault",
+     "url": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T12:41:38Z",
+     "headline": "US singer Chris Brown avoids jail over UK nightclub brawl",
+     "url": "https://www.vanguardngr.com/2026/10/us-singer-chris-brown-avoids-jail-over-uk-nightclub-brawl/"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T12:50:26Z",
+     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
+     "url": "https://www.standard.co.uk/culture/music/chris-brown-southwark-crown-court-london-mayfair-tape-b1302350.html"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-26T12:51:52Z",
+     "headline": "Chris Brown given suspended eight-month prison sentence over London nightclub attack",
+     "url": "https://www.namibian.com.na/chris-brown-given-suspended-eight-month-prison-sentence-over-london-nightclub-attack/"
+    },
+    {
+     "outlet": "Manchester Evening News",
+     "country": "GBR",
+     "time": "2026-10-26T12:54:33Z",
+     "headline": "Chris Brown spared jail after he's arrested in five-star Manchester hotel for nightclub attack",
+     "url": "https://www.manchestereveningnews.co.uk/news/uk-news/chris-brown-spared-jail-after-34818360"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T13:01:57Z",
+     "headline": "US singer Chris Brown handed suspended prison sentence over London nightclub assault",
+     "url": "https://www.aa.com.tr/en/americas/us-singer-chris-brown-handed-suspended-prison-sentence-over-london-nightclub-assault/4101297"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-26T13:25:29Z",
+     "headline": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T13:40:19Z",
+     "headline": "Chris Brown avoids jail time over London nightclub brawl",
+     "url": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T13:49:28Z",
+     "headline": "Footage shows Chris Brown launch tequila bottle attack on man in nightclub",
+     "url": "https://www.irishnews.com/news/uk/footage-shows-chris-brown-launch-tequila-bottle-attack-on-man-in-nightclub-26YMGXORLVLU5PPOZIXJ5TZ3TU/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T14:00:47Z",
+     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
+     "url": "https://www.straitstimes.com/world/europe/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T14:21:00Z",
+     "headline": "Moment R&B star Chris Brown attacks man with tequila bottle in London nightclub",
+     "url": "https://www.standard.co.uk/news/crime/chris-brown-london-nightclub-attack-bottle-cctv-b1302329.html"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-26T14:27:51Z",
+     "headline": "Chris Brown avoids jail over London nightclub bottle attack",
+     "url": "http://www.africanews.com/2026/10/26/chris-brown-avoids-jail-over-london-nightclub-bottle-attack/"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T14:37:00Z",
+     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
+     "url": "https://www.sabcnews.com/sabcnews/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T14:40:48Z",
+     "headline": "Chris Brown gets suspended sentence over London club attack",
+     "url": "https://www.turkiyetoday.com/culture/chris-brown-gets-suspended-sentence-over-london-club-attack-3231076"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T15:01:49Z",
+     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
+     "url": "https://cyprus-mail.com/2026/10/26/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T15:05:46Z",
+     "headline": "US Singer Chris Brown Avoids Jail Over London Nightclub Brawl",
+     "url": "https://www.channelstv.com/2026/10/26/us-singer-chris-brown-avoids-jail-over-london-nightclub-brawl/"
+    },
+    {
+     "outlet": "MyLondon",
+     "country": "GBR",
+     "time": "2026-10-26T15:08:59Z",
+     "headline": "Chris Brown seen blowing kisses to fans outside London court as star avoids jail for nightclub bottle attack",
+     "url": "https://www.mylondon.news/news/uk-world-news/chris-brown-seen-blowing-kisses-34819521"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T15:15:23Z",
+     "headline": "Chris Brown gets suspended jail term over London nightclub attack",
+     "url": "https://punchng.com/chris-brown-gets-suspended-jail-term-over-london-nightclub-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-26T15:24:15Z",
+     "headline": "Chris Brown given suspended eight-month prison sentence over London nightclub attack",
+     "url": "https://www.namibian.com.na/chris-brown-given-suspended-eight-month-prison-sentence-over-london-nightclub-attack-2/"
+    }
+   ]
+  },
+  {
    "id": 8775,
    "title": "Trump fires White House Press Secretary Katie Zacharia",
    "category": "Geopolitics",
@@ -2256,255 +2783,236 @@
    ]
   },
   {
-   "id": 29318,
-   "title": "Jordan: 3 arrested over deadly church attack",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 7.36,
-   "risk": 7.02,
-   "confidence": 0.9,
+   "id": 31617,
+   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.38,
+   "risk": 5.79,
+   "confidence": 0.92,
    "status": "spreading",
-   "outlets": 25,
+   "outlets": 22,
    "countries": [
-    "SAU",
+    "OMN",
     "USA",
-    "THA",
-    "JAM",
-    "QAT",
-    "PAK",
+    "IRN",
+    "GRC",
+    "TUR",
+    "NGA",
+    "IRL",
     "AZE",
-    "CYP",
-    "IRQ",
-    "KWT",
-    "ARE",
-    "GBR",
-    "ZAF",
-    "DEU",
-    "CAN",
-    "GHA",
-    "NZL",
-    "AUS"
+    "PAK",
+    "ISR",
+    "MYS",
+    "LUX",
+    "CYP"
    ],
-   "first_seen": "2026-10-25T11:13:12Z",
-   "last_seen": "2026-10-26T13:46:23Z",
-   "page": "event/29318.html",
+   "first_seen": "2026-10-26T03:07:52Z",
+   "last_seen": "2026-10-26T15:05:33Z",
+   "page": "event/31617.html",
    "reports": [
     {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T11:13:12Z",
-     "headline": "Shock and Grief in a Jordanian Village after Church Attack",
-     "url": "https://english.aawsat.com/node/5333409"
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
     },
     {
      "outlet": "Al-Monitor",
      "country": "USA",
-     "time": "2026-10-25T11:30:22Z",
-     "headline": "Shock and grief in a Jordanian village after church attack",
-     "url": "https://www.al-monitor.com/originals/2026/10/shock-and-grief-jordanian-village-after-church-attack"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T11:47:59Z",
-     "headline": "Jordan unites in grief as eight victims of church terror attack laid to rest",
-     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-eight-victims-of-church-terror-attack-laid-to-rest-3008198"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T11:47:59Z",
-     "headline": "Jordan unites in grief as nine victims of church terror attack laid to rest",
-     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-nine-victims-of-church-terror-attack-laid-to-rest-3008198"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:16:48Z",
-     "headline": "Jordanians mourn victims of deadly church attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T19:19:55Z",
-     "headline": "Jordanians reject attempts to sow division in society",
-     "url": "https://www.arabnews.com/middle-east/jordanians-reject-attempts-to-sow-division-in-society-3008225"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T04:06:26Z",
-     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
-     "url": "https://tribune.com.pk/story/2637002/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T04:37:31Z",
-     "headline": "Jordan arrests 3 over church attack",
-     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-over-church-attack-3008281"
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-hosts-saudi-defence-pact-states-houthis-launch-more-attacks"
     },
     {
      "outlet": "Al-Monitor",
      "country": "USA",
-     "time": "2026-10-26T04:46:30Z",
-     "headline": "Jordan arrests three suspects over deadly church attack after shootout, state media says",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordan-arrests-three-suspects-over-deadly-church-attack-after-shootout-state"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T04:46:30Z",
-     "headline": "Jordan arrests three relatives over deadly church attack after shootout, officials say",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordan-arrests-three-relatives-over-deadly-church-attack-after-shootout-officials"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-26T05:08:40Z",
-     "headline": "Jordanian security forces say they've arrested three men in deadly church attack",
-     "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T06:00:00Z",
-     "headline": "Jordan arrests three suspects over church attack that killed nine",
-     "url": "https://www.azernews.az/region/266192.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T06:25:55Z",
-     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
-     "url": "https://cyprus-mail.com/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T06:57:34Z",
-     "headline": "Jordan detains three suspects in deadly church attack",
-     "url": "https://shafaq.com/en/Middle-East/Jordan-detains-three-suspects-in-deadly-church-attack"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-26T07:10:00Z",
-     "headline": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
-     "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-26T07:12:00Z",
-     "headline": "Jordan Arrests Three Suspects Over Church Attack That Killed Nine",
-     "url": "https://www.arabtimesonline.com/news/jordan-arrests-three-suspects-over-church-attack-that-killed-nine/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T08:14:38Z",
-     "headline": "Jordan arrests three suspects in Karak church attack after three-hour gun battle",
-     "url": "https://gulfnews.com/world/mena/jordan-arrests-three-suspects-in-karak-church-attack-after-three-hour-gun-battle-1.500723708"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-26T08:27:00Z",
-     "headline": "Three men arrested in shootout after deadly attack on church in Jordan",
-     "url": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-26T09:08:09Z",
-     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-26-jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T09:27:13Z",
-     "headline": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-26T10:12:00Z",
-     "headline": "Jordan: 3 arrested over deadly church attack",
-     "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-26T10:25:39Z",
-     "headline": "Jordan arrests 3 suspects in deadly church attack after gunbattle",
-     "url": "https://www.cbc.ca/news/world/jordan-church-attack-arrests-9.7395806?cmp=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T11:08:48Z",
-     "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-26T11:55:56Z",
-     "headline": "Jordan arrests 3 in dawn raid over church attack",
-     "url": "https://www.dawn.com/news/2039967/jordan-arrests-3-in-dawn-raid-over-church-attack"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T12:29:50Z",
-     "headline": "Jordan says three family members behind church attack",
-     "url": "https://www.arabnews.com/middle-east/jordan-says-three-family-members-behind-church-attack-3008350"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T12:29:50Z",
-     "headline": "Jordan arrests 3 in dawn raid over deadly church attack",
-     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-in-dawn-raid-over-deadly-church-attack-3008350"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T12:37:21Z",
-     "headline": "Jordan arrests three men suspected of deadly church attack after shootout",
-     "url": "https://www.myjoyonline.com/jordan-arrests-three-men-suspected-of-deadly-church-attack-after-shootout/"
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Saudi defence pact countries hold talks in Iran as Houthis launch more attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-defence-pact-countries-hold-talks-iran-houthis-launch-more-attacks"
     },
     {
      "outlet": "The New Arab",
      "country": "INT",
-     "time": "2026-10-26T12:44:22Z",
-     "headline": "Jordan says three family members behind Karak church attack",
-     "url": "https://www.newarab.com/news/jordan-says-three-family-members-behind-karak-church-attack"
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
+     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
     },
     {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-26T13:10:50Z",
-     "headline": "Jordanian security forces arrest 3 men over last week's deadly church attack",
-     "url": "https://www.stuff.co.nz/world-news/361051206/jordanian-security-forces-arrest-3-men-over-last-weeks-deadl"
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-26T08:33:01Z",
+     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
     },
     {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-26T13:30:00Z",
-     "headline": "Dendias tells Jordanian ambassador protecting Christian communities in Middle East is a priority for Greece",
-     "url": "https://en.protothema.gr/2026/10/26/dendias-tells-jordanian-ambassador-protecting-christian-communities-in-middle-east-is-a-priority-for-greece/"
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T08:48:09Z",
+     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
+     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
     },
     {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T13:46:23Z",
-     "headline": "Jordan arrests three relatives over deadly church attack",
-     "url": "https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848"
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-26T09:00:26Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
+     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-26T09:38:43Z",
+     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:50:26Z",
+     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
+     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-26T09:56:34Z",
+     "headline": "Mecca defense pact members hold talks with Iran",
+     "url": "https://www.iranintl.com/en/202610260367"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T09:58:11Z",
+     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
+     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T10:14:39Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
+     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T10:23:00Z",
+     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
+     "url": "https://www.azernews.az/region/266213.html"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-26T11:14:00Z",
+     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
+     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T11:30:19Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T11:57:45Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T12:17:08Z",
+     "headline": "Iran To Hold Security Talks With Saudi, Pakistan, Turkey",
+     "url": "https://www.channelstv.com/2026/10/26/iran-to-hold-security-talks-with-saudi-pakistan-turkey/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T12:26:21Z",
+     "headline": "Saudi Arabia says talks in Tehran aim to prevent escalation",
+     "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T12:47:37Z",
+     "headline": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T12:55:26Z",
+     "headline": "Mecca defense pact faces test as Saudi delegation arrives for high-stakes Iran talks - analysis",
+     "url": "https://www.jpost.com/international/article-912911"
+    },
+    {
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T13:14:37Z",
+     "headline": "Houthis attack Saudi Arabia ahead of high-stakes talks in Tehran",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/houthis-attack-saudi-arabia-ahead-of-high-stakes-talks-in-tehran"
+    },
+    {
+     "outlet": "Luxembourg Times",
+     "country": "LUX",
+     "time": "2026-10-26T13:16:25Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.luxtimes.lu/world/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/163625084.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T13:17:08Z",
+     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
+     "url": "https://cyprus-mail.com/2026/10/26/iran-hosts-saudi-defence-pact-states-as-houthis-launch-more-attacks"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T13:38:33Z",
+     "headline": "Iran, Pakistan, Turkey and Saudi Arabia meeting held",
+     "url": "https://en.mehrnews.com/news/248938/Iran-Pakistan-Turkey-and-Saudi-Arabia-meeting-underway"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T13:39:58Z",
+     "headline": "Iran, Pakistan, Turkey, and Saudi Arabia open quadrilateral talks in Tehran",
+     "url": "https://en.irna.ir/news/86304066/Iran-Pakistan-Turkey-and-Saudi-Arabia-open-quadrilateral-talks"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T14:12:48Z",
+     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
+     "url": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T14:12:48Z",
+     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
+     "url": "https://www.aa.com.tr/en/politics/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T15:00:10Z",
+     "headline": "Iran ready to take steps toward regional cooperation, resolving differences: President",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-ready-to-take-steps-toward-regional-cooperation-resolving-differences-president/4101459"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T15:05:33Z",
+     "headline": "Four-way meeting in Tehran",
+     "url": "https://en.mehrnews.com/photo/248939/Four-way-meeting-in-Tehran"
     }
    ]
   },
@@ -2833,462 +3341,6 @@
      "time": "2026-10-25T23:17:49Z",
      "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
      "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
-    }
-   ]
-  },
-  {
-   "id": 31230,
-   "title": "US singer Chris Brown spared jail after pleading guilty over UK nightclub incident",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 7.33,
-   "risk": 2.12,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 24,
-   "countries": [
-    "USA",
-    "GBR",
-    "MYS",
-    "ARE",
-    "IRL",
-    "ZWE",
-    "PAK",
-    "JAM",
-    "NGA",
-    "NAM",
-    "TUR",
-    "AUS",
-    "SGP",
-    "ZAF",
-    "CYP"
-   ],
-   "first_seen": "2026-10-26T06:22:33Z",
-   "last_seen": "2026-10-26T15:15:23Z",
-   "page": "event/31230.html",
-   "reports": [
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-26T06:22:33Z",
-     "headline": "Singer Chris Brown to be sentenced over bottle attack at a London nightclub",
-     "url": "https://abcnews.com/International/wireStory/singer-chris-brown-sentenced-bottle-attack-london-nightclub-137563436"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T10:18:42Z",
-     "headline": "R&B superstar Chris Brown handed 8-month suspended sentence over tequila bottle attack in London nightclub",
-     "url": "https://www.standard.co.uk/news/crime/chris-brown-london-nightclub-assault-sentence-b1302329.html"
-    },
-    {
-     "outlet": "Free Malaysia Today",
-     "country": "MYS",
-     "time": "2026-10-26T11:15:14Z",
-     "headline": "Chris Brown arrives at UK court for sentencing over nightclub attack",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/chris-brown-arrives-at-uk-court-for-sentencing-over-nightclub-attack"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T12:18:08Z",
-     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
-     "url": "https://www.standard.co.uk/culture/music/chris-brown-southwark-crown-court-mayfair-tape-london-b1302350.html"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-26T12:18:08Z",
-     "headline": "Footage shows Chris Brown launch tequila bottle attack on man in nightclub",
-     "url": "https://www.irishnews.com/news/uk/chris-brown-avoids-jail-after-admitting-nightclub-affray-charge-26YMGXORLVLU5PPOZIXJ5TZ3TU/"
-    },
-    {
-     "outlet": "Belfast Telegraph",
-     "country": "GBR",
-     "time": "2026-10-26T12:18:08Z",
-     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
-     "url": "https://www.belfasttelegraph.co.uk/entertainment/news/chris-brown-avoids-jail-after-admitting-nightclub-affray-charge/a/163621112.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T12:21:31Z",
-     "headline": "Chris Brown faces up to 3 years in prison for London nightclub bottle attack",
-     "url": "https://gulfnews.com/entertainment/chris-brown-faces-up-to-3-years-in-prison-for-london-nightclub-bottle-attack-1.500724193"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-26T12:21:42Z",
-     "headline": "Chris Brown given suspended sentence in London for affray",
-     "url": "https://www.rte.ie/entertainment/2026/1026/1596862-chris-brown-given-suspended-sentence-in-london-for-affray/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-26T12:28:24Z",
-     "headline": "Chris Brown given suspended sentence over bottle attack at London club",
-     "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club"
-    },
-    {
-     "outlet": "The Herald",
-     "country": "ZWE",
-     "time": "2026-10-26T12:31:14Z",
-     "headline": "BREAKING: Chris Brown handed suspended jail term over London nightclub attack",
-     "url": "https://www.heraldonline.co.zw/breaking-chris-brown-handed-suspended-jail-term-over-london-nightclub-attack/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T12:32:21Z",
-     "headline": "US singer Chris Brown spared jail after pleading guilty over UK nightclub incident",
-     "url": "https://www.brecorder.com/news/40445994/us-singer-chris-brown-spared-jail-after-pleading-guilty-over-uk-nightclub-incident"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T12:38:22Z",
-     "headline": "Chris Brown avoids jail over UK nightclub brawl",
-     "url": "https://www.jamaicaobserver.com/2026/10/26/chris-brown-avoids-jail-uk-nightclub-brawl/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T12:38:25Z",
-     "headline": "Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault",
-     "url": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T12:41:38Z",
-     "headline": "US singer Chris Brown avoids jail over UK nightclub brawl",
-     "url": "https://www.vanguardngr.com/2026/10/us-singer-chris-brown-avoids-jail-over-uk-nightclub-brawl/"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T12:50:26Z",
-     "headline": "Chris Brown avoids jail after admitting nightclub affray charge",
-     "url": "https://www.standard.co.uk/culture/music/chris-brown-southwark-crown-court-london-mayfair-tape-b1302350.html"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-26T12:51:52Z",
-     "headline": "Chris Brown given suspended eight-month prison sentence over London nightclub attack",
-     "url": "https://www.namibian.com.na/chris-brown-given-suspended-eight-month-prison-sentence-over-london-nightclub-attack/"
-    },
-    {
-     "outlet": "Manchester Evening News",
-     "country": "GBR",
-     "time": "2026-10-26T12:54:33Z",
-     "headline": "Chris Brown spared jail after he's arrested in five-star Manchester hotel for nightclub attack",
-     "url": "https://www.manchestereveningnews.co.uk/news/uk-news/chris-brown-spared-jail-after-34818360"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T13:01:57Z",
-     "headline": "US singer Chris Brown handed suspended prison sentence over London nightclub assault",
-     "url": "https://www.aa.com.tr/en/americas/us-singer-chris-brown-handed-suspended-prison-sentence-over-london-nightclub-assault/4101297"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-26T13:25:29Z",
-     "headline": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T13:40:19Z",
-     "headline": "Chris Brown avoids jail time over London nightclub brawl",
-     "url": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-26T13:49:28Z",
-     "headline": "Footage shows Chris Brown launch tequila bottle attack on man in nightclub",
-     "url": "https://www.irishnews.com/news/uk/footage-shows-chris-brown-launch-tequila-bottle-attack-on-man-in-nightclub-26YMGXORLVLU5PPOZIXJ5TZ3TU/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T14:00:47Z",
-     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
-     "url": "https://www.straitstimes.com/world/europe/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T14:21:00Z",
-     "headline": "Moment R&B star Chris Brown attacks man with tequila bottle in London nightclub",
-     "url": "https://www.standard.co.uk/news/crime/chris-brown-london-nightclub-attack-bottle-cctv-b1302329.html"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-26T14:37:00Z",
-     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
-     "url": "https://www.sabcnews.com/sabcnews/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T14:40:48Z",
-     "headline": "Chris Brown gets suspended sentence over London club attack",
-     "url": "https://www.turkiyetoday.com/culture/chris-brown-gets-suspended-sentence-over-london-club-attack-3231076"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T15:01:49Z",
-     "headline": "US singer Chris Brown spared jail for UK nightclub attack",
-     "url": "https://cyprus-mail.com/2026/10/26/us-singer-chris-brown-spared-jail-for-uk-nightclub-attack"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T15:05:46Z",
-     "headline": "US Singer Chris Brown Avoids Jail Over London Nightclub Brawl",
-     "url": "https://www.channelstv.com/2026/10/26/us-singer-chris-brown-avoids-jail-over-london-nightclub-brawl/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T15:15:23Z",
-     "headline": "Chris Brown gets suspended jail term over London nightclub attack",
-     "url": "https://punchng.com/chris-brown-gets-suspended-jail-term-over-london-nightclub-attack/?utm_source=rss.punchng.com&utm_medium=web"
-    }
-   ]
-  },
-  {
-   "id": 31617,
-   "title": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.32,
-   "risk": 5.88,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 22,
-   "countries": [
-    "OMN",
-    "USA",
-    "IRN",
-    "GRC",
-    "TUR",
-    "NGA",
-    "IRL",
-    "AZE",
-    "PAK",
-    "ISR",
-    "MYS",
-    "LUX",
-    "CYP"
-   ],
-   "first_seen": "2026-10-26T03:07:52Z",
-   "last_seen": "2026-10-26T15:00:10Z",
-   "page": "event/31617.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-hosts-saudi-defence-pact-states-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Saudi defence pact countries hold talks in Iran as Houthis launch more attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-defence-pact-countries-hold-talks-iran-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
-     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
-    },
-    {
-     "outlet": "Rigzone",
-     "country": "USA",
-     "time": "2026-10-26T08:33:01Z",
-     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
-     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T08:48:09Z",
-     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
-     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-26T09:00:26Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
-     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-26T09:38:43Z",
-     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:50:26Z",
-     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
-     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-26T09:56:34Z",
-     "headline": "Mecca defense pact members hold talks with Iran",
-     "url": "https://www.iranintl.com/en/202610260367"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T09:58:11Z",
-     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
-     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T10:14:39Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
-     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T10:23:00Z",
-     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
-     "url": "https://www.azernews.az/region/266213.html"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-26T11:14:00Z",
-     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
-     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T11:30:19Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T11:57:45Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T12:17:08Z",
-     "headline": "Iran To Hold Security Talks With Saudi, Pakistan, Turkey",
-     "url": "https://www.channelstv.com/2026/10/26/iran-to-hold-security-talks-with-saudi-pakistan-turkey/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T12:26:21Z",
-     "headline": "Saudi Arabia says talks in Tehran aim to prevent escalation",
-     "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T12:47:37Z",
-     "headline": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T12:55:26Z",
-     "headline": "Mecca defense pact faces test as Saudi delegation arrives for high-stakes Iran talks - analysis",
-     "url": "https://www.jpost.com/international/article-912911"
-    },
-    {
-     "outlet": "Free Malaysia Today",
-     "country": "MYS",
-     "time": "2026-10-26T13:14:37Z",
-     "headline": "Houthis attack Saudi Arabia ahead of high-stakes talks in Tehran",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/houthis-attack-saudi-arabia-ahead-of-high-stakes-talks-in-tehran"
-    },
-    {
-     "outlet": "Luxembourg Times",
-     "country": "LUX",
-     "time": "2026-10-26T13:16:25Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.luxtimes.lu/world/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/163625084.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T13:17:08Z",
-     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
-     "url": "https://cyprus-mail.com/2026/10/26/iran-hosts-saudi-defence-pact-states-as-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T13:38:33Z",
-     "headline": "Iran, Pakistan, Turkey and Saudi Arabia meeting underway",
-     "url": "https://en.mehrnews.com/news/248938/Iran-Pakistan-Turkey-and-Saudi-Arabia-meeting-underway"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T13:39:58Z",
-     "headline": "Iran, Pakistan, Turkey, and Saudi Arabia open quadrilateral talks in Tehran",
-     "url": "https://en.irna.ir/news/86304066/Iran-Pakistan-Turkey-and-Saudi-Arabia-open-quadrilateral-talks"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T14:12:48Z",
-     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
-     "url": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T14:12:48Z",
-     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
-     "url": "https://www.aa.com.tr/en/politics/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T15:00:10Z",
-     "headline": "Iran ready to take steps toward regional cooperation, resolving differences: President",
-     "url": "https://www.aa.com.tr/en/middle-east/iran-ready-to-take-steps-toward-regional-cooperation-resolving-differences-president/4101459"
     }
    ]
   },
@@ -6641,255 +6693,6 @@
    ]
   },
   {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.58,
-   "risk": 1.66,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 21,
-   "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
-    "ARE",
-    "BGD",
-    "CYP",
-    "TUR",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T15:06:00Z",
-   "page": "event/27258.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "Iran says regional security talks must address US aggression, Israeli expansionism",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T06:35:41Z",
-     "headline": "Four-nation meeting involving Makkah pact countries underway in Tehran",
-     "url": "https://tribune.com.pk/story/2637017/officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-26T06:54:35Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T07:02:02Z",
-     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
-     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T07:02:15Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
-     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T07:27:26Z",
-     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
-     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T07:29:04Z",
-     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-26T07:34:28Z",
-     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
-     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
-     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T08:42:21Z",
-     "headline": "Mecca Pact members to convene security talks in Iran",
-     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-26T09:08:09Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-26-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-26T09:45:43Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
-     "url": "https://www.channelnewsasia.com/world/mecca-pact-saudi-arabia-pakistan-turkiye-officials-meet-6492026"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-26T15:06:00Z",
-     "headline": "Senior representatives of Mecca Agreement countries conclude meeting with Iranian officials in Tehran - UPDATED",
-     "url": "https://en.apa.az/asia/senior-representatives-of-mecca-agreement-countries-conclude-meeting-with-iranian-officials-in-tehran-updated-532284"
-    }
-   ]
-  },
-  {
    "id": 26704,
    "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
    "category": "Trade & Industry",
@@ -7820,318 +7623,6 @@
    ]
   },
   {
-   "id": 5498,
-   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.4,
-   "risk": 6.79,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 20,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR",
-    "IRL",
-    "MYS"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-26T14:22:35Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:24:26Z",
-     "headline": "Israeli strike on Gaza university kills three",
-     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-    }
-   ]
-  },
-  {
    "id": 13172,
    "title": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
    "category": "Geopolitics",
@@ -8444,265 +7935,6 @@
      "time": "2026-10-26T08:59:00Z",
      "headline": "Eduardo Bolsonaro urges brother to leave Brazil as Lula wins presidential election",
      "url": "https://www.azernews.az/region/266200.html"
-    }
-   ]
-  },
-  {
-   "id": 30826,
-   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.35,
-   "risk": 1.47,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 28,
-   "countries": [
-    "GBR",
-    "CAN",
-    "RUS",
-    "PAK",
-    "USA",
-    "URY",
-    "QAT",
-    "ARE",
-    "LVA",
-    "NGA",
-    "ZAF",
-    "AUS",
-    "IRL",
-    "KOR",
-    "ISR",
-    "FIN",
-    "FRA"
-   ],
-   "first_seen": "2026-10-25T13:26:30Z",
-   "last_seen": "2026-10-26T14:01:01Z",
-   "page": "event/30826.html",
-   "reports": [
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-25T13:26:30Z",
-     "headline": "Close contest expected as Lula takes on Bolsonaro’s son in Brazilian election",
-     "url": "https://www.irishnews.com/news/world/close-contest-expected-as-lula-takes-on-bolsanaros-son-in-brazilian-election-4BHEUXJBRRMIVPLXWEVFFUDCGA/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-26T00:30:30Z",
-     "headline": "Lula re-elected in Brazil as Bolsonaro rejects results",
-     "url": "https://www.cbc.ca/news/world/lula-brazil-re-election-9.7395695?cmp=rss"
-    },
-    {
-     "outlet": "Belfast Telegraph",
-     "country": "GBR",
-     "time": "2026-10-26T00:31:06Z",
-     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
-     "url": "https://www.belfasttelegraph.co.uk/news/world-news/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/a/163603174.html"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-26T03:17:24Z",
-     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
-     "url": "https://tass.com/world/2207645"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T03:50:23Z",
-     "headline": "Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
-     "url": "https://tribune.com.pk/story/2636997/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-26T04:09:07Z",
-     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
-     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T04:26:00Z",
-     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
-     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T04:36:46Z",
-     "headline": "Bolsonaro calls for Brazil election result to be annulled",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T06:06:40Z",
-     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
-    },
-    {
-     "outlet": "Baltic News Network",
-     "country": "LVA",
-     "time": "2026-10-26T06:21:23Z",
-     "headline": "Tight presidential race ends in Brazil – Lula wins as Bolsonaro plans legal challenge",
-     "url": "https://bnn-news.com/world/tight-presidential-race-ends-in-brazil-lula-wins-as-bolsonaro-plans-legal-challenge-5r2z8ux"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T06:51:50Z",
-     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
-     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T06:53:00Z",
-     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
-     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T06:55:34Z",
-     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
-     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T07:07:30Z",
-     "headline": "Brazil election: Left-wing President Lula scores surprise victory over Flávio Bolsonaro",
-     "url": "https://www.thejournal.ie/brazil-election-result-7205214-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:12:05Z",
-     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T07:35:39Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-26T07:37:02Z",
-     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-26T07:38:36Z",
-     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
-     "url": "https://www.irishnews.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results-NG3Q4YKN3VPFPE43FIZCEDZ4PI/"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-26T08:14:54Z",
-     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
-     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:11:33Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T09:12:13Z",
-     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
-     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T09:15:21Z",
-     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-26T09:55:52Z",
-     "headline": "'Fraud': Netanyahu minister disputes Brazil election as Israeli leaders denounce Lula",
-     "url": "https://www.haaretz.com/world-news/2026-10-26/ty-article/.premium/israeli-minister-disputes-brazil-election-result-alleges-fraud-after-lula-win/000001a1-7799-dc36-a7b3-77fd73600000"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-26T10:15:21Z",
-     "headline": "SAFTU welcomes Lula da Silva’s election victory in Brazil",
-     "url": "https://www.sabcnews.com/sabcnews/saftu-welcomes-lula-da-silvas-election-victory-in-brazil/"
-    },
-    {
-     "outlet": "Helsinki Times",
-     "country": "FIN",
-     "time": "2026-10-26T10:15:44Z",
-     "headline": "Lula wins Brazil presidential election as Bolsonaro refuses to accept defeat",
-     "url": "https://www.helsinkitimes.fi/world-int/29426-lula-wins-brazil-presidential-election-as-bolsonaro-refuses-to-accept-defeat.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T10:31:13Z",
-     "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-     "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T11:31:10Z",
-     "headline": "Lula deals Trump a blow with Brazil election victory that ends Latin America’s right-wing streak",
-     "url": "https://www.independent.co.uk/news/world/americas/brazil-lula-bolsonaro-trump-election-b3073397.html"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-26T11:50:55Z",
-     "headline": "Lula beats Bolsonaro in Brazil runoff: What does it mean for Donald Trump?",
-     "url": "https://www.france24.com/en/video/20261026-lula-beats-bolsonaro-in-brazil-runoff-what-does-it-mean-for-donald-trump"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-26T13:19:24Z",
-     "headline": "Incumbent Lula is declared winner of Brazil's election as Bolsonaro rejects results",
-     "url": "https://www.pbs.org/newshour/world/incumbent-lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T13:39:00Z",
-     "headline": "A judge appointed by Jair Bolsonaro rejects his son’s case for annulling the election",
-     "url": "https://en.mercopress.com/2026/10/26/a-judge-appointed-by-jair-bolsonaro-rejects-his-son-s-case-for-annulling-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-26T14:00:48Z",
-     "headline": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
-     "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-26T14:01:01Z",
-     "headline": "Lula secures victory in Brazil, but faces challenge as Bolsonaro contests results",
-     "url": "https://abcnews.com/International/wireStory/lula-secures-victory-brazils-election-faces-challenge-bolsonaro-137572506"
     }
    ]
   },
@@ -9117,6 +8349,436 @@
      "time": "2026-10-26T09:35:36Z",
      "headline": "Suspect in Paris shooting moved to police psychiatric unit",
      "url": "http://www.africanews.com/2026/10/26/suspect-in-paris-shooting-moved-to-police-psychiatric-unit/"
+    }
+   ]
+  },
+  {
+   "id": 30826,
+   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.28,
+   "risk": 1.44,
+   "confidence": 0.93,
+   "status": "peaking",
+   "outlets": 29,
+   "countries": [
+    "GBR",
+    "CAN",
+    "RUS",
+    "PAK",
+    "USA",
+    "URY",
+    "QAT",
+    "ARE",
+    "LVA",
+    "NGA",
+    "ZAF",
+    "AUS",
+    "IRL",
+    "KOR",
+    "ISR",
+    "FIN",
+    "FRA",
+    "BRA"
+   ],
+   "first_seen": "2026-10-25T13:26:30Z",
+   "last_seen": "2026-10-26T14:26:00Z",
+   "page": "event/30826.html",
+   "reports": [
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T13:26:30Z",
+     "headline": "Close contest expected as Lula takes on Bolsonaro’s son in Brazilian election",
+     "url": "https://www.irishnews.com/news/world/close-contest-expected-as-lula-takes-on-bolsanaros-son-in-brazilian-election-4BHEUXJBRRMIVPLXWEVFFUDCGA/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-26T00:30:30Z",
+     "headline": "Lula re-elected in Brazil as Bolsonaro rejects results",
+     "url": "https://www.cbc.ca/news/world/lula-brazil-re-election-9.7395695?cmp=rss"
+    },
+    {
+     "outlet": "Belfast Telegraph",
+     "country": "GBR",
+     "time": "2026-10-26T00:31:06Z",
+     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
+     "url": "https://www.belfasttelegraph.co.uk/news/world-news/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/a/163603174.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T03:17:24Z",
+     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
+     "url": "https://tass.com/world/2207645"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T03:50:23Z",
+     "headline": "Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+     "url": "https://tribune.com.pk/story/2636997/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-26T04:09:07Z",
+     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
+     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T04:26:00Z",
+     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
+     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T04:36:46Z",
+     "headline": "Bolsonaro calls for Brazil election result to be annulled",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T06:06:40Z",
+     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
+    },
+    {
+     "outlet": "Baltic News Network",
+     "country": "LVA",
+     "time": "2026-10-26T06:21:23Z",
+     "headline": "Tight presidential race ends in Brazil – Lula wins as Bolsonaro plans legal challenge",
+     "url": "https://bnn-news.com/world/tight-presidential-race-ends-in-brazil-lula-wins-as-bolsonaro-plans-legal-challenge-5r2z8ux"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T06:51:50Z",
+     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
+     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T06:53:00Z",
+     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
+     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T06:55:34Z",
+     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
+     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T07:07:30Z",
+     "headline": "Brazil election: Left-wing President Lula scores surprise victory over Flávio Bolsonaro",
+     "url": "https://www.thejournal.ie/brazil-election-result-7205214-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:12:05Z",
+     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:35:39Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-26T07:37:02Z",
+     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T07:38:36Z",
+     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
+     "url": "https://www.irishnews.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results-NG3Q4YKN3VPFPE43FIZCEDZ4PI/"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-26T08:14:54Z",
+     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
+     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:11:33Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T09:12:13Z",
+     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
+     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T09:15:21Z",
+     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-26T09:55:52Z",
+     "headline": "'Fraud': Netanyahu minister disputes Brazil election as Israeli leaders denounce Lula",
+     "url": "https://www.haaretz.com/world-news/2026-10-26/ty-article/.premium/israeli-minister-disputes-brazil-election-result-alleges-fraud-after-lula-win/000001a1-7799-dc36-a7b3-77fd73600000"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T10:15:21Z",
+     "headline": "SAFTU welcomes Lula da Silva’s election victory in Brazil",
+     "url": "https://www.sabcnews.com/sabcnews/saftu-welcomes-lula-da-silvas-election-victory-in-brazil/"
+    },
+    {
+     "outlet": "Helsinki Times",
+     "country": "FIN",
+     "time": "2026-10-26T10:15:44Z",
+     "headline": "Lula wins Brazil presidential election as Bolsonaro refuses to accept defeat",
+     "url": "https://www.helsinkitimes.fi/world-int/29426-lula-wins-brazil-presidential-election-as-bolsonaro-refuses-to-accept-defeat.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T10:31:13Z",
+     "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+     "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T11:31:10Z",
+     "headline": "Lula deals Trump a blow with Brazil election victory that ends Latin America’s right-wing streak",
+     "url": "https://www.independent.co.uk/news/world/americas/brazil-lula-bolsonaro-trump-election-b3073397.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T11:50:55Z",
+     "headline": "Lula beats Bolsonaro in Brazil runoff: What does it mean for Donald Trump?",
+     "url": "https://www.france24.com/en/video/20261026-lula-beats-bolsonaro-in-brazil-runoff-what-does-it-mean-for-donald-trump"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-26T13:19:24Z",
+     "headline": "Incumbent Lula is declared winner of Brazil's election as Bolsonaro rejects results",
+     "url": "https://www.pbs.org/newshour/world/incumbent-lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T13:39:00Z",
+     "headline": "A judge appointed by Jair Bolsonaro rejects his son’s case for annulling the election",
+     "url": "https://en.mercopress.com/2026/10/26/a-judge-appointed-by-jair-bolsonaro-rejects-his-son-s-case-for-annulling-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-26T14:00:48Z",
+     "headline": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-26T14:01:01Z",
+     "headline": "Lula secures victory in Brazil, but faces challenge as Bolsonaro contests results",
+     "url": "https://abcnews.com/International/wireStory/lula-secures-victory-brazils-election-faces-challenge-bolsonaro-137572506"
+    },
+    {
+     "outlet": "Agência Brasil (English)",
+     "country": "BRA",
+     "time": "2026-10-26T14:26:00Z",
+     "headline": "Flávio Bolsonaro rejects Lula’s victory, seeks to annul election",
+     "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/flavio-bolsonaro-rejects-lulas-victory-seeks-annul-election"
+    }
+   ]
+  },
+  {
+   "id": 30076,
+   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.25,
+   "risk": 2.24,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 18,
+   "countries": [
+    "SAU",
+    "PAK",
+    "OMN",
+    "SGP",
+    "TUR",
+    "AZE",
+    "ARE",
+    "BHR",
+    "USA",
+    "ISR",
+    "IRQ",
+    "MAR"
+   ],
+   "first_seen": "2026-10-25T17:36:19Z",
+   "last_seen": "2026-10-26T15:01:18Z",
+   "page": "event/30076.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T17:36:19Z",
+     "headline": "Egypt’s support for Saudi Arabia can strengthen the case for peace",
+     "url": "https://www.arabnews.com/opinion/egypts-support-for-saudi-arabia-can-strengthen-the-case-for-peace-3008165"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T08:38:13Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://tribune.com.pk/story/2637034/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T11:11:58Z",
+     "headline": "Egypt parliament authorises defensive support to Saudi",
+     "url": "https://www.omanobserver.om/article/1198603/world/africa/egypt-parliament-authorises-defensive-support-to-saudi"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T13:10:40Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://www.straitstimes.com/world/middle-east/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T13:11:27Z",
+     "headline": "Egyptian parliament resumes closed-door talks on military support for Saudi Arabia",
+     "url": "https://www.aa.com.tr/en/middle-east/egyptian-parliament-resumes-closed-door-talks-on-military-support-for-saudi-arabia/4101309"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T13:17:30Z",
+     "headline": "Egypt's parliament approves defensive support for Saudi Arabia",
+     "url": "https://www.turkiyetoday.com/region/egypts-parliament-approves-defensive-support-for-saudi-arabia-3231067"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-26T13:23:00Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://en.apa.az/asia/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate-532278"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T13:27:37Z",
+     "headline": "Egypt's parliament authorises El Sisi to send troops to defend Saudi Arabia",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/26/egypts-parliament-authorises-el-sisi-to-send-troops-to-defend-saudi-arabia/"
+    },
+    {
+     "outlet": "News of Bahrain",
+     "country": "BHR",
+     "time": "2026-10-26T13:28:07Z",
+     "headline": "Egyptian Parliament Authorises El-Sisi to Defend Saudi Arabia",
+     "url": "https://www.newsofbahrain.com/en/article/egyptian-parliament-authorises-el-sisi-to-defend-saudi-arabia"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T13:34:15Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://www.dawn.com/news/2039982/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T13:45:10Z",
+     "headline": "Egypt parliament authorises defensive support to Saudi Arabia",
+     "url": "https://www.newarab.com/news/egypt-parliament-authorises-defensive-support-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T13:46:33Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://www.al-monitor.com/originals/2026/10/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T13:47:05Z",
+     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+     "url": "https://www.jpost.com/middle-east/article-912922"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T13:50:05Z",
+     "headline": "Egypt parliament authorizes defensive support to Saudi Arabia: state media",
+     "url": "https://www.arabnews.com/middle-east/egypt-parliament-authorizes-defensive-support-to-saudi-arabia-state-media-3008358"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T14:24:24Z",
+     "headline": "Egyptian parliament authorizes El-Sisi to support Saudi Arabia",
+     "url": "https://shafaq.com/en/Middle-East/Egyptian-parliament-authorizes-El-Sisi-to-support-Saudi-Arabia"
+    },
+    {
+     "outlet": "Saudi Gazette",
+     "country": "SAU",
+     "time": "2026-10-26T14:31:07Z",
+     "headline": "Egypt's parliament approves military support for Saudi Arabia",
+     "url": "https://saudigazette.com.sa/article/665751/saudi-arabia/egypts-parliament-approves-military-assistance-to-saudi-arabia-possible-troop-deployment"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-26T14:44:06Z",
+     "headline": "Egypt Parliament Authorizes Defensive Support to Saudi Arabia",
+     "url": "https://english.aawsat.com/node/5333864"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-26T14:55:31Z",
+     "headline": "Egypt's parliament approves military assistance for Saudi Arabia against Houthis",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-26/ty-article/egypt-authorizes-military-to-help-defend-saudi-arabia-against-houthis/000001a1-786e-d222-a3e3-7f6e6db80000"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-26T15:01:18Z",
+     "headline": "Egypt parliament authorises military support to Saudi Arabia",
+     "url": "https://en.hespress.com/148008-egypt-parliament-authorises-military-support-to-saudi-arabia.html"
     }
    ]
   },
@@ -9627,8 +9289,8 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 6.21,
-   "risk": 6.66,
-   "confidence": 0.9,
+   "risk": 6.67,
+   "confidence": 0.91,
    "status": "fading",
    "outlets": 28,
    "countries": [
@@ -9654,7 +9316,7 @@
     "AZE"
    ],
    "first_seen": "2026-10-23T03:59:00Z",
-   "last_seen": "2026-10-26T07:14:00Z",
+   "last_seen": "2026-10-26T14:28:32Z",
    "page": "event/28198.html",
    "reports": [
     {
@@ -9901,6 +9563,13 @@
      "time": "2026-10-26T07:14:00Z",
      "headline": "Obama and Trump exchange sharp criticism as US midterm elections approach",
      "url": "https://www.azernews.az/region/266197.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T14:28:32Z",
+     "headline": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+     "url": "https://www.france24.com/en/us-midterms-obama-blasts-trump-s-chaos-and-cruelty-while-campaigning-for-democrats"
     }
    ]
   },
@@ -10404,165 +10073,6 @@
    ]
   },
   {
-   "id": 30684,
-   "title": "Trump blasts Norway over Nobel Peace Prize snub",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.16,
-   "risk": 3.28,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "SGP",
-    "SAU",
-    "PAK",
-    "OMN",
-    "BEL",
-    "IND",
-    "GBR",
-    "CYP",
-    "BHR",
-    "TUR",
-    "NGA",
-    "URY",
-    "ZAF",
-    "USA",
-    "THA"
-   ],
-   "first_seen": "2026-10-26T01:58:00Z",
-   "last_seen": "2026-10-26T14:22:27Z",
-   "page": "event/30684.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T01:58:00Z",
-     "headline": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
-     "url": "https://www.straitstimes.com/world/united-states/trump-adds-norway-to-vulgar-list-of-countries-citing-nobel-snub"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T02:36:36Z",
-     "headline": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
-     "url": "https://www.arabnews.com/world/trump-adds-norway-to-vulgar-list-of-countries-citing-nobel-snub-3008279"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T02:36:36Z",
-     "headline": "Trump says Norwegian immigrants not welcome in the US because of Nobel snub",
-     "url": "https://www.arabnews.com/world/trump-says-norwegian-immigrants-not-welcome-in-the-us-because-of-nobel-snub-3008279"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T03:34:46Z",
-     "headline": "Norway joins the list of countries Trump has abused in vulgar terms",
-     "url": "https://tribune.com.pk/story/2636992/norway-joins-the-list-of-countries-trump-has-abused-in-vulgar-terms"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T04:19:16Z",
-     "headline": "Norway joins the list of countries Trump has abused in vulgar terms",
-     "url": "https://www.omanobserver.om/article/1198583/world/americas/norway-joins-the-list-of-countries-trump-has-abused-in-vulgar-terms"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-26T06:45:00Z",
-     "headline": "Trump on Norway: ‘Shithouse country’",
-     "url": "https://www.politico.eu/article/donald-trump-norway-shithouse-country-sucks-nobel-peace-prize/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-26T08:00:09Z",
-     "headline": "‘Shit house country’: Trump says immigrants from Norway not welcome in US",
-     "url": "https://indianexpress.com/article/world/donald-trump-norway-shithouse-country-nobel-peace-prize-snub-michigan-rally-10937061/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T08:23:59Z",
-     "headline": "Trump in bizarre sweary rant against Norway after Nobel Peace Prize snub",
-     "url": "https://www.independent.co.uk/news/world/europe/trump-norway-nobel-peace-prize-b3073231.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T08:50:27Z",
-     "headline": "Trump calls Norway ‘shit house country’ in Nobel Peace Prize row",
-     "url": "https://cyprus-mail.com/2026/10/26/trump-calls-norway-shit-house-country-in-nobel-peace-prize-row"
-    },
-    {
-     "outlet": "News of Bahrain",
-     "country": "BHR",
-     "time": "2026-10-26T08:50:44Z",
-     "headline": "Trump Insults Norway Over Nobel Peace Prize Snub, Says Norwegian Immigrants Unwelcome",
-     "url": "https://www.newsofbahrain.com/en/article/trump-insults-norway-over-nobel-peace-prize-snub-says-norwegian-immigrants-unwelcome"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T10:36:23Z",
-     "headline": "Norwegian foreign minister tells Trump Nobel Committee is 'independent'",
-     "url": "https://www.aa.com.tr/en/europe/norwegian-foreign-minister-tells-trump-nobel-committee-is-independent/4101093"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T12:34:06Z",
-     "headline": "Trump blasts Norway over Nobel Peace Prize snub",
-     "url": "https://www.vanguardngr.com/2026/10/trump-blasts-norway-over-nobel-peace-prize-snub/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T13:24:00Z",
-     "headline": "Trump insults Norway and rejects its immigrants for not giving him the Nobel Peace Prize",
-     "url": "https://en.mercopress.com/2026/10/26/trump-insults-norway-and-rejects-its-immigrants-for-not-giving-him-the-nobel-peace-prize?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T13:26:00Z",
-     "headline": "Trump says Norwegian immigrants not welcome in US following Nobel Prize snub",
-     "url": "https://iol.co.za/news/world/2026-10-26-trump-says-norwegian-immigrants-not-welcome-in-us-following-nobel-prize-snub/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T14:12:26Z",
-     "headline": "‘Immigrants from shithouse country, not welcome,’ Trump blasts Norway over Nobel Peace Prize",
-     "url": "https://www.vanguardngr.com/2026/10/immigrants-from-shithouse-country-not-welcome-trump-blasts-norway-over-nobel-peace-prize/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T14:12:52Z",
-     "headline": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-     "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-26T14:14:43Z",
-     "headline": "Trump blasts Norway over Nobel Peace Prize snub",
-     "url": "https://www.bangkokpost.com/world/3343930/trump-blasts-norway-over-nobel-peace-prize-snub"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-26T14:22:27Z",
-     "headline": "Trump says Norway 'sucks' after Nobel loss",
-     "url": "https://thehill.com/homenews/administration/6172148-trump-norway-nobel-peace-prize/"
-    }
-   ]
-  },
-  {
    "id": 17145,
    "title": "Global summit on children's well-being opens in Samarkand",
    "category": "Geopolitics",
@@ -10991,6 +10501,172 @@
    ]
   },
   {
+   "id": 30684,
+   "title": "Trump blasts Norway over Nobel Peace Prize snub",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.13,
+   "risk": 3.21,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "SGP",
+    "SAU",
+    "PAK",
+    "OMN",
+    "BEL",
+    "IND",
+    "GBR",
+    "CYP",
+    "BHR",
+    "TUR",
+    "NGA",
+    "URY",
+    "ZAF",
+    "USA",
+    "THA"
+   ],
+   "first_seen": "2026-10-26T01:58:00Z",
+   "last_seen": "2026-10-26T15:11:48Z",
+   "page": "event/30684.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T01:58:00Z",
+     "headline": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
+     "url": "https://www.straitstimes.com/world/united-states/trump-adds-norway-to-vulgar-list-of-countries-citing-nobel-snub"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T02:36:36Z",
+     "headline": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
+     "url": "https://www.arabnews.com/world/trump-adds-norway-to-vulgar-list-of-countries-citing-nobel-snub-3008279"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T02:36:36Z",
+     "headline": "Trump says Norwegian immigrants not welcome in the US because of Nobel snub",
+     "url": "https://www.arabnews.com/world/trump-says-norwegian-immigrants-not-welcome-in-the-us-because-of-nobel-snub-3008279"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T03:34:46Z",
+     "headline": "Norway joins the list of countries Trump has abused in vulgar terms",
+     "url": "https://tribune.com.pk/story/2636992/norway-joins-the-list-of-countries-trump-has-abused-in-vulgar-terms"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T04:19:16Z",
+     "headline": "Norway joins the list of countries Trump has abused in vulgar terms",
+     "url": "https://www.omanobserver.om/article/1198583/world/americas/norway-joins-the-list-of-countries-trump-has-abused-in-vulgar-terms"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-26T06:45:00Z",
+     "headline": "Trump on Norway: ‘Shithouse country’",
+     "url": "https://www.politico.eu/article/donald-trump-norway-shithouse-country-sucks-nobel-peace-prize/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-26T08:00:09Z",
+     "headline": "‘Shit house country’: Trump says immigrants from Norway not welcome in US",
+     "url": "https://indianexpress.com/article/world/donald-trump-norway-shithouse-country-nobel-peace-prize-snub-michigan-rally-10937061/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T08:23:59Z",
+     "headline": "Trump in bizarre sweary rant against Norway after Nobel Peace Prize snub",
+     "url": "https://www.independent.co.uk/news/world/europe/trump-norway-nobel-peace-prize-b3073231.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T08:50:27Z",
+     "headline": "Trump calls Norway ‘shit house country’ in Nobel Peace Prize row",
+     "url": "https://cyprus-mail.com/2026/10/26/trump-calls-norway-shit-house-country-in-nobel-peace-prize-row"
+    },
+    {
+     "outlet": "News of Bahrain",
+     "country": "BHR",
+     "time": "2026-10-26T08:50:44Z",
+     "headline": "Trump Insults Norway Over Nobel Peace Prize Snub, Says Norwegian Immigrants Unwelcome",
+     "url": "https://www.newsofbahrain.com/en/article/trump-insults-norway-over-nobel-peace-prize-snub-says-norwegian-immigrants-unwelcome"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T10:36:23Z",
+     "headline": "Norwegian foreign minister tells Trump Nobel Committee is 'independent'",
+     "url": "https://www.aa.com.tr/en/europe/norwegian-foreign-minister-tells-trump-nobel-committee-is-independent/4101093"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T12:34:06Z",
+     "headline": "Trump blasts Norway over Nobel Peace Prize snub",
+     "url": "https://www.vanguardngr.com/2026/10/trump-blasts-norway-over-nobel-peace-prize-snub/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T13:24:00Z",
+     "headline": "Trump insults Norway and rejects its immigrants for not giving him the Nobel Peace Prize",
+     "url": "https://en.mercopress.com/2026/10/26/trump-insults-norway-and-rejects-its-immigrants-for-not-giving-him-the-nobel-peace-prize?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T13:26:00Z",
+     "headline": "Trump says Norwegian immigrants not welcome in US following Nobel Prize snub",
+     "url": "https://iol.co.za/news/world/2026-10-26-trump-says-norwegian-immigrants-not-welcome-in-us-following-nobel-prize-snub/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T14:12:26Z",
+     "headline": "‘Immigrants from shithouse country, not welcome,’ Trump blasts Norway over Nobel Peace Prize",
+     "url": "https://www.vanguardngr.com/2026/10/immigrants-from-shithouse-country-not-welcome-trump-blasts-norway-over-nobel-peace-prize/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T14:12:52Z",
+     "headline": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+     "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-26T14:14:43Z",
+     "headline": "Trump blasts Norway over Nobel Peace Prize snub",
+     "url": "https://www.bangkokpost.com/world/3343930/trump-blasts-norway-over-nobel-peace-prize-snub"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-26T14:22:27Z",
+     "headline": "Trump says Norway 'sucks' after Nobel loss",
+     "url": "https://thehill.com/homenews/administration/6172148-trump-norway-nobel-peace-prize/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T15:11:48Z",
+     "headline": "Grudge report: Trump unloads on Norway over Nobel snub and imaginary triumphs",
+     "url": "https://timesofindia.indiatimes.com/world/us/grudge-report-trump-unloads-on-norway-over-nobel-snub-and-imaginary-triumphs/articleshow/135214588.cms"
+    }
+   ]
+  },
+  {
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
@@ -11185,6 +10861,318 @@
      "time": "2026-10-25T01:52:30Z",
      "headline": "Romania Blames Russia For Drone That Sinks Cargo Ship; 1 Killed, 3 Missing",
      "url": "https://gcaptain.com/romania-blames-russia-for-drone-that-sinks-cargo-ship-1-killed-3-missing/"
+    }
+   ]
+  },
+  {
+   "id": 5498,
+   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.09,
+   "risk": 6.67,
+   "confidence": 0.92,
+   "status": "fading",
+   "outlets": 20,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR",
+    "IRL",
+    "MYS"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-26T14:22:35Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:24:26Z",
+     "headline": "Israeli strike on Gaza university kills three",
+     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
     }
    ]
   },
@@ -12259,6 +12247,256 @@
      "time": "2026-10-25T12:49:20Z",
      "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
+    }
+   ]
+  },
+  {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.97,
+   "risk": 1.57,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 22,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE",
+    "BGD",
+    "CYP",
+    "TUR",
+    "ZAF",
+    "AZE"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T15:06:00Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "Iran says US ‘not serious’ about talks, rejects claims over nuclear programme",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T06:35:41Z",
+     "headline": "Iran ready to take steps towards regional cooperation and resolving differences, Pezeshkian tells Makkah alliance",
+     "url": "https://tribune.com.pk/story/2637017/officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T06:54:35Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T07:02:02Z",
+     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
+     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T07:02:15Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
+     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T07:27:26Z",
+     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
+     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T07:29:04Z",
+     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T07:34:28Z",
+     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
+     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
+     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T08:42:21Z",
+     "headline": "Mecca Pact members to convene security talks in Iran",
+     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T09:08:09Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-26T09:45:43Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+     "url": "https://www.channelnewsasia.com/world/mecca-pact-saudi-arabia-pakistan-turkiye-officials-meet-6492026"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-26T15:06:00Z",
+     "headline": "Senior representatives of Mecca Agreement countries conclude meeting with Iranian officials in Tehran - UPDATED",
+     "url": "https://en.apa.az/asia/senior-representatives-of-mecca-agreement-countries-conclude-meeting-with-iranian-officials-in-tehran-updated-532284"
     }
    ]
   },
@@ -13476,153 +13714,6 @@
    ]
   },
   {
-   "id": 30076,
-   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.83,
-   "risk": 1.48,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "SAU",
-    "PAK",
-    "SGP",
-    "TUR",
-    "AZE",
-    "ARE",
-    "BHR",
-    "USA",
-    "ISR",
-    "IRQ"
-   ],
-   "first_seen": "2026-10-25T17:36:19Z",
-   "last_seen": "2026-10-26T15:01:18Z",
-   "page": "event/30076.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T17:36:19Z",
-     "headline": "Egypt’s support for Saudi Arabia can strengthen the case for peace",
-     "url": "https://www.arabnews.com/opinion/egypts-support-for-saudi-arabia-can-strengthen-the-case-for-peace-3008165"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T08:38:13Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://tribune.com.pk/story/2637034/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T13:10:40Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://www.straitstimes.com/world/middle-east/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T13:11:27Z",
-     "headline": "Egyptian parliament resumes closed-door talks on military support for Saudi Arabia",
-     "url": "https://www.aa.com.tr/en/middle-east/egyptian-parliament-resumes-closed-door-talks-on-military-support-for-saudi-arabia/4101309"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T13:17:30Z",
-     "headline": "Egypt's parliament approves defensive support for Saudi Arabia",
-     "url": "https://www.turkiyetoday.com/region/egypts-parliament-approves-defensive-support-for-saudi-arabia-3231067"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-26T13:23:00Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://en.apa.az/asia/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate-532278"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T13:27:37Z",
-     "headline": "Egypt's parliament authorises El Sisi to send troops to defend Saudi Arabia",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/26/egypts-parliament-authorises-el-sisi-to-send-troops-to-defend-saudi-arabia/"
-    },
-    {
-     "outlet": "News of Bahrain",
-     "country": "BHR",
-     "time": "2026-10-26T13:28:07Z",
-     "headline": "Egyptian Parliament Authorises El-Sisi to Defend Saudi Arabia",
-     "url": "https://www.newsofbahrain.com/en/article/egyptian-parliament-authorises-el-sisi-to-defend-saudi-arabia"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-26T13:34:15Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://www.dawn.com/news/2039982/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T13:45:10Z",
-     "headline": "Egypt parliament authorises defensive support to Saudi Arabia",
-     "url": "https://www.newarab.com/news/egypt-parliament-authorises-defensive-support-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T13:46:33Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://www.al-monitor.com/originals/2026/10/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T13:47:05Z",
-     "headline": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-     "url": "https://www.jpost.com/middle-east/article-912922"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T13:50:05Z",
-     "headline": "Egypt parliament authorizes defensive support to Saudi Arabia: state media",
-     "url": "https://www.arabnews.com/middle-east/egypt-parliament-authorizes-defensive-support-to-saudi-arabia-state-media-3008358"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T14:24:24Z",
-     "headline": "Egyptian parliament authorizes El-Sisi to support Saudi Arabia",
-     "url": "https://shafaq.com/en/Middle-East/Egyptian-parliament-authorizes-El-Sisi-to-support-Saudi-Arabia"
-    },
-    {
-     "outlet": "Saudi Gazette",
-     "country": "SAU",
-     "time": "2026-10-26T14:31:07Z",
-     "headline": "Egypt's parliament approves military support for Saudi Arabia",
-     "url": "https://saudigazette.com.sa/article/665751/saudi-arabia/egypts-parliament-approves-military-assistance-to-saudi-arabia-possible-troop-deployment"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-26T14:44:06Z",
-     "headline": "Egypt Parliament Authorizes Defensive Support to Saudi Arabia",
-     "url": "https://english.aawsat.com/node/5333864"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-26T15:01:18Z",
-     "headline": "Egypt parliament authorises military support to Saudi Arabia",
-     "url": "https://en.hespress.com/148008-egypt-parliament-authorises-military-support-to-saudi-arabia.html"
-    }
-   ]
-  },
-  {
    "id": 16031,
    "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
    "category": "Trade & Industry",
@@ -14284,6 +14375,101 @@
    ]
   },
   {
+   "id": 31892,
+   "title": "German union slams Audi boss's appearance at Trump rally",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.78,
+   "risk": 1.86,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 9,
+   "countries": [
+    "SGP",
+    "MYS",
+    "DEU",
+    "BEL",
+    "TUR",
+    "GBR",
+    "LUX"
+   ],
+   "first_seen": "2026-10-26T09:17:00Z",
+   "last_seen": "2026-10-26T15:16:00Z",
+   "page": "event/31892.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T09:17:00Z",
+     "headline": "Audi CEO’s appearance at Trump rally was ‘deeply embarrassing’, IG Metall head says",
+     "url": "https://www.straitstimes.com/world/europe/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says"
+    },
+    {
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T09:23:16Z",
+     "headline": "Audi CEO’s appearance at Trump rally ‘deeply embarrassing’, says union head",
+     "url": "https://www.freemalaysiatoday.com/category/business/2026/10/26/audi-ceo-s-appearance-at-trump-rally-deeply-embarrassing-says-union-head"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-26T10:00:00Z",
+     "headline": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+     "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Local Germany",
+     "country": "DEU",
+     "time": "2026-10-26T10:59:46Z",
+     "headline": "German union slams Audi boss's appearance at Trump rally",
+     "url": "https://www.thelocal.de/20261026/german-union-slams-audi-bosss-appearance-at-trump-rally"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-26T12:02:45Z",
+     "headline": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
+     "url": "https://www.politico.eu/article/donald-trump-midterms-germany-gernot-dollner-unions-audi-ceo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T12:21:01Z",
+     "headline": "German metalworkers slam Audi boss over Trump campaign event",
+     "url": "https://www.aa.com.tr/en/europe/german-metalworkers-slam-audi-boss-over-trump-campaign-event/4101244"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T12:43:49Z",
+     "headline": "Audi to create new production facility in America",
+     "url": "https://www.irishnews.com/life/audi-to-create-new-production-facility-in-america-V4MQI7CMRBPC7NUKBTTTVHP2E4/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-26T14:42:27Z",
+     "headline": "Audi boss under fire in Germany for Trump rally appearance",
+     "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
+    },
+    {
+     "outlet": "Luxembourg Times",
+     "country": "LUX",
+     "time": "2026-10-26T15:00:00Z",
+     "headline": "German union slams Audi boss’s appearance at Trump rally",
+     "url": "https://www.luxtimes.lu/businessandfinance/german-union-slams-audi-bosss-appearance-at-trump-rally/163626164.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-26T15:16:00Z",
+     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+     "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -14436,258 +14622,6 @@
      "time": "2026-10-24T21:25:41Z",
      "headline": "Mid-air collision of Philippines military planes kills four pilots",
      "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
-    }
-   ]
-  },
-  {
-   "id": 25322,
-   "title": "Bayern Munich coach Kompany in hospital after collapsing",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 5.77,
-   "risk": 1.39,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 23,
-   "countries": [
-    "GHA",
-    "SGP",
-    "ZAF",
-    "ARE",
-    "NGA",
-    "GBR",
-    "IRL",
-    "AZE",
-    "SAU",
-    "IND",
-    "TUR",
-    "QAT",
-    "JAM",
-    "AUS",
-    "PAK",
-    "TWN",
-    "NAM"
-   ],
-   "first_seen": "2026-10-23T15:53:22Z",
-   "last_seen": "2026-10-25T19:29:12Z",
-   "page": "event/25322.html",
-   "reports": [
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T15:53:22Z",
-     "headline": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
-     "url": "https://www.myjoyonline.com/breaking-bayern-munich-boss-vincent-kompany-taken-to-hospital-after-collapse/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital-reports",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-reports-6487336"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T15:56:47Z",
-     "headline": "Bayern coach Kompany taken to hospital after collapsing during training session",
-     "url": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T16:04:00Z",
-     "headline": "Bayern coach Kompany taken to hospital: Reports",
-     "url": "https://www.sabcnews.com/sabcnews/bayern-coach-kompany-taken-to-hospital-reports/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T16:46:09Z",
-     "headline": "Bayern Munich coach Vincent Kompany in hospital after collapsing: Club",
-     "url": "https://gulfnews.com/sport/football/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing-club-1.500721578"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T16:48:54Z",
-     "headline": "Kompany hospitalised after collapsing at Bayern training ground",
-     "url": "https://www.vanguardngr.com/2026/10/kompany-hospitalised-after-collapsing-at-bayern-training-ground/"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T16:55:00Z",
-     "headline": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
-     "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-23T17:00:50Z",
-     "headline": "Kompany taken to hospital after collapsing at training",
-     "url": "https://www.rte.ie/sport/soccer/2026/1023/1596659-kompany-taken-to-hospital-after-collapsing-at-training/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T17:12:00Z",
-     "headline": "Vincent Kompany hospitalised after collapse at Bayern Munich training",
-     "url": "https://en.apa.az/football/vincent-kompany-hospitalised-after-collapse-at-bayern-munich-training-531919"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T17:12:21Z",
-     "headline": "Bayern Munich Coach Vincent Kompany In Hospital After Collapsing",
-     "url": "https://www.channelstv.com/2026/10/23/bayern-munich-coach-vincent-kompany-in-hospital-after-collapsing/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T17:16:52Z",
-     "headline": "Bayern Munich coach Vincent Kompany hospitalized after collapsing at training",
-     "url": "https://www.arabnews.com/football/bayern-munich-coach-vincent-kompany-hospitalized-after-collapsing-at-training-3007937"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T17:26:08Z",
-     "headline": "Bayern Munich coach collapses after training session, taken to hospital",
-     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bayern-munich-coach-collapses-after-training-session-taken-to-hospital/articleshow/135151476.cms"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T17:41:59Z",
-     "headline": "Bayern Munich coach Kompany hospitalized after collapsing during training",
-     "url": "https://www.aa.com.tr/en/sports/bayern-munich-coach-kompany-hospitalized-after-collapsing-during-training/4098949"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:44:05Z",
-     "headline": "Bayern coach Kompany taken to hospital after collapsing during training",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T17:44:16Z",
-     "headline": "Bayern Munich coach Kompany collapses during training, hospitalised",
-     "url": "https://punchng.com/just-in-bayern-munich-coach-kompany-collapses-during-training-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T18:10:34Z",
-     "headline": "Bayern Munich boss Vincent Kompany hospitalised after collapsing at training",
-     "url": "https://indianexpress.com/article/sports/football/bayern-munich-vincent-kompany-hospitalised-collapsing-training-10934361/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T20:50:53Z",
-     "headline": "Bayern Munich manager Vincent Kompany hospitalised after training collapse",
-     "url": "https://www.abc.net.au/news/2026-10-24/bayern-munich-manager-kompany-hospitalised-after-collapse/107304286"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T01:41:24Z",
-     "headline": "Bayern’s Kompany in hospital",
-     "url": "https://tribune.com.pk/story/2636656/bayerns-kompany-in-hospital"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-24T03:51:38Z",
-     "headline": "Kompany taken to hospital after collapsing at training",
-     "url": "https://www.myjoyonline.com/kompany-taken-to-hospital-after-collapsing-at-training/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T07:05:12Z",
-     "headline": "Bayern Munich coach Kompany rushed to hospital after collapsing during training",
-     "url": "https://www.turkiyetoday.com/sports/bayern-munich-coach-kompany-rushed-to-hospital-after-collapsing-during-training-3230910"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T09:40:57Z",
-     "headline": "Vincent Kompany 'stable' in hospital after collapsing at Bayern Munich training",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/vincent-kompany-stable-in-hospital-after-collapsing-at-bayern-munich-training/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T09:42:07Z",
-     "headline": "‘Weeks, not days’ in Kompany recovery, say Bayern",
-     "url": "https://www.vanguardngr.com/2026/10/weeks-not-days-in-kompany-recovery-say-bayern/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:42:59Z",
-     "headline": "'Weeks, Not Days' in Kompany Recovery, Say Bayern",
-     "url": "https://english.aawsat.com/node/5333051"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T10:29:39Z",
-     "headline": "Bayern boss Kompany stable but sidelined for weeks, says club director",
-     "url": "https://www.channelnewsasia.com/sport/bayern-boss-kompany-stable-sidelined-weeks-says-club-director-6488786"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T10:59:34Z",
-     "headline": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T11:43:34Z",
-     "headline": "Bayern expect Kompany to miss weeks after hospital collapse",
-     "url": "https://punchng.com/bayern-expect-kompany-to-miss-weeks-after-hospital-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T15:04:00Z",
-     "headline": "Bayern coach Kompany to miss weeks after collapsing at training",
-     "url": "https://www.aa.com.tr/en/sports/bayern-coach-kompany-to-miss-weeks-after-collapsing-at-training/4099677"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T15:24:20Z",
-     "headline": "Bayern boss Kompany stable but sidelined for weeks, says club director",
-     "url": "https://www.arabnews.com/football/bayern-boss-kompany-stable-but-sidelined-for-weeks-says-club-director-3008074"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-24T16:39:54Z",
-     "headline": "Bayern coach to take weeks in recovery",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/25/2003866571"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T19:16:26Z",
-     "headline": "Bayern beat Freiburg to reclaim top spot as Kompany remains hospitalised",
-     "url": "https://www.vanguardngr.com/2026/10/bayern-beat-freiburg-to-reclaim-top-spot-as-kompany-remains-hospitalised/"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T19:29:12Z",
-     "headline": "Bayern beat Freiburg to reclaim top spot after Kompany illness",
-     "url": "https://www.namibian.com.na/bayern-beat-freiburg-to-reclaim-top-spot-after-kompany-illness/"
     }
    ]
   }
