@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:52:46Z",
+ "generated": "2026-10-26T07:09:48Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -11,8 +11,8 @@
    "importance": 8.65,
    "risk": 3.67,
    "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 52,
+   "status": "spreading",
+   "outlets": 53,
    "countries": [
     "QAT",
     "USA",
@@ -52,7 +52,7 @@
     "MOZ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T06:44:33Z",
+   "last_seen": "2026-10-26T06:49:00Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -676,9 +676,9 @@
    "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.75,
-   "risk": 4.22,
-   "confidence": 0.89,
+   "importance": 7.87,
+   "risk": 4.26,
+   "confidence": 0.88,
    "status": "spreading",
    "outlets": 53,
    "countries": [
@@ -712,7 +712,7 @@
     "JPN"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T06:52:06Z",
+   "last_seen": "2026-10-26T06:55:30Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -3191,322 +3191,6 @@
    ]
   },
   {
-   "id": 26704,
-   "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.99,
-   "risk": 3.84,
-   "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 26,
-   "countries": [
-    "PRK",
-    "KOR",
-    "QAT",
-    "SAU",
-    "USA",
-    "DEU",
-    "JPN",
-    "GBR",
-    "ARE",
-    "NZL",
-    "THA",
-    "TUR",
-    "AZE",
-    "TWN",
-    "PAK",
-    "SGP",
-    "AUS",
-    "EGY"
-   ],
-   "first_seen": "2026-10-23T09:32:27Z",
-   "last_seen": "2026-10-25T10:30:45Z",
-   "page": "event/26704.html",
-   "reports": [
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-23T09:32:27Z",
-     "headline": "Chinese officials visit North Korea to mark China’s entry into Korean War",
-     "url": "https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:03:55Z",
-     "headline": "(URGENT) N. Korea's Kim arrives in China's border city of Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001900320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:17:50Z",
-     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://en.yna.co.kr/view/AEN20261024001951320"
-    },
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-24T06:26:10Z",
-     "headline": "North Korea’s Kim Jong Un visits Chinese border city of Dandong: Xinhua",
-     "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T06:32:03Z",
-     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-koreas-kim-arrives-in-chinas-dandong-via-newly-opened-bridge-govt-source?utm_source=rss"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:34:54Z",
-     "headline": "(LEAD) N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://en.yna.co.kr/view/AEN20261024001952320"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-24T07:07:06Z",
-     "headline": "Kim Jong-un makes surprise visit to China via new Yalu River bridge",
-     "url": "https://www.koreaherald.com/article/10913525"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T07:07:20Z",
-     "headline": "North Korea’s Kim Jong Un visits China via newly opened bridge",
-     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:19:26Z",
-     "headline": "North Korean leader arrives in Chinese border city, Yonhap says",
-     "url": "https://www.arabnews.com/world/north-korean-leader-arrives-in-chinese-border-city-yonhap-says-3008005"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:19:26Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.arabnews.com/world/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge-3008005"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T07:27:16Z",
-     "headline": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
-     "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un arrived in China's border city",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un arrives in Chinese border city",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T07:30:09Z",
-     "headline": "N. Korean leader arrives in China via new border bridge: Yonhap",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/030000c"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T07:39:18Z",
-     "headline": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
-     "url": "https://en.yna.co.kr/view/AEN20261024002300320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T07:41:26Z",
-     "headline": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001953320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T08:42:07Z",
-     "headline": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001954320"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T09:34:40Z",
-     "headline": "Kim Jong-un crosses newly opened bridge into China",
-     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T09:51:14Z",
-     "headline": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001955320"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T10:12:47Z",
-     "headline": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
-     "url": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T10:25:29Z",
-     "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
-     "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T11:58:42Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.stuff.co.nz/world-news/361050791/north-korean-leader-kim-jong-un-visits-china-inaugurate"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T12:52:04Z",
-     "headline": "N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-korean-leader-kim-jong-un-visits-china-meets-senior-official-amid-ties-push?utm_source=rss"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-24T12:52:25Z",
-     "headline": "North Korean leader makes unannounced visit to Chinese border city",
-     "url": "https://www.bangkokpost.com/world/3342828/north-korean-leader-makes-unannounced-visit-to-chinese-border-city"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Kim Jong Un arrives in China via newly opened bridge after death rumors",
-     "url": "https://www.turkiyetoday.com/world/kim-jong-un-arrives-in-china-via-newly-opened-bridge-after-death-rumors-3230928"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T13:50:45Z",
-     "headline": "North Korean leader Kim visits China through new border bridge",
-     "url": "https://www.aa.com.tr/en/asia-pacific/north-korean-leader-kim-visits-china-through-new-border-bridge/4099612"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-24T13:51:00Z",
-     "headline": "North Korean leader Kim Jong Un arrives in China’s border city of Dandong",
-     "url": "https://www.azernews.az/region/266145.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T14:41:55Z",
-     "headline": "North Korea's Kim Returns Home after Visit to Chinese Border City",
-     "url": "https://english.aawsat.com/node/5333158"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:07:02Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:12:03Z",
-     "headline": "N. Korean leader Kim Jong-un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-24T16:39:54Z",
-     "headline": "North Korea’s Kim returns home after visit to Chinese border city",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866589"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T18:00:20Z",
-     "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T18:35:03Z",
-     "headline": "North Korea's Kim returns home after visit to Chinese border city",
-     "url": "https://www.dawn.com/news/2039517/north-koreas-kim-returns-home-after-visit-to-chinese-border-city"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T19:01:56Z",
-     "headline": "Kim returns home after China visit",
-     "url": "https://tribune.com.pk/story/2636773/kim-returns-home-after-china-visit"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T19:48:02Z",
-     "headline": "North Korea's Kim returns home after visit to Chinese border city",
-     "url": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-returns-home-after-visit-chinese-border-city-6489741"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T20:12:34Z",
-     "headline": "Kim Jong Un crosses new bridge into China as trade ties warm",
-     "url": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T22:52:03Z",
-     "headline": "N. Korea reports leader Kim's surprise visit to China",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korea-reports-leader-kims-surprise-visit-to-china?utm_source=rss"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-25T00:11:38Z",
-     "headline": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
-     "url": "https://en.yna.co.kr/view/AEN20261025000351315"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T00:17:03Z",
-     "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
-    }
-   ]
-  },
-  {
    "id": 23140,
    "title": "France to deploy 70,000 police ahead of weekend protests",
    "category": "Society & Law",
@@ -3759,6 +3443,321 @@
      "time": "2026-10-24T12:52:25Z",
      "headline": "Security high as France braces for new protests",
      "url": "https://www.bangkokpost.com/world/3342823/security-high-as-france-braces-for-new-protests"
+    }
+   ]
+  },
+  {
+   "id": 16782,
+   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.95,
+   "risk": 5.68,
+   "confidence": 0.89,
+   "status": "peaking",
+   "outlets": 26,
+   "countries": [
+    "OMN",
+    "KWT",
+    "SAU",
+    "TUR",
+    "PAK",
+    "CHN",
+    "ARE",
+    "RUS",
+    "IRQ",
+    "AZE",
+    "USA",
+    "CYP",
+    "QAT",
+    "IRN",
+    "ISR",
+    "BGD",
+    "IRL"
+   ],
+   "first_seen": "2026-10-20T05:10:15Z",
+   "last_seen": "2026-10-26T06:54:53Z",
+   "page": "event/16782.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T05:10:15Z",
+     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
+     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-20T08:53:00Z",
+     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:04:54Z",
+     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
+     "url": "https://english.aawsat.com/node/5331492"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T04:16:00Z",
+     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T04:30:28Z",
+     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
+     "url": "https://english.aawsat.com/node/5331807"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T22:38:35Z",
+     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T00:12:00Z",
+     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-22T02:41:20Z",
+     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
+     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
+     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T09:19:34Z",
+     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T10:21:14Z",
+     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
+     "url": "https://english.aawsat.com/node/5332304"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T10:40:40Z",
+     "headline": "Saudi-led coalition claims drone downed over Riyadh",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:59:07Z",
+     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
+     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T00:24:39Z",
+     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:48:20Z",
+     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
+     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T01:15:08Z",
+     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T01:31:40Z",
+     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T04:30:30Z",
+     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
+     "url": "https://english.aawsat.com/node/5332564"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T00:41:30Z",
+     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
+     "url": "https://english.aawsat.com/node/5332979"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T00:53:49Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
+     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:49:40Z",
+     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:48:56Z",
+     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:01:00Z",
+     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
+     "url": "https://tass.com/world/2207235"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:15:24Z",
+     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
+     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T06:01:35Z",
+     "headline": "Saudi-led Coalition strikes Saada, Taiz",
+     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T06:21:05Z",
+     "headline": "Two explosions heard in Riyadh following alert",
+     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T06:29:13Z",
+     "headline": "Ballistic missiles targeting Saudi cities intercepted",
+     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T06:42:57Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T09:14:58Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T09:43:24Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T10:01:14Z",
+     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
+     "url": "https://english.aawsat.com/node/5333054"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T10:14:00Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T11:13:29Z",
+     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
+     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
     }
    ]
   },
@@ -4602,320 +4601,6 @@
    ]
   },
   {
-   "id": 16782,
-   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.71,
-   "risk": 5.65,
-   "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 25,
-   "countries": [
-    "OMN",
-    "KWT",
-    "SAU",
-    "TUR",
-    "PAK",
-    "CHN",
-    "ARE",
-    "RUS",
-    "IRQ",
-    "AZE",
-    "USA",
-    "CYP",
-    "QAT",
-    "IRN",
-    "ISR",
-    "BGD"
-   ],
-   "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-26T06:23:13Z",
-   "page": "event/16782.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T05:10:15Z",
-     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
-     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-20T08:53:00Z",
-     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:04:54Z",
-     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
-     "url": "https://english.aawsat.com/node/5331492"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T04:16:00Z",
-     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T04:30:28Z",
-     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
-     "url": "https://english.aawsat.com/node/5331807"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T22:38:35Z",
-     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T00:12:00Z",
-     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T02:41:20Z",
-     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
-     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T07:07:55Z",
-     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
-     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:19:34Z",
-     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T10:21:14Z",
-     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
-     "url": "https://english.aawsat.com/node/5332304"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T10:40:40Z",
-     "headline": "Saudi-led coalition claims drone downed over Riyadh",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:59:07Z",
-     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
-     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T00:24:39Z",
-     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:48:20Z",
-     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
-     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T01:15:08Z",
-     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T01:31:40Z",
-     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T04:30:30Z",
-     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
-     "url": "https://english.aawsat.com/node/5332564"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T00:41:30Z",
-     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
-     "url": "https://english.aawsat.com/node/5332979"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T00:53:49Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
-     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:49:40Z",
-     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:48:56Z",
-     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T03:01:00Z",
-     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
-     "url": "https://tass.com/world/2207235"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:15:24Z",
-     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
-     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T06:01:35Z",
-     "headline": "Saudi-led Coalition strikes Saada, Taiz",
-     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T06:21:05Z",
-     "headline": "Two explosions heard in Riyadh following alert",
-     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T06:29:13Z",
-     "headline": "Ballistic missiles targeting Saudi cities intercepted",
-     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T06:42:57Z",
-     "headline": "Morning update",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T09:14:58Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T09:43:24Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T10:01:14Z",
-     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
-     "url": "https://english.aawsat.com/node/5333054"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T10:14:00Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T11:13:29Z",
-     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
-     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
-    }
-   ]
-  },
-  {
    "id": 23924,
    "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
    "category": "Technology & Cyber",
@@ -5186,6 +4871,176 @@
      "time": "2026-10-26T06:26:00Z",
      "headline": "Elon Musk accuses Ukraine of violating Starlink's terms of service",
      "url": "https://iol.co.za/technology/big-tech/2026-10-26-elon-musk-accuses-ukraine-of-violating-starlinks-terms-of-service/"
+    }
+   ]
+  },
+  {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.56,
+   "risk": 1.96,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE",
+    "BGD",
+    "CYP"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T07:02:15Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T06:54:35Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T07:02:02Z",
+     "headline": "Iran, Mecca Defence Alliance to hold talka today",
+     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T07:02:15Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
+     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
     }
    ]
   },
@@ -6309,6 +6164,322 @@
      "time": "2026-10-25T18:08:38Z",
      "headline": "Obama blasts Trump’s ‘chaos, cruelty’",
      "url": "https://www.thedailystar.net/news/world/united-states/news/obama-blasts-trumps-chaos-cruelty-4307431"
+    }
+   ]
+  },
+  {
+   "id": 26704,
+   "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.49,
+   "risk": 3.42,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 26,
+   "countries": [
+    "PRK",
+    "KOR",
+    "QAT",
+    "SAU",
+    "USA",
+    "DEU",
+    "JPN",
+    "GBR",
+    "ARE",
+    "NZL",
+    "THA",
+    "TUR",
+    "AZE",
+    "TWN",
+    "PAK",
+    "SGP",
+    "AUS",
+    "EGY"
+   ],
+   "first_seen": "2026-10-23T09:32:27Z",
+   "last_seen": "2026-10-26T06:56:16Z",
+   "page": "event/26704.html",
+   "reports": [
+    {
+     "outlet": "NK News",
+     "country": "PRK",
+     "time": "2026-10-23T09:32:27Z",
+     "headline": "Chinese officials visit North Korea to mark China’s entry into Korean War",
+     "url": "https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:03:55Z",
+     "headline": "(URGENT) N. Korea's Kim arrives in China's border city of Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001900320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:17:50Z",
+     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://en.yna.co.kr/view/AEN20261024001951320"
+    },
+    {
+     "outlet": "NK News",
+     "country": "PRK",
+     "time": "2026-10-24T06:26:10Z",
+     "headline": "North Korea’s Kim Jong Un visits Chinese border city of Dandong: Xinhua",
+     "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T06:32:03Z",
+     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-koreas-kim-arrives-in-chinas-dandong-via-newly-opened-bridge-govt-source?utm_source=rss"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:34:54Z",
+     "headline": "(LEAD) N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://en.yna.co.kr/view/AEN20261024001952320"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-24T07:07:06Z",
+     "headline": "Kim Jong-un makes surprise visit to China via new Yalu River bridge",
+     "url": "https://www.koreaherald.com/article/10913525"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T07:07:20Z",
+     "headline": "North Korea’s Kim Jong Un visits China via newly opened bridge",
+     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:19:26Z",
+     "headline": "North Korean leader arrives in Chinese border city, Yonhap says",
+     "url": "https://www.arabnews.com/world/north-korean-leader-arrives-in-chinese-border-city-yonhap-says-3008005"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:19:26Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.arabnews.com/world/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge-3008005"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T07:27:16Z",
+     "headline": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
+     "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un arrived in China's border city",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un arrives in Chinese border city",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T07:30:09Z",
+     "headline": "N. Korean leader arrives in China via new border bridge: Yonhap",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/030000c"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T07:39:18Z",
+     "headline": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
+     "url": "https://en.yna.co.kr/view/AEN20261024002300320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T07:41:26Z",
+     "headline": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001953320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T08:42:07Z",
+     "headline": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001954320"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T09:34:40Z",
+     "headline": "Kim Jong-un crosses newly opened bridge into China",
+     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T09:51:14Z",
+     "headline": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001955320"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T10:12:47Z",
+     "headline": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
+     "url": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:25:29Z",
+     "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
+     "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T11:58:42Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.stuff.co.nz/world-news/361050791/north-korean-leader-kim-jong-un-visits-china-inaugurate"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T12:52:04Z",
+     "headline": "N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-korean-leader-kim-jong-un-visits-china-meets-senior-official-amid-ties-push?utm_source=rss"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-24T12:52:25Z",
+     "headline": "North Korean leader makes unannounced visit to Chinese border city",
+     "url": "https://www.bangkokpost.com/world/3342828/north-korean-leader-makes-unannounced-visit-to-chinese-border-city"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Kim Jong Un arrives in China via newly opened bridge after death rumors",
+     "url": "https://www.turkiyetoday.com/world/kim-jong-un-arrives-in-china-via-newly-opened-bridge-after-death-rumors-3230928"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T13:50:45Z",
+     "headline": "North Korean leader Kim visits China through new border bridge",
+     "url": "https://www.aa.com.tr/en/asia-pacific/north-korean-leader-kim-visits-china-through-new-border-bridge/4099612"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-24T13:51:00Z",
+     "headline": "North Korean leader Kim Jong Un arrives in China’s border city of Dandong",
+     "url": "https://www.azernews.az/region/266145.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T14:41:55Z",
+     "headline": "North Korea's Kim Returns Home after Visit to Chinese Border City",
+     "url": "https://english.aawsat.com/node/5333158"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:07:02Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:12:03Z",
+     "headline": "N. Korean leader Kim Jong-un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-24T16:39:54Z",
+     "headline": "North Korea’s Kim returns home after visit to Chinese border city",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866589"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T18:00:20Z",
+     "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T18:35:03Z",
+     "headline": "North Korea's Kim returns home after visit to Chinese border city",
+     "url": "https://www.dawn.com/news/2039517/north-koreas-kim-returns-home-after-visit-to-chinese-border-city"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T19:01:56Z",
+     "headline": "Kim returns home after China visit",
+     "url": "https://tribune.com.pk/story/2636773/kim-returns-home-after-china-visit"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T19:48:02Z",
+     "headline": "North Korea's Kim returns home after visit to Chinese border city",
+     "url": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-returns-home-after-visit-chinese-border-city-6489741"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T20:12:34Z",
+     "headline": "Kim Jong Un crosses new bridge into China as trade ties warm",
+     "url": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T22:52:03Z",
+     "headline": "N. Korea reports leader Kim's surprise visit to China",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korea-reports-leader-kims-surprise-visit-to-china?utm_source=rss"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-25T00:11:38Z",
+     "headline": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
+     "url": "https://en.yna.co.kr/view/AEN20261025000351315"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T00:17:03Z",
+     "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
     }
    ]
   },
@@ -10555,153 +10726,6 @@
      "time": "2026-10-25T12:49:20Z",
      "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
-    }
-   ]
-  },
-  {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.96,
-   "risk": 1.87,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
-    "ARE"
-   ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T06:32:04Z",
-   "page": "event/27258.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Minister of Defence heading delegation to Tehran with Makkah pact countries",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
     }
    ]
   },
