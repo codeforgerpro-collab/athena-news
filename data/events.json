@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T07:26:29Z",
+ "generated": "2026-10-26T07:43:30Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -52,7 +52,7 @@
     "MOZ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T07:21:48Z",
+   "last_seen": "2026-10-26T07:27:03Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -342,7 +342,7 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.28,
+   "importance": 8.35,
    "risk": 8.2,
    "confidence": 0.89,
    "status": "spreading",
@@ -1366,7 +1366,7 @@
     "BGD"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-26T04:51:24Z",
+   "last_seen": "2026-10-26T06:02:43Z",
    "page": "event/2857.html",
    "reports": [
     {
@@ -3762,6 +3762,205 @@
    ]
   },
   {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.94,
+   "risk": 1.97,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE",
+    "BGD",
+    "CYP",
+    "TUR"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T07:34:28Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T06:54:35Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T07:02:02Z",
+     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
+     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T07:02:15Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
+     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T07:27:26Z",
+     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
+     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T07:29:04Z",
+     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T07:34:28Z",
+     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
+     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -4875,179 +5074,228 @@
    ]
   },
   {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.63,
-   "risk": 1.96,
-   "confidence": 0.9,
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 6.61,
+   "risk": 0.0,
+   "confidence": 0.86,
    "status": "spreading",
-   "outlets": 15,
+   "outlets": 14,
    "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
     "ARE",
-    "BGD",
-    "CYP"
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "OMN",
+    "PAK",
+    "TUR",
+    "KOR",
+    "GHA"
    ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T07:02:15Z",
-   "page": "event/27258.html",
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T07:30:18Z",
+   "page": "event/18222.html",
    "reports": [
     {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
     },
     {
      "outlet": "The National",
      "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
     },
     {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "outlet": "Business Recorder",
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Express Tribune",
      "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+     "time": "2026-10-26T01:59:07Z",
+     "headline": "Kane favourite for Ballon d'Or",
+     "url": "https://tribune.com.pk/story/2636981/kane-favourite-for-ballon-dor"
     },
     {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-26T06:54:35Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
     },
     {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T07:02:02Z",
-     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
-     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
     },
     {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T07:02:15Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
-     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T04:38:55Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T05:45:00Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:55:29Z",
+     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
+     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-26T06:06:49Z",
+     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
+     "url": "https://www.koreaherald.com/article/10915050"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:17:18Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T07:21:16Z",
+     "headline": "Joy Sports journalists make Ballon d’Or 2026 predictions",
+     "url": "https://www.myjoyonline.com/joy-sports-journalists-make-ballon-dor-2026-predictions/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-26T07:30:18Z",
+     "headline": "Kane Primed to Pip Yamal, Mbappe to Ballon d'Or Glory",
+     "url": "https://english.aawsat.com/node/5333689"
     }
    ]
   },
@@ -5363,218 +5611,6 @@
      "time": "2026-10-26T03:37:49Z",
      "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
      "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
-    }
-   ]
-  },
-  {
-   "id": 18222,
-   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 6.54,
-   "risk": 0.0,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 14,
-   "countries": [
-    "ARE",
-    "DEU",
-    "NGA",
-    "SAU",
-    "QAT",
-    "ZAF",
-    "BRA",
-    "OMN",
-    "PAK",
-    "TUR",
-    "KOR",
-    "GHA"
-   ],
-   "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T07:21:16Z",
-   "page": "event/18222.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T04:30:04Z",
-     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:40:58Z",
-     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T08:33:00Z",
-     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T09:16:06Z",
-     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
-     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:58:09Z",
-     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
-     "url": "https://english.aawsat.com/node/5332582"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T07:56:27Z",
-     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:39:59Z",
-     "headline": "My wife eager to know Ballon d’Or result, says Kane",
-     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T11:52:16Z",
-     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:05:00Z",
-     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T17:00:00Z",
-     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
-     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:21:34Z",
-     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-24T17:27:11Z",
-     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
-     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T06:31:01Z",
-     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:38:57Z",
-     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T01:35:01Z",
-     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
-     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:36:53Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T01:59:07Z",
-     "headline": "Kane favourite for Ballon d'Or",
-     "url": "https://tribune.com.pk/story/2636981/kane-favourite-for-ballon-dor"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T03:06:40Z",
-     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T03:34:59Z",
-     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T05:45:00Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:55:29Z",
-     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
-     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-26T06:06:49Z",
-     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
-     "url": "https://www.koreaherald.com/article/10915050"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T07:17:18Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T07:21:16Z",
-     "headline": "Joy Sports journalists make Ballon d’Or 2026 predictions",
-     "url": "https://www.myjoyonline.com/joy-sports-journalists-make-ballon-dor-2026-predictions/"
     }
    ]
   },
@@ -7302,6 +7338,293 @@
    ]
   },
   {
+   "id": 17275,
+   "title": "Antonelli wins US Grand Prix but must wait for title",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.25,
+   "risk": 1.89,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 20,
+   "countries": [
+    "SAU",
+    "PAK",
+    "ARE",
+    "TWN",
+    "IND",
+    "BRA",
+    "ZAF",
+    "CYP",
+    "JAM",
+    "SGP",
+    "AUS",
+    "UGA",
+    "NLD",
+    "NAM",
+    "KOR",
+    "TUR",
+    "OMN"
+   ],
+   "first_seen": "2026-10-22T04:32:28Z",
+   "last_seen": "2026-10-26T07:13:00Z",
+   "page": "event/17275.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T04:32:28Z",
+     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
+     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T06:47:07Z",
+     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
+     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T02:06:21Z",
+     "headline": "Antonelli eyes perfect weekend in title bid",
+     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:28:28Z",
+     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
+     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T06:05:33Z",
+     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T07:32:03Z",
+     "headline": "US Grand Prix Weekend Opens in Austin",
+     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T07:44:56Z",
+     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T09:25:52Z",
+     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
+     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T13:54:52Z",
+     "headline": "Antonelli Can Clinch F1 Title in Austin",
+     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T19:01:30Z",
+     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T22:14:25Z",
+     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:53:12Z",
+     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
+     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T04:25:52Z",
+     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
+     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T05:03:00Z",
+     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T08:10:12Z",
+     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
+     "url": "https://english.aawsat.com/node/5333344"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T11:53:27Z",
+     "headline": "Antonelli stands on brink of history in Austin",
+     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T19:01:58Z",
+     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
+     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T21:50:32Z",
+     "headline": "Antonelli on brink of title after winning US Grand Prix",
+     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T21:52:31Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T22:33:52Z",
+     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
+     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:42:53Z",
+     "headline": "Antonelli wins US Grand Prix to close on world title",
+     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T22:57:02Z",
+     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
+     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T23:54:57Z",
+     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
+     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T00:27:03Z",
+     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
+     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:51:33Z",
+     "headline": "Antonelli wins US Grand Prix",
+     "url": "https://tribune.com.pk/story/2636972/antonelli-wins-us-grand-prix"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T01:07:06Z",
+     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
+     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T01:25:22Z",
+     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:15:57Z",
+     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:30:54Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://www.omanobserver.om/article/1198582/sports/antonelli-wins-us-grand-prix-but-must-wait-for-title"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:41:19Z",
+     "headline": "Antonelli wins in US but has to wait to secure title",
+     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:53:18Z",
+     "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
+     "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T05:59:46Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T07:13:00Z",
+     "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
+     "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
+    }
+   ]
+  },
+  {
    "id": 24414,
    "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
    "category": "Technology & Cyber",
@@ -7944,285 +8267,6 @@
      "time": "2026-10-26T07:14:00Z",
      "headline": "Obama and Trump exchange sharp criticism as US midterm elections approach",
      "url": "https://www.azernews.az/region/266197.html"
-    }
-   ]
-  },
-  {
-   "id": 17275,
-   "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 6.18,
-   "risk": 1.88,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 19,
-   "countries": [
-    "SAU",
-    "PAK",
-    "ARE",
-    "TWN",
-    "IND",
-    "BRA",
-    "ZAF",
-    "CYP",
-    "JAM",
-    "SGP",
-    "AUS",
-    "UGA",
-    "NLD",
-    "NAM",
-    "KOR",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-26T07:13:00Z",
-   "page": "event/17275.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T04:32:28Z",
-     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
-     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T06:47:07Z",
-     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
-     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T02:06:21Z",
-     "headline": "Antonelli eyes perfect weekend in title bid",
-     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T04:28:28Z",
-     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
-     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T06:05:33Z",
-     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T07:32:03Z",
-     "headline": "US Grand Prix Weekend Opens in Austin",
-     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T07:44:56Z",
-     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:25:52Z",
-     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
-     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T13:54:52Z",
-     "headline": "Antonelli Can Clinch F1 Title in Austin",
-     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T19:01:30Z",
-     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T22:14:25Z",
-     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:53:12Z",
-     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
-     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T04:25:52Z",
-     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
-     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T05:03:00Z",
-     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T08:10:12Z",
-     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
-     "url": "https://english.aawsat.com/node/5333344"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-25T11:53:27Z",
-     "headline": "Antonelli stands on brink of history in Austin",
-     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T19:01:58Z",
-     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
-     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T21:50:32Z",
-     "headline": "Antonelli on brink of title after winning US Grand Prix",
-     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T21:52:31Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-25T22:33:52Z",
-     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
-     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:42:53Z",
-     "headline": "Antonelli wins US Grand Prix to close on world title",
-     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T22:57:02Z",
-     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
-     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T23:54:57Z",
-     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
-     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T00:27:03Z",
-     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
-     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:51:33Z",
-     "headline": "Antonelli wins US Grand Prix",
-     "url": "https://tribune.com.pk/story/2636972/antonelli-wins-us-grand-prix"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T01:07:06Z",
-     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
-     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T01:25:22Z",
-     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:15:57Z",
-     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:41:19Z",
-     "headline": "Antonelli wins in US but has to wait to secure title",
-     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:53:18Z",
-     "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
-     "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T05:59:46Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T07:13:00Z",
-     "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
-     "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
     }
    ]
   },
@@ -13055,6 +13099,161 @@
    ]
   },
   {
+   "id": 18987,
+   "title": "Trump Critic Lula Wins Record Fourth Term In Brazil In Surprise Comeback",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.67,
+   "risk": 1.38,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 13,
+   "countries": [
+    "ARG",
+    "IND",
+    "BRA",
+    "NPL",
+    "ZAF",
+    "QAT",
+    "TUR",
+    "KEN",
+    "CHN",
+    "KWT",
+    "GBR"
+   ],
+   "first_seen": "2026-10-20T16:42:06Z",
+   "last_seen": "2026-10-26T07:26:30Z",
+   "page": "event/18987.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-20T16:42:06Z",
+     "headline": "With selfies and squats, Brazil's Lula fights for one last comeback",
+     "url": "https://www.batimes.com.ar/news/latin-america/with-selfies-and-squats-brazils-lula-fights-for-one-last-comeback.phtml"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T05:32:13Z",
+     "headline": "With Selfies And Squats, Brazil's Lula Seeks One Last Political Comeback",
+     "url": "https://www.ndtv.com/world-news/with-selfies-and-squats-brazils-president-luiz-inacio-lula-da-silva-seeks-one-last-political-comeback-12223581#publisher=newsstand"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T01:49:52Z",
+     "headline": "Lula wins record fourth term in Brazil in a shock comeback",
+     "url": "https://www.batimes.com.ar/news/latin-america/lula-wins-record-fourth-term-in-brazil-in-a-shock-comeback.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-26T02:00:07Z",
+     "headline": "Lula Wins Again. What Now for Brazil?",
+     "url": "https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-26T02:11:38Z",
+     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+     "url": "https://kathmandupost.com/world/2026/10/26/lula-brazil-s-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T02:35:00Z",
+     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T02:52:56Z",
+     "headline": "What challenges await Brazil's Lula in his fourth term in office?",
+     "url": "https://www.batimes.com.ar/news/latin-america/what-challenges-await-brazils-lula-in-his-fourth-term-in-office.phtml"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T02:59:50Z",
+     "headline": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T03:03:38Z",
+     "headline": "Leaders across Americas congratulate Brazil's Lula on historic reelection",
+     "url": "https://www.aa.com.tr/en/americas/leaders-across-americas-congratulate-brazils-lula-on-historic-reelection/4100550"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-26T03:30:53Z",
+     "headline": "Trump Critic Lula Wins Record Fourth Term In Brazil In Surprise Comeback",
+     "url": "https://www.ndtv.com/world-news/lula-wins-record-fourth-term-in-brazil-in-surprise-comeback-12235573#publisher=newsstand"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T03:47:11Z",
+     "headline": "Lula wins fourth term in dramatic comeback",
+     "url": "https://www.sabcnews.com/sabcnews/lula-wins-fourth-term-in-dramatic-comeback/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-26T04:26:11Z",
+     "headline": "Lula wins fourth term as Brazil president in shock comeback against Flavio Bolsonaro",
+     "url": "https://capitalfm.africa/lula-wins-fourth-term-as-brazil-president-in-shock-comeback-against-flavio-bolsonaro/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-26T04:36:14Z",
+     "headline": "Lula wins reelection in Brazil",
+     "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea567e4b06d4aa0564b5b.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T04:51:32Z",
+     "headline": "PROFILE - From prison to historic 4th term: Brazil's Lula extends extraordinary political career",
+     "url": "https://www.aa.com.tr/en/americas/profile-from-prison-to-historic-4th-term-brazils-lula-extends-extraordinary-political-career/4100570"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:34:22Z",
+     "headline": "Lula wins 4th term as Bolsonaro rejects defeat in historic Brazil election",
+     "url": "https://www.turkiyetoday.com/world/lula-wins-4th-term-as-bolsonaro-rejects-defeat-in-historic-brazil-election-3231027"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-26T06:25:44Z",
+     "headline": "Brazil's Debt, Inflation, Tax Reform: Lula's Economic Challenges In 4th Term",
+     "url": "https://www.ndtv.com/world-news/brazil-presidential-elections-brazils-debt-inflation-tax-reform-luiz-inacio-lula-da-silvas-economic-challenges-in-4th-term-12236155#publisher=newsstand"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T06:34:00Z",
+     "headline": "Lula Wins Historic Fourth Presidential Term After Political Comeback From Prison",
+     "url": "https://www.arabtimesonline.com/news/lula-wins-historic-fourth-presidential-term-after-political-comeback-from-prison/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T07:26:30Z",
+     "headline": "The world leaders congratulating Brazil President Lula on his historic re-election",
+     "url": "https://www.independent.co.uk/news/world/americas/bolsonaro-trump-brazil-election-results-reaction-b3073202.html"
+    }
+   ]
+  },
+  {
    "id": 22478,
    "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
    "category": "Technology & Cyber",
@@ -14198,181 +14397,6 @@
      "time": "2026-10-25T03:30:00Z",
      "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
      "url": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities"
-    }
-   ]
-  },
-  {
-   "id": 23090,
-   "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.61,
-   "risk": 5.35,
-   "confidence": 0.87,
-   "status": "spreading",
-   "outlets": 15,
-   "countries": [
-    "ISR",
-    "SAU",
-    "FRA",
-    "IND",
-    "USA",
-    "QAT",
-    "SGP",
-    "AUS",
-    "IRN",
-    "AFG"
-   ],
-   "first_seen": "2026-10-22T20:16:39Z",
-   "last_seen": "2026-10-25T16:34:55Z",
-   "page": "event/23090.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-22T20:16:39Z",
-     "headline": "October 7 victims' families to hold Election Day protests across Israel, urging voters to remember the dead",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/.premium/october-7-victims-families-to-hold-election-day-protests-across-israel/000001a1-6504-d46d-a1fd-e50599640000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T09:38:38Z",
-     "headline": "Elections committee denies Likud request to bar broadcasting of October 7 probe rally ahead of election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/elections-committee-denies-likud-request-to-bar-october-7-probe-rally-broadcast/000001a1-67f4-d6e1-abb7-77fe24980000"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T16:15:37Z",
-     "headline": "Thousands across Israel protest Netanyahu government three days before the election",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article/.premium/october-7-bereaved-families-rally-for-state-probe-three-days-before-election/000001a1-6e6f-db3a-a9fb-feefb9060000"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T16:54:29Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.arabnews.com/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote-3008084"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T18:21:09Z",
-     "headline": "Over 100,000 rally in Tel Aviv demanding commission of inquiry into failures during October 7",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T18:21:55Z",
-     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T18:23:08Z",
-     "headline": "Thousands Protest Against Netanyahu In Tel Aviv Ahead Of Vote",
-     "url": "https://www.ndtv.com/world-news/israel-israel-polls-thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vote-12231329#publisher=newsstand"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-24T18:30:22Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.al-monitor.com/originals/2026/10/thousands-rally-tel-aviv-against-netanyahu-ahead-vote"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T19:11:48Z",
-     "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T20:21:07Z",
-     "headline": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
-     "url": "https://www.jpost.com/israel-news/article-912722"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:07Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.channelnewsasia.com/world/thousands-rally-in-tel-aviv-against-netanyahu-ahead-vote-6489811"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T23:20:47Z",
-     "headline": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
-     "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T23:34:37Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:10:00Z",
-     "headline": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
-     "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-in-tel-aviv-against-netanyahu-ahead-of-vote"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-25T04:51:29Z",
-     "headline": "Thousands protest against Netanyahu ahead of elections",
-     "url": "https://en.mehrnews.com/news/248879/Thousands-protest-against-Netanyahu-ahead-of-elections"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T07:25:46Z",
-     "headline": "As the hard right fears historic defeat, armed settler convoys in Tel Aviv carry a message",
-     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-25/ty-article-magazine/.premium/as-the-hard-right-fears-defeat-settler-convoys-in-tel-aviv-carry-a-message/000001a1-6420-d5c9-adad-f674a5280000"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T08:38:24Z",
-     "headline": "Thousands of Israelis Rally Against Netanyahu Ahead of Parliamentary Election",
-     "url": "https://www.khaama.com/tel-aviv-protest-october-7-inquiry-israel-election/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:38:01Z",
-     "headline": "Israel: Demonstrators rally against government ahead of election",
-     "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T14:11:31Z",
-     "headline": "Netanyahu shares AI-generated image of nuclear explosion in Tel Aviv, two days before election",
-     "url": "https://www.jpost.com/israel-election-2026/article-912797"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T15:49:45Z",
-     "headline": "Netanyahu Shares AI Image Of Nuclear Blast In Tel Aviv 2 Days Ahead Of Polls",
-     "url": "https://www.ndtv.com/world-news/israel-is-in-danger-netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-12234292#publisher=newsstand"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-25T16:34:55Z",
-     "headline": "Mass rally against Netanyahu government just ahead of elections",
-     "url": "https://www.tehrantimes.com/news/531493/Mass-rally-against-Netanyahu-government-just-ahead-of-elections"
     }
    ]
   }
