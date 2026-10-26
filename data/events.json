@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:35:46Z",
+ "generated": "2026-10-26T06:52:46Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -12,7 +12,7 @@
    "risk": 3.67,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 51,
+   "outlets": 52,
    "countries": [
     "QAT",
     "USA",
@@ -45,13 +45,14 @@
     "ARE",
     "IRN",
     "PER",
+    "ARM",
     "ZAF",
     "IRQ",
     "CYP",
     "MOZ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T06:29:00Z",
+   "last_seen": "2026-10-26T06:44:33Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -170,7 +171,7 @@
      "outlet": "Sky News (World)",
      "country": "GBR",
      "time": "2026-10-25T22:13:00Z",
-     "headline": "Lula re-elected president in Brazil but his opponent refuses to accept result",
+     "headline": "Defeated Brazilian election candidate refuses to accept result",
      "url": "https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818"
     },
     {
@@ -254,7 +255,7 @@
      "outlet": "The Straits Times",
      "country": "SGP",
      "time": "2026-10-26T00:36:11Z",
-     "headline": "Brazil election: Lula, iconic working class president, wins historic fourth term in dramatic comeback",
+     "headline": "Brazil election: Lula wins historic fourth term, Bolsonaro refuses to concede",
      "url": "https://www.straitstimes.com/world/lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback"
     },
     {
@@ -675,8 +676,8 @@
    "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.69,
-   "risk": 4.11,
+   "importance": 7.75,
+   "risk": 4.22,
    "confidence": 0.89,
    "status": "spreading",
    "outlets": 53,
@@ -711,7 +712,7 @@
     "JPN"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T05:50:00Z",
+   "last_seen": "2026-10-26T06:52:06Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -4601,288 +4602,14 @@
    ]
   },
   {
-   "id": 23924,
-   "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 6.71,
-   "risk": 5.84,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 29,
-   "countries": [
-    "IND",
-    "ISR",
-    "UKR",
-    "RUS",
-    "SGP",
-    "GBR",
-    "KOR",
-    "USA",
-    "TUR",
-    "SAU",
-    "NGA",
-    "AFG",
-    "TWN",
-    "NZL",
-    "CAN",
-    "GHA",
-    "AZE",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-26T06:26:00Z",
-   "page": "event/23924.html",
-   "reports": [
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T09:37:24Z",
-     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
-     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T04:18:16Z",
-     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
-     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-24T05:50:42Z",
-     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
-     "url": "https://www.jpost.com/international/article-912682"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T19:35:00Z",
-     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T19:35:32Z",
-     "headline": "Kiev violated Starlink terms of service, Musk says",
-     "url": "https://tass.com/world/2207339"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T21:27:00Z",
-     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
-     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T21:27:03Z",
-     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
-     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T23:02:03Z",
-     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
-     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T00:44:31Z",
-     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T00:57:45Z",
-     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T01:52:13Z",
-     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
-     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T04:18:52Z",
-     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
-     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-25T05:23:00Z",
-     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
-     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T05:45:31Z",
-     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T06:31:00Z",
-     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
-     "url": "https://www.kyivpost.com/post/88082"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T07:55:29Z",
-     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
-     "url": "https://english.aawsat.com/node/5333337"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T08:15:24Z",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T08:25:54Z",
-     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
-     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T09:22:18Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
-     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-25T10:02:00Z",
-     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
-     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T10:09:20Z",
-     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
-     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T10:52:01Z",
-     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
-     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T14:55:09Z",
-     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
-     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T15:35:22Z",
-     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-25T16:37:07Z",
-     "headline": "Musk accuses Ukraine of violating Starlink’s terms",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866614"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T16:49:36Z",
-     "headline": "Ukraine hits back at Musk's ‘strange’ claim over Starlink use",
-     "url": "https://www.stuff.co.nz/world-news/361051022/ukraine-disputes-elon-musks-claim-its-military-violated"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://abcnews.com/International/wireStory/ukraine-disputes-elon-musks-claim-military-violated-starlinks-137552738"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-25T18:18:49Z",
-     "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-     "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
-     "url": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-25T19:02:26Z",
-     "headline": "Ukraine war latest: Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
-     "url": "https://kyivindependent.com/ukraine-war-latest-starshield-operations-restored-to-normal-speed-zelensky-confirms-as-elon-musk-claims-ukraine-violated-starlink-terms/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-25T20:51:21Z",
-     "headline": "Musk says SpaceX restricted Ukraine’s Starlink connection as service restored",
-     "url": "https://www.myjoyonline.com/musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-26T00:20:00Z",
-     "headline": "Musk opposes use of Starlink for offensive operations",
-     "url": "https://en.apa.az/america/musk-opposes-use-of-starlink-for-offensive-operations-532112"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T02:56:47Z",
-     "headline": "‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/physically-impossible-ukraine-hits-back-at-musk-over-starlink-restrictions-disputes-offensive-drone-strike-claim/articleshow/135201379.cms"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T06:26:00Z",
-     "headline": "Elon Musk accuses Ukraine of violating Starlink's terms of service",
-     "url": "https://iol.co.za/technology/big-tech/2026-10-26-elon-musk-accuses-ukraine-of-violating-starlinks-terms-of-service/"
-    }
-   ]
-  },
-  {
    "id": 16782,
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.65,
-   "risk": 5.64,
+   "importance": 6.71,
+   "risk": 5.65,
    "confidence": 0.89,
-   "status": "spreading",
+   "status": "peaking",
    "outlets": 25,
    "countries": [
     "OMN",
@@ -5185,6 +4912,280 @@
      "time": "2026-10-25T00:46:40Z",
      "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
      "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
+    }
+   ]
+  },
+  {
+   "id": 23924,
+   "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+   "category": "Technology & Cyber",
+   "cat": 5,
+   "importance": 6.71,
+   "risk": 5.84,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 29,
+   "countries": [
+    "IND",
+    "ISR",
+    "UKR",
+    "RUS",
+    "SGP",
+    "GBR",
+    "KOR",
+    "USA",
+    "TUR",
+    "SAU",
+    "NGA",
+    "AFG",
+    "TWN",
+    "NZL",
+    "CAN",
+    "GHA",
+    "AZE",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T09:37:24Z",
+   "last_seen": "2026-10-26T06:26:00Z",
+   "page": "event/23924.html",
+   "reports": [
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T09:37:24Z",
+     "headline": "Trump asked Musk to reverse limits on Ukraine’s military internet use",
+     "url": "https://indianexpress.com/article/world/trump-asked-musk-to-reverse-limits-on-ukraines-military-internet-use-10933700/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T04:18:16Z",
+     "headline": "US Asked Musk For Years To Alter Starlink Service In Ukraine, Middle East: Report",
+     "url": "https://www.ndtv.com/world-news/us-asked-elon-musk-for-years-to-alter-starlink-service-in-ukraine-middle-east-report-12228449#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-24T05:50:42Z",
+     "headline": "US has asked Musk to change Starlink services in Ukraine, Middle East for years, fears misuse",
+     "url": "https://www.jpost.com/international/article-912682"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-24T19:35:00Z",
+     "headline": "Musk says Ukrainian military violated Starlink terms of use, loophole has been closed",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059580/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T19:35:32Z",
+     "headline": "Kiev violated Starlink terms of service, Musk says",
+     "url": "https://tass.com/world/2207339"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T21:27:00Z",
+     "headline": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms",
+     "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-starlink-terms-6489801"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T21:27:03Z",
+     "headline": "Elon Musk restricted Ukraine’s Starlink access after military ‘violated’ terms",
+     "url": "https://www.independent.co.uk/news/world/europe/elon-musk-starlink-ukraine-russia-b3072826.html"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T23:02:03Z",
+     "headline": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+     "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T00:44:31Z",
+     "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
+     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T00:57:45Z",
+     "headline": "'To kill people': Musk accuses Ukraine military of misusing Starlink for drone strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/to-kill-people-musk-accuses-ukraine-military-of-misusing-starlink-for-drone-strikes/articleshow/135181125.cms"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T01:52:13Z",
+     "headline": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
+     "url": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T04:18:52Z",
+     "headline": "Defending restrictions, Elon Musk says use of Starlink for offensive drone strikes never permitted",
+     "url": "https://www.aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-25T05:23:00Z",
+     "headline": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
+     "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T05:45:31Z",
+     "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T06:31:00Z",
+     "headline": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
+     "url": "https://www.kyivpost.com/post/88082"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T07:55:29Z",
+     "headline": "Musk Accuses Ukraine of Violating Starlink's Terms of Service",
+     "url": "https://english.aawsat.com/node/5333337"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T08:15:24Z",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-25T08:25:54Z",
+     "headline": "‘May you burn in hell’: Elon Musk’s message to ‘warmongers’ amid Starlink row",
+     "url": "https://indianexpress.com/article/world/elon-musk-accuses-ukraine-violating-starlink-terms-service-restored-starshield-donald-trump-10935980/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T09:22:18Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms of service",
+     "url": "https://punchng.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-25T10:02:00Z",
+     "headline": "Musk Defends Starlink Restrictions, Says Offensive Drone Strikes Were Never Permitted",
+     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T10:09:20Z",
+     "headline": "'Can't use it to kill people': Musk admits restricting Starlink in Ukraine",
+     "url": "https://timesofindia.indiatimes.com/world/europe/cant-use-it-to-kill-people-musk-admits-restricting-starlink-in-ukraine/articleshow/135188553.cms"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T10:52:01Z",
+     "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
+     "url": "https://www.nbcnews.com/world/ukraine/elon-musk-spacex-closed-ukraine-starlink-loophole-limits-hit-drone-rcna605494"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T14:55:09Z",
+     "headline": "Ukraine hits back at Musk’s claim over civilian Starlink use for offensive strikes",
+     "url": "https://timesofindia.indiatimes.com/world/europe/elon-vs-kyiv-ukraine-hits-back-at-musks-claim-over-civilian-starlink-use-for-offensive-strikes/articleshow/135193121.cms"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T15:35:22Z",
+     "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-25T16:37:07Z",
+     "headline": "Musk accuses Ukraine of violating Starlink’s terms",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866614"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T16:49:36Z",
+     "headline": "Ukraine hits back at Musk's ‘strange’ claim over Starlink use",
+     "url": "https://www.stuff.co.nz/world-news/361051022/ukraine-disputes-elon-musks-claim-its-military-violated"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+     "url": "https://abcnews.com/International/wireStory/ukraine-disputes-elon-musks-claim-military-violated-starlinks-137552738"
+    },
+    {
+     "outlet": "CNBC World",
+     "country": "USA",
+     "time": "2026-10-25T18:18:49Z",
+     "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
+     "url": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-25T19:02:26Z",
+     "headline": "Ukraine war latest: Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+     "url": "https://kyivindependent.com/ukraine-war-latest-starshield-operations-restored-to-normal-speed-zelensky-confirms-as-elon-musk-claims-ukraine-violated-starlink-terms/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-25T20:51:21Z",
+     "headline": "Musk says SpaceX restricted Ukraine’s Starlink connection as service restored",
+     "url": "https://www.myjoyonline.com/musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-26T00:20:00Z",
+     "headline": "Musk opposes use of Starlink for offensive operations",
+     "url": "https://en.apa.az/america/musk-opposes-use-of-starlink-for-offensive-operations-532112"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T02:56:47Z",
+     "headline": "‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/physically-impossible-ukraine-hits-back-at-musk-over-starlink-restrictions-disputes-offensive-drone-strike-claim/articleshow/135201379.cms"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T06:26:00Z",
+     "headline": "Elon Musk accuses Ukraine of violating Starlink's terms of service",
+     "url": "https://iol.co.za/technology/big-tech/2026-10-26-elon-musk-accuses-ukraine-of-violating-starlinks-terms-of-service/"
     }
    ]
   },
@@ -7357,7 +7358,7 @@
      "outlet": "The National",
      "country": "ARE",
      "time": "2026-10-26T03:57:04Z",
-     "headline": "Middle East latest: Saudi Arabia hits Houthi ballistic missiles and tunnels in strikes on Yemen",
+     "headline": "Middle East latest: Saudi Arabia leads Makkah pact countries to Tehran for crucial war talks",
      "url": "https://www.thenationalnews.com/news/mena/2026/10/26/live-saudi-arabia-yemen-houthi-missiles/"
     }
    ]
@@ -10558,6 +10559,153 @@
    ]
   },
   {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.96,
+   "risk": 1.87,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T06:32:04Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Minister of Defence heading delegation to Tehran with Makkah pact countries",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    }
+   ]
+  },
+  {
    "id": 25466,
    "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
    "category": "Geopolitics",
@@ -10897,146 +11045,6 @@
      "time": "2026-10-25T02:00:49Z",
      "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
-    }
-   ]
-  },
-  {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.9,
-   "risk": 1.86,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
-    "ARE"
-   ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T06:32:04Z",
-   "page": "event/27258.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Top officials from Mecca Pact countries to meet Iranian officials in Tehran: Sources",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Minister of Defence heading delegation to Tehran with Makkah pact countries",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
     }
    ]
   },
