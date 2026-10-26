@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-26T12:04:56Z",
+ "generated": "2026-10-26T12:28:52Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
   {
    "id": 25521,
-   "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+   "title": "Brazil's President Lula da Silva wins historic 4th term after defeating Flavio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.75,
    "risk": 3.71,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 62,
+   "outlets": 63,
    "countries": [
     "QAT",
     "USA",
+    "ARG",
     "GBR",
     "AUS",
     "URY",
     "KEN",
     "COL",
-    "ARG",
     "DEU",
     "JAM",
     "PAK",
@@ -56,7 +56,7 @@
     "TZA"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T11:51:46Z",
+   "last_seen": "2026-10-26T12:03:18Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -72,6 +72,13 @@
      "time": "2026-10-24T09:03:12Z",
      "headline": "The Other Bolsonaro Who Could Become Brazil’s Next President",
      "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html"
+    },
+    {
+     "outlet": "Buenos Aires Herald",
+     "country": "ARG",
+     "time": "2026-10-24T12:58:42Z",
+     "headline": "Brazil’s economic challenges after the Lula–Bolsonaro runoff",
+     "url": "https://buenosairesherald.com/world/brazils-economic-challenges-after-the-lula-bolsonaro-runoff"
     },
     {
      "outlet": "BBC News",
@@ -184,6 +191,13 @@
      "time": "2026-10-26T00:07:00Z",
      "headline": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
      "url": "https://www.myjoyonline.com/lula-wins-fourth-term-in-brazil-but-faces-hostile-congress-and-divided-country/"
+    },
+    {
+     "outlet": "Buenos Aires Herald",
+     "country": "ARG",
+     "time": "2026-10-26T00:12:51Z",
+     "headline": "President Luiz Inácio “Lula” da Silva wins surprise reelection in Brazil",
+     "url": "https://buenosairesherald.com/world/president-luiz-inacio-lula-da-silva-wins-surprise-reelection-in-brazil"
     },
     {
      "outlet": "DW English",
@@ -324,20 +338,6 @@
      "time": "2026-10-26T00:57:03Z",
      "headline": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
      "url": "https://www.koreatimes.co.kr/world/20261026/trump-critic-lula-wins-reelection-in-brazil-securing-fourth-presidential-term?utm_source=rss"
-    },
-    {
-     "outlet": "Human Rights Watch",
-     "country": "USA",
-     "time": "2026-10-26T00:59:52Z",
-     "headline": "Brazil: Lula Should Focus on Human Rights in New Term",
-     "url": "https://www.hrw.org/news/2026/10/25/brazil-lula-should-focus-on-human-rights-in-new-term"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T01:01:00Z",
-     "headline": "Lula wins Brazil’s presidency for a fourth time with 51.8% of the vote",
-     "url": "https://en.mercopress.com/2026/10/26/lula-wins-brazil-s-presidency-for-a-fourth-time-with-51.8-of-the-vote?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
     }
    ]
   },
@@ -2261,341 +2261,15 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.18,
-   "risk": 2.14,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 45,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR",
-    "AUS",
-    "QAT",
-    "ARE",
-    "NZL",
-    "CUB",
-    "FIN",
-    "JPN",
-    "ARG",
-    "GHA",
-    "KOR",
-    "GRC",
-    "KWT",
-    "LKA",
-    "DEU",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T10:14:26Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-25T17:29:39Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-25T19:25:23Z",
-     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T19:28:40Z",
-     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T19:41:21Z",
-     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-25T19:56:33Z",
-     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T19:57:11Z",
-     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
-     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:58:47Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T20:46:42Z",
-     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
-     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T21:05:50Z",
-     "headline": "Who Is María Corina Machado?",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T21:42:56Z",
-     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
-     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-25T21:59:11Z",
-     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
-    },
-    {
-     "outlet": "Helsinki Times",
-     "country": "FIN",
-     "time": "2026-10-25T23:17:49Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
-     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:23:25Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 18222,
    "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 7.16,
-   "risk": 1.62,
-   "confidence": 0.85,
-   "status": "spreading",
-   "outlets": 21,
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.25,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "peaking",
+   "outlets": 22,
    "countries": [
     "ARE",
     "DEU",
@@ -2615,7 +2289,7 @@
     "IND"
    ],
    "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T11:42:13Z",
+   "last_seen": "2026-10-26T12:01:07Z",
    "page": "event/18222.html",
    "reports": [
     {
@@ -2850,10 +2524,17 @@
      "url": "https://www.standard.co.uk/sport/football/has-mbappe-won-2026-ballon-dor-fan-theory-b1302322.html"
     },
     {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-26T10:07:00Z",
+     "headline": "Will Harry Kane win tonight's Ballon d'Or?",
+     "url": "https://news.sky.com/story/ballon-dor-harry-kane-favourite-to-win-prestigious-award-after-goal-filled-season-13603925"
+    },
+    {
      "outlet": "RFI English",
      "country": "FRA",
      "time": "2026-10-26T10:20:15Z",
-     "headline": "Mbappé, Yamal and Kane to discover Ballon d'Or fates at London awards ceremony",
+     "headline": "Mbappé, Yamal or Kane? Ballon d’Or verdict due in London",
      "url": "https://www.rfi.fr/en/sports/20261026-mbapp%C3%A9-yamal-and-kane-to-discover-ballon-d-or-fates-at-london-awards-ceremony"
     },
     {
@@ -2876,6 +2557,340 @@
      "time": "2026-10-26T11:42:13Z",
      "headline": "Ballon d'Or: Messi, Yamal and Mbappe among favourites; how the winners are decided",
      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ballon-dor-2026-lionel-messi-yamal-and-mbappe-among-favourites-how-the-winners-are-decided/articleshow/135210649.cms"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T12:01:07Z",
+     "headline": "Ballon d'Or 2026 LIVE: Latest updates and results as Harry Kane battles Kylian Mbappe in London",
+     "url": "https://www.standard.co.uk/sport/football/ballon-dor-2026-live-updates-results-kane-mbappe-yamal-b1302327.html"
+    }
+   ]
+  },
+  {
+   "id": 24261,
+   "title": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.16,
+   "risk": 2.13,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 46,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "PAN",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE",
+    "NZL",
+    "CUB",
+    "FIN",
+    "JPN",
+    "ARG",
+    "GHA",
+    "KOR",
+    "GRC",
+    "KWT",
+    "LKA",
+    "DEU",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-26T10:14:26Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T17:29:39Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "Newsroom Panama",
+     "country": "PAN",
+     "time": "2026-10-25T17:54:16Z",
+     "headline": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
+     "url": "https://newsroompanama.com/2026/10/25/after-months-in-exile-venezuelas-opposition-leader-maria-corina-machado-returns-home/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-25T19:25:23Z",
+     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T19:41:21Z",
+     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:56:33Z",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
+     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T19:57:11Z",
+     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
+     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:58:47Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T20:46:42Z",
+     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
+     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T21:05:50Z",
+     "headline": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T21:42:56Z",
+     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
+     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-25T21:59:11Z",
+     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
+    },
+    {
+     "outlet": "Helsinki Times",
+     "country": "FIN",
+     "time": "2026-10-25T23:17:49Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
+     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
     }
    ]
   },
@@ -5583,241 +5598,6 @@
    ]
   },
   {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.89,
-   "risk": 2.08,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 21,
-   "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
-    "ARE",
-    "BGD",
-    "CYP",
-    "TUR",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T09:45:43Z",
-   "page": "event/27258.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "CDF Munir in Tehran as Makkah pact officials prepare to meet Iranian leadership to ease regional tensions",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-26T06:54:35Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T07:02:02Z",
-     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
-     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T07:02:15Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
-     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T07:27:26Z",
-     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
-     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T07:29:04Z",
-     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-26T07:34:28Z",
-     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
-     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
-     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T08:42:21Z",
-     "headline": "Mecca Pact members to convene security talks in Iran",
-     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-26T09:08:09Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-26-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-26T09:45:43Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
-     "url": "https://www.channelnewsasia.com/world/mecca-pact-saudi-arabia-pakistan-turkiye-officials-meet-6492026"
-    }
-   ]
-  },
-  {
    "id": 23924,
    "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
    "category": "Technology & Cyber",
@@ -6536,11 +6316,11 @@
    "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.72,
-   "risk": 1.41,
+   "importance": 6.71,
+   "risk": 1.39,
    "confidence": 0.88,
    "status": "peaking",
-   "outlets": 26,
+   "outlets": 27,
    "countries": [
     "PAK",
     "SAU",
@@ -6560,6 +6340,7 @@
     "UGA",
     "KOR",
     "FRA",
+    "BHR",
     "ESP"
    ],
    "first_seen": "2026-10-23T03:27:19Z",
@@ -6845,6 +6626,248 @@
      "time": "2026-10-26T01:05:42Z",
      "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
      "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
+    }
+   ]
+  },
+  {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.58,
+   "risk": 1.66,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 21,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE",
+    "BGD",
+    "CYP",
+    "TUR",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T09:45:43Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "Iran says regional security talks must address US aggression, Israeli expansionism",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T06:35:41Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials in Tehran",
+     "url": "https://tribune.com.pk/story/2637017/officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T06:54:35Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T07:02:02Z",
+     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
+     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T07:02:15Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
+     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T07:27:26Z",
+     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
+     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T07:29:04Z",
+     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T07:34:28Z",
+     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
+     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
+     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T08:42:21Z",
+     "headline": "Mecca Pact members to convene security talks in Iran",
+     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T09:08:09Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-26T09:45:43Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+     "url": "https://www.channelnewsasia.com/world/mecca-pact-saudi-arabia-pakistan-turkiye-officials-meet-6492026"
     }
    ]
   },
@@ -7467,11 +7490,11 @@
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.38,
-   "risk": 5.3,
+   "importance": 6.47,
+   "risk": 5.19,
    "confidence": 0.89,
    "status": "peaking",
-   "outlets": 26,
+   "outlets": 28,
    "countries": [
     "OMN",
     "KWT",
@@ -7489,6 +7512,7 @@
     "IRN",
     "ISR",
     "BGD",
+    "BHR",
     "IRL"
    ],
    "first_seen": "2026-10-20T05:10:15Z",
@@ -7580,6 +7604,13 @@
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
     },
     {
+     "outlet": "Saudi Gazette",
+     "country": "SAU",
+     "time": "2026-10-22T12:57:12Z",
+     "headline": "Coalition intercepts 9 UAVs in Madinah, Riyadh, and Eastern Province",
+     "url": "https://saudigazette.com.sa/article/665645/saudi-arabia/coalition-intercepts-9-uavs-in-madinah-riyadh-and-eastern-province"
+    },
+    {
      "outlet": "Arab News",
      "country": "SAU",
      "time": "2026-10-22T20:59:07Z",
@@ -7641,6 +7672,13 @@
      "time": "2026-10-23T04:30:30Z",
      "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
      "url": "https://english.aawsat.com/node/5332564"
+    },
+    {
+     "outlet": "Saudi Gazette",
+     "country": "SAU",
+     "time": "2026-10-23T13:13:50Z",
+     "headline": "Saudi air defenses intercept Houthi missiles targeting Riyadh, Khamis Mushait",
+     "url": "https://saudigazette.com.sa/article/665668/saudi-arabia/saudi-air-defenses-intercept-houthi-missiles-targeting-riyadh-khamis-mushait"
     },
     {
      "outlet": "Asharq Al-Awsat (English)",
@@ -7760,20 +7798,6 @@
      "time": "2026-10-24T10:14:00Z",
      "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
      "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T11:13:29Z",
-     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
-     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
     }
    ]
   },
@@ -8090,323 +8114,6 @@
      "time": "2026-10-26T08:59:00Z",
      "headline": "Eduardo Bolsonaro urges brother to leave Brazil as Lula wins presidential election",
      "url": "https://www.azernews.az/region/266200.html"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.33,
-   "risk": 7.12,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 30,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF",
-    "OMN",
-    "KWT",
-    "KOR",
-    "QAT",
-    "IND",
-    "NZL",
-    "IRN",
-    "GBR",
-    "GHA"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-26T04:59:28Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:57:00Z",
-     "headline": "NAIROBI",
-     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T15:50:00Z",
-     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T15:52:03Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T15:52:25Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-23T16:27:13Z",
-     "headline": "Several feared trapped in Eastleigh building collapse",
-     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:01:05Z",
-     "headline": "Many feared trapped after Kenya building collapse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:49:04Z",
-     "headline": "Several people missing after multistorey building collapses in Kenya",
-     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T19:02:08Z",
-     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
-     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T20:31:50Z",
-     "headline": "Building collapse in Nairobi search for survivors under way",
-     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T20:50:01Z",
-     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
-     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-24T06:31:18Z",
-     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-24T08:05:43Z",
-     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
-     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-24T08:42:35Z",
-     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
-     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T09:44:01Z",
-     "headline": "Two rescued after Nairobi building collapse with five still missing",
-     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T17:02:12Z",
-     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
-     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T23:27:47Z",
-     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
-     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T14:51:24Z",
-     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
-     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T19:51:04Z",
-     "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
-     "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
     }
    ]
   },
@@ -8814,6 +8521,318 @@
      "time": "2026-10-25T16:00:00Z",
      "headline": "The 3 approaches to daylight saving time considered this year, and what happened to them",
      "url": "https://thehill.com/policy/energy-environment/6162826-the-3-approaches-to-daylight-saving-time-considered-this-year-and-what-happened-to-them/"
+    }
+   ]
+  },
+  {
+   "id": 5498,
+   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.28,
+   "risk": 7.23,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 20,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR",
+    "IRL",
+    "MYS"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-26T09:58:34Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:24:26Z",
+     "headline": "Israeli strike on Gaza university kills three",
+     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
     }
    ]
   },
@@ -9471,6 +9490,283 @@
    ]
   },
   {
+   "id": 22579,
+   "title": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.17,
+   "risk": 6.17,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 21,
+   "countries": [
+    "ARE",
+    "PAK",
+    "SAU",
+    "TUR",
+    "KWT",
+    "ARM",
+    "CHN",
+    "FRA",
+    "USA",
+    "GBR",
+    "QAT",
+    "OMN",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T23:34:31Z",
+   "last_seen": "2026-10-26T12:11:00Z",
+   "page": "event/22579.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T23:34:31Z",
+     "headline": "UAE confirms oil spill off coast causing strong fuel smell",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/22/uae-strong-smell-tanker-oil-spill/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T23:34:31Z",
+     "headline": "UAE confirms oil spill off coast and temporarily closes Umm Al Quwain beaches",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:58:39Z",
+     "headline": "UAE says tanker oil spill affects beaches in Umm Al Quwain",
+     "url": "https://www.brecorder.com/news/40445583/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T03:10:16Z",
+     "headline": "UAE says tanker oil spill affects beaches in Umm Al-Quwain",
+     "url": "https://www.arabnews.com/middle-east/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain-3007833"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T03:10:16Z",
+     "headline": "Oil spill off UAE coast prompts beach closures, cleanup effort",
+     "url": "https://www.arabnews.com/middle-east/oil-spill-off-uae-coast-prompts-beach-closures-cleanup-effort-3007833"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T03:27:18Z",
+     "headline": "UAE announce temporary closure of Umm Al Quwain beaches",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-announce-temporary-closure-umm-al-quwain-beaches"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T04:37:50Z",
+     "headline": "UAE detects tanker oil spill affecting beaches in Umm Al Quwain",
+     "url": "https://www.aa.com.tr/en/middle-east/uae-detects-tanker-oil-spill-affecting-beaches-in-umm-al-quwain/4097924"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:13:04Z",
+     "headline": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
+     "url": "https://english.aawsat.com/node/5332574"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T05:49:26Z",
+     "headline": "UAE tackles oil spill, Yemen warns of Houthi child recruitment and Oman strengthens UK investment ties",
+     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T06:14:00Z",
+     "headline": "UAE Closes Umm Al Quwain Beaches After Tanker Oil Spill",
+     "url": "https://www.arabtimesonline.com/news/uae-closes-umm-al-quwain-beaches-after-tanker-oil-spill/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T07:01:01Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-649"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:12:13Z",
+     "headline": "UAE mystery smells explained: How reports led to oil spill discovery",
+     "url": "https://gulfnews.com/uae/uae-mystery-smells-explained-how-reports-led-to-oil-spill-discovery-1.500720788"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T07:49:00Z",
+     "headline": "Reuters: Oil spill from tanker detected off UAE coast",
+     "url": "https://news.am/en/news/1069777"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:22:00Z",
+     "headline": "Oil spill prompts closure of beaches in UAE's Umm Al Quwain",
+     "url": "https://english.news.cn/20261023/8c67eee23d464035afc903fbee9fe990/c.html"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T09:36:16Z",
+     "headline": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
+     "url": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:37:34Z",
+     "headline": "UAE oil spill: Umm Al Quwain steps up efforts to contain slick along emirate’s beaches",
+     "url": "https://gulfnews.com/uae/umm-al-quwain-municipality-steps-up-efforts-to-contain-oil-spill-along-emirates-beaches-1.500720994"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:28:14Z",
+     "headline": "UAE battles tanker oil spill as war's environmental toll mounts",
+     "url": "https://www.al-monitor.com/originals/2026/10/uae-battles-tanker-oil-spill-wars-environmental-toll-mounts"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T13:48:58Z",
+     "headline": "Sharjah temporarily closes Al Hamriyah Beach over oil spill concerns",
+     "url": "https://gulfnews.com/uae/environment/sharjah-temporarily-closes-al-hamriyah-beach-over-oil-spill-concerns-1.500721368"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T15:30:47Z",
+     "headline": "Oil spill washes up on UAE beaches after tanker strike",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T15:45:48Z",
+     "headline": "UAE residents’ evening update: Oil spill closes UAQ beaches, flight updates, Netanyahu’s West Bank move",
+     "url": "https://gulfnews.com/uae/uae-residents-evening-update-oil-spill-closes-uaq-beaches-flight-updates-netanyahus-west-bank-move-1.500721505"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:23:32Z",
+     "headline": "UAE reports oil spill from tanker as ships attacked during war",
+     "url": "https://www.newarab.com/news/uae-reports-oil-spill-tanker-ships-attacked-during-war"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:34:30Z",
+     "headline": "Northern UAE beach closed as precaution after tanker oil spill",
+     "url": "https://english.news.cn/20261024/b71aa981df6e4ee1ad2cbcc80f49cbc9/c.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T00:32:33Z",
+     "headline": "UAE reports oil spill from tanker",
+     "url": "https://www.brecorder.com/news/40445720/uae-reports-oil-spill-from-tanker"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T04:48:40Z",
+     "headline": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T05:30:57Z",
+     "headline": "The fight to save marine life: how specialists are tackling the oil spill off the UAE coast",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T08:20:46Z",
+     "headline": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
+     "url": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T12:22:29Z",
+     "headline": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
+     "url": "https://www.brecorder.com/news/40445756/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T12:05:16Z",
+     "headline": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T01:30:00Z",
+     "headline": "UAE’s massive beach clean-up after oil spill concerns and mystery smell: All you need to know",
+     "url": "https://gulfnews.com/uae/uaes-massive-beach-clean-up-after-oil-spill-concerns-and-mystery-smell-all-you-need-to-know-1.500723253"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T05:38:06Z",
+     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+     "url": "https://www.omanobserver.om/article/1198589/world/region/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T09:30:39Z",
+     "headline": "Oil spill off UAE widens, prompting more beach closures",
+     "url": "https://www.straitstimes.com/world/middle-east/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T09:46:28Z",
+     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+     "url": "https://www.al-monitor.com/originals/2026/10/oil-spill-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T10:30:00Z",
+     "headline": "UAE oil spill spreads, forcing more beach closures",
+     "url": "https://cyprus-mail.com/2026/10/26/uae-oil-spill-spreads-forcing-more-beach-closures"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T11:17:31Z",
+     "headline": "Satellite images show huge oil spill from damaged tanker that triggered beach closures across UAE",
+     "url": "https://www.independent.co.uk/news/world/middle-east/united-arab-emirates-oil-spill-beach-b3073385.html"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-26T12:11:00Z",
+     "headline": "Oil spill from tanker off the United Arab Emirates spreads, beaches close",
+     "url": "https://en.protothema.gr/2026/10/26/oil-spill-from-tanker-off-the-united-arab-emirates-spreads-beaches-close/"
+    }
+   ]
+  },
+  {
    "id": 17145,
    "title": "Global summit on children's well-being opens in Samarkand",
    "category": "Geopolitics",
@@ -9577,6 +9873,324 @@
      "time": "2026-10-26T10:29:00Z",
      "headline": "Childhood cancer experts urge holistic care at Samarkand congress",
      "url": "https://www.arabtimesonline.com/news/childhood-cancer-experts-urge-holistic-care-at-samarkand-congress/"
+    }
+   ]
+  },
+  {
+   "id": 23496,
+   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.14,
+   "risk": 6.62,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 31,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
+    "USA",
+    "DEU",
+    "ZAF",
+    "OMN",
+    "KWT",
+    "KOR",
+    "QAT",
+    "IND",
+    "NZL",
+    "ZWE",
+    "IRN",
+    "GBR",
+    "GHA"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-26T04:59:28Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:57:00Z",
+     "headline": "NAIROBI",
+     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T15:50:00Z",
+     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T15:52:25Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-23T16:27:13Z",
+     "headline": "Several feared trapped in Eastleigh building collapse",
+     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:01:05Z",
+     "headline": "Many feared trapped after Kenya building collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:49:04Z",
+     "headline": "Several people missing after multistorey building collapses in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T19:02:08Z",
+     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
+     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T20:31:50Z",
+     "headline": "Building collapse in Nairobi search for survivors under way",
+     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T20:50:01Z",
+     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
+     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T06:31:18Z",
+     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
+     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
+    },
+    {
+     "outlet": "NewZimbabwe",
+     "country": "ZWE",
+     "time": "2026-10-24T07:37:59Z",
+     "headline": "Several people missing after multistorey building collapses in Kenya",
+     "url": "https://www.newzimbabwe.com/several-people-missing-after-multistorey-building-collapses-in-kenya/"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-24T08:05:43Z",
+     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
+     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-24T08:42:35Z",
+     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
+     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T09:44:01Z",
+     "headline": "Two rescued after Nairobi building collapse with five still missing",
+     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T17:02:12Z",
+     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
+     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T23:27:47Z",
+     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
+     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T14:51:24Z",
+     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
+     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
     }
    ]
   },
@@ -9994,6 +10608,137 @@
    ]
   },
   {
+   "id": 31617,
+   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.08,
+   "risk": 5.83,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "OMN",
+    "USA",
+    "IRN",
+    "GRC",
+    "TUR",
+    "NGA",
+    "IRL",
+    "AZE"
+   ],
+   "first_seen": "2026-10-26T03:07:52Z",
+   "last_seen": "2026-10-26T12:17:08Z",
+   "page": "event/31617.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
+     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
+    },
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-26T08:33:01Z",
+     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T08:48:09Z",
+     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
+     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-26T09:00:26Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
+     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-26T09:38:43Z",
+     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:50:26Z",
+     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
+     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-26T09:56:34Z",
+     "headline": "Mecca defense pact officials head to Iran for talks on regional conflict",
+     "url": "https://www.iranintl.com/en/202610260367"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T09:58:11Z",
+     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
+     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T10:14:39Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
+     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T10:23:00Z",
+     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
+     "url": "https://www.azernews.az/region/266213.html"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-26T11:14:00Z",
+     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
+     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T11:30:19Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T11:57:45Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T12:17:08Z",
+     "headline": "Iran To Hold Security Talks With Saudi, Pakistan, Turkey",
+     "url": "https://www.channelstv.com/2026/10/26/iran-to-hold-security-talks-with-saudi-pakistan-turkey/"
+    }
+   ]
+  },
+  {
    "id": 19902,
    "title": "Trump announces Audi will build $4 billion US factory in Georgia",
    "category": "Trade & Industry",
@@ -10116,587 +10861,6 @@
      "time": "2026-10-25T21:08:11Z",
      "headline": "Audi CEO Gernot Döllner appears on stage with Trump at a Republican campaign rally to announce a new car factory in Georgia",
      "url": "https://fortune.com/2026/10/25/audi-ceo-gernot-dollner-trump-republican-campaign-rally-car-factory-georgia/"
-    }
-   ]
-  },
-  {
-   "id": 22579,
-   "title": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 6.06,
-   "risk": 6.13,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 19,
-   "countries": [
-    "ARE",
-    "PAK",
-    "SAU",
-    "TUR",
-    "KWT",
-    "ARM",
-    "CHN",
-    "FRA",
-    "USA",
-    "GBR",
-    "QAT",
-    "OMN",
-    "SGP",
-    "CYP"
-   ],
-   "first_seen": "2026-10-22T23:34:31Z",
-   "last_seen": "2026-10-26T11:17:31Z",
-   "page": "event/22579.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T23:34:31Z",
-     "headline": "UAE confirms oil spill off coast causing strong fuel smell",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/22/uae-strong-smell-tanker-oil-spill/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T23:34:31Z",
-     "headline": "UAE confirms oil spill off coast and temporarily closes Umm Al Quwain beaches",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:58:39Z",
-     "headline": "UAE says tanker oil spill affects beaches in Umm Al Quwain",
-     "url": "https://www.brecorder.com/news/40445583/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T03:10:16Z",
-     "headline": "UAE says tanker oil spill affects beaches in Umm Al-Quwain",
-     "url": "https://www.arabnews.com/middle-east/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain-3007833"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T03:10:16Z",
-     "headline": "Oil spill off UAE coast prompts beach closures, cleanup effort",
-     "url": "https://www.arabnews.com/middle-east/oil-spill-off-uae-coast-prompts-beach-closures-cleanup-effort-3007833"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T03:27:18Z",
-     "headline": "UAE announce temporary closure of Umm Al Quwain beaches",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-announce-temporary-closure-umm-al-quwain-beaches"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T04:37:50Z",
-     "headline": "UAE detects tanker oil spill affecting beaches in Umm Al Quwain",
-     "url": "https://www.aa.com.tr/en/middle-east/uae-detects-tanker-oil-spill-affecting-beaches-in-umm-al-quwain/4097924"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:13:04Z",
-     "headline": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
-     "url": "https://english.aawsat.com/node/5332574"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T05:49:26Z",
-     "headline": "UAE tackles oil spill, Yemen warns of Houthi child recruitment and Oman strengthens UK investment ties",
-     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T06:14:00Z",
-     "headline": "UAE Closes Umm Al Quwain Beaches After Tanker Oil Spill",
-     "url": "https://www.arabtimesonline.com/news/uae-closes-umm-al-quwain-beaches-after-tanker-oil-spill/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T07:01:01Z",
-     "headline": "Morning update",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-649"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:12:13Z",
-     "headline": "UAE mystery smells explained: How reports led to oil spill discovery",
-     "url": "https://gulfnews.com/uae/uae-mystery-smells-explained-how-reports-led-to-oil-spill-discovery-1.500720788"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T07:49:00Z",
-     "headline": "Reuters: Oil spill from tanker detected off UAE coast",
-     "url": "https://news.am/en/news/1069777"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:22:00Z",
-     "headline": "Oil spill prompts closure of beaches in UAE's Umm Al Quwain",
-     "url": "https://english.news.cn/20261023/8c67eee23d464035afc903fbee9fe990/c.html"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T09:36:16Z",
-     "headline": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
-     "url": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:37:34Z",
-     "headline": "UAE oil spill: Umm Al Quwain steps up efforts to contain slick along emirate’s beaches",
-     "url": "https://gulfnews.com/uae/umm-al-quwain-municipality-steps-up-efforts-to-contain-oil-spill-along-emirates-beaches-1.500720994"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:28:14Z",
-     "headline": "UAE battles tanker oil spill as war's environmental toll mounts",
-     "url": "https://www.al-monitor.com/originals/2026/10/uae-battles-tanker-oil-spill-wars-environmental-toll-mounts"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T13:48:58Z",
-     "headline": "Sharjah temporarily closes Al Hamriyah Beach over oil spill concerns",
-     "url": "https://gulfnews.com/uae/environment/sharjah-temporarily-closes-al-hamriyah-beach-over-oil-spill-concerns-1.500721368"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T15:30:47Z",
-     "headline": "Oil spill washes up on UAE beaches after tanker strike",
-     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T15:45:48Z",
-     "headline": "UAE residents’ evening update: Oil spill closes UAQ beaches, flight updates, Netanyahu’s West Bank move",
-     "url": "https://gulfnews.com/uae/uae-residents-evening-update-oil-spill-closes-uaq-beaches-flight-updates-netanyahus-west-bank-move-1.500721505"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:23:32Z",
-     "headline": "UAE reports oil spill from tanker as ships attacked during war",
-     "url": "https://www.newarab.com/news/uae-reports-oil-spill-tanker-ships-attacked-during-war"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:34:30Z",
-     "headline": "Northern UAE beach closed as precaution after tanker oil spill",
-     "url": "https://english.news.cn/20261024/b71aa981df6e4ee1ad2cbcc80f49cbc9/c.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T00:32:33Z",
-     "headline": "UAE reports oil spill from tanker",
-     "url": "https://www.brecorder.com/news/40445720/uae-reports-oil-spill-from-tanker"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T04:48:40Z",
-     "headline": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T05:30:57Z",
-     "headline": "The fight to save marine life: how specialists are tackling the oil spill off the UAE coast",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T08:20:46Z",
-     "headline": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
-     "url": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T12:22:29Z",
-     "headline": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
-     "url": "https://www.brecorder.com/news/40445756/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T12:05:16Z",
-     "headline": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T01:30:00Z",
-     "headline": "UAE’s massive beach clean-up after oil spill concerns and mystery smell: All you need to know",
-     "url": "https://gulfnews.com/uae/uaes-massive-beach-clean-up-after-oil-spill-concerns-and-mystery-smell-all-you-need-to-know-1.500723253"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T05:38:06Z",
-     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
-     "url": "https://www.omanobserver.om/article/1198589/world/region/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T09:30:39Z",
-     "headline": "Oil spill off UAE widens, prompting more beach closures",
-     "url": "https://www.straitstimes.com/world/middle-east/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T09:46:28Z",
-     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
-     "url": "https://www.al-monitor.com/originals/2026/10/oil-spill-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T10:30:00Z",
-     "headline": "UAE oil spill spreads, forcing more beach closures",
-     "url": "https://cyprus-mail.com/2026/10/26/uae-oil-spill-spreads-forcing-more-beach-closures"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T11:17:31Z",
-     "headline": "Satellite images show huge oil spill from damaged tanker that triggered beach closures across UAE",
-     "url": "https://www.independent.co.uk/news/world/middle-east/united-arab-emirates-oil-spill-beach-b3073385.html"
-    }
-   ]
-  },
-  {
-   "id": 5498,
-   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.03,
-   "risk": 7.16,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 19,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR",
-    "IRL"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-26T09:58:34Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:24:26Z",
-     "headline": "Israeli strike on Gaza university kills three",
-     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
     }
    ]
   },
@@ -11334,130 +11498,6 @@
    ]
   },
   {
-   "id": 31617,
-   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.98,
-   "risk": 5.79,
-   "confidence": 0.93,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "OMN",
-    "USA",
-    "IRN",
-    "GRC",
-    "TUR",
-    "NGA",
-    "IRL",
-    "AZE"
-   ],
-   "first_seen": "2026-10-26T03:07:52Z",
-   "last_seen": "2026-10-26T11:57:45Z",
-   "page": "event/31617.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
-     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
-    },
-    {
-     "outlet": "Rigzone",
-     "country": "USA",
-     "time": "2026-10-26T08:33:01Z",
-     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
-     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T08:48:09Z",
-     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
-     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-26T09:00:26Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
-     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-26T09:38:43Z",
-     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:50:26Z",
-     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
-     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-26T09:56:34Z",
-     "headline": "Mecca defense pact officials head to Iran for talks on regional conflict",
-     "url": "https://www.iranintl.com/en/202610260367"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T09:58:11Z",
-     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
-     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T10:14:39Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
-     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T10:23:00Z",
-     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
-     "url": "https://www.azernews.az/region/266213.html"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-26T11:14:00Z",
-     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
-     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T11:30:19Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T11:57:45Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
-    }
-   ]
-  },
-  {
    "id": 22319,
    "title": "Meghan Markle 'distressed' over claims father had child abuse images",
    "category": "Society & Law",
@@ -11934,15 +11974,197 @@
    ]
   },
   {
+   "id": 12603,
+   "title": "Son of Aung San Suu Kyi says had first call in five years",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 5.92,
+   "risk": 4.12,
+   "confidence": 0.87,
+   "status": "fading",
+   "outlets": 14,
+   "countries": [
+    "CYP",
+    "GBR",
+    "USA",
+    "JPN",
+    "MMR",
+    "IND",
+    "SGP",
+    "THA",
+    "OMN",
+    "TWN"
+   ],
+   "first_seen": "2026-10-19T13:17:25Z",
+   "last_seen": "2026-10-25T02:00:49Z",
+   "page": "event/12603.html",
+   "reports": [
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-19T13:17:25Z",
+     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
+     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-19T14:53:00Z",
+     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
+     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T15:38:25Z",
+     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
+     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-19T22:44:00Z",
+     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
+     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-20T04:22:07Z",
+     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
+     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-20T05:07:00Z",
+     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-20T05:19:07Z",
+     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
+     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-21T11:12:27Z",
+     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
+     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-22T09:37:38Z",
+     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
+     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
+    },
+    {
+     "outlet": "Myanmar Now",
+     "country": "MMR",
+     "time": "2026-10-22T09:47:46Z",
+     "headline": "Suu Kyi speaks to son for first time in more than five years",
+     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T09:49:54Z",
+     "headline": "Son of Aung San Suu Kyi says had first call in five years",
+     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-22T10:07:48Z",
+     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
+     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-22T10:38:10Z",
+     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
+     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
+    },
+    {
+     "outlet": "The Irrawaddy",
+     "country": "MMR",
+     "time": "2026-10-22T10:54:49Z",
+     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
+     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:26:10Z",
+     "headline": "Suu Kyi speaks to son for first time in five years",
+     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
+    },
+    {
+     "outlet": "The Diplomat",
+     "country": "JPN",
+     "time": "2026-10-22T23:30:00Z",
+     "headline": "Myanmar’s Aung San Suu Kyi Speaks With Son For First Time Since Military Coup",
+     "url": "https://thediplomat.com/2026/10/myanmars-aung-san-suu-kyi-speaks-with-son-for-first-time-since-military-coup/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-23T01:00:09Z",
+     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
+     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T19:22:33Z",
+     "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
+     "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-24T22:03:23Z",
+     "headline": "FM praises 'progress' on Suu Kyi",
+     "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T02:00:49Z",
+     "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+     "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
+    }
+   ]
+  },
+  {
    "id": 16998,
    "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
    "category": "Trade & Industry",
    "cat": 4,
-   "importance": 5.94,
-   "risk": 3.73,
+   "importance": 5.9,
+   "risk": 3.47,
    "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 32,
+   "status": "fading",
+   "outlets": 33,
    "countries": [
     "OMN",
     "ARE",
@@ -12017,6 +12239,13 @@
      "time": "2026-10-24T21:08:45Z",
      "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
      "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
+    },
+    {
+     "outlet": "Saudi Gazette",
+     "country": "SAU",
+     "time": "2026-10-24T21:12:09Z",
+     "headline": "Riyadh airport to resume flights Sunday after Houthi attacks",
+     "url": "https://saudigazette.com.sa/article/665697/saudi-arabia/riyadh-airport-prepares-to-resume-flights-sunday-after-houthi-attacks"
     },
     {
      "outlet": "Middle East Eye",
@@ -12241,195 +12470,6 @@
      "time": "2026-10-25T18:42:42Z",
      "headline": "Houthis say they attacked Riyadh Airport and military bases",
      "url": "https://tass.com/world/2207607"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T19:09:17Z",
-     "headline": "Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-partially-resumes-flights-after-houthi-attacks/4100424"
-    }
-   ]
-  },
-  {
-   "id": 12603,
-   "title": "Son of Aung San Suu Kyi says had first call in five years",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 5.92,
-   "risk": 4.12,
-   "confidence": 0.87,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "CYP",
-    "GBR",
-    "USA",
-    "JPN",
-    "MMR",
-    "IND",
-    "SGP",
-    "THA",
-    "OMN",
-    "TWN"
-   ],
-   "first_seen": "2026-10-19T13:17:25Z",
-   "last_seen": "2026-10-25T02:00:49Z",
-   "page": "event/12603.html",
-   "reports": [
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-19T13:17:25Z",
-     "headline": "Myanmar authorities release rare images of Aung San Suu Kyi",
-     "url": "https://cyprus-mail.com/2026/10/19/myanmar-authorities-release-rare-images-of-aung-san-suu-kyi"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-19T14:53:00Z",
-     "headline": "King Charles 'sends books about soil' to Aung San Suu Kyi",
-     "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T15:38:25Z",
-     "headline": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
-     "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-19T22:44:00Z",
-     "headline": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
-     "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-20T04:22:07Z",
-     "headline": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
-     "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/detained-aung-san-suu-kyi-receives-uk-royal-package-regime.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-20T05:07:00Z",
-     "headline": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
-     "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-20T05:19:07Z",
-     "headline": "Detained Suu Kyi receives UK royal package: Myanmar regime",
-     "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-21T11:12:27Z",
-     "headline": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
-     "url": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T09:37:38Z",
-     "headline": "\"After More Than 5 Years\": Suu Kyi's Son On First Call With Mother",
-     "url": "https://www.ndtv.com/world-news/myanmar-suu-kyis-son-kim-aris-on-first-call-with-mother-after-more-than-5-years-12219678#publisher=newsstand"
-    },
-    {
-     "outlet": "Myanmar Now",
-     "country": "MMR",
-     "time": "2026-10-22T09:47:46Z",
-     "headline": "Suu Kyi speaks to son for first time in more than five years",
-     "url": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:49:54Z",
-     "headline": "Son of Aung San Suu Kyi says had first call in five years",
-     "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-22T10:07:48Z",
-     "headline": "Son of Aung San Suu Kyi gets first phone call in five years",
-     "url": "https://www.bangkokpost.com/world/3341648/son-of-aung-san-suu-kyi-gets-first-phone-call-in-five-years"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T10:38:10Z",
-     "headline": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
-     "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader"
-    },
-    {
-     "outlet": "The Irrawaddy",
-     "country": "MMR",
-     "time": "2026-10-22T10:54:49Z",
-     "headline": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
-     "url": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T15:26:10Z",
-     "headline": "Suu Kyi speaks to son for first time in five years",
-     "url": "https://www.omanobserver.om/article/1198395/world/asia/suu-kyi-speaks-to-son-for-first-time-in-five-years"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Son of Aung San Suu Kyi says he had first call with his mother in five years",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/23/2003866489"
-    },
-    {
-     "outlet": "The Diplomat",
-     "country": "JPN",
-     "time": "2026-10-22T23:30:00Z",
-     "headline": "Myanmar’s Aung San Suu Kyi Speaks With Son For First Time Since Military Coup",
-     "url": "https://thediplomat.com/2026/10/myanmars-aung-san-suu-kyi-speaks-with-son-for-first-time-since-military-coup/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T01:00:09Z",
-     "headline": "Detained Myanmar leader Suu Kyi is allowed her first call with her son in 5 years",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T19:22:33Z",
-     "headline": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
-     "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-24T22:03:23Z",
-     "headline": "FM praises 'progress' on Suu Kyi",
-     "url": "https://www.bangkokpost.com/thailand/general/3342970/fm-praises-progress-on-suu-kyi"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T02:00:49Z",
-     "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-     "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
     }
    ]
   },
@@ -12681,6 +12721,191 @@
      "time": "2026-10-24T21:55:00Z",
      "headline": "Trump admits to discussing situation in Ukraine with Elon Musk",
      "url": "https://tass.com/world/2207357"
+    }
+   ]
+  },
+  {
+   "id": 27148,
+   "title": "Police made 1,314 arrests in France's protests: government",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.86,
+   "risk": 5.17,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "CHN",
+    "FRA",
+    "NGA",
+    "SGP",
+    "SAU",
+    "DEU",
+    "MAR",
+    "THA",
+    "TUR",
+    "IRN",
+    "BRA",
+    "MYS",
+    "ARM"
+   ],
+   "first_seen": "2026-10-24T12:53:43Z",
+   "last_seen": "2026-10-26T11:42:44Z",
+   "page": "event/27148.html",
+   "reports": [
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T12:53:43Z",
+     "headline": "France records 135 arrests during demonstrations by early Saturday afternoon",
+     "url": "https://english.news.cn/20261024/32fd74d8130d48489ca191983d828d7a/c.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T09:35:20Z",
+     "headline": "France: Some clashes erupted at end of protests",
+     "url": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T10:33:44Z",
+     "headline": "France reports 1,314 arrests after protests as police defend security operation",
+     "url": "https://www.rfi.fr/en/france/20261025-france-reports-1-314-arrests-after-protests-as-police-defend-security-operation"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T11:00:07Z",
+     "headline": "1,314 protesters arrested in France over unrest",
+     "url": "https://www.vanguardngr.com/2026/10/1314-protesters-arrested-in-france-over-unrest/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T11:02:14Z",
+     "headline": "Police made 1,314 arrests in France's protests",
+     "url": "https://www.channelnewsasia.com/world/france-protest-police-arrests-government-6490381"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:02:41Z",
+     "headline": "At least 1,300 people arrested in mass weekend protests across France",
+     "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:11:24Z",
+     "headline": "Police made 1,314 arrests in France’s protests: government",
+     "url": "https://www.arabnews.com/world/police-made-1314-arrests-in-frances-protests-government-3008192"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T11:12:00Z",
+     "headline": "Police Made 1,314 Arrests in France’s Protests, Says Govt",
+     "url": "https://english.aawsat.com/node/5333408"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T12:05:00Z",
+     "headline": "France: Hundreds arrested after nationwide protests",
+     "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-25T12:13:11Z",
+     "headline": "Police made 1,314 arrests in France's protests: government",
+     "url": "https://en.hespress.com/147949-police-made-1314-arrests-in-frances-protests-government.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T12:21:04Z",
+     "headline": "Over 1,300 arrested during protests across France on Saturday: media",
+     "url": "https://english.news.cn/20261025/22ee8f57fe13471d8d88b7378f421e7d/c.html"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T13:32:32Z",
+     "headline": "Police made 1,314 arrests in France's protests: government",
+     "url": "https://www.bangkokpost.com/world/3343314/police-made-1314-arrests-in-frances-protests-government"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T13:50:18Z",
+     "headline": "France arrests 1,314 during nationwide protests on Oct. 24",
+     "url": "https://www.aa.com.tr/en/europe/france-arrests-1-314-during-nationwide-protests-on-oct-24/4100285"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T16:32:57Z",
+     "headline": "France: 1.314 arrested during protests across the country",
+     "url": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-25T16:59:19Z",
+     "headline": "France meets second weekend of mass protests with 70,000 police, arrests 1,314",
+     "url": "https://www.tehrantimes.com/news/531497/France-meets-second-weekend-of-mass-protests-with-70-000-police"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T18:28:16Z",
+     "headline": "France Arrests 1,314 at Latest Protests",
+     "url": "https://www.riotimesonline.com/france-arrests-1314-at-latest-protests/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T23:57:36Z",
+     "headline": "Over 1,300 arrested during protests across France on Saturday: media",
+     "url": "https://english.news.cn/20261026/755545dbc6414b488e3c93cb4afd623c/c.html"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-26T04:36:14Z",
+     "headline": "Over 1,300 arrested during protests across France: media",
+     "url": "https://www.chinadaily.com.cn/a/202610/25/WS6addf55de4b06d4aa0564aa8.html"
+    },
+    {
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T09:08:07Z",
+     "headline": "France’s Macron in surprise visit to Marseille after protest clashes",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/france-s-macron-in-surprise-visit-to-marseille-after-protest-clashes"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-26T10:25:00Z",
+     "headline": "More than 1,400 arrested in France after October 24 protests",
+     "url": "https://news.am/en/news/1070341"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-26T10:46:56Z",
+     "headline": "France Keeps Curfews After 1,435 Arrests",
+     "url": "https://www.riotimesonline.com/france-keeps-curfews-after-1435-arrests/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-26T11:26:58Z",
+     "headline": "France's Macron to Visit Marseille after Protest Violence",
+     "url": "https://english.aawsat.com/node/5333791"
     }
    ]
   },
@@ -14561,331 +14786,96 @@
    ]
   },
   {
-   "id": 27893,
-   "title": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal'",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.71,
-   "risk": 4.05,
-   "confidence": 0.92,
+   "id": 32155,
+   "title": "Khan hails traffic-free Oxford St as ‘truly momentous occasion for the capital’",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.73,
+   "risk": 1.33,
+   "confidence": 0.86,
    "status": "spreading",
-   "outlets": 14,
+   "outlets": 9,
    "countries": [
-    "IRQ",
-    "TUR",
-    "KWT",
-    "AZE",
-    "RUS",
-    "QAT",
-    "IRN",
-    "IND",
+    "GBR",
     "ARE",
-    "ISR"
-   ],
-   "first_seen": "2026-10-24T16:28:31Z",
-   "last_seen": "2026-10-25T17:40:37Z",
-   "page": "event/27893.html",
-   "reports": [
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T16:28:31Z",
-     "headline": "US Pulls Personnel From Mideast Bases Amid Iran Plot Warning",
-     "url": "https://www.kurdistan24.net/en/story/948262/us-evacuates-middle-east-embassies-and-bases-over-advanced-iranian-plot-targeting-americans"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T20:34:17Z",
-     "headline": "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
-     "url": "https://www.kurdistan24.net/en/story/948302/trump-we-may-attack-iran-tomorrow-or-we-may-get-a-great-deal-either-way-we-win"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T20:52:07Z",
-     "headline": "Trump says US could strike Iran ‘tomorrow’ or reach ‘big, beautiful’ deal",
-     "url": "https://www.aa.com.tr/en/world/trump-says-us-could-strike-iran-tomorrow-or-reach-big-beautiful-deal/4099883"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T21:11:00Z",
-     "headline": "Trump Says US Could Strike Iran as Early as ‘Tomorrow’ or Reach Deal",
-     "url": "https://www.arabtimesonline.com/news/trump-says-us-could-strike-iran-as-early-as-tomorrow-or-reach-deal/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T21:23:00Z",
-     "headline": "Trump: There's a possibility we may strike Iran",
-     "url": "https://en.apa.az/america/trump-theres-a-possibility-we-may-strike-iran-532027"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T22:08:49Z",
-     "headline": "Trump weighs resumption of US strikes against Iran",
-     "url": "https://tass.com/world/2207359"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T23:13:48Z",
-     "headline": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal'",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-could-strike-iran-tomorrow-or-strike-beautiful-deal"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T00:00:00Z",
-     "headline": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-25T01:35:00Z",
-     "headline": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes",
-     "url": "https://www.iranintl.com/en/202610252197"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:07:31Z",
-     "headline": "US To Strike Iran Today? Trump Keeps World On Edge With \"Maybe\" Response",
-     "url": "https://www.ndtv.com/world-news/us-iran-war-us-to-strike-iran-today-trump-keeps-world-on-edge-with-maybe-response-12232312#publisher=newsstand"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T06:41:56Z",
-     "headline": "Trump keeps Iran strike option open while floating deal",
-     "url": "https://www.turkiyetoday.com/region/trump-keeps-iran-strike-option-open-while-floating-deal-3230965"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T07:47:46Z",
-     "headline": "Iran's FM: Another Strike On Iran Will Not Produce Different Results",
-     "url": "https://www.kurdistan24.net/en/story/948371/irans-fm-another-strike-on-iran-will-not-produce-different-results"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T08:08:50Z",
-     "headline": "Trump warns of fresh strike on Iran today; Tehran claims it downed US drones",
-     "url": "https://indianexpress.com/article/world/donald-trump-iran-strike-agreement-option-open-10936048/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T10:14:43Z",
-     "headline": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T11:39:41Z",
-     "headline": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-     "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-25T15:13:57Z",
-     "headline": "Trump says choosing between making deal with Iran and ‘finishing it off’",
-     "url": "https://tass.com/world/2207573"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T15:15:06Z",
-     "headline": "Trump poses ultimatum on Iran, questions whether to reach deal or 'finish them off'",
-     "url": "https://www.aa.com.tr/en/americas/trump-poses-ultimatum-on-iran-questions-whether-to-reach-deal-or-finish-them-off/4100333"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T15:15:06Z",
-     "headline": "Trump rules out Sunday military strikes on Iran",
-     "url": "https://www.aa.com.tr/en/americas/-trump-rules-out-sunday-military-strikes-on-iran/4100333"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T17:11:00Z",
-     "headline": "No plans for striking Iran on October 25 — Trump",
-     "url": "https://en.apa.az/america/no-plans-for-striking-iran-on-october-25-trump-532073"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-25T17:12:00Z",
-     "headline": "Donald Trump keeps military option open amid Iran negotiations",
-     "url": "https://www.azernews.az/business/266175.html"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T17:20:15Z",
-     "headline": "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T17:21:00Z",
-     "headline": "Trump says choosing between making deal with Iran and ‘finishing it off’",
-     "url": "https://en.apa.az/america/trump-says-choosing-between-making-deal-with-iran-and-finishing-it-off-532075"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-25T17:26:00Z",
-     "headline": "Trump Does U-Turn Again, Rules Out Immediate Iran Strike",
-     "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T17:40:37Z",
-     "headline": "Trump rules out Sunday strike on Iran as Netanyahu warns Israel faces imminent existential threat",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912822"
-    }
-   ]
-  },
-  {
-   "id": 27872,
-   "title": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.7,
-   "risk": 0.0,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 14,
-   "countries": [
-    "SGP",
-    "ARE",
-    "NGA",
+    "IRL",
     "CYP",
-    "JAM",
     "SAU",
-    "ZAF",
-    "QAT",
-    "NAM",
-    "TWN"
+    "MYS"
    ],
-   "first_seen": "2026-10-24T13:41:17Z",
-   "last_seen": "2026-10-25T16:37:09Z",
-   "page": "event/27872.html",
+   "first_seen": "2026-10-26T00:01:00Z",
+   "last_seen": "2026-10-26T11:23:00Z",
+   "page": "event/32155.html",
    "reports": [
     {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T13:41:17Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders' perfect start",
-     "url": "https://www.channelnewsasia.com/sport/arsenal-join-man-city-summit-after-villa-end-leaders-perfect-start-6488951"
+     "outlet": "Belfast Telegraph",
+     "country": "GBR",
+     "time": "2026-10-26T00:01:00Z",
+     "headline": "Khan hails traffic-free Oxford St as ‘truly momentous occasion for the capital’",
+     "url": "https://www.belfasttelegraph.co.uk/business/uk-world/khan-hails-traffic-free-oxford-st-as-truly-momentous-occasion-for-the-capital/a/163603040.html"
     },
     {
-     "outlet": "The National",
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T00:01:00Z",
+     "headline": "Khan hails traffic-free Oxford St as ‘truly momentous occasion for the capital’",
+     "url": "https://www.irishnews.com/news/uk/khan-hails-traffic-free-oxford-st-as-truly-momentous-occasion-for-the-capital-5Y6OUTMOFZNJTCGFEHTVN6IQ44/"
+    },
+    {
+     "outlet": "MyLondon",
+     "country": "GBR",
+     "time": "2026-10-26T06:20:00Z",
+     "headline": "Oxford Street pedestrianisation begins as Sadiq Khan hails 'momentous occasion' for London",
+     "url": "https://www.mylondon.news/news/zone-1-news/oxford-street-pedestrianisation-begins-sadiq-34815312"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T06:57:10Z",
+     "headline": "Mapped: All the bus route changes as Oxford Street traffic-free revolution begins",
+     "url": "https://www.standard.co.uk/news/london/oxford-street-bus-routes-map-b1300070.html"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T09:25:25Z",
+     "headline": "First pictures of Oxford Street like you've never seen it before as new era begins",
+     "url": "https://www.standard.co.uk/news/london/pictures-oxford-street-pedestrianised-transformed-b1302267.html"
+    },
+    {
+     "outlet": "Gulf News",
      "country": "ARE",
-     "time": "2026-10-24T16:23:25Z",
-     "headline": "Arsenal go level at top of Premier League with Man City after easing to win over Everton",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
+     "time": "2026-10-26T10:24:51Z",
+     "headline": "London’s Oxford Street goes traffic-free in historic move",
+     "url": "https://gulfnews.com/world/europe/londons-oxford-street-goes-traffic-free-in-historic-move-1.500723980"
     },
     {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-24T16:29:24Z",
-     "headline": "EPL: Arsenal see off Everton, go joint-top after Man City defeat",
-     "url": "https://www.vanguardngr.com/2026/10/epl-arsenal-see-off-everton-go-joint-top-after-man-city-defeat/"
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-26T11:05:00Z",
+     "headline": "London's Oxford Street goes traffic-free",
+     "url": "https://www.rte.ie/news/2026/1026/1596856-london-oxford-street-traffic-free/"
     },
     {
      "outlet": "Cyprus Mail",
      "country": "CYP",
-     "time": "2026-10-24T16:39:46Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://cyprus-mail.com/2026/10/24/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T17:06:42Z",
-     "headline": "Arsenal Beat Everton To Join Man City At Premier League Summit",
-     "url": "https://www.channelstv.com/2026/10/24/arsenal-beat-everton-to-join-man-city-at-premier-league-summit/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T17:14:54Z",
-     "headline": "EPL: Arsenal beat Everton 2-0 to level with Man City on points",
-     "url": "https://punchng.com/epl-arsenal-beat-everton-2-0-to-level-with-man-city-on-points/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T17:17:11Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/man-citys-perfect-start-ended-aston-villa-arsenal-go-joint-top/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T17:25:19Z",
-     "headline": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
-     "url": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T17:25:34Z",
-     "headline": "Arsenal join Man City at summit after Villa end leaders’ perfect start",
-     "url": "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
+     "time": "2026-10-26T11:09:43Z",
+     "headline": "London’s famous Oxford Street goes traffic-free in major transformation",
+     "url": "https://cyprus-mail.com/2026/10/26/londons-famous-oxford-street-goes-traffic-free-in-major-transformation"
     },
     {
      "outlet": "Asharq Al-Awsat (English)",
      "country": "SAU",
-     "time": "2026-10-24T17:43:07Z",
-     "headline": "Man City Falls at Aston Villa and Arsenal Moves Level on Top of Premier League",
-     "url": "https://english.aawsat.com/node/5333216"
+     "time": "2026-10-26T11:14:08Z",
+     "headline": "Buses Out, Shoppers In: London’s Oxford Street Goes Traffic-Free",
+     "url": "https://english.aawsat.com/node/5333784"
     },
     {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-24T19:37:05Z",
-     "headline": "EPL: Arsenal defeat Everton, Manchester City lose 100% record",
-     "url": "https://dailytrust.com/epl-arsenal-defeat-everton-manchester-city-lose-100-record/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T20:01:00Z",
-     "headline": "Premier League wrap: Man City suffer first defeat, Arsenal fire against Everton",
-     "url": "https://iol.co.za/sport/soccer/premier-league/2026-10-24-premier-league-wrap-man-city-suffer-first-defeat-arsenal-fire-against-everton/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T20:03:29Z",
-     "headline": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-24T20:27:07Z",
-     "headline": "Man City’s perfect start ended by Aston Villa, Arsenal go joint-top",
-     "url": "https://www.namibian.com.na/man-citys-perfect-start-ended-by-aston-villa-arsenal-go-joint-top/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-25T16:37:09Z",
-     "headline": "Arsenal join Man City at summit after Villa upset",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T11:23:00Z",
+     "headline": "Buses out, shoppers in, London’s Oxford Street goes traffic-free",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/buses-out-shoppers-in-london-s-oxford-street-goes-traffic-free"
     }
    ]
   }
