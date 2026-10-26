@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:36:36Z",
+ "generated": "2026-10-26T04:53:37Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.34,
-   "risk": 3.64,
+   "importance": 8.35,
+   "risk": 3.24,
    "confidence": 0.89,
-   "status": "peaking",
-   "outlets": 40,
+   "status": "fading",
+   "outlets": 41,
    "countries": [
     "QAT",
     "USA",
@@ -46,7 +46,7 @@
     "PER"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T04:29:45Z",
+   "last_seen": "2026-10-26T04:37:32Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -336,8 +336,8 @@
    "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.09,
-   "risk": 3.94,
+   "importance": 8.16,
+   "risk": 3.95,
    "confidence": 0.89,
    "status": "fading",
    "outlets": 51,
@@ -371,7 +371,7 @@
     "JPN"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T04:29:45Z",
+   "last_seen": "2026-10-26T04:45:21Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -653,6 +653,340 @@
      "time": "2026-10-25T14:01:55Z",
      "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
      "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
+    }
+   ]
+  },
+  {
+   "id": 24515,
+   "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.78,
+   "risk": 7.86,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 65,
+   "countries": [
+    "PAK",
+    "IND",
+    "ARE",
+    "AUS",
+    "ISR",
+    "AZE",
+    "TUR",
+    "ARM",
+    "ZAF",
+    "SAU",
+    "RUS",
+    "USA",
+    "CYP",
+    "GBR",
+    "SGP",
+    "DEU",
+    "GRC",
+    "QAT",
+    "NZL",
+    "NGA",
+    "FRA",
+    "IRQ",
+    "IRN",
+    "KWT",
+    "LKA",
+    "OMN",
+    "GHA",
+    "CHN",
+    "NPL",
+    "BGD",
+    "CAN",
+    "EGY",
+    "TWN",
+    "MYS",
+    "KOR",
+    "IDN"
+   ],
+   "first_seen": "2026-10-23T08:56:41Z",
+   "last_seen": "2026-10-26T04:46:30Z",
+   "page": "event/24515.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T08:56:41Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://tribune.com.pk/story/2636536/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T12:02:22Z",
+     "headline": "Gunmen open fire inside church in Jordan, 6 killed",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T12:04:37Z",
+     "headline": "At least six killed in shooting at church in Jordan's Karak governorate",
+     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Six killed, 28 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T12:08:48Z",
+     "headline": "Seven killed, 34 injured in church shooting during funeral in Jordan",
+     "url": "https://gulfnews.com/world/mena/seven-killed-34-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-23T12:14:53Z",
+     "headline": "Gunmen open fire at church in Jordan, killing at least seven",
+     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T12:16:24Z",
+     "headline": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
+     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:17:48Z",
+     "headline": "Worshippers killed in shooting at church in Jordan",
+     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T12:25:00Z",
+     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
+     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-23T12:25:11Z",
+     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
+     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T12:28:00Z",
+     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
+     "url": "https://news.am/en/news/1069872"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T12:29:00Z",
+     "headline": "Seven killed as gunmen open fire inside Jordan church",
+     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T12:30:17Z",
+     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
+     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
+     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:11Z",
+     "headline": "Gunmen open fire at church in Jordan killing at least 6 people",
+     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-6-people-3007892"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T12:32:00Z",
+     "headline": "Seven killed in attack on funeral procession near church in Jordan",
+     "url": "https://www.azernews.az/region/266088.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T12:35:16Z",
+     "headline": "Terrorist Attack on Church in Jordan's Karak Leaves Dozens Dead, Wounded",
+     "url": "https://english.aawsat.com/node/5332722"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-23T12:48:54Z",
+     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
+     "url": "https://tass.com/emergencies/2206933"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-23T12:49:35Z",
+     "headline": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "7 killed in church shooting in southern Jordan: state TV",
+     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T12:50:03Z",
+     "headline": "Six killed, 28 injured in attack at funeral in Jordan's Karak",
+     "url": "https://www.newarab.com/news/six-killed-28-injured-attack-funeral-jordans-karak"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T12:53:06Z",
+     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
+     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T12:55:19Z",
+     "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-23T12:57:00Z",
+     "headline": "Seven dead and 34 injured after shooting at church in Jordan",
+     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:33Z",
+     "headline": "Seven killed as gunmen open fire at church in Jordan, authorities say",
+     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "Gunmen kill 6 at church in southern Jordan",
+     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T13:00:10Z",
+     "headline": "Gunmen kill 7 at Jordan church, king vows retaliation",
+     "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T13:07:00Z",
+     "headline": "Jordan: Karak church shooting leaves 7 dead",
+     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:15:32Z",
+     "headline": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
+     "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 7 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "At least 6 killed in Jordan church shooting: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/least-6-killed-jordan-church-shooting-what-know"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 6 killed: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-6-killed-what"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:18:30Z",
+     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 7 killed: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-7-killed-what"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-23T13:20:08Z",
+     "headline": "7 Killed in Greek Orthodox Church Funeral Shooting in Jordan’s Karak",
+     "url": "https://greekcitytimes.com/2026/10/24/jordan-church-shooting-karak-funeral/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T13:27:27Z",
+     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
+     "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:32:40Z",
+     "headline": "At least seven killed after gunmen open fire at church in Jordan",
+     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:39:27Z",
+     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-23T13:44:41Z",
+     "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
+     "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
     }
    ]
   },
@@ -989,11 +1323,11 @@
    "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.48,
+   "importance": 7.49,
    "risk": 3.16,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 39,
+   "outlets": 40,
    "countries": [
     "ARG",
     "USA",
@@ -1025,7 +1359,7 @@
     "BGD"
    ],
    "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-26T03:09:24Z",
+   "last_seen": "2026-10-26T04:51:24Z",
    "page": "event/2857.html",
    "reports": [
     {
@@ -1307,339 +1641,6 @@
      "time": "2026-10-23T12:17:20Z",
      "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
      "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
-    }
-   ]
-  },
-  {
-   "id": 24515,
-   "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.47,
-   "risk": 7.6,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 64,
-   "countries": [
-    "PAK",
-    "IND",
-    "ARE",
-    "AUS",
-    "ISR",
-    "AZE",
-    "TUR",
-    "ARM",
-    "ZAF",
-    "SAU",
-    "RUS",
-    "USA",
-    "CYP",
-    "GBR",
-    "SGP",
-    "DEU",
-    "GRC",
-    "QAT",
-    "NZL",
-    "NGA",
-    "FRA",
-    "IRQ",
-    "IRN",
-    "KWT",
-    "LKA",
-    "OMN",
-    "GHA",
-    "CHN",
-    "NPL",
-    "BGD",
-    "CAN",
-    "EGY",
-    "TWN",
-    "MYS",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T04:34:38Z",
-   "page": "event/24515.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T08:56:41Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
-     "url": "https://tribune.com.pk/story/2636536/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T12:02:22Z",
-     "headline": "Gunmen open fire inside church in Jordan, 6 killed",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/gunmen-open-fire-inside-church-in-jordan-several-killed/articleshow/135145102.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T12:04:37Z",
-     "headline": "At least six killed in shooting at church in Jordan's Karak governorate",
-     "url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Six killed, 28 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-10-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T12:08:48Z",
-     "headline": "Seven killed, 34 injured in church shooting during funeral in Jordan",
-     "url": "https://gulfnews.com/world/mena/seven-killed-34-injured-in-church-shooting-during-funeral-in-jordan-1.500721187"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-23T12:14:53Z",
-     "headline": "Gunmen open fire at church in Jordan, killing at least seven",
-     "url": "https://www.abc.net.au/news/2026-10-23/shooter-opens-fire-at-church-in-jordan/107303774"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T12:16:24Z",
-     "headline": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
-     "url": "https://www.haaretz.com/middle-east-news/2026-10-23/ty-article/reports-in-jordan-at-least-seven-killed-after-gunmen-open-fire-at-church/000001a1-68aa-d34e-a1b9-feefd8ce0000"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:17:48Z",
-     "headline": "Worshippers killed in shooting at church in Jordan",
-     "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T12:25:00Z",
-     "headline": "At least seven killed in church shooting in southern Jordan: State TV",
-     "url": "https://en.apa.az/asia/at-least-seven-killed-in-church-shooting-in-southern-jordan-state-tv-531880"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-23T12:25:11Z",
-     "headline": "Gunmen kill 7 in church attack in Jordan's Karak, 10 injured",
-     "url": "https://www.turkiyetoday.com/region/gunmen-kill-7-in-church-attack-in-jordans-karak-10-injured-3230881"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T12:28:00Z",
-     "headline": "At least 7 killed, 10 injured in church shooting in Jordan",
-     "url": "https://news.am/en/news/1069872"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T12:29:00Z",
-     "headline": "Seven killed as gunmen open fire inside Jordan church",
-     "url": "https://iol.co.za/news/world/seven-killed-as-gunmen-open-fire-inside-jordan-church/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T12:30:17Z",
-     "headline": "Several killed, injured in Jordan as unknown gunmen open fire on church: Reports",
-     "url": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, at least 7 dead: State TV",
-     "url": "https://www.arabnews.com/middle-east/unidentified-gunmen-open-fire-at-church-in-jordan-at-least-7-dead-state-tv-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen kill open fire at church in Jordan killing at least 7 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-kill-open-fire-at-church-in-jordan-killing-at-least-7-people-3007892"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:11Z",
-     "headline": "Gunmen open fire at church in Jordan killing at least 6 people",
-     "url": "https://www.arabnews.com/middle-east/gunmen-open-fire-at-church-in-jordan-killing-at-least-6-people-3007892"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T12:32:00Z",
-     "headline": "Seven killed in attack on funeral procession near church in Jordan",
-     "url": "https://www.azernews.az/region/266088.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T12:35:16Z",
-     "headline": "Terrorist Attack on Church in Jordan's Karak Leaves Dozens Dead, Wounded",
-     "url": "https://english.aawsat.com/node/5332722"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T12:48:54Z",
-     "headline": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
-     "url": "https://tass.com/emergencies/2206933"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-23T12:49:35Z",
-     "headline": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T12:50:03Z",
-     "headline": "7 killed in church shooting in southern Jordan: state TV",
-     "url": "https://www.newarab.com/news/7-killed-church-shooting-southern-jordan-state-tv"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T12:50:03Z",
-     "headline": "Six killed, 28 injured in attack at funeral in Jordan's Karak",
-     "url": "https://www.newarab.com/news/six-killed-28-injured-attack-funeral-jordans-karak"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T12:53:06Z",
-     "headline": "Unidentified gunmen open fire at church in Jordan, seven killed",
-     "url": "https://cyprus-mail.com/2026/10/23/unidentified-gunmen-open-fire-at-church-in-jordan-causing-deaths-and-injuries"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T12:55:19Z",
-     "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-23T12:57:00Z",
-     "headline": "Seven dead and 34 injured after shooting at church in Jordan",
-     "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:33Z",
-     "headline": "Seven killed as gunmen open fire at church in Jordan, authorities say",
-     "url": "https://www.straitstimes.com/world/middle-east/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 6 at church in southern Jordan",
-     "url": "https://www.straitstimes.com/world/middle-east/7-killed-in-church-shooting-in-southern-jordan-state-tv"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T13:00:10Z",
-     "headline": "Gunmen kill 7 at Jordan church, king vows retaliation",
-     "url": "https://www.straitstimes.com/world/middle-east/gunmen-kill-6-at-church-in-southern-jordan"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T13:07:00Z",
-     "headline": "Jordan: Karak church shooting leaves 7 dead",
-     "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:15:32Z",
-     "headline": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
-     "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "At least 7 killed in Jordan church shooting: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/least-7-killed-jordan-church-shooting-what-know"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "At least 6 killed in Jordan church shooting: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/least-6-killed-jordan-church-shooting-what-know"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 6 killed: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-6-killed-what"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:18:30Z",
-     "headline": "Jordan’s King Abdullah calls church shooting ‘terror attack,’ at least 7 killed: What to know",
-     "url": "https://www.al-monitor.com/originals/2026/10/jordans-king-abdullah-calls-church-shooting-terror-attack-least-7-killed-what"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-23T13:20:08Z",
-     "headline": "7 Killed in Greek Orthodox Church Funeral Shooting in Jordan’s Karak",
-     "url": "https://greekcitytimes.com/2026/10/24/jordan-church-shooting-karak-funeral/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T13:27:27Z",
-     "headline": "At least seven killed in attack at church in Jordan, state-owned outlet says",
-     "url": "https://www.brecorder.com/news/40445638/at-least-seven-killed-in-attack-at-church-in-jordan-state-owned-outlet-says"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:32:40Z",
-     "headline": "At least seven killed after gunmen open fire at church in Jordan",
-     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:39:27Z",
-     "headline": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
-     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-23T13:44:41Z",
-     "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
-     "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
     }
    ]
   },
@@ -6443,9 +6444,9 @@
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.28,
-   "risk": 5.45,
-   "confidence": 0.9,
+   "importance": 6.34,
+   "risk": 5.46,
+   "confidence": 0.89,
    "status": "spreading",
    "outlets": 25,
    "countries": [
@@ -6467,7 +6468,7 @@
     "BGD"
    ],
    "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-26T03:53:15Z",
+   "last_seen": "2026-10-26T04:46:30Z",
    "page": "event/16782.html",
    "reports": [
     {
@@ -7428,6 +7429,323 @@
    ]
   },
   {
+   "id": 23496,
+   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.19,
+   "risk": 6.67,
+   "confidence": 0.9,
+   "status": "fading",
+   "outlets": 29,
+   "countries": [
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
+    "USA",
+    "DEU",
+    "ZAF",
+    "OMN",
+    "KWT",
+    "KOR",
+    "QAT",
+    "IND",
+    "NZL",
+    "IRN",
+    "GBR",
+    "GHA"
+   ],
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-26T04:36:14Z",
+   "page": "event/23496.html",
+   "reports": [
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:57:00Z",
+     "headline": "NAIROBI",
+     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T15:50:00Z",
+     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T15:52:25Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-23T16:27:13Z",
+     "headline": "Several feared trapped in Eastleigh building collapse",
+     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:01:05Z",
+     "headline": "Many feared trapped after Kenya building collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:49:04Z",
+     "headline": "Several people missing after multistorey building collapses in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T19:02:08Z",
+     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
+     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T20:31:50Z",
+     "headline": "Building collapse in Nairobi search for survivors under way",
+     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T20:50:01Z",
+     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
+     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T06:31:18Z",
+     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
+     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-24T08:05:43Z",
+     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
+     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-24T08:42:35Z",
+     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
+     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T09:44:01Z",
+     "headline": "Two rescued after Nairobi building collapse with five still missing",
+     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T17:02:12Z",
+     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
+     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T23:27:47Z",
+     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
+     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T14:51:24Z",
+     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
+     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T19:51:04Z",
+     "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
+     "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
+    }
+   ]
+  },
+  {
    "id": 28776,
    "title": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
    "category": "Energy & Environment",
@@ -7808,323 +8126,6 @@
      "time": "2026-10-25T19:00:10Z",
      "headline": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
      "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.17,
-   "risk": 6.67,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 28,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF",
-    "OMN",
-    "KWT",
-    "KOR",
-    "QAT",
-    "IND",
-    "NZL",
-    "IRN",
-    "GBR",
-    "GHA"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-26T04:36:14Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:57:00Z",
-     "headline": "NAIROBI",
-     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T15:50:00Z",
-     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T15:52:03Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T15:52:25Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-23T16:27:13Z",
-     "headline": "Several feared trapped in Eastleigh building collapse",
-     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:01:05Z",
-     "headline": "Many feared trapped after Kenya building collapse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:49:04Z",
-     "headline": "Several people missing after multistorey building collapses in Kenya",
-     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T19:02:08Z",
-     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
-     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T20:31:50Z",
-     "headline": "Building collapse in Nairobi search for survivors under way",
-     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T20:50:01Z",
-     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
-     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-24T06:31:18Z",
-     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-24T08:05:43Z",
-     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
-     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-24T08:42:35Z",
-     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
-     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T09:44:01Z",
-     "headline": "Two rescued after Nairobi building collapse with five still missing",
-     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T17:02:12Z",
-     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
-     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T23:27:47Z",
-     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
-     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T14:51:24Z",
-     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
-     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T19:51:04Z",
-     "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
-     "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
     }
    ]
   },
@@ -10483,6 +10484,160 @@
    ]
   },
   {
+   "id": 25466,
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.88,
+   "risk": 6.43,
+   "confidence": 0.87,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "SAU",
+    "CHN",
+    "TUR",
+    "KOR",
+    "SGP",
+    "FRA",
+    "QAT",
+    "PAK",
+    "KWT",
+    "IRN"
+   ],
+   "first_seen": "2026-10-23T16:51:44Z",
+   "last_seen": "2026-10-26T04:36:14Z",
+   "page": "event/25466.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T16:51:44Z",
+     "headline": "Aden Governor After Escaping Airport Missile Attack: Hostilities Will Not Deter People of Yemen",
+     "url": "https://english.aawsat.com/node/5332849"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:18:05Z",
+     "headline": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
+     "url": "https://www.arabnews.com/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3008007"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T14:09:39Z",
+     "headline": "Urgent: Ballistic missile attack triggers loud explosions in Yemen's Aden",
+     "url": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "3 powerful explosions heard in Yemen’s interim capital Aden",
+     "url": "https://www.aa.com.tr/en/middle-east/3-powerful-explosions-heard-in-yemen-s-interim-capital-aden/4099652"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "Yemen says Houthis target Aden airport, port and coast guard facilities with ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-says-houthis-target-aden-airport-port-and-coast-guard-facilities-with-ballistic-missiles/4099652"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:30:49Z",
+     "headline": "Explosions heard in Yemen's city of Aden",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T15:05:40Z",
+     "headline": "Yemen's Houthis claim attack on Aden naval base, military camp",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T15:57:01Z",
+     "headline": "Yemen’s Houthis claim attack on Aden after accusing Saudi Arabia of deadly strikes",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-attack-on-aden-after-accusing-saudi-arabia-of-deadly-strikes-3230959"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:07:02Z",
+     "headline": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
+     "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T17:26:55Z",
+     "headline": "Iran-allied Houthis say they attacked Saudi oil sites, strikes reported on Yemen’s Aden",
+     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T17:50:25Z",
+     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T18:13:35Z",
+     "headline": "Houthi missiles target Aden airport, coastguard",
+     "url": "https://www.newarab.com/news/houthi-missiles-target-aden-airport-coastguard"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T21:08:51Z",
+     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T20:59:05Z",
+     "headline": "Explosion rocks Yemen's Aden as suspected Houthi missile lands near military headquarters",
+     "url": "https://www.aa.com.tr/en/middle-east/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-near-military-headquarters/4100488"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-25T21:32:00Z",
+     "headline": "Explosion Rocks Yemen’s Aden as Suspected Houthi Missile Lands in Remote Area",
+     "url": "https://www.arabtimesonline.com/news/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-in-remote-area/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T03:44:39Z",
+     "headline": "Yemen accuses Houthis of targeting displacement camp with 3 ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-accuses-houthis-of-targeting-displacement-camp-with-3-ballistic-missiles/4100559"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:02:33Z",
+     "headline": "Yemen says missile strikes hit Saudi mercenaries",
+     "url": "https://en.mehrnews.com/news/248915/Yemen-says-missile-strikes-hit-Saudi-mercenaries"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T04:08:41Z",
+     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
+    }
+   ]
+  },
+  {
    "id": 16185,
    "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
    "category": "Geopolitics",
@@ -11270,167 +11425,6 @@
      "time": "2026-10-25T16:25:13Z",
      "headline": "12 Injured, Including Six Minors, in Shooting Near Florida A&M University",
      "url": "https://www.khaama.com/shooting-near-florida-am-university-12-injured/"
-    }
-   ]
-  },
-  {
-   "id": 25466,
-   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.79,
-   "risk": 6.4,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "SAU",
-    "CHN",
-    "TUR",
-    "KOR",
-    "SGP",
-    "FRA",
-    "QAT",
-    "PAK",
-    "KWT",
-    "IRN"
-   ],
-   "first_seen": "2026-10-23T16:51:44Z",
-   "last_seen": "2026-10-26T04:36:14Z",
-   "page": "event/25466.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T16:51:44Z",
-     "headline": "Aden Governor After Escaping Airport Missile Attack: Hostilities Will Not Deter People of Yemen",
-     "url": "https://english.aawsat.com/node/5332849"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:18:05Z",
-     "headline": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
-     "url": "https://www.arabnews.com/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3008007"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T14:09:39Z",
-     "headline": "Urgent: Ballistic missile attack triggers loud explosions in Yemen's Aden",
-     "url": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T14:27:59Z",
-     "headline": "3 powerful explosions heard in Yemen’s interim capital Aden",
-     "url": "https://www.aa.com.tr/en/middle-east/3-powerful-explosions-heard-in-yemen-s-interim-capital-aden/4099652"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T14:27:59Z",
-     "headline": "Yemen says Houthis target Aden airport, port and coast guard facilities with ballistic missiles",
-     "url": "https://www.aa.com.tr/en/middle-east/yemen-says-houthis-target-aden-airport-port-and-coast-guard-facilities-with-ballistic-missiles/4099652"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T14:30:49Z",
-     "headline": "Explosions heard in Yemen's city of Aden",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T15:05:40Z",
-     "headline": "Yemen's Houthis claim attack on Aden naval base, military camp",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T15:57:01Z",
-     "headline": "Yemen’s Houthis claim attack on Aden after accusing Saudi Arabia of deadly strikes",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-attack-on-aden-after-accusing-saudi-arabia-of-deadly-strikes-3230959"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:07:02Z",
-     "headline": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
-     "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T17:26:55Z",
-     "headline": "Iran-allied Houthis say they attacked Saudi oil sites, strikes reported on Yemen’s Aden",
-     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T17:50:25Z",
-     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T18:13:35Z",
-     "headline": "Houthi missiles target Aden airport, coastguard",
-     "url": "https://www.newarab.com/news/houthi-missiles-target-aden-airport-coastguard"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T21:08:51Z",
-     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T20:59:05Z",
-     "headline": "Explosion rocks Yemen's Aden as suspected Houthi missile lands near military headquarters",
-     "url": "https://www.aa.com.tr/en/middle-east/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-near-military-headquarters/4100488"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-25T21:32:00Z",
-     "headline": "Explosion Rocks Yemen’s Aden as Suspected Houthi Missile Lands in Remote Area",
-     "url": "https://www.arabtimesonline.com/news/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-in-remote-area/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T03:44:39Z",
-     "headline": "Yemen accuses Houthis of targeting displacement camp with 3 ballistic missiles",
-     "url": "https://www.aa.com.tr/en/middle-east/yemen-accuses-houthis-of-targeting-displacement-camp-with-3-ballistic-missiles/4100559"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:02:33Z",
-     "headline": "Yemen says missile strikes hit Saudi mercenaries",
-     "url": "https://en.mehrnews.com/news/248915/Yemen-says-missile-strikes-hit-Saudi-mercenaries"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T04:08:41Z",
-     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-26T04:36:14Z",
-     "headline": "Ballistic missile attack triggers loud explosions in Yemen's Aden",
-     "url": "https://www.chinadaily.com.cn/a/202610/24/WS6adcbb76e4b06d4aa05649f2.html"
     }
    ]
   },
@@ -12480,184 +12474,6 @@
      "time": "2026-10-25T16:37:09Z",
      "headline": "Arsenal join Man City at summit after Villa upset",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
-    }
-   ]
-  },
-  {
-   "id": 20511,
-   "title": "Clashes erupt between protesters and police in France",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 5.7,
-   "risk": 6.07,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "GBR",
-    "AZE",
-    "USA",
-    "IND",
-    "FRA",
-    "SGP",
-    "AUS",
-    "IRL",
-    "BGD",
-    "KOR",
-    "QAT",
-    "JPN",
-    "UKR"
-   ],
-   "first_seen": "2026-10-22T10:06:32Z",
-   "last_seen": "2026-10-26T04:36:14Z",
-   "page": "event/20511.html",
-   "reports": [
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:06:32Z",
-     "headline": "Violent clashes erupt between Spanish police and anti-fascist protesters days after France riots",
-     "url": "https://www.independent.co.uk/news/world/europe/spain-protests-riot-police-france-europe-b3071250.html"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:47:05Z",
-     "headline": "Protests, clashes erupt in Tunisia over recent deaths",
-     "url": "https://www.newarab.com/news/protests-clashes-erupt-tunisia-over-recent-deaths"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T12:19:00Z",
-     "headline": "Clashes erupt between protesters and police in France",
-     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-531994"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T13:27:00Z",
-     "headline": "Clashes erupt between protesters and police in France - UPDATED",
-     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-updated-531994"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T15:16:15Z",
-     "headline": "It’s not just France — Protesters are marching across Europe as part of the newly formed ‘Oct. 17 Movement’",
-     "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-24T15:31:27Z",
-     "headline": "Over 1000 arrests, hundreds injured in violent protests across France, as riots rage on in Spain and Albania",
-     "url": "https://en.protothema.gr/2026/10/24/france-rocked-by-fresh-protests-as-police-fire-tear-gas-in-several-cities-violent-clashes-erupt-in-albania/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T16:28:41Z",
-     "headline": "France protests latest: 135 arrested and tear gas fired at demonstrators as unrest erupts",
-     "url": "https://www.independent.co.uk/news/world/europe/france-protests-paris-live-updates-police-b3072749.html"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-24T16:51:55Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://www.pbs.org/newshour/world/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T17:24:54Z",
-     "headline": "Over 400,000 March Across France, Clashes Erupt In Paris",
-     "url": "https://www.ndtv.com/world-news/over-400-000-march-across-france-against-school-funding-rising-living-costs-challenging-macron-12231091#publisher=newsstand"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T17:50:19Z",
-     "headline": "France: Clashes erupt as protests sweep across cities",
-     "url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T18:11:00Z",
-     "headline": "Fresh clashes rock France as protesters march on",
-     "url": "https://www.channelnewsasia.com/world/fresh-clashes-rock-france-protesters-march-6489221"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:57:07Z",
-     "headline": "Nearly 1,000 arrested as fresh clashes erupt across France",
-     "url": "https://www.sbs.com.au/news/article/nearly-1-000-arrested-as-fresh-clashes-erupt-across-france/56vps6qt8"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T21:23:15Z",
-     "headline": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:20:52Z",
-     "headline": "Over 1,300 people arrested during protests in France",
-     "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Fresh clashes rock France as protesters march on",
-     "url": "https://www.thedailystar.net/news/world/news/fresh-clashes-rock-france-protesters-march-4306821"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T04:17:03Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://www.koreatimes.co.kr/world/20261025/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt?utm_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T07:28:47Z",
-     "headline": "Photos: Clashes erupt in France during protests over rising living costs",
-     "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-25T07:30:05Z",
-     "headline": "Europe up in arms: Nearly 1,000 arrested in France, violent clashes in Albania and Spain, as protesters storm Colosseum",
-     "url": "https://en.protothema.gr/2026/10/25/europe-up-in-arms-nearly-1000-arrested-in-france-violent-clashes-in-albania-and-spain-as-protesters-storm-colosseum/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-25T08:00:10Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://mainichi.jp/english/articles/20261025/p2g/00m/0in/014000c"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:34:00Z",
-     "headline": "Fresh Clashes Rock France as Protesters March On",
-     "url": "https://www.kyivpost.com/post/88102"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-26T04:36:14Z",
-     "headline": "Fresh clashes rock France as protesters march on",
-     "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adeae69e4b06d4aa0564be5.html"
     }
    ]
   },
@@ -14261,6 +14077,178 @@
      "time": "2026-10-25T16:34:55Z",
      "headline": "Mass rally against Netanyahu government just ahead of elections",
      "url": "https://www.tehrantimes.com/news/531493/Mass-rally-against-Netanyahu-government-just-ahead-of-elections"
+    }
+   ]
+  },
+  {
+   "id": 20511,
+   "title": "Clashes erupt between protesters and police in France",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.61,
+   "risk": 5.67,
+   "confidence": 0.91,
+   "status": "fading",
+   "outlets": 18,
+   "countries": [
+    "GBR",
+    "AZE",
+    "USA",
+    "IND",
+    "FRA",
+    "SGP",
+    "AUS",
+    "IRL",
+    "BGD",
+    "KOR",
+    "QAT",
+    "JPN",
+    "UKR",
+    "CHN"
+   ],
+   "first_seen": "2026-10-22T10:06:32Z",
+   "last_seen": "2026-10-26T04:36:14Z",
+   "page": "event/20511.html",
+   "reports": [
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-22T10:06:32Z",
+     "headline": "Violent clashes erupt between Spanish police and anti-fascist protesters days after France riots",
+     "url": "https://www.independent.co.uk/news/world/europe/spain-protests-riot-police-france-europe-b3071250.html"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:47:05Z",
+     "headline": "Protests, clashes erupt in Tunisia over recent deaths",
+     "url": "https://www.newarab.com/news/protests-clashes-erupt-tunisia-over-recent-deaths"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T12:19:00Z",
+     "headline": "Clashes erupt between protesters and police in France",
+     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-531994"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T13:27:00Z",
+     "headline": "Clashes erupt between protesters and police in France - UPDATED",
+     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-updated-531994"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-24T15:16:15Z",
+     "headline": "It’s not just France — Protesters are marching across Europe as part of the newly formed ‘Oct. 17 Movement’",
+     "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-24T15:31:27Z",
+     "headline": "Over 1000 arrests, hundreds injured in violent protests across France, as riots rage on in Spain and Albania",
+     "url": "https://en.protothema.gr/2026/10/24/france-rocked-by-fresh-protests-as-police-fire-tear-gas-in-several-cities-violent-clashes-erupt-in-albania/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-24T16:28:41Z",
+     "headline": "France protests latest: 135 arrested and tear gas fired at demonstrators as unrest erupts",
+     "url": "https://www.independent.co.uk/news/world/europe/france-protests-paris-live-updates-police-b3072749.html"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-24T16:51:55Z",
+     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+     "url": "https://www.pbs.org/newshour/world/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T17:24:54Z",
+     "headline": "Over 400,000 March Across France, Clashes Erupt In Paris",
+     "url": "https://www.ndtv.com/world-news/over-400-000-march-across-france-against-school-funding-rising-living-costs-challenging-macron-12231091#publisher=newsstand"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T17:50:19Z",
+     "headline": "France: Clashes erupt as protests sweep across cities",
+     "url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T18:11:00Z",
+     "headline": "Fresh clashes rock France as protesters march on",
+     "url": "https://www.channelnewsasia.com/world/fresh-clashes-rock-france-protesters-march-6489221"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T20:57:07Z",
+     "headline": "Nearly 1,000 arrested as fresh clashes erupt across France",
+     "url": "https://www.sbs.com.au/news/article/nearly-1-000-arrested-as-fresh-clashes-erupt-across-france/56vps6qt8"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T21:23:15Z",
+     "headline": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T01:20:52Z",
+     "headline": "Over 1,300 people arrested during protests in France",
+     "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Fresh clashes rock France as protesters march on",
+     "url": "https://www.thedailystar.net/news/world/news/fresh-clashes-rock-france-protesters-march-4306821"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T04:17:03Z",
+     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+     "url": "https://www.koreatimes.co.kr/world/20261025/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt?utm_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T07:28:47Z",
+     "headline": "Photos: Clashes erupt in France during protests over rising living costs",
+     "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-25T07:30:05Z",
+     "headline": "Europe up in arms: Nearly 1,000 arrested in France, violent clashes in Albania and Spain, as protesters storm Colosseum",
+     "url": "https://en.protothema.gr/2026/10/25/europe-up-in-arms-nearly-1000-arrested-in-france-violent-clashes-in-albania-and-spain-as-protesters-storm-colosseum/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-25T08:00:10Z",
+     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+     "url": "https://mainichi.jp/english/articles/20261025/p2g/00m/0in/014000c"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:34:00Z",
+     "headline": "Fresh Clashes Rock France as Protesters March On",
+     "url": "https://www.kyivpost.com/post/88102"
     }
    ]
   },
