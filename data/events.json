@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:25:02Z",
+ "generated": "2026-10-26T00:42:02Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -7675,191 +7675,13 @@
    ]
   },
   {
-   "id": 24414,
-   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 6.24,
-   "risk": 1.55,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "UKR",
-    "AZE",
-    "SGP",
-    "PHL",
-    "SAU",
-    "FRA",
-    "USA",
-    "BEL",
-    "IND",
-    "TUR",
-    "GBR",
-    "AUS",
-    "NLD"
-   ],
-   "first_seen": "2026-10-23T11:06:00Z",
-   "last_seen": "2026-10-25T14:09:46Z",
-   "page": "event/24414.html",
-   "reports": [
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:06:00Z",
-     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
-     "url": "https://www.kyivpost.com/post/87981"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-24T07:57:46Z",
-     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
-     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T08:29:00Z",
-     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
-     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T08:48:06Z",
-     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T08:58:00Z",
-     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
-     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T09:16:59Z",
-     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-24T09:28:32Z",
-     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
-     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:32:09Z",
-     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
-     "url": "https://english.aawsat.com/node/5333048"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T09:48:23Z",
-     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
-     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T10:08:45Z",
-     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-24T10:09:36Z",
-     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T10:11:40Z",
-     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
-     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-24T11:04:40Z",
-     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
-     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:40:04Z",
-     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
-     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T11:51:20Z",
-     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
-     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T12:07:11Z",
-     "headline": "Ukraine reports Starlink operating again after slowdown",
-     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T12:12:40Z",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
-     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T13:09:37Z",
-     "headline": "Ukraine says Starlink at normal speed after delays impede military",
-     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T13:34:00Z",
-     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
-     "url": "https://www.kyivpost.com/post/88079"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-25T14:09:46Z",
-     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
-     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
-    }
-   ]
-  },
-  {
    "id": 17275,
    "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
    "category": "Energy & Environment",
    "cat": 3,
-   "importance": 6.19,
-   "risk": 1.93,
-   "confidence": 0.89,
+   "importance": 6.25,
+   "risk": 1.94,
+   "confidence": 0.9,
    "status": "spreading",
    "outlets": 17,
    "countries": [
@@ -7881,7 +7703,7 @@
     "TUR"
    ],
    "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-25T23:54:57Z",
+   "last_seen": "2026-10-26T00:27:03Z",
    "page": "event/17275.html",
    "reports": [
     {
@@ -8065,6 +7887,473 @@
      "time": "2026-10-25T23:54:57Z",
      "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
      "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T00:27:03Z",
+     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
+     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
+    }
+   ]
+  },
+  {
+   "id": 24414,
+   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
+   "category": "Technology & Cyber",
+   "cat": 5,
+   "importance": 6.24,
+   "risk": 1.55,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "UKR",
+    "AZE",
+    "SGP",
+    "PHL",
+    "SAU",
+    "FRA",
+    "USA",
+    "BEL",
+    "IND",
+    "TUR",
+    "GBR",
+    "AUS",
+    "NLD"
+   ],
+   "first_seen": "2026-10-23T11:06:00Z",
+   "last_seen": "2026-10-25T14:09:46Z",
+   "page": "event/24414.html",
+   "reports": [
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:06:00Z",
+     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
+     "url": "https://www.kyivpost.com/post/87981"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-24T07:57:46Z",
+     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T08:29:00Z",
+     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
+     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T08:48:06Z",
+     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T08:58:00Z",
+     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
+     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T09:16:59Z",
+     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-24T09:28:32Z",
+     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
+     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T09:32:09Z",
+     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
+     "url": "https://english.aawsat.com/node/5333048"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T09:48:23Z",
+     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
+     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:08:45Z",
+     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-24T10:09:36Z",
+     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
+     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T10:11:40Z",
+     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
+     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-24T11:04:40Z",
+     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
+     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:40:04Z",
+     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
+     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T11:51:20Z",
+     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
+     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T12:07:11Z",
+     "headline": "Ukraine reports Starlink operating again after slowdown",
+     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T12:12:40Z",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
+     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T13:09:37Z",
+     "headline": "Ukraine says Starlink at normal speed after delays impede military",
+     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T13:34:00Z",
+     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
+     "url": "https://www.kyivpost.com/post/88079"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-25T14:09:46Z",
+     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
+     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
+    }
+   ]
+  },
+  {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.19,
+   "risk": 1.41,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 16,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "ARE",
+    "TUR",
+    "JAM"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-26T00:10:18Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T22:43:27Z",
+     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T23:09:14Z",
+     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
+     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T00:10:18Z",
+     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
     }
    ]
   },
@@ -8597,281 +8886,6 @@
      "time": "2026-10-24T01:55:15Z",
      "headline": "Australian MP's condition improves after alleged car attack",
      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
-    }
-   ]
-  },
-  {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.13,
-   "risk": 1.4,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 16,
-   "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
-    "ARE",
-    "TUR",
-    "JAM"
-   ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T00:10:18Z",
-   "page": "event/23444.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T22:43:27Z",
-     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T23:33:20Z",
-     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T00:10:18Z",
-     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
     }
    ]
   },
@@ -10825,14 +10839,14 @@
      "outlet": "CBS News (World)",
      "country": "USA",
      "time": "2026-10-25T19:52:43Z",
-     "headline": "Brazil counts votes in presidential runoff between Lula and Flávio Bolsonaro",
+     "headline": "Lula wins fourth term as Brazil's president",
      "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
     },
     {
      "outlet": "Al Jazeera English",
      "country": "QAT",
      "time": "2026-10-25T20:00:04Z",
-     "headline": "Brazil election results 2026 live: Lula, Bolsonaro voters await final tally",
+     "headline": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
     }
    ]
@@ -12531,7 +12545,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T22:45:01Z",
-     "headline": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+     "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
     },
     {
@@ -13527,6 +13541,220 @@
    ]
   },
   {
+   "id": 25521,
+   "title": "Brazil chooses between Lula and Bolsonaro in nail-biter vote",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.69,
+   "risk": 1.33,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "QAT",
+    "USA",
+    "GBR",
+    "AUS",
+    "KEN",
+    "COL",
+    "ARG",
+    "DEU",
+    "JAM",
+    "PAK",
+    "FRA",
+    "CAN",
+    "SGP",
+    "NGA"
+   ],
+   "first_seen": "2026-10-23T16:41:09Z",
+   "last_seen": "2026-10-26T00:39:23Z",
+   "page": "event/25521.html",
+   "reports": [
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T16:41:09Z",
+     "headline": "Brazil’s right has already changed the balance of power",
+     "url": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T09:03:12Z",
+     "headline": "The Other Bolsonaro Who Could Become Brazil’s Next President",
+     "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T23:50:02Z",
+     "headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+     "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:08:40Z",
+     "headline": "Trump wants to 'restore' US power in Latin America. He could soon be one step closer",
+     "url": "https://www.abc.net.au/news/2026-10-25/bolsonaro-family-brazil-elections/107288900"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-25T05:34:26Z",
+     "headline": "Voters in Brazil to choose between Lula and Bolsonaro’s son",
+     "url": "https://www.kbc.co.ke/voters-in-brazil-to-choose-between-lula-and-bolsonaros-son/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T09:00:00Z",
+     "headline": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T09:01:45Z",
+     "headline": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T11:00:21Z",
+     "headline": "Brazil becomes next test for Latin America’s surging conservative movement",
+     "url": "https://www.foxnews.com/world/brazil-becomes-next-test-latin-americas-surging-conservative-movement"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T11:56:34Z",
+     "headline": "Brazil Chooses Between the Models Offered by Lula da Silva and Flavio Bolsonaro",
+     "url": "https://colombiaone.com/2026/10/25/brazil-chooses-between-the-models-offered-by-lula-da-silva-and-flavio-bolsonaro/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-25T13:18:07Z",
+     "headline": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger election",
+     "url": "https://www.batimes.com.ar/news/latin-america/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger-election.phtml"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T14:13:00Z",
+     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+     "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T14:19:09Z",
+     "headline": "Brazil chooses between Lula and Bolsonaro in nail-biter vote",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/brazil-choose-lula-bolsonaro-nail-biter-vote/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T14:57:29Z",
+     "headline": "Brazil votes in a tense Lula vs. Bolsonaro runoff with U.S. influence over Latin America at stake",
+     "url": "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T15:38:07Z",
+     "headline": "Brazil chooses between Lula and Bolsonaro in nail-biter vote",
+     "url": "https://www.dawn.com/news/2039743/brazil-chooses-between-lula-and-bolsonaro-in-nail-biter-vote"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T19:37:49Z",
+     "headline": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
+     "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T22:13:00Z",
+     "headline": "Lula re-elected president in Brazil, electoral authority says",
+     "url": "https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-26T00:16:00Z",
+     "headline": "Brazil elections: Lula wins another term, beating Bolsonaro",
+     "url": "https://www.dw.com/en/brazil-elections-lula-wins-another-term-beating-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T00:16:29Z",
+     "headline": "Lula holds off far right with victory in Brazil presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-26T00:19:05Z",
+     "headline": "Lula wins fourth term as Brazil’s president over Flávio Bolsonaro",
+     "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-26T00:20:00Z",
+     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+     "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-26T00:23:50Z",
+     "headline": "Lula da Silva Defeats Flavio Bolsonaro and Retains Brazil’s Presidency",
+     "url": "https://colombiaone.com/2026/10/25/lula-da-silva-defeats-flavio-bolsonaro-and-retains-brazils-presidency-by-a-narrow-margin/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T00:23:59Z",
+     "headline": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+     "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-26T00:30:30Z",
+     "headline": "Trump critic Lula narrowly wins re-election in Brazil presidential vote",
+     "url": "https://www.cbc.ca/news/world/lula-brazil-reelection-9.7395695?cmp=rss"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-26T00:35:00Z",
+     "headline": "Brazil's left-wing President Lula elected for fourth term",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T00:36:11Z",
+     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+     "url": "https://www.straitstimes.com/world/lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T00:39:23Z",
+     "headline": "Brazil’s Lula clinches victory over Flavio Bolsonaro to win fourth term",
+     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-victory-over-flavio-bolsonaro-to-win-fourth-term/"
+    }
+   ]
+  },
+  {
    "id": 16196,
    "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
    "category": "Geopolitics",
@@ -14168,180 +14396,6 @@
      "time": "2026-10-24T19:21:39Z",
      "headline": "Iran finishes sixth at Nagoya Asian Para Games",
      "url": "https://en.mehrnews.com/news/248865/Iran-finishes-sixth-at-Nagoya-Asian-Para-Games"
-    }
-   ]
-  },
-  {
-   "id": 22478,
-   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 5.66,
-   "risk": 1.05,
-   "confidence": 0.88,
-   "status": "fading",
-   "outlets": 16,
-   "countries": [
-    "RUS",
-    "BEL",
-    "UKR",
-    "GHA",
-    "GBR",
-    "NZL",
-    "USA",
-    "SAU",
-    "IND"
-   ],
-   "first_seen": "2026-10-23T01:09:05Z",
-   "last_seen": "2026-10-25T12:31:31Z",
-   "page": "event/22478.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T01:09:05Z",
-     "headline": "Ukrainian military says using Starlink satellite network without restrictions — media",
-     "url": "https://tass.com/world/2206615"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T07:28:58Z",
-     "headline": "Starlink speed restrictions remain in place in Ukraine despite Trump’s claim they were lifted",
-     "url": "https://meduza.io/en/news/2026/10/23/starlink-speed-restrictions-remain-in-place-in-ukraine-despite-trump-s-claim-they-were-lifted"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T08:05:53Z",
-     "headline": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-     "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-23T08:22:00Z",
-     "headline": "Ukraine has not confirmed lifting of Starlink/Starshield speed limits",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059366/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-23T08:57:17Z",
-     "headline": "Some Starlink, Starshield restrictions still remain in Ukraine - former adviser",
-     "url": "https://tass.com/world/2206711"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-23T10:44:05Z",
-     "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "url": "https://www.myjoyonline.com/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T12:09:08Z",
-     "headline": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T18:57:00Z",
-     "headline": "President: Speed limits for Starlink and Starshield remain in effect",
-     "url": "https://www.ukrinform.net/rubric-ato/4177636-president-speed-limits-for-starlink-and-starshield-remain-in-effect.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T06:37:00Z",
-     "headline": "Starlink is working again at speeds above 400 km/h – UP sources",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T06:56:00Z",
-     "headline": "Starlink, Starshield Speeds Exceed 161 km/h in Ukraine, MoD Says",
-     "url": "https://www.kyivpost.com/post/88053"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T07:15:00Z",
-     "headline": "Starlink and Starshield operating at speeds above 161 km/h – source",
-     "url": "https://www.ukrinform.net/rubric-ato/4177728-starlink-and-starshield-operating-at-speeds-above-161-kmh-source.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T10:45:48Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.independent.co.uk/news/world/americas/ukraine-kyiv-melania-trump-moscow-donald-trump-b3072656.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T11:09:40Z",
-     "headline": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-     "url": "https://www.stuff.co.nz/world-news/361050785/ukraine-says-starlink-speed-limits-lifted-after-slowdown-t"
-    },
-    {
-     "outlet": "CNBC World",
-     "country": "USA",
-     "time": "2026-10-24T13:00:35Z",
-     "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-     "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-24T13:11:00Z",
-     "headline": "Zelenskyy confirms Starlink and Starshield are back up and running: Now we have the speed we need",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059550/"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-24T13:29:00Z",
-     "headline": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
-     "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T14:15:00Z",
-     "headline": "Starlink and Starshield back to required speeds – Zelensky",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T14:37:27Z",
-     "headline": "Ukraine says Starlink back to normal after week of throttling",
-     "url": "https://www.arabnews.com/world/ukraine-says-starlink-back-to-normal-after-week-of-throttling-3008067"
-    },
-    {
-     "outlet": "The Moscow Times",
-     "country": "RUS",
-     "time": "2026-10-24T15:18:06Z",
-     "headline": "Starlink in Ukraine Back to Normal After Week of Throttling",
-     "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T15:31:14Z",
-     "headline": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-     "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-25T12:31:31Z",
-     "headline": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
-     "url": "https://indianexpress.com/article/explained/explained-global/starlink-starshield-ukraine-drone-war-speed-restrictions-10936301/"
     }
    ]
   }
