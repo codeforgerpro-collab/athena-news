@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:03:34Z",
+ "generated": "2026-10-26T04:19:34Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -333,11 +333,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.04,
-   "risk": 3.59,
+   "importance": 8.29,
+   "risk": 3.64,
    "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 37,
+   "status": "peaking",
+   "outlets": 38,
    "countries": [
     "QAT",
     "USA",
@@ -366,10 +366,11 @@
     "CUB",
     "BRA",
     "UKR",
-    "ARE"
+    "ARE",
+    "IRN"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T03:30:59Z",
+   "last_seen": "2026-10-26T04:12:02Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -5430,6 +5431,326 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.51,
+   "risk": 1.69,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 38,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE",
+    "NZL",
+    "CUB",
+    "JPN",
+    "ARG",
+    "GHA",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-26T04:12:03Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-25T19:25:23Z",
+     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T19:41:21Z",
+     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:56:33Z",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
+     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T19:57:11Z",
+     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
+     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:58:47Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T20:46:42Z",
+     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
+     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T21:05:50Z",
+     "headline": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T21:42:56Z",
+     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
+     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-25T21:59:11Z",
+     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:23:25Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-26T00:55:41Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/011000c"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-26T02:43:08Z",
+     "headline": "Venezuela's most prominent opposition leader returns home from exile",
+     "url": "https://www.sbs.com.au/news/article/venezuela-maria-corina-machado-returns-from-exile/juniayfsh"
+    }
+   ]
+  },
+  {
    "id": 16109,
    "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
    "category": "Geopolitics",
@@ -5931,325 +6252,6 @@
      "time": "2026-10-25T18:08:38Z",
      "headline": "Obama blasts Trump’s ‘chaos, cruelty’",
      "url": "https://www.thedailystar.net/news/world/united-states/news/obama-blasts-trumps-chaos-cruelty-4307431"
-    }
-   ]
-  },
-  {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.45,
-   "risk": 1.68,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 37,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR",
-    "AUS",
-    "QAT",
-    "ARE",
-    "NZL",
-    "CUB",
-    "JPN",
-    "ARG",
-    "GHA"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T03:38:00Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-25T19:25:23Z",
-     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T19:28:40Z",
-     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T19:41:21Z",
-     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-25T19:56:33Z",
-     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T19:57:11Z",
-     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
-     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:58:47Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T20:46:42Z",
-     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
-     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T21:05:50Z",
-     "headline": "Who Is María Corina Machado?",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T21:42:56Z",
-     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
-     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-25T21:59:11Z",
-     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:23:25Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-26T00:55:41Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/011000c"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-26T02:43:08Z",
-     "headline": "Venezuela's most prominent opposition leader returns home from exile",
-     "url": "https://www.sbs.com.au/news/article/venezuela-maria-corina-machado-returns-from-exile/juniayfsh"
     }
    ]
   },
@@ -11263,6 +11265,160 @@
    ]
   },
   {
+   "id": 25466,
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.79,
+   "risk": 6.4,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "SAU",
+    "CHN",
+    "TUR",
+    "KOR",
+    "SGP",
+    "FRA",
+    "QAT",
+    "PAK",
+    "KWT",
+    "IRN"
+   ],
+   "first_seen": "2026-10-23T16:51:44Z",
+   "last_seen": "2026-10-26T04:08:41Z",
+   "page": "event/25466.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T16:51:44Z",
+     "headline": "Aden Governor After Escaping Airport Missile Attack: Hostilities Will Not Deter People of Yemen",
+     "url": "https://english.aawsat.com/node/5332849"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:18:05Z",
+     "headline": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
+     "url": "https://www.arabnews.com/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3008007"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T14:09:39Z",
+     "headline": "Urgent: Ballistic missile attack triggers loud explosions in Yemen's Aden",
+     "url": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "3 powerful explosions heard in Yemen’s interim capital Aden",
+     "url": "https://www.aa.com.tr/en/middle-east/3-powerful-explosions-heard-in-yemen-s-interim-capital-aden/4099652"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "Yemen says Houthis target Aden airport, port and coast guard facilities with ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-says-houthis-target-aden-airport-port-and-coast-guard-facilities-with-ballistic-missiles/4099652"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:30:49Z",
+     "headline": "Explosions heard in Yemen's city of Aden",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T15:05:40Z",
+     "headline": "Yemen's Houthis claim attack on Aden naval base, military camp",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T15:57:01Z",
+     "headline": "Yemen’s Houthis claim attack on Aden after accusing Saudi Arabia of deadly strikes",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-attack-on-aden-after-accusing-saudi-arabia-of-deadly-strikes-3230959"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:07:02Z",
+     "headline": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
+     "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T17:26:55Z",
+     "headline": "Iran-allied Houthis say they attacked Saudi oil sites, strikes reported on Yemen’s Aden",
+     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T17:50:25Z",
+     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T18:13:35Z",
+     "headline": "Houthi missiles target Aden airport, coastguard",
+     "url": "https://www.newarab.com/news/houthi-missiles-target-aden-airport-coastguard"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T21:08:51Z",
+     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T20:59:05Z",
+     "headline": "Explosion rocks Yemen's Aden as suspected Houthi missile lands near military headquarters",
+     "url": "https://www.aa.com.tr/en/middle-east/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-near-military-headquarters/4100488"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-25T21:32:00Z",
+     "headline": "Explosion Rocks Yemen’s Aden as Suspected Houthi Missile Lands in Remote Area",
+     "url": "https://www.arabtimesonline.com/news/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-in-remote-area/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T03:44:39Z",
+     "headline": "Yemen accuses Houthis of targeting displacement camp with 3 ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-accuses-houthis-of-targeting-displacement-camp-with-3-ballistic-missiles/4100559"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:02:33Z",
+     "headline": "Yemen says missile strikes hit Saudi mercenaries",
+     "url": "https://en.mehrnews.com/news/248915/Yemen-says-missile-strikes-hit-Saudi-mercenaries"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T04:08:41Z",
+     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
+    }
+   ]
+  },
+  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -14270,220 +14426,6 @@
      "time": "2026-10-25T16:37:42Z",
      "headline": "'BibiCoin policy': Netanyahu faces backlash over plan to use crypto to bypass sanctions",
      "url": "https://timesofindia.indiatimes.com/world/middle-east/bibicoin-policy-netanyahu-faces-backlash-over-plan-to-use-crypto-to-bypass-sanctions/articleshow/135194703.cms"
-    }
-   ]
-  },
-  {
-   "id": 17224,
-   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 5.54,
-   "risk": 2.81,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 16,
-   "countries": [
-    "NZL",
-    "GHA",
-    "ARE",
-    "NGA",
-    "UGA",
-    "SAU",
-    "ZAF",
-    "SGP",
-    "TWN",
-    "PAK",
-    "CYP",
-    "IND",
-    "JAM",
-    "QAT"
-   ],
-   "first_seen": "2026-10-21T19:19:19Z",
-   "last_seen": "2026-10-25T20:01:00Z",
-   "page": "event/17224.html",
-   "reports": [
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-21T19:19:19Z",
-     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
-     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-22T01:54:00Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T02:44:14Z",
-     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T06:51:35Z",
-     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-22T08:06:43Z",
-     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
-     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T08:08:07Z",
-     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
-     "url": "https://english.aawsat.com/node/5332254"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T08:34:33Z",
-     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
-     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-22T09:29:00Z",
-     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
-     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T17:55:54Z",
-     "headline": "Fernandes to remain Man Utd captain despite outburst",
-     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T19:01:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T19:17:41Z",
-     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
-     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Bruno Fernandes takes aim at Carrick",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T06:43:23Z",
-     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
-     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T06:49:17Z",
-     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
-     "url": "https://english.aawsat.com/node/5332601"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T07:32:46Z",
-     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
-     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T07:54:57Z",
-     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
-     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T11:44:35Z",
-     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
-     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T14:54:49Z",
-     "headline": "Bruno Fernandes’ home burgled during Man Utd’s 4-1 defeat to Como",
-     "url": "https://www.vanguardngr.com/2026/10/bruno-fernandes-home-burgled-during-man-utds-4-1-defeat-to-como/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-23T18:56:40Z",
-     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address 01:48",
-     "url": "https://nilepost.co.ug/sports/380962/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address-0148"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-24T03:54:18Z",
-     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address",
-     "url": "https://www.myjoyonline.com/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T12:53:31Z",
-     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
-     "url": "https://cyprus-mail.com/2026/10/25/fernandes-pays-price-for-criticism-as-carrick-drops-united-captain"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T12:56:41Z",
-     "headline": "Fernandes pays price for criticism as Carrick drops United captain",
-     "url": "https://www.channelnewsasia.com/sport/fernandes-pays-price-criticism-carrick-drops-united-captain-6490541"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T13:13:35Z",
-     "headline": "Man Utd’s Fernandes dropped by Carrick after Como outburst",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utds-fernandes-dropped-carrick-como-outburst/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T13:48:11Z",
-     "headline": "EPL: Carrick benches Bruno Fernandes after Como outburst",
-     "url": "https://www.vanguardngr.com/2026/10/epl-carrick-bench-bruno-fernandes-after-como-outburst/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-25T16:22:31Z",
-     "headline": "Fernandes left on bench for Man Utd defeat",
-     "url": "https://nilepost.co.ug/sports/381327/fernandes-left-on-bench-for-man-utd-defeat"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T20:01:00Z",
-     "headline": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss"
     }
    ]
   }
