@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T15:26:35Z",
+ "generated": "2026-10-26T15:43:37Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1611,7 +1611,7 @@
    "cat": 8,
    "importance": 7.51,
    "risk": 2.11,
-   "confidence": 0.9,
+   "confidence": 0.89,
    "status": "spreading",
    "outlets": 28,
    "countries": [
@@ -2469,6 +2469,247 @@
    ]
   },
   {
+   "id": 31617,
+   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.44,
+   "risk": 5.95,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 22,
+   "countries": [
+    "OMN",
+    "USA",
+    "IRN",
+    "GRC",
+    "TUR",
+    "NGA",
+    "IRL",
+    "AZE",
+    "PAK",
+    "ISR",
+    "MYS",
+    "LUX",
+    "CYP"
+   ],
+   "first_seen": "2026-10-26T03:07:52Z",
+   "last_seen": "2026-10-26T15:26:57Z",
+   "page": "event/31617.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/iran-hosts-saudi-defence-pact-states-houthis-launch-more-attacks"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Saudi defence pact countries hold talks in Iran as Houthis launch more attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-defence-pact-countries-hold-talks-iran-houthis-launch-more-attacks"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
+     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
+    },
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-26T08:33:01Z",
+     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T08:48:09Z",
+     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
+     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-26T09:00:26Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
+     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-26T09:38:43Z",
+     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:50:26Z",
+     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
+     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-26T09:56:34Z",
+     "headline": "Mecca defense pact members hold talks with Iran",
+     "url": "https://www.iranintl.com/en/202610260367"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T09:58:11Z",
+     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
+     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T10:14:39Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
+     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T10:23:00Z",
+     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
+     "url": "https://www.azernews.az/region/266213.html"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-26T11:14:00Z",
+     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
+     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T11:30:19Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T11:57:45Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T12:17:08Z",
+     "headline": "Iran To Hold Security Talks With Saudi, Pakistan, Turkey",
+     "url": "https://www.channelstv.com/2026/10/26/iran-to-hold-security-talks-with-saudi-pakistan-turkey/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T12:26:21Z",
+     "headline": "Saudi Arabia says talks in Tehran aim to prevent escalation",
+     "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T12:47:37Z",
+     "headline": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T12:55:26Z",
+     "headline": "Mecca defense pact faces test as Saudi delegation arrives for high-stakes Iran talks - analysis",
+     "url": "https://www.jpost.com/international/article-912911"
+    },
+    {
+     "outlet": "Free Malaysia Today",
+     "country": "MYS",
+     "time": "2026-10-26T13:14:37Z",
+     "headline": "Houthis attack Saudi Arabia ahead of high-stakes talks in Tehran",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/houthis-attack-saudi-arabia-ahead-of-high-stakes-talks-in-tehran"
+    },
+    {
+     "outlet": "Luxembourg Times",
+     "country": "LUX",
+     "time": "2026-10-26T13:16:25Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.luxtimes.lu/world/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/163625084.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T13:17:08Z",
+     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
+     "url": "https://cyprus-mail.com/2026/10/26/iran-hosts-saudi-defence-pact-states-as-houthis-launch-more-attacks"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T13:38:33Z",
+     "headline": "Iran, Pakistan, Turkey and Saudi Arabia meeting held",
+     "url": "https://en.mehrnews.com/news/248938/Iran-Pakistan-Turkey-and-Saudi-Arabia-meeting-underway"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T13:39:58Z",
+     "headline": "Iran, Pakistan, Turkey, and Saudi Arabia open quadrilateral talks in Tehran",
+     "url": "https://en.irna.ir/news/86304066/Iran-Pakistan-Turkey-and-Saudi-Arabia-open-quadrilateral-talks"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T14:12:48Z",
+     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
+     "url": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T14:12:48Z",
+     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
+     "url": "https://www.aa.com.tr/en/politics/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T15:00:10Z",
+     "headline": "Iran ready to take steps toward regional cooperation, resolving differences: President",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-ready-to-take-steps-toward-regional-cooperation-resolving-differences-president/4101459"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T15:05:33Z",
+     "headline": "Four-way meeting in Tehran",
+     "url": "https://en.mehrnews.com/photo/248939/Four-way-meeting-in-Tehran"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-26T15:26:57Z",
+     "headline": "Turkey joins Saudi Arabia, Pakistan in Iran war talks",
+     "url": "https://www.turkishminute.com/2026/10/26/turkey-joins-saudi-arabia-pakistan-in-iran-war-talks/"
+    }
+   ]
+  },
+  {
    "id": 18222,
    "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
    "category": "Geopolitics",
@@ -2779,568 +3020,6 @@
      "time": "2026-10-26T12:33:28Z",
      "headline": "Football: Who will win the 2026 Ballon d'Or?",
      "url": "https://www.france24.com/en/video/20261026-football-who-will-win-the-2026-ballon-d-or"
-    }
-   ]
-  },
-  {
-   "id": 31617,
-   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.38,
-   "risk": 5.79,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 22,
-   "countries": [
-    "OMN",
-    "USA",
-    "IRN",
-    "GRC",
-    "TUR",
-    "NGA",
-    "IRL",
-    "AZE",
-    "PAK",
-    "ISR",
-    "MYS",
-    "LUX",
-    "CYP"
-   ],
-   "first_seen": "2026-10-26T03:07:52Z",
-   "last_seen": "2026-10-26T15:05:33Z",
-   "page": "event/31617.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/iran-hosts-saudi-defence-pact-states-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Saudi defence pact countries hold talks in Iran as Houthis launch more attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-defence-pact-countries-hold-talks-iran-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
-     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
-    },
-    {
-     "outlet": "Rigzone",
-     "country": "USA",
-     "time": "2026-10-26T08:33:01Z",
-     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
-     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T08:48:09Z",
-     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
-     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-26T09:00:26Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
-     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-26T09:38:43Z",
-     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:50:26Z",
-     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
-     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-26T09:56:34Z",
-     "headline": "Mecca defense pact members hold talks with Iran",
-     "url": "https://www.iranintl.com/en/202610260367"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T09:58:11Z",
-     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
-     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T10:14:39Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
-     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T10:23:00Z",
-     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
-     "url": "https://www.azernews.az/region/266213.html"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-26T11:14:00Z",
-     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
-     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T11:30:19Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T11:57:45Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T12:17:08Z",
-     "headline": "Iran To Hold Security Talks With Saudi, Pakistan, Turkey",
-     "url": "https://www.channelstv.com/2026/10/26/iran-to-hold-security-talks-with-saudi-pakistan-turkey/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T12:26:21Z",
-     "headline": "Saudi Arabia says talks in Tehran aim to prevent escalation",
-     "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T12:47:37Z",
-     "headline": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T12:55:26Z",
-     "headline": "Mecca defense pact faces test as Saudi delegation arrives for high-stakes Iran talks - analysis",
-     "url": "https://www.jpost.com/international/article-912911"
-    },
-    {
-     "outlet": "Free Malaysia Today",
-     "country": "MYS",
-     "time": "2026-10-26T13:14:37Z",
-     "headline": "Houthis attack Saudi Arabia ahead of high-stakes talks in Tehran",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/houthis-attack-saudi-arabia-ahead-of-high-stakes-talks-in-tehran"
-    },
-    {
-     "outlet": "Luxembourg Times",
-     "country": "LUX",
-     "time": "2026-10-26T13:16:25Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.luxtimes.lu/world/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/163625084.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T13:17:08Z",
-     "headline": "Iran hosts Saudi defence pact states as Houthis launch more attacks",
-     "url": "https://cyprus-mail.com/2026/10/26/iran-hosts-saudi-defence-pact-states-as-houthis-launch-more-attacks"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T13:38:33Z",
-     "headline": "Iran, Pakistan, Turkey and Saudi Arabia meeting held",
-     "url": "https://en.mehrnews.com/news/248938/Iran-Pakistan-Turkey-and-Saudi-Arabia-meeting-underway"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T13:39:58Z",
-     "headline": "Iran, Pakistan, Turkey, and Saudi Arabia open quadrilateral talks in Tehran",
-     "url": "https://en.irna.ir/news/86304066/Iran-Pakistan-Turkey-and-Saudi-Arabia-open-quadrilateral-talks"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T14:12:48Z",
-     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
-     "url": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T14:12:48Z",
-     "headline": "Türkiye, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran",
-     "url": "https://www.aa.com.tr/en/politics/turkiye-saudi-arabia-pakistan-iran-hold-quadrilateral-meeting-in-tehran/4101395"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T15:00:10Z",
-     "headline": "Iran ready to take steps toward regional cooperation, resolving differences: President",
-     "url": "https://www.aa.com.tr/en/middle-east/iran-ready-to-take-steps-toward-regional-cooperation-resolving-differences-president/4101459"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T15:05:33Z",
-     "headline": "Four-way meeting in Tehran",
-     "url": "https://en.mehrnews.com/photo/248939/Four-way-meeting-in-Tehran"
-    }
-   ]
-  },
-  {
-   "id": 24261,
-   "title": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.33,
-   "risk": 1.96,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 48,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "PAN",
-    "ISR",
-    "AUS",
-    "QAT",
-    "ARE",
-    "NZL",
-    "CUB",
-    "FIN",
-    "JPN",
-    "ARG",
-    "GHA",
-    "KOR",
-    "GRC",
-    "KWT",
-    "LKA",
-    "DEU",
-    "ZAF",
-    "BHR"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T14:03:57Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-25T17:29:39Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "Newsroom Panama",
-     "country": "PAN",
-     "time": "2026-10-25T17:54:16Z",
-     "headline": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
-     "url": "https://newsroompanama.com/2026/10/25/after-months-in-exile-venezuelas-opposition-leader-maria-corina-machado-returns-home/"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-25T19:25:23Z",
-     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T19:28:40Z",
-     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T19:41:21Z",
-     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-25T19:56:33Z",
-     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T19:57:11Z",
-     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
-     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:58:47Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T20:46:42Z",
-     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
-     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T21:05:50Z",
-     "headline": "Who Is María Corina Machado?",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T21:42:56Z",
-     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
-     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-25T21:59:11Z",
-     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
-    },
-    {
-     "outlet": "Helsinki Times",
-     "country": "FIN",
-     "time": "2026-10-25T23:17:49Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
-     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
     }
    ]
   },
@@ -5593,6 +5272,334 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.9,
+   "risk": 2.04,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 48,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "PAN",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE",
+    "NZL",
+    "CUB",
+    "FIN",
+    "JPN",
+    "ARG",
+    "GHA",
+    "KOR",
+    "GRC",
+    "KWT",
+    "LKA",
+    "DEU",
+    "ZAF",
+    "BHR"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-26T14:03:57Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T17:29:39Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "Newsroom Panama",
+     "country": "PAN",
+     "time": "2026-10-25T17:54:16Z",
+     "headline": "After Months in Exile Venezuela’s Opposition Leader Maria Corina Machado Returns Home.",
+     "url": "https://newsroompanama.com/2026/10/25/after-months-in-exile-venezuelas-opposition-leader-maria-corina-machado-returns-home/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-25T19:25:23Z",
+     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T19:41:21Z",
+     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:56:33Z",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
+     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T19:57:11Z",
+     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
+     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:58:47Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T20:46:42Z",
+     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
+     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T21:05:50Z",
+     "headline": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T21:42:56Z",
+     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
+     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-25T21:59:11Z",
+     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
+    },
+    {
+     "outlet": "Helsinki Times",
+     "country": "FIN",
+     "time": "2026-10-25T23:17:49Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
+     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
+    }
+   ]
+  },
+  {
    "id": 19215,
    "title": "Taiwan shuts down as Typhoon Champi approaches",
    "category": "Energy & Environment",
@@ -5920,6 +5927,179 @@
    ]
   },
   {
+   "id": 31458,
+   "title": "‘Historic Victory’: World Leaders Celebrate Lula’s Re-Election",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.89,
+   "risk": 0.0,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "ARE",
+    "TUR",
+    "ZAF",
+    "BGD",
+    "PRT",
+    "NGA",
+    "ARG",
+    "MAR",
+    "UKR",
+    "TZA",
+    "URY",
+    "DOM",
+    "USA",
+    "BLZ",
+    "GBR"
+   ],
+   "first_seen": "2026-10-26T07:33:35Z",
+   "last_seen": "2026-10-26T15:31:59Z",
+   "page": "event/31458.html",
+   "reports": [
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T07:33:35Z",
+     "headline": "'Historic victory': Leftist leaders in the Americas celebrate Lula's re-election",
+     "url": "https://gulfnews.com/world/americas/historic-victory-leftist-leaders-in-the-americas-celebrate-lulas-re-election-1.500723722"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T07:59:58Z",
+     "headline": "Brazilians celebrate in streets as Lula wins fourth term",
+     "url": "https://www.turkiyetoday.com/world/brazilians-celebrate-in-streets-as-lula-wins-fourth-term-3231038"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T08:26:37Z",
+     "headline": "Ramaphosa congratulates Lula on historic fourth-term re-election",
+     "url": "https://www.sabcnews.com/sabcnews/ramaphosa-congratulates-lula-on-historic-fourth-term-re-election/"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T11:03:20Z",
+     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
+     "url": "https://www.thedailystar.net/news/world/news/historic-victory-world-leaders-celebrate-lulas-re-election-4307791"
+    },
+    {
+     "outlet": "Portugal Resident",
+     "country": "PRT",
+     "time": "2026-10-26T11:12:16Z",
+     "headline": "Portugal’s president, prime minister congratulate Brazil’s fourth-term president, Lula da Silva",
+     "url": "https://www.portugalresident.com/portugals-president-prime-minister-congratulate-brazils-fourth-term-president-lula-da-silva/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T11:15:20Z",
+     "headline": "World leaders celebrate Lula’s re-election in Brazil",
+     "url": "https://punchng.com/world-leaders-celebrate-lulas-re-election-in-brazil/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T11:47:23Z",
+     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
+     "url": "https://www.batimes.com.ar/news/latin-america/historic-victory-world-leaders-celebrate-lulas-re-election.phtml"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-26T11:49:06Z",
+     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
+     "url": "https://en.hespress.com/147994-historic-victory-world-leaders-celebrate-lulas-re-election.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-26T12:15:01Z",
+     "headline": "‘Historic Victory’: World Leaders Celebrate Lula’s Re-Election",
+     "url": "https://www.kyivpost.com/post/88187"
+    },
+    {
+     "outlet": "AllAfrica",
+     "country": "AFR",
+     "time": "2026-10-26T12:26:21Z",
+     "headline": "South Africa: President Ramaphosa Congratulates Brazilian President On Re-Election",
+     "url": "https://allafrica.com/stories/202610260439.html"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-26T12:33:38Z",
+     "headline": "Dr Samia hails Lula da Silva for winning Brazil’s presidential race",
+     "url": "https://dailynews.co.tz/dr-samia-hails-lula-da-silva-for-winning-brazils-presidential-race/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T13:05:00Z",
+     "headline": "Milei stays silent on Lula’s victory as Kast and Peña congratulate him",
+     "url": "https://en.mercopress.com/2026/10/26/milei-stays-silent-on-lula-s-victory-as-kast-and-pena-congratulate-him?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T13:16:00Z",
+     "headline": "Trump questions Lula’s victory as most of the region, including the right, congratulates him",
+     "url": "https://en.mercopress.com/2026/10/26/trump-questions-lula-s-victory-as-most-of-the-region-including-the-right-congratulates-him?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Dominican Today",
+     "country": "DOM",
+     "time": "2026-10-26T13:40:18Z",
+     "headline": "Abinader congratulates Lula da Silva on re-election as Brazil’s president",
+     "url": "https://dominicantoday.com/abinader-congratulates-lula-da-silva-on-re-election-as-brazils-president/"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-26T13:48:04Z",
+     "headline": "Brazilian Markets Convulse After Unlikely Election Result",
+     "url": "https://www.nytimes.com/2026/10/26/business/brazil-markets-election-lula.html"
+    },
+    {
+     "outlet": "Breaking Belize News",
+     "country": "BLZ",
+     "time": "2026-10-26T13:49:16Z",
+     "headline": "Belize congratulates Lula on re-election as President of Brazil",
+     "url": "https://www.breakingbelizenews.com/2026/10/26/belize-congratulates-lula-on-re-election-as-president-of-brazil/"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T14:12:53Z",
+     "headline": "The world leaders congratulating Brazil’s Lula on his historic re-election",
+     "url": "https://www.independent.co.uk/news/world/americas/election-brazil-lula-bolsonaro-president-results-reactions-b3073524.html"
+    },
+    {
+     "outlet": "News Agency of Nigeria",
+     "country": "NGA",
+     "time": "2026-10-26T14:21:19Z",
+     "headline": "Tinubu congratulates Brazil’s President Lula Da Silva on re-election",
+     "url": "https://nannews.ng/tinubu-congratulates-brazils-president-lula-da-silva-on-re-election/"
+    },
+    {
+     "outlet": "New York Times Business",
+     "country": "USA",
+     "time": "2026-10-26T14:42:40Z",
+     "headline": "Brazilian Markets Convulse After Unexpected Election Result",
+     "url": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T15:31:59Z",
+     "headline": "Milei is lone South American leader yet to recognise Lula’s win",
+     "url": "https://www.batimes.com.ar/news/latin-america/milei-is-lone-south-american-leader-yet-to-recognise-lulas-win.phtml"
+    }
+   ]
+  },
+  {
    "id": 23924,
    "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
    "category": "Technology & Cyber",
@@ -6205,172 +6385,6 @@
      "time": "2026-10-26T09:27:07Z",
      "headline": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
      "url": "https://www.egyptindependent.com/musk-accuses-ukraine-of-violating-starlinks-terms-of-service-following-dispute-over-coverage/"
-    }
-   ]
-  },
-  {
-   "id": 31458,
-   "title": "‘Historic Victory’: World Leaders Celebrate Lula’s Re-Election",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.82,
-   "risk": 0.0,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 17,
-   "countries": [
-    "ARE",
-    "TUR",
-    "ZAF",
-    "BGD",
-    "PRT",
-    "NGA",
-    "ARG",
-    "MAR",
-    "UKR",
-    "TZA",
-    "URY",
-    "DOM",
-    "USA",
-    "BLZ",
-    "GBR"
-   ],
-   "first_seen": "2026-10-26T07:33:35Z",
-   "last_seen": "2026-10-26T14:42:40Z",
-   "page": "event/31458.html",
-   "reports": [
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T07:33:35Z",
-     "headline": "'Historic victory': Leftist leaders in the Americas celebrate Lula's re-election",
-     "url": "https://gulfnews.com/world/americas/historic-victory-leftist-leaders-in-the-americas-celebrate-lulas-re-election-1.500723722"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T07:59:58Z",
-     "headline": "Brazilians celebrate in streets as Lula wins fourth term",
-     "url": "https://www.turkiyetoday.com/world/brazilians-celebrate-in-streets-as-lula-wins-fourth-term-3231038"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-26T08:26:37Z",
-     "headline": "Ramaphosa congratulates Lula on historic fourth-term re-election",
-     "url": "https://www.sabcnews.com/sabcnews/ramaphosa-congratulates-lula-on-historic-fourth-term-re-election/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-26T11:03:20Z",
-     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
-     "url": "https://www.thedailystar.net/news/world/news/historic-victory-world-leaders-celebrate-lulas-re-election-4307791"
-    },
-    {
-     "outlet": "Portugal Resident",
-     "country": "PRT",
-     "time": "2026-10-26T11:12:16Z",
-     "headline": "Portugal’s president, prime minister congratulate Brazil’s fourth-term president, Lula da Silva",
-     "url": "https://www.portugalresident.com/portugals-president-prime-minister-congratulate-brazils-fourth-term-president-lula-da-silva/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T11:15:20Z",
-     "headline": "World leaders celebrate Lula’s re-election in Brazil",
-     "url": "https://punchng.com/world-leaders-celebrate-lulas-re-election-in-brazil/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-26T11:47:23Z",
-     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
-     "url": "https://www.batimes.com.ar/news/latin-america/historic-victory-world-leaders-celebrate-lulas-re-election.phtml"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-26T11:49:06Z",
-     "headline": "'Historic victory': World leaders celebrate Lula's re-election",
-     "url": "https://en.hespress.com/147994-historic-victory-world-leaders-celebrate-lulas-re-election.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-26T12:15:01Z",
-     "headline": "‘Historic Victory’: World Leaders Celebrate Lula’s Re-Election",
-     "url": "https://www.kyivpost.com/post/88187"
-    },
-    {
-     "outlet": "AllAfrica",
-     "country": "AFR",
-     "time": "2026-10-26T12:26:21Z",
-     "headline": "South Africa: President Ramaphosa Congratulates Brazilian President On Re-Election",
-     "url": "https://allafrica.com/stories/202610260439.html"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-26T12:33:38Z",
-     "headline": "Dr Samia hails Lula da Silva for winning Brazil’s presidential race",
-     "url": "https://dailynews.co.tz/dr-samia-hails-lula-da-silva-for-winning-brazils-presidential-race/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T13:05:00Z",
-     "headline": "Milei stays silent on Lula’s victory as Kast and Peña congratulate him",
-     "url": "https://en.mercopress.com/2026/10/26/milei-stays-silent-on-lula-s-victory-as-kast-and-pena-congratulate-him?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T13:16:00Z",
-     "headline": "Trump questions Lula’s victory as most of the region, including the right, congratulates him",
-     "url": "https://en.mercopress.com/2026/10/26/trump-questions-lula-s-victory-as-most-of-the-region-including-the-right-congratulates-him?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Dominican Today",
-     "country": "DOM",
-     "time": "2026-10-26T13:40:18Z",
-     "headline": "Abinader congratulates Lula da Silva on re-election as Brazil’s president",
-     "url": "https://dominicantoday.com/abinader-congratulates-lula-da-silva-on-re-election-as-brazils-president/"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-26T13:48:04Z",
-     "headline": "Brazilian Markets Convulse After Unlikely Election Result",
-     "url": "https://www.nytimes.com/2026/10/26/business/brazil-markets-election-lula.html"
-    },
-    {
-     "outlet": "Breaking Belize News",
-     "country": "BLZ",
-     "time": "2026-10-26T13:49:16Z",
-     "headline": "Belize congratulates Lula on re-election as President of Brazil",
-     "url": "https://www.breakingbelizenews.com/2026/10/26/belize-congratulates-lula-on-re-election-as-president-of-brazil/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T14:12:53Z",
-     "headline": "The world leaders congratulating Brazil’s Lula on his historic re-election",
-     "url": "https://www.independent.co.uk/news/world/americas/election-brazil-lula-bolsonaro-president-results-reactions-b3073524.html"
-    },
-    {
-     "outlet": "News Agency of Nigeria",
-     "country": "NGA",
-     "time": "2026-10-26T14:21:19Z",
-     "headline": "Tinubu congratulates Brazil’s President Lula Da Silva on re-election",
-     "url": "https://nannews.ng/tinubu-congratulates-brazils-president-lula-da-silva-on-re-election/"
-    },
-    {
-     "outlet": "New York Times Business",
-     "country": "USA",
-     "time": "2026-10-26T14:42:40Z",
-     "headline": "Brazilian Markets Convulse After Unexpected Election Result",
-     "url": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html"
     }
    ]
   },
@@ -8616,6 +8630,153 @@
      "time": "2026-10-26T14:26:00Z",
      "headline": "Flávio Bolsonaro rejects Lula’s victory, seeks to annul election",
      "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/flavio-bolsonaro-rejects-lulas-victory-seeks-annul-election"
+    }
+   ]
+  },
+  {
+   "id": 9132,
+   "title": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 6.28,
+   "risk": 7.13,
+   "confidence": 0.84,
+   "status": "peaking",
+   "outlets": 11,
+   "countries": [
+    "PAK",
+    "TUR",
+    "KWT",
+    "IND",
+    "IRN",
+    "USA",
+    "ARE",
+    "BGD",
+    "AZE",
+    "SAU"
+   ],
+   "first_seen": "2026-10-17T04:10:09Z",
+   "last_seen": "2026-10-26T15:31:07Z",
+   "page": "event/9132.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-17T04:10:09Z",
+     "headline": "Bangladesh resort fire kills at least 10, injures 9 others",
+     "url": "https://tribune.com.pk/story/2635358/bangladesh-resort-fire-kills-at-least-10-injures-9-others"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-17T08:48:00Z",
+     "headline": "Bangladesh Resort Fire Kills 10, Injures Nine at Cox’s Bazar Tourist Destination",
+     "url": "https://www.arabtimesonline.com/news/bangladesh-resort-fire-kills-10-injures-nine-at-coxs-bazar-tourist-destination/"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-17T09:39:00Z",
+     "headline": "Children Among 10 Killed In Bangladesh Beach Resort Fire",
+     "url": "https://www.ndtv.com/world-news/bangladesh-beach-resort-fire-news-children-among-10-killed-in-bangladesh-beach-resort-fire-12198823#publisher=newsstand"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-17T09:52:26Z",
+     "headline": "VIDEO: At least 10 killed, 9 others injured in fire in India",
+     "url": "https://en.mehrnews.com/news/248643/VIDEO-At-least-10-killed-9-others-injured-in-fire-in-India"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-17T09:57:33Z",
+     "headline": "10 charred to death in fire at seaside resort in Bangladesh",
+     "url": "https://timesofindia.indiatimes.com/world/south-asia/10-charred-to-death-in-fire-at-seaside-resort-in-bangladesh/articleshow/135011590.cms"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-17T11:06:57Z",
+     "headline": "Fire guts a Bangladeshi beach resort, killing 10 people",
+     "url": "https://abcnews.com/International/wireStory/fire-guts-bangladeshi-beach-resort-killing-10-people-137342617"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-17T11:15:20Z",
+     "headline": "Bangladesh beach resort fire kills 10, including children",
+     "url": "https://gulfnews.com/world/asia/bangladesh-beach-resort-fire-kills-10-including-children-1.500714160"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-17T11:30:28Z",
+     "headline": "Cox’s Bazar resort operated without fire safety licence",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/coxs-bazar-resort-operated-without-fire-safety-licence-4300811"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-17T11:30:28Z",
+     "headline": "Update / 10 tourists killed in fire at Cox’s Bazar resort",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-fire-coxs-bazar-resort-4300671"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-17T13:41:00Z",
+     "headline": "At least 10 killed in fire at Bangladesh beach resort",
+     "url": "https://en.apa.az/asia/at-least-10-killed-in-fire-at-bangladesh-beach-resort-530702"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-17T14:18:04Z",
+     "headline": "A fire guts a Bangladeshi beach resort, killing 10 people",
+     "url": "https://www.arabnews.com/world/a-fire-guts-a-bangladeshi-beach-resort-killing-10-people-3006858"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-19T15:51:26Z",
+     "headline": "Charred bodies of woman clutching child, man apparently shielding them found after Cox’s Bazar resort fire",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/charred-bodies-woman-clutching-child-man-apparently-shielding-them-found-after-coxs-bazar-resort-4301771"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-19T15:51:26Z",
+     "headline": "Relatives search for missing family of four after Cox’s Bazar resort fire",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/relatives-search-missing-family-four-after-coxs-bazar-resort-fire-4301681"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-22T07:03:59Z",
+     "headline": "Three tourists die, two missing after swimming in Cox’s Bazar sea",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/three-tourists-die-two-missing-after-swimming-coxs-bazar-sea-4304531"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-23T16:59:35Z",
+     "headline": "Fire at Cox’s Bazar hotel sparks panic among tourists",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-coxs-bazar-hotel-sparks-panic-among-tourists-4305841"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T13:02:59Z",
+     "headline": "Cox's Bazar resort fire: 10 victims identified using DNA tests",
+     "url": "https://www.thedailystar.net/news/accidents-and-fires/news/coxs-bazar-resort-fire-10-victims-identified-using-dna-tests-4307856"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T15:31:07Z",
+     "headline": "Four-storey resort demolished over unauthorised construction in Cox's Bazar",
+     "url": "https://www.thedailystar.net/news/governance/news/four-storey-resort-demolished-over-unauthorised-construction-coxs-bazar-4307986"
     }
    ]
   },
@@ -14466,162 +14627,6 @@
      "time": "2026-10-26T15:16:00Z",
      "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
      "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
-   "id": 17297,
-   "title": "4 pilots killed as two Philippine military planes crash during training",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.77,
-   "risk": 7.2,
-   "confidence": 0.85,
-   "status": "fading",
-   "outlets": 15,
-   "countries": [
-    "AUS",
-    "SAU",
-    "CHN",
-    "AZE",
-    "NGA",
-    "IND",
-    "SGP",
-    "TUR",
-    "NZL",
-    "KWT",
-    "ARE",
-    "PAK"
-   ],
-   "first_seen": "2026-10-19T13:00:00Z",
-   "last_seen": "2026-10-24T21:25:41Z",
-   "page": "event/17297.html",
-   "reports": [
-    {
-     "outlet": "Lowy Institute — The Interpreter",
-     "country": "AUS",
-     "time": "2026-10-19T13:00:00Z",
-     "headline": "Words as weapons in the West Philippine Sea",
-     "url": "https://www.lowyinstitute.org/the-interpreter/words-as-weapons-in-the-west-philippine-sea"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-21T20:50:40Z",
-     "headline": "Philippines probes illegal recruitment of nationals in Russia",
-     "url": "https://www.arabnews.com/world/philippines-probes-illegal-recruitment-of-nationals-in-russia-3007502"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:47:15Z",
-     "headline": "1 killed, 2 injured in southern Philippines",
-     "url": "https://english.news.cn/20261024/136bbf0aed124887999503e5638a2cf8/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T06:55:50Z",
-     "headline": "4 pilots killed in Philippine plane crash",
-     "url": "https://english.news.cn/20261024/8faa2e633f394fce977de966c5142652/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-531973"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T07:21:00Z",
-     "headline": "Four Philippine Air Force pilots killed in training accident - VIDEO",
-     "url": "https://en.apa.az/asia/four-philippine-air-force-pilots-killed-in-training-accident-video-531973"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-24T07:31:49Z",
-     "headline": "Four Pilots Killed In Mid-Air Collision Of Philippines Military Planes",
-     "url": "https://www.channelstv.com/2026/10/24/four-pilots-killed-in-mid-air-collision-of-philippines-military-planes/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T07:40:36Z",
-     "headline": "Mid-air Collision of Philippines Military Planes Kills 4 Pilots",
-     "url": "https://english.aawsat.com/node/5333023"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-24T07:45:23Z",
-     "headline": "Four Philippine Air Force pilots killed during training sortie, collision caught on camera",
-     "url": "https://indianexpress.com/article/world/philippine-four-pilot-killed-air-force-sf260-trainer-aircraft-crash-fernando-air-base-batangas-10934958/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T07:51:14Z",
-     "headline": "4 pilots killed in north Philippine plane crash",
-     "url": "https://english.news.cn/20261024/a4a25142a7c94686809234a2c6d0d229/c.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T07:59:41Z",
-     "headline": "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
-     "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111#publisher=newsstand"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T08:06:51Z",
-     "headline": "Four pilots killed after two Philippine Air Force trainer planes crash",
-     "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T08:37:30Z",
-     "headline": "4 Philippine Air Force pilots killed as training aircraft crash",
-     "url": "https://www.aa.com.tr/en/asia-pacific/4-philippine-air-force-pilots-killed-as-training-aircraft-crash/4099304"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T08:41:53Z",
-     "headline": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
-     "url": "https://www.stuff.co.nz/world-news/361050750/2-philippine-air-force-planes-collide-during-training-flig"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T08:50:01Z",
-     "headline": "Four pilots die in Philippines air force mid-air collision",
-     "url": "https://punchng.com/four-pilots-die-in-philippines-air-force-mid-air-collision/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T08:53:00Z",
-     "headline": "Four Philippine Air Force Pilots Killed in Training Aircraft Crash",
-     "url": "https://www.arabtimesonline.com/news/four-philippine-air-force-pilots-killed-in-training-aircraft-crash/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T09:38:13Z",
-     "headline": "4 pilots killed as two Philippine military planes crash during training",
-     "url": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:41Z",
-     "headline": "Mid-air collision of Philippines military planes kills four pilots",
-     "url": "https://www.brecorder.com/news/40445835/mid-air-collision-of-philippines-military-planes-kills-four-pilots"
     }
    ]
   }
