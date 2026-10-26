@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:18:44Z",
+ "generated": "2026-10-26T06:35:46Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.63,
-   "risk": 3.68,
+   "importance": 8.65,
+   "risk": 3.67,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 48,
+   "outlets": 51,
    "countries": [
     "QAT",
     "USA",
@@ -47,10 +47,11 @@
     "PER",
     "ZAF",
     "IRQ",
-    "CYP"
+    "CYP",
+    "MOZ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T05:52:20Z",
+   "last_seen": "2026-10-26T06:29:00Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -340,9 +341,9 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.16,
-   "risk": 8.16,
-   "confidence": 0.9,
+   "importance": 8.22,
+   "risk": 8.2,
+   "confidence": 0.89,
    "status": "spreading",
    "outlets": 65,
    "countries": [
@@ -384,7 +385,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T06:10:05Z",
+   "last_seen": "2026-10-26T06:14:01Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -1654,8 +1655,8 @@
    "title": "Iran’s Guards Say Two Tankers Hit Mines In Strait Of Hormuz",
    "category": "Trade & Industry",
    "cat": 4,
-   "importance": 7.25,
-   "risk": 3.21,
+   "importance": 7.31,
+   "risk": 3.24,
    "confidence": 0.88,
    "status": "fading",
    "outlets": 38,
@@ -1686,7 +1687,7 @@
     "AUS"
    ],
    "first_seen": "2026-10-17T04:27:36Z",
-   "last_seen": "2026-10-24T16:23:14Z",
+   "last_seen": "2026-10-26T06:29:06Z",
    "page": "event/9153.html",
    "reports": [
     {
@@ -1968,6 +1969,256 @@
      "time": "2026-10-20T14:47:15Z",
      "headline": "Iran Says Burning Tanker Found In Hormuz Restricted Zone, CENTCOM Rejected",
      "url": "https://www.kurdistan24.net/en/story/947421/iran-says-burning-tanker-found-in-hormuz-restricted-zone-centcom-rejected"
+    }
+   ]
+  },
+  {
+   "id": 12369,
+   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.15,
+   "risk": 5.06,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 20,
+   "countries": [
+    "USA",
+    "IRQ",
+    "PAK",
+    "RUS",
+    "IND",
+    "AZE",
+    "TUR",
+    "IRN",
+    "ARM",
+    "ISR",
+    "AUS",
+    "KOR",
+    "DEU",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-17T21:04:33Z",
+   "last_seen": "2026-10-26T06:18:53Z",
+   "page": "event/12369.html",
+   "reports": [
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-17T21:04:33Z",
+     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-19T16:47:19Z",
+     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
+     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T16:55:10Z",
+     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-19T17:02:28Z",
+     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-19T17:25:01Z",
+     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
+     "url": "https://tass.com/world/2204325"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-19T17:32:00Z",
+     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-19T17:36:00Z",
+     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
+     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:42:37Z",
+     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
+     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-22T12:11:32Z",
+     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T12:18:00Z",
+     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
+     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T12:49:02Z",
+     "headline": "Houthis target Saudi Arabian Defense Ministry building",
+     "url": "https://www.azernews.az/region/266023.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T12:50:14Z",
+     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:22:48Z",
+     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
+     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-22T13:54:02Z",
+     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
+     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-22T14:34:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
+     "url": "https://news.am/en/news/1069685"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-22T18:12:21Z",
+     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
+     "url": "https://www.jpost.com/middle-east/article-912598"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:38:04Z",
+     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T16:39:17Z",
+     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
+     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-24T16:52:27Z",
+     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
+     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T17:25:00Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T17:34:58Z",
+     "headline": "Houthis claim seven attacks on Saudi targets",
+     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T17:41:42Z",
+     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
+     "url": "https://tass.com/world/2207323"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T19:25:25Z",
+     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
+     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:41Z",
+     "headline": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
+     "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T08:07:02Z",
+     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist",
+     "url": "https://www.koreatimes.co.kr/world/20261025/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist?utm_source=rss"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T09:13:00Z",
+     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+     "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T11:09:36Z",
+     "headline": "Saudi Arabia intercepts missiles, drones as fighting with Yemen's Iran-backed Houthis continues",
+     "url": "https://www.jpost.com/middle-east/article-912766"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-26T05:35:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia oil infrastructure",
+     "url": "https://news.am/en/news/1070281"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T06:09:57Z",
+     "headline": "Erdogan pledges to stand by Saudi Arabia as Houthis threaten Aramco",
+     "url": "https://www.turkiyetoday.com/region/erdogan-pledges-to-stand-by-saudi-arabia-as-houthis-threaten-aramco-3230246"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T06:15:41Z",
+     "headline": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-as-fighting-intensifies"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T06:18:53Z",
+     "headline": "Houthis claim attacks on Saudi oil facilities and Riyadh airport",
+     "url": "https://cyprus-mail.com/2026/10/26/houthis-claim-attacks-on-saudi-oil-facilities-and-riyadh-airport"
     }
    ]
   },
@@ -4350,256 +4601,15 @@
    ]
   },
   {
-   "id": 12369,
-   "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.66,
-   "risk": 5.02,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 18,
-   "countries": [
-    "USA",
-    "IRQ",
-    "PAK",
-    "RUS",
-    "IND",
-    "AZE",
-    "TUR",
-    "IRN",
-    "ARM",
-    "ISR",
-    "AUS",
-    "KOR",
-    "DEU"
-   ],
-   "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-26T06:15:41Z",
-   "page": "event/12369.html",
-   "reports": [
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-17T21:04:33Z",
-     "headline": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-     "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-19T16:47:19Z",
-     "headline": "Houthis Claim Six Strikes On Saudi Targets Including Aramco, Riyadh Airport, And Naval Base",
-     "url": "https://www.kurdistan24.net/en/story/947189/houthis-claim-six-strikes-on-saudi-targets-including-aramco-riyadh-airport-and-naval-base"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T16:55:10Z",
-     "headline": "Houthis say they targeted Saudi airports, energy and military sites",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-airports-energy-and-military-sites"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-19T17:02:28Z",
-     "headline": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-     "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-19T17:25:01Z",
-     "headline": "Houthis strike Saudi Aramco facilities and Saudi airports",
-     "url": "https://tass.com/world/2204325"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-19T17:32:00Z",
-     "headline": "6 ops in 48 hrs: Houthis claim to strike Saudi airports, oil field & military sites",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-19T17:36:00Z",
-     "headline": "Houthis claim strikes on Aramco site, Saudi oil field",
-     "url": "https://en.apa.az/asia/houthis-claim-strikes-on-aramco-site-saudi-oil-field-530976"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:42:37Z",
-     "headline": "Can Iran negotiate between Saudi Arabia and the Houthis?",
-     "url": "https://www.middleeasteye.net/news/can-iran-negotiate-between-saudi-arabia-and-houthis"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-22T12:11:32Z",
-     "headline": "Yemen's Houthis claim strike on Saudi defense ministry in Riyadh",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-strike-on-saudi-defense-ministry-in-riyadh-3230827"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T12:18:00Z",
-     "headline": "Houthis claim strike on Saudi Arabia's Defense Ministry",
-     "url": "https://en.apa.az/asia/houthis-claim-strike-on-saudi-arabias-defense-ministry-531661"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-22T12:49:02Z",
-     "headline": "Houthis target Saudi Arabian Defense Ministry building",
-     "url": "https://www.azernews.az/region/266023.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T12:50:14Z",
-     "headline": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-defence-ministry-aramco-facilities-and"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:22:48Z",
-     "headline": "Yemeni forces target Saudi defense ministry, oil and airport facilities",
-     "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-22T13:54:02Z",
-     "headline": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-     "url": "https://www.brecorder.com/news/40445470/gulf-markets-fall-as-fresh-houthi-strikes-on-saudi-arabia-raise-regional-risk"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-22T14:34:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia MoD building in Riyadh",
-     "url": "https://news.am/en/news/1069685"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T18:12:21Z",
-     "headline": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-     "url": "https://www.jpost.com/middle-east/article-912598"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:38:04Z",
-     "headline": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T16:39:17Z",
-     "headline": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
-     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-struck-saudi-airports-oil-facilities-with-missiles-drones/4099758"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T16:52:27Z",
-     "headline": "Houthis Claim They Targeted Riyadh, 2 Other Airports, Oil Facilities In Saudi",
-     "url": "https://www.ndtv.com/world-news/yemen-houthis-say-targeted-3-saudi-airports-in-riyadh-dammam-najran-oil-facilities-in-last-24-hours-12231046#publisher=newsstand"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T17:25:00Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://en.apa.az/asia/houthis-launch-attacks-on-aramco-facilities-airports-in-saudi-arabia-532013"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T17:34:58Z",
-     "headline": "Houthis claim seven attacks on Saudi targets",
-     "url": "https://shafaq.com/en/Middle-East/Houthis-claim-seven-attacks-on-Saudi-targets"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T17:41:42Z",
-     "headline": "Houthis launch attacks on Aramco facilities, airports in Saudi Arabia",
-     "url": "https://tass.com/world/2207323"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T19:25:25Z",
-     "headline": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-     "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:41Z",
-     "headline": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
-     "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T08:07:02Z",
-     "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist",
-     "url": "https://www.koreatimes.co.kr/world/20261025/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist?utm_source=rss"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T09:13:00Z",
-     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-     "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T11:09:36Z",
-     "headline": "Saudi Arabia intercepts missiles, drones as fighting with Yemen's Iran-backed Houthis continues",
-     "url": "https://www.jpost.com/middle-east/article-912766"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-26T05:35:00Z",
-     "headline": "Houthis claim to have struck Saudi Arabia oil infrastructure",
-     "url": "https://news.am/en/news/1070281"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T06:09:57Z",
-     "headline": "Erdogan pledges to stand by Saudi Arabia as Houthis threaten Aramco",
-     "url": "https://www.turkiyetoday.com/region/erdogan-pledges-to-stand-by-saudi-arabia-as-houthis-threaten-aramco-3230246"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T06:15:41Z",
-     "headline": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
-     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-as-fighting-intensifies"
-    }
-   ]
-  },
-  {
    "id": 23924,
    "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
    "category": "Technology & Cyber",
    "cat": 5,
-   "importance": 6.64,
-   "risk": 6.21,
+   "importance": 6.71,
+   "risk": 5.84,
    "confidence": 0.87,
-   "status": "peaking",
-   "outlets": 28,
+   "status": "fading",
+   "outlets": 29,
    "countries": [
     "IND",
     "ISR",
@@ -4617,10 +4627,11 @@
     "NZL",
     "CAN",
     "GHA",
-    "AZE"
+    "AZE",
+    "ZAF"
    ],
    "first_seen": "2026-10-23T09:37:24Z",
-   "last_seen": "2026-10-26T02:56:47Z",
+   "last_seen": "2026-10-26T06:26:00Z",
    "page": "event/23924.html",
    "reports": [
     {
@@ -4853,6 +4864,13 @@
      "time": "2026-10-26T02:56:47Z",
      "headline": "‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim",
      "url": "https://timesofindia.indiatimes.com/world/middle-east/physically-impossible-ukraine-hits-back-at-musk-over-starlink-restrictions-disputes-offensive-drone-strike-claim/articleshow/135201379.cms"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T06:26:00Z",
+     "headline": "Elon Musk accuses Ukraine of violating Starlink's terms of service",
+     "url": "https://iol.co.za/technology/big-tech/2026-10-26-elon-musk-accuses-ukraine-of-violating-starlinks-terms-of-service/"
     }
    ]
   },
@@ -4861,9 +4879,9 @@
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.59,
-   "risk": 5.53,
-   "confidence": 0.9,
+   "importance": 6.65,
+   "risk": 5.64,
+   "confidence": 0.89,
    "status": "spreading",
    "outlets": 25,
    "countries": [
@@ -4885,7 +4903,7 @@
     "BGD"
    ],
    "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-26T05:38:20Z",
+   "last_seen": "2026-10-26T06:23:13Z",
    "page": "event/16782.html",
    "reports": [
     {
@@ -6294,247 +6312,12 @@
    ]
   },
   {
-   "id": 23956,
-   "title": "France: 1 killed, 4 wounded after shooting near Paris",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 6.37,
-   "risk": 6.4,
-   "confidence": 0.83,
-   "status": "peaking",
-   "outlets": 23,
-   "countries": [
-    "GBR",
-    "CHN",
-    "AZE",
-    "SAU",
-    "SGP",
-    "USA",
-    "CYP",
-    "NZL",
-    "ARE",
-    "FRA",
-    "DEU",
-    "ISR",
-    "BEL",
-    "AUS"
-   ],
-   "first_seen": "2026-10-22T23:01:00Z",
-   "last_seen": "2026-10-25T15:32:51Z",
-   "page": "event/23956.html",
-   "reports": [
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T23:01:00Z",
-     "headline": "Terrorist shooting in Paris suburb marks 'turning point for France', Macron says",
-     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:01Z",
-     "headline": "Flash: 2 injured in street shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-23T09:49:48Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://news.cgtn.com/news/2026-10-23/news-1RtGXfModzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-23T09:55:33Z",
-     "headline": "Terror investigation underway after drive-by killing near Paris",
-     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T10:26:53Z",
-     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
-     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-23T10:27:00Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T10:35:14Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T10:36:48Z",
-     "headline": "Macron says Paris suburb shooting that killed one, wounded five was terrorist and racist act",
-     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T10:43:27Z",
-     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
-     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T10:43:50Z",
-     "headline": "One killed, four injured in drive-by shooting near Paris",
-     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T10:56:55Z",
-     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
-     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T10:59:46Z",
-     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T11:08:26Z",
-     "headline": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T11:09:36Z",
-     "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T11:14:31Z",
-     "headline": "1 killed, 4 wounded in shooting near Paris",
-     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
-     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:22:00Z",
-     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T11:35:25Z",
-     "headline": "Macron says Paris suburb shooting that killed one person was terrorist, racist act",
-     "url": "https://www.jpost.com/international/article-912650"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-23T11:37:09Z",
-     "headline": "One person killed and 4 injured in suspected Islamophobic shooting near Paris",
-     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T12:06:24Z",
-     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T12:55:18Z",
-     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
-     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-23T13:48:00Z",
-     "headline": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
-     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T13:48:46Z",
-     "headline": "One person killed in deadly shooting in Paris suburbs",
-     "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T14:14:43Z",
-     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T14:24:56Z",
-     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
-     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-23T18:05:00Z",
-     "headline": "Terror probe opened into shooting in Paris suburbs",
-     "url": "https://www.azernews.az/region/266096.html"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T21:26:17Z",
-     "headline": "Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
-     "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T13:23:56Z",
-     "headline": "Suspect in deadly Paris suburb shooting moved to psychiatric unit",
-     "url": "https://www.rfi.fr/en/france/20261025-suspect-in-deadly-paris-suburb-shooting-moved-to-psychiatric-unit"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T15:32:51Z",
-     "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
-    }
-   ]
-  },
-  {
    "id": 23444,
    "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.37,
-   "risk": 1.36,
+   "importance": 6.43,
+   "risk": 1.38,
    "confidence": 0.89,
    "status": "spreading",
    "outlets": 22,
@@ -6813,6 +6596,13 @@
      "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
     },
     {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:54:52Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://tribune.com.pk/story/2636973/real-madrid-beat-barcelona-in-la-liga-clasico"
+    },
+    {
      "outlet": "MyJoyOnline",
      "country": "GHA",
      "time": "2026-10-26T01:05:42Z",
@@ -6832,13 +6622,241 @@
      "time": "2026-10-26T03:45:34Z",
      "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
      "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
+    }
+   ]
+  },
+  {
+   "id": 23956,
+   "title": "France: 1 killed, 4 wounded after shooting near Paris",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 6.37,
+   "risk": 6.4,
+   "confidence": 0.83,
+   "status": "peaking",
+   "outlets": 23,
+   "countries": [
+    "GBR",
+    "CHN",
+    "AZE",
+    "SAU",
+    "SGP",
+    "USA",
+    "CYP",
+    "NZL",
+    "ARE",
+    "FRA",
+    "DEU",
+    "ISR",
+    "BEL",
+    "AUS"
+   ],
+   "first_seen": "2026-10-22T23:01:00Z",
+   "last_seen": "2026-10-25T15:32:51Z",
+   "page": "event/23956.html",
+   "reports": [
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-22T23:01:00Z",
+     "headline": "Terrorist shooting in Paris suburb marks 'turning point for France', Macron says",
+     "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320"
     },
     {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T04:30:00Z",
-     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
-     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:01Z",
+     "headline": "Flash: 2 injured in street shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/1ae1eb59284747a3a796e540bf7aa8f2/c.html"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-23T09:49:48Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://news.cgtn.com/news/2026-10-23/news-1RtGXfModzO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-23T09:55:33Z",
+     "headline": "Terror investigation underway after drive-by killing near Paris",
+     "url": "https://www.independent.co.uk/news/world/europe/shooting-paris-coignieres-yvelines-latest-b3072083.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T10:26:53Z",
+     "headline": "Urgent: 1 killed, 4 wounded in shooting near Paris -- media",
+     "url": "https://english.news.cn/20261023/9739fa92d2b3451294d74af03dd48a4d/c.html"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-23T10:27:00Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://en.apa.az/europe/one-killed-four-injured-in-drive-by-shooting-near-paris-531843"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T10:35:14Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://www.arabnews.com/world/suspect-arrested-after-1-killed-and-several-wounded-in-a-shooting-in-paris-suburb-3007881"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T10:36:48Z",
+     "headline": "Macron says Paris suburb shooting that killed one, wounded five was terrorist and racist act",
+     "url": "https://www.straitstimes.com/world/europe/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-23T10:43:27Z",
+     "headline": "Suspect arrested after 1 killed and several wounded in a shooting in Paris suburb",
+     "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-1-killed-wounded-shooting-paris-137503084"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T10:43:50Z",
+     "headline": "One killed, four injured in drive-by shooting near Paris",
+     "url": "https://cyprus-mail.com/2026/10/23/one-killed-four-injured-in-drive-by-shooting-near-paris"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-23T10:56:55Z",
+     "headline": "Around 70,000 officers deployed across France, Louvre and other museums close",
+     "url": "https://www.stuff.co.nz/world-news/361050491/suspect-arrested-after-1-killed-and-several-wounded-sho"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T10:59:46Z",
+     "headline": "Terror investigation launched after deadly drive-by shooting near Paris",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/terror-investigation-launched-after-drive-by-shooting-near-paris/"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T11:08:26Z",
+     "headline": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T11:09:36Z",
+     "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T11:14:31Z",
+     "headline": "1 killed, 4 wounded in shooting near Paris",
+     "url": "https://english.news.cn/20261023/d698efcde13a43fab3c950635cecf385/c.html"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+     "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:22:00Z",
+     "headline": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+     "url": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-23T11:35:25Z",
+     "headline": "Macron says Paris suburb shooting that killed one person was terrorist, racist act",
+     "url": "https://www.jpost.com/international/article-912650"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-23T11:37:09Z",
+     "headline": "One person killed and 4 injured in suspected Islamophobic shooting near Paris",
+     "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T12:06:24Z",
+     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
+     "url": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T12:55:18Z",
+     "headline": "Deadly shooting west of Paris ‘clearly terrorist’ attack, interior minister says",
+     "url": "https://www.rfi.fr/en/france/20261023-one-killed-four-injured-in-drive-by-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-23T13:48:00Z",
+     "headline": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T13:48:46Z",
+     "headline": "One person killed in deadly shooting in Paris suburbs",
+     "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-23T14:14:43Z",
+     "headline": "One killed, four wounded in 'terrorist' shooting near Paris, authorities say",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-23/ty-article/.premium/one-killed-four-wounded-in-terrorist-shooting-near-paris-authorities-say/000001a1-690d-d46d-a1fd-e90d46070000"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T14:24:56Z",
+     "headline": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
+     "url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-23T18:05:00Z",
+     "headline": "Terror probe opened into shooting in Paris suburbs",
+     "url": "https://www.azernews.az/region/266096.html"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T21:26:17Z",
+     "headline": "Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
+     "url": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T13:23:56Z",
+     "headline": "Suspect in deadly Paris suburb shooting moved to psychiatric unit",
+     "url": "https://www.rfi.fr/en/france/20261025-suspect-in-deadly-paris-suburb-shooting-moved-to-psychiatric-unit"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T15:32:51Z",
+     "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
     }
    ]
   },
@@ -7345,192 +7363,14 @@
    ]
   },
   {
-   "id": 24414,
-   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
-   "category": "Technology & Cyber",
-   "cat": 5,
-   "importance": 6.24,
-   "risk": 1.55,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "UKR",
-    "AZE",
-    "SGP",
-    "PHL",
-    "SAU",
-    "FRA",
-    "USA",
-    "BEL",
-    "IND",
-    "TUR",
-    "GBR",
-    "AUS",
-    "NLD"
-   ],
-   "first_seen": "2026-10-23T11:06:00Z",
-   "last_seen": "2026-10-25T14:09:46Z",
-   "page": "event/24414.html",
-   "reports": [
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-23T11:06:00Z",
-     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
-     "url": "https://www.kyivpost.com/post/87981"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-24T07:57:46Z",
-     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
-     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T08:29:00Z",
-     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
-     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T08:48:06Z",
-     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-24T08:58:00Z",
-     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
-     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T09:16:59Z",
-     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-24T09:28:32Z",
-     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
-     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T09:32:09Z",
-     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
-     "url": "https://english.aawsat.com/node/5333048"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T09:48:23Z",
-     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
-     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T10:08:45Z",
-     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-24T10:09:36Z",
-     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
-     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-24T10:11:40Z",
-     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
-     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-24T11:04:40Z",
-     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
-     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-24T11:40:04Z",
-     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
-     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T11:51:20Z",
-     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
-     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-24T12:07:11Z",
-     "headline": "Ukraine reports Starlink operating again after slowdown",
-     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T12:12:40Z",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
-     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T13:09:37Z",
-     "headline": "Ukraine says Starlink at normal speed after delays impede military",
-     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-24T13:34:00Z",
-     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
-     "url": "https://www.kyivpost.com/post/88079"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-25T14:09:46Z",
-     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
-     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
-    }
-   ]
-  },
-  {
    "id": 17275,
    "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
    "category": "Energy & Environment",
    "cat": 3,
-   "importance": 6.21,
-   "risk": 1.91,
+   "importance": 6.28,
+   "risk": 1.92,
    "confidence": 0.9,
-   "status": "spreading",
+   "status": "peaking",
    "outlets": 18,
    "countries": [
     "SAU",
@@ -7744,6 +7584,13 @@
      "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
     },
     {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:51:33Z",
+     "headline": "Antonelli wins US Grand Prix",
+     "url": "https://tribune.com.pk/story/2636972/antonelli-wins-us-grand-prix"
+    },
+    {
      "outlet": "Arab News",
      "country": "SAU",
      "time": "2026-10-26T01:07:06Z",
@@ -7784,6 +7631,184 @@
      "time": "2026-10-26T05:59:46Z",
      "headline": "Antonelli wins US Grand Prix but must wait for title",
      "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
+    }
+   ]
+  },
+  {
+   "id": 24414,
+   "title": "Ukraine says Starlink, Starshield connections return to normal speeds",
+   "category": "Technology & Cyber",
+   "cat": 5,
+   "importance": 6.24,
+   "risk": 1.55,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "UKR",
+    "AZE",
+    "SGP",
+    "PHL",
+    "SAU",
+    "FRA",
+    "USA",
+    "BEL",
+    "IND",
+    "TUR",
+    "GBR",
+    "AUS",
+    "NLD"
+   ],
+   "first_seen": "2026-10-23T11:06:00Z",
+   "last_seen": "2026-10-25T14:09:46Z",
+   "page": "event/24414.html",
+   "reports": [
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-23T11:06:00Z",
+     "headline": "Ukraine Still Recording Starshield Connectivity Losses at 161 Kph, Defense Ministry Source Says",
+     "url": "https://www.kyivpost.com/post/87981"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-24T07:57:46Z",
+     "headline": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+     "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T08:29:00Z",
+     "headline": "Starshield operations restored to speeds of more than 400 km/h, Ukraine's Defense Ministry says",
+     "url": "https://en.apa.az/europe/starshield-operations-restored-to-speeds-of-more-than-400-kmh-ukraines-defense-ministry-says-531982"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T08:48:06Z",
+     "headline": "Ukraine says it has ‘stable connection’ to Starlink again",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-has-stable-connection-to-starlink-govt"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-24T08:58:00Z",
+     "headline": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed",
+     "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T09:16:59Z",
+     "headline": "Musk accuses Ukraine of Starlink violations after Kyiv says speeds back to normal",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "outlet": "Rappler",
+     "country": "PHL",
+     "time": "2026-10-24T09:28:32Z",
+     "headline": "Ukraine says Starlink and Starshield operating at 400 kilometers per hour after week of throttling",
+     "url": "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T09:32:09Z",
+     "headline": "Govt: Ukraine Has 'Stable Connection' to Starlink",
+     "url": "https://english.aawsat.com/node/5333048"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T09:48:23Z",
+     "headline": "Ukraine says Starlink and Starshield connection 'stable' again",
+     "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:08:45Z",
+     "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-24T10:09:36Z",
+     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
+     "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-24T10:11:40Z",
+     "headline": "Ukraine says Starlink, Starshield connections return to normal speeds",
+     "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-24T11:04:40Z",
+     "headline": "Zelenskyy Says Ukraine's Starlink Speed Restored As Moscow And Kyiv Exchange Attacks",
+     "url": "https://www.rferl.org/a/kraine-starshield-satellite-speeds-restored-drone-operations/33883512.html"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-24T11:40:04Z",
+     "headline": "Elon Musk says SpaceX throttled Ukraine Starlink speeds over drone strikes",
+     "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T11:51:20Z",
+     "headline": "Ukraine says Starshield speed restrictions lifted after high-level contacts",
+     "url": "https://www.aa.com.tr/en/world/ukraine-says-starshield-speed-restrictions-lifted-after-high-level-contacts/4099455"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-24T12:07:11Z",
+     "headline": "Ukraine reports Starlink operating again after slowdown",
+     "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-24T12:12:40Z",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Ukraine says Starlink, Starshield services restored after days of restrictions",
+     "url": "https://www.turkiyetoday.com/world/ukraine-says-starlink-starshield-services-restored-after-days-of-restrictions-3230941"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T13:09:37Z",
+     "headline": "Ukraine says Starlink at normal speed after delays impede military",
+     "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-24T13:34:00Z",
+     "headline": "Zelensky Says Starlink Speeds Fully Restored, Urges Interceptor Deliveries",
+     "url": "https://www.kyivpost.com/post/88079"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-25T14:09:46Z",
+     "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
+     "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
     }
    ]
   },
@@ -10533,6 +10558,167 @@
    ]
   },
   {
+   "id": 25466,
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.95,
+   "risk": 6.49,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "SAU",
+    "CHN",
+    "TUR",
+    "KOR",
+    "SGP",
+    "FRA",
+    "QAT",
+    "PAK",
+    "KWT",
+    "IRN"
+   ],
+   "first_seen": "2026-10-23T16:51:44Z",
+   "last_seen": "2026-10-26T06:07:57Z",
+   "page": "event/25466.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T16:51:44Z",
+     "headline": "Aden Governor After Escaping Airport Missile Attack: Hostilities Will Not Deter People of Yemen",
+     "url": "https://english.aawsat.com/node/5332849"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:18:05Z",
+     "headline": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
+     "url": "https://www.arabnews.com/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3008007"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T14:09:39Z",
+     "headline": "Urgent: Ballistic missile attack triggers loud explosions in Yemen's Aden",
+     "url": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "3 powerful explosions heard in Yemen’s interim capital Aden",
+     "url": "https://www.aa.com.tr/en/middle-east/3-powerful-explosions-heard-in-yemen-s-interim-capital-aden/4099652"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T14:27:59Z",
+     "headline": "Yemen says Houthis target Aden airport, port and coast guard facilities with ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-says-houthis-target-aden-airport-port-and-coast-guard-facilities-with-ballistic-missiles/4099652"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T14:30:49Z",
+     "headline": "Explosions heard in Yemen's city of Aden",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T15:05:40Z",
+     "headline": "Yemen's Houthis claim attack on Aden naval base, military camp",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T15:57:01Z",
+     "headline": "Yemen’s Houthis claim attack on Aden after accusing Saudi Arabia of deadly strikes",
+     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-attack-on-aden-after-accusing-saudi-arabia-of-deadly-strikes-3230959"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:07:02Z",
+     "headline": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
+     "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T17:26:55Z",
+     "headline": "Iran-allied Houthis say they attacked Saudi oil sites, strikes reported on Yemen’s Aden",
+     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-24T17:50:25Z",
+     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T18:13:35Z",
+     "headline": "Houthi missiles target Aden airport, coastguard",
+     "url": "https://www.newarab.com/news/houthi-missiles-target-aden-airport-coastguard"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T21:08:51Z",
+     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T20:59:05Z",
+     "headline": "Explosion rocks Yemen's Aden as suspected Houthi missile lands near military headquarters",
+     "url": "https://www.aa.com.tr/en/middle-east/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-near-military-headquarters/4100488"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-25T21:32:00Z",
+     "headline": "Explosion Rocks Yemen’s Aden as Suspected Houthi Missile Lands in Remote Area",
+     "url": "https://www.arabtimesonline.com/news/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-in-remote-area/"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T03:44:39Z",
+     "headline": "Yemen accuses Houthis of targeting displacement camp with 3 ballistic missiles",
+     "url": "https://www.aa.com.tr/en/middle-east/yemen-accuses-houthis-of-targeting-displacement-camp-with-3-ballistic-missiles/4100559"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:02:33Z",
+     "headline": "Yemen says missile strikes hit Saudi mercenaries",
+     "url": "https://en.mehrnews.com/news/248915/Yemen-says-missile-strikes-hit-Saudi-mercenaries"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T04:08:41Z",
+     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T06:07:57Z",
+     "headline": "Houthis claim missile attacks on Saudi forces in Yemen's Aden, Lahij",
+     "url": "https://www.aa.com.tr/en/middle-east/houthis-claim-missile-attacks-on-saudi-forces-in-yemens-aden-lahij/4100615"
+    }
+   ]
+  },
+  {
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
@@ -10715,156 +10901,142 @@
    ]
   },
   {
-   "id": 25466,
-   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 5.88,
-   "risk": 6.43,
-   "confidence": 0.87,
+   "importance": 5.9,
+   "risk": 1.86,
+   "confidence": 0.92,
    "status": "spreading",
-   "outlets": 15,
+   "outlets": 13,
    "countries": [
-    "SAU",
-    "CHN",
-    "TUR",
-    "KOR",
-    "SGP",
-    "FRA",
-    "QAT",
     "PAK",
-    "KWT",
-    "IRN"
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE"
    ],
-   "first_seen": "2026-10-23T16:51:44Z",
-   "last_seen": "2026-10-26T04:36:14Z",
-   "page": "event/25466.html",
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T06:32:04Z",
+   "page": "event/27258.html",
    "reports": [
     {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T16:51:44Z",
-     "headline": "Aden Governor After Escaping Airport Missile Attack: Hostilities Will Not Deter People of Yemen",
-     "url": "https://english.aawsat.com/node/5332849"
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
     },
     {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:18:05Z",
-     "headline": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
-     "url": "https://www.arabnews.com/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3008007"
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "CDF Munir to attend joint meeting with Saudi defence, Turkish intelligence chiefs in Tehran: IRNA",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
     },
     {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T14:09:39Z",
-     "headline": "Urgent: Ballistic missile attack triggers loud explosions in Yemen's Aden",
-     "url": "https://english.news.cn/20261024/f480b0064e5f4a52b736b04d64db5378/c.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T14:27:59Z",
-     "headline": "3 powerful explosions heard in Yemen’s interim capital Aden",
-     "url": "https://www.aa.com.tr/en/middle-east/3-powerful-explosions-heard-in-yemen-s-interim-capital-aden/4099652"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T14:27:59Z",
-     "headline": "Yemen says Houthis target Aden airport, port and coast guard facilities with ballistic missiles",
-     "url": "https://www.aa.com.tr/en/middle-east/yemen-says-houthis-target-aden-airport-port-and-coast-guard-facilities-with-ballistic-missiles/4099652"
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
     },
     {
      "outlet": "Middle East Eye",
      "country": "INT",
-     "time": "2026-10-24T14:30:49Z",
-     "headline": "Explosions heard in Yemen's city of Aden",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T15:05:40Z",
-     "headline": "Yemen's Houthis claim attack on Aden naval base, military camp",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T15:57:01Z",
-     "headline": "Yemen’s Houthis claim attack on Aden after accusing Saudi Arabia of deadly strikes",
-     "url": "https://www.turkiyetoday.com/region/yemens-houthis-claim-attack-on-aden-after-accusing-saudi-arabia-of-deadly-strikes-3230959"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:07:02Z",
-     "headline": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
-     "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss"
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
     },
     {
      "outlet": "The Straits Times",
      "country": "SGP",
-     "time": "2026-10-24T17:26:55Z",
-     "headline": "Iran-allied Houthis say they attacked Saudi oil sites, strikes reported on Yemen’s Aden",
-     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Top officials from Mecca Pact countries to meet Iranian officials in Tehran: Sources",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
     },
     {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T17:50:25Z",
-     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
     },
     {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T18:13:35Z",
-     "headline": "Houthi missiles target Aden airport, coastguard",
-     "url": "https://www.newarab.com/news/houthi-missiles-target-aden-airport-coastguard"
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
     },
     {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T21:08:51Z",
-     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T20:59:05Z",
-     "headline": "Explosion rocks Yemen's Aden as suspected Houthi missile lands near military headquarters",
-     "url": "https://www.aa.com.tr/en/middle-east/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-near-military-headquarters/4100488"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-25T21:32:00Z",
-     "headline": "Explosion Rocks Yemen’s Aden as Suspected Houthi Missile Lands in Remote Area",
-     "url": "https://www.arabtimesonline.com/news/explosion-rocks-yemens-aden-as-suspected-houthi-missile-lands-in-remote-area/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T03:44:39Z",
-     "headline": "Yemen accuses Houthis of targeting displacement camp with 3 ballistic missiles",
-     "url": "https://www.aa.com.tr/en/middle-east/yemen-accuses-houthis-of-targeting-displacement-camp-with-3-ballistic-missiles/4100559"
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
     },
     {
      "outlet": "Mehr News (English)",
      "country": "IRN",
-     "time": "2026-10-26T04:02:33Z",
-     "headline": "Yemen says missile strikes hit Saudi mercenaries",
-     "url": "https://en.mehrnews.com/news/248915/Yemen-says-missile-strikes-hit-Saudi-mercenaries"
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
     },
     {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T04:08:41Z",
-     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries' meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Minister of Defence heading delegation to Tehran with Makkah pact countries",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
     }
    ]
   },
@@ -12068,6 +12240,294 @@
    ]
   },
   {
+   "id": 16196,
+   "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.74,
+   "risk": 4.61,
+   "confidence": 0.94,
+   "status": "fading",
+   "outlets": 19,
+   "countries": [
+    "USA",
+    "RUS",
+    "SGP",
+    "CAN",
+    "UKR",
+    "CHN",
+    "EGY",
+    "FRA",
+    "AZE",
+    "TUR",
+    "BGR"
+   ],
+   "first_seen": "2026-10-21T07:43:43Z",
+   "last_seen": "2026-10-26T04:11:00Z",
+   "page": "event/16196.html",
+   "reports": [
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-21T07:43:43Z",
+     "headline": "After Witkoff Meeting, Putin 'Ready To Resume' US-Led Peace Talks With Ukraine",
+     "url": "https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html"
+    },
+    {
+     "outlet": "PBS NewsHour World",
+     "country": "USA",
+     "time": "2026-10-21T13:56:19Z",
+     "headline": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
+     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T13:58:51Z",
+     "headline": "Putin and Witkoff discuss resumption of trilateral talks on Ukraine — Kremlin aide",
+     "url": "https://tass.com/politics/2205599"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:05:00Z",
+     "headline": "Putin says Russia ready to resume trilateral talks in November — aide",
+     "url": "https://tass.com/politics/2205585"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-21T14:06:28Z",
+     "headline": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
+     "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:25:23Z",
+     "headline": "New approaches by EU, Ukraine of little use for settlement — Kremlin aide",
+     "url": "https://tass.com/politics/2205653"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:36:05Z",
+     "headline": "Kremlin says it’s ready to resume trilateral talks but sees little ‘useful’ in new proposals from Ukraine and the EU",
+     "url": "https://meduza.io/en/news/2026/10/21/kremlin-says-it-s-ready-to-resume-trilateral-talks-but-sees-little-useful-in-new-proposals-from-ukraine-and-the-eu"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:49:38Z",
+     "headline": "New round of trilateral talks on Ukraine could take place in Abu Dhabi — Kremlin aide",
+     "url": "https://tass.com/politics/2205685"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T14:58:21Z",
+     "headline": "Putin yet to decide on Russian delegation to new trilateral Ukraine talks",
+     "url": "https://tass.com/politics/2205691"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:05:57Z",
+     "headline": "Everyone interested in meeting between Russia, China and US, Kremlin aide says",
+     "url": "https://tass.com/politics/2205699"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:35:20Z",
+     "headline": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
+     "url": "https://tass.com/politics/2205735"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-21T15:40:53Z",
+     "headline": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
+     "url": "https://tass.com/politics/2205747"
+    },
+    {
+     "outlet": "Global News (World)",
+     "country": "CAN",
+     "time": "2026-10-21T15:42:32Z",
+     "headline": "Putin to resume three-way talks with Ukraine, Washington: Kremlin",
+     "url": "https://globalnews.ca/news/12111003/putin-to-resume-ukraine-washington-talks/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T16:14:00Z",
+     "headline": "Putin ‘Ready’ for Three-Way Ukraine Talks in November, Kremlin Says",
+     "url": "https://www.kyivpost.com/post/87775"
+    },
+    {
+     "outlet": "Interfax-Ukraine (English)",
+     "country": "UKR",
+     "time": "2026-10-21T17:20:10Z",
+     "headline": "Moscow tells Witkoff it is ready to resume trilateral talks in first ten days of Nov",
+     "url": "https://en.interfax.com.ua/news/general/1224138.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-21T17:41:08Z",
+     "headline": "Ukraine Counts on Beijing’s ‘Constructive Role’ as Sybiha Meets Chinese Ambassador",
+     "url": "https://www.kyivpost.com/post/87782"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Russia ready to resume trilateral talks with US, Ukraine in mid-November",
+     "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad8f19be4b06d4aa05640d2.html"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-22T13:38:18Z",
+     "headline": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
+     "url": "https://www.egyptindependent.com/massive-strikes-hit-kyiv-hours-after-putin-agrees-to-fresh-peace-talks/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T13:39:13Z",
+     "headline": "Kremlin spokesman weighs in on upcoming trilateral talks with Ukraine",
+     "url": "https://tass.com/politics/2206323"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T15:50:09Z",
+     "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+     "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-22T16:43:59Z",
+     "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T18:57:19Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://tass.com/politics/2206531"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-22T18:58:00Z",
+     "headline": "Putin: Russia has told US it is ready to resume trilateral talks",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059305/"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T19:16:00Z",
+     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
+     "url": "https://en.apa.az/cis-countries/russia-ready-to-resume-trilateral-talks-on-ukraine-putin-531713"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-22T22:41:21Z",
+     "headline": "Talks with US,Ukraine to focus on security guarantees — Putin",
+     "url": "https://tass.com/politics/2206565"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T22:56:45Z",
+     "headline": "Putin reaffirms Russia’s readiness to resume trilateral peace talks on Ukraine war",
+     "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-reaffirms-russia-s-readiness-to-resume-trilateral-peace-talks-on-ukraine-war/4097897"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-23T04:59:52Z",
+     "headline": "Putin says talks must focus on security for Russia, Ukraine and Europe",
+     "url": "https://news.cgtn.com/news/2026-10-23/Putin-says-talks-must-focus-on-security-for-Russia-Ukraine-and-Europe-1Rtigdo2s00/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T08:00:49Z",
+     "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
+     "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T17:23:06Z",
+     "headline": "Flash: Ukraine ready for trilateral meeting with U.S., Russia: Zelensky",
+     "url": "https://english.news.cn/20261024/b20146e6b11f408785605554ff5b2c62/c.html"
+    },
+    {
+     "outlet": "Ukrinform (English)",
+     "country": "UKR",
+     "time": "2026-10-23T18:39:00Z",
+     "headline": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
+     "url": "https://www.ukrinform.net/rubric-polytics/4177634-zelensky-ukraine-ready-for-negotiations-at-any-time-russia-determines-whether-they-take-place.html"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-23T19:45:30Z",
+     "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
+     "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-25T11:47:00Z",
+     "headline": "Russia ready to hold preliminary talks with Ukraine after 4 November",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/25/8059626/"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "country": "UKR",
+     "time": "2026-10-25T13:05:29Z",
+     "headline": "Moscow ready to resume trilateral talks with Ukraine, US after Nov. 4, Kremlin aide says",
+     "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T13:07:00Z",
+     "headline": "Russia Open to US-Ukraine Trilateral Talks After Nov. 4",
+     "url": "https://www.kyivpost.com/post/88122"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T20:55:15Z",
+     "headline": "Ukraine-US-Russia Talks May Resume in November as Trump Eyes Business With Both Sides",
+     "url": "https://www.novinite.com/view_news.php?id=241254"
+    },
+    {
+     "outlet": "CGTN (World)",
+     "country": "CHN",
+     "time": "2026-10-26T02:34:41Z",
+     "headline": "Russia, US, Ukraine signal plans for trilateral talks in November",
+     "url": "https://news.cgtn.com/news/2026-10-26/Russia-US-Ukraine-signal-plans-for-trilateral-talks-in-November-1Ry4HHmq1xe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+    },
+    {
+     "outlet": "Ukrainska Pravda (English)",
+     "country": "UKR",
+     "time": "2026-10-26T04:11:00Z",
+     "headline": "US House speaker says Washington is close to trilateral talks on Ukraine",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059682/"
+    }
+   ]
+  },
+  {
    "id": 6981,
    "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
    "category": "Business",
@@ -12705,287 +13165,6 @@
      "time": "2026-10-25T16:37:09Z",
      "headline": "Arsenal join Man City at summit after Villa upset",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
-    }
-   ]
-  },
-  {
-   "id": 16196,
-   "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.68,
-   "risk": 4.4,
-   "confidence": 0.94,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "USA",
-    "RUS",
-    "SGP",
-    "CAN",
-    "UKR",
-    "CHN",
-    "EGY",
-    "FRA",
-    "AZE",
-    "TUR",
-    "BGR"
-   ],
-   "first_seen": "2026-10-21T07:43:43Z",
-   "last_seen": "2026-10-26T02:34:41Z",
-   "page": "event/16196.html",
-   "reports": [
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-21T07:43:43Z",
-     "headline": "After Witkoff Meeting, Putin 'Ready To Resume' US-Led Peace Talks With Ukraine",
-     "url": "https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html"
-    },
-    {
-     "outlet": "PBS NewsHour World",
-     "country": "USA",
-     "time": "2026-10-21T13:56:19Z",
-     "headline": "Putin agrees to resume trilateral Russia-Ukraine-U.S. talks next month",
-     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T13:58:51Z",
-     "headline": "Putin and Witkoff discuss resumption of trilateral talks on Ukraine — Kremlin aide",
-     "url": "https://tass.com/politics/2205599"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:05:00Z",
-     "headline": "Putin says Russia ready to resume trilateral talks in November — aide",
-     "url": "https://tass.com/politics/2205585"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-21T14:06:28Z",
-     "headline": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
-     "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:25:23Z",
-     "headline": "New approaches by EU, Ukraine of little use for settlement — Kremlin aide",
-     "url": "https://tass.com/politics/2205653"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:36:05Z",
-     "headline": "Kremlin says it’s ready to resume trilateral talks but sees little ‘useful’ in new proposals from Ukraine and the EU",
-     "url": "https://meduza.io/en/news/2026/10/21/kremlin-says-it-s-ready-to-resume-trilateral-talks-but-sees-little-useful-in-new-proposals-from-ukraine-and-the-eu"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:49:38Z",
-     "headline": "New round of trilateral talks on Ukraine could take place in Abu Dhabi — Kremlin aide",
-     "url": "https://tass.com/politics/2205685"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T14:58:21Z",
-     "headline": "Putin yet to decide on Russian delegation to new trilateral Ukraine talks",
-     "url": "https://tass.com/politics/2205691"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:05:57Z",
-     "headline": "Everyone interested in meeting between Russia, China and US, Kremlin aide says",
-     "url": "https://tass.com/politics/2205699"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:35:20Z",
-     "headline": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
-     "url": "https://tass.com/politics/2205735"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-21T15:40:53Z",
-     "headline": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
-     "url": "https://tass.com/politics/2205747"
-    },
-    {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T15:42:32Z",
-     "headline": "Putin to resume three-way talks with Ukraine, Washington: Kremlin",
-     "url": "https://globalnews.ca/news/12111003/putin-to-resume-ukraine-washington-talks/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T16:14:00Z",
-     "headline": "Putin ‘Ready’ for Three-Way Ukraine Talks in November, Kremlin Says",
-     "url": "https://www.kyivpost.com/post/87775"
-    },
-    {
-     "outlet": "Interfax-Ukraine (English)",
-     "country": "UKR",
-     "time": "2026-10-21T17:20:10Z",
-     "headline": "Moscow tells Witkoff it is ready to resume trilateral talks in first ten days of Nov",
-     "url": "https://en.interfax.com.ua/news/general/1224138.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-21T17:41:08Z",
-     "headline": "Ukraine Counts on Beijing’s ‘Constructive Role’ as Sybiha Meets Chinese Ambassador",
-     "url": "https://www.kyivpost.com/post/87782"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T07:07:55Z",
-     "headline": "Russia ready to resume trilateral talks with US, Ukraine in mid-November",
-     "url": "https://www.chinadaily.com.cn/a/202610/22/WS6ad8f19be4b06d4aa05640d2.html"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-22T13:38:18Z",
-     "headline": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
-     "url": "https://www.egyptindependent.com/massive-strikes-hit-kyiv-hours-after-putin-agrees-to-fresh-peace-talks/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T13:39:13Z",
-     "headline": "Kremlin spokesman weighs in on upcoming trilateral talks with Ukraine",
-     "url": "https://tass.com/politics/2206323"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T15:50:09Z",
-     "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-     "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T16:43:59Z",
-     "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
-     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T18:57:19Z",
-     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
-     "url": "https://tass.com/politics/2206531"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-22T18:58:00Z",
-     "headline": "Putin: Russia has told US it is ready to resume trilateral talks",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059305/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T19:16:00Z",
-     "headline": "Russia ready to resume trilateral talks on Ukraine — Putin",
-     "url": "https://en.apa.az/cis-countries/russia-ready-to-resume-trilateral-talks-on-ukraine-putin-531713"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-22T22:41:21Z",
-     "headline": "Talks with US,Ukraine to focus on security guarantees — Putin",
-     "url": "https://tass.com/politics/2206565"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T22:56:45Z",
-     "headline": "Putin reaffirms Russia’s readiness to resume trilateral peace talks on Ukraine war",
-     "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-reaffirms-russia-s-readiness-to-resume-trilateral-peace-talks-on-ukraine-war/4097897"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-23T04:59:52Z",
-     "headline": "Putin says talks must focus on security for Russia, Ukraine and Europe",
-     "url": "https://news.cgtn.com/news/2026-10-23/Putin-says-talks-must-focus-on-security-for-Russia-Ukraine-and-Europe-1Rtigdo2s00/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T08:00:49Z",
-     "headline": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
-     "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T17:23:06Z",
-     "headline": "Flash: Ukraine ready for trilateral meeting with U.S., Russia: Zelensky",
-     "url": "https://english.news.cn/20261024/b20146e6b11f408785605554ff5b2c62/c.html"
-    },
-    {
-     "outlet": "Ukrinform (English)",
-     "country": "UKR",
-     "time": "2026-10-23T18:39:00Z",
-     "headline": "Zelensky: Ukraine ready for negotiations at any time; Russia determines whether they take place",
-     "url": "https://www.ukrinform.net/rubric-polytics/4177634-zelensky-ukraine-ready-for-negotiations-at-any-time-russia-determines-whether-they-take-place.html"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-23T19:45:30Z",
-     "headline": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
-     "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/"
-    },
-    {
-     "outlet": "Ukrainska Pravda (English)",
-     "country": "UKR",
-     "time": "2026-10-25T11:47:00Z",
-     "headline": "Russia ready to hold preliminary talks with Ukraine after 4 November",
-     "url": "https://www.pravda.com.ua/eng/news/2026/10/25/8059626/"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "country": "UKR",
-     "time": "2026-10-25T13:05:29Z",
-     "headline": "Moscow ready to resume trilateral talks with Ukraine, US after Nov. 4, Kremlin aide says",
-     "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T13:07:00Z",
-     "headline": "Russia Open to US-Ukraine Trilateral Talks After Nov. 4",
-     "url": "https://www.kyivpost.com/post/88122"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T20:55:15Z",
-     "headline": "Ukraine-US-Russia Talks May Resume in November as Trump Eyes Business With Both Sides",
-     "url": "https://www.novinite.com/view_news.php?id=241254"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-26T02:34:41Z",
-     "headline": "Russia, US, Ukraine signal plans for trilateral talks in November",
-     "url": "https://news.cgtn.com/news/2026-10-26/Russia-US-Ukraine-signal-plans-for-trilateral-talks-in-November-1Ry4HHmq1xe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
     }
    ]
   },
@@ -13933,7 +14112,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T22:45:01Z",
-     "headline": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+     "headline": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
     },
     {
@@ -14308,178 +14487,6 @@
      "time": "2026-10-25T16:34:55Z",
      "headline": "Mass rally against Netanyahu government just ahead of elections",
      "url": "https://www.tehrantimes.com/news/531493/Mass-rally-against-Netanyahu-government-just-ahead-of-elections"
-    }
-   ]
-  },
-  {
-   "id": 20511,
-   "title": "Clashes erupt between protesters and police in France",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 5.61,
-   "risk": 5.67,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 18,
-   "countries": [
-    "GBR",
-    "AZE",
-    "USA",
-    "IND",
-    "FRA",
-    "SGP",
-    "AUS",
-    "IRL",
-    "BGD",
-    "KOR",
-    "QAT",
-    "JPN",
-    "UKR",
-    "CHN"
-   ],
-   "first_seen": "2026-10-22T10:06:32Z",
-   "last_seen": "2026-10-26T04:36:14Z",
-   "page": "event/20511.html",
-   "reports": [
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:06:32Z",
-     "headline": "Violent clashes erupt between Spanish police and anti-fascist protesters days after France riots",
-     "url": "https://www.independent.co.uk/news/world/europe/spain-protests-riot-police-france-europe-b3071250.html"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:47:05Z",
-     "headline": "Protests, clashes erupt in Tunisia over recent deaths",
-     "url": "https://www.newarab.com/news/protests-clashes-erupt-tunisia-over-recent-deaths"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T12:19:00Z",
-     "headline": "Clashes erupt between protesters and police in France",
-     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-531994"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T13:27:00Z",
-     "headline": "Clashes erupt between protesters and police in France - UPDATED",
-     "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-updated-531994"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-24T15:16:15Z",
-     "headline": "It’s not just France — Protesters are marching across Europe as part of the newly formed ‘Oct. 17 Movement’",
-     "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-24T15:31:27Z",
-     "headline": "Over 1000 arrests, hundreds injured in violent protests across France, as riots rage on in Spain and Albania",
-     "url": "https://en.protothema.gr/2026/10/24/france-rocked-by-fresh-protests-as-police-fire-tear-gas-in-several-cities-violent-clashes-erupt-in-albania/"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-24T16:28:41Z",
-     "headline": "France protests latest: 135 arrested and tear gas fired at demonstrators as unrest erupts",
-     "url": "https://www.independent.co.uk/news/world/europe/france-protests-paris-live-updates-police-b3072749.html"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-24T16:51:55Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://www.pbs.org/newshour/world/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-24T17:24:54Z",
-     "headline": "Over 400,000 March Across France, Clashes Erupt In Paris",
-     "url": "https://www.ndtv.com/world-news/over-400-000-march-across-france-against-school-funding-rising-living-costs-challenging-macron-12231091#publisher=newsstand"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-24T17:50:19Z",
-     "headline": "France: Clashes erupt as protests sweep across cities",
-     "url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T18:11:00Z",
-     "headline": "Fresh clashes rock France as protesters march on",
-     "url": "https://www.channelnewsasia.com/world/fresh-clashes-rock-france-protesters-march-6489221"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T20:57:07Z",
-     "headline": "Nearly 1,000 arrested as fresh clashes erupt across France",
-     "url": "https://www.sbs.com.au/news/article/nearly-1-000-arrested-as-fresh-clashes-erupt-across-france/56vps6qt8"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T21:23:15Z",
-     "headline": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-     "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T01:20:52Z",
-     "headline": "Over 1,300 people arrested during protests in France",
-     "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Fresh clashes rock France as protesters march on",
-     "url": "https://www.thedailystar.net/news/world/news/fresh-clashes-rock-france-protesters-march-4306821"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T04:17:03Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://www.koreatimes.co.kr/world/20261025/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt?utm_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T07:28:47Z",
-     "headline": "Photos: Clashes erupt in France during protests over rising living costs",
-     "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-25T07:30:05Z",
-     "headline": "Europe up in arms: Nearly 1,000 arrested in France, violent clashes in Albania and Spain, as protesters storm Colosseum",
-     "url": "https://en.protothema.gr/2026/10/25/europe-up-in-arms-nearly-1000-arrested-in-france-violent-clashes-in-albania-and-spain-as-protesters-storm-colosseum/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-25T08:00:10Z",
-     "headline": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-     "url": "https://mainichi.jp/english/articles/20261025/p2g/00m/0in/014000c"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:34:00Z",
-     "headline": "Fresh Clashes Rock France as Protesters March On",
-     "url": "https://www.kyivpost.com/post/88102"
     }
    ]
   }
