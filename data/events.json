@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T05:44:41Z",
+ "generated": "2026-10-26T06:01:43Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.4,
-   "risk": 3.64,
+   "importance": 8.63,
+   "risk": 3.68,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 45,
+   "outlets": 48,
    "countries": [
     "QAT",
     "USA",
@@ -46,10 +46,11 @@
     "IRN",
     "PER",
     "ZAF",
-    "IRQ"
+    "IRQ",
+    "CYP"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T05:32:12Z",
+   "last_seen": "2026-10-26T05:52:20Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -335,337 +336,12 @@
    ]
   },
   {
-   "id": 20210,
-   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 8.16,
-   "risk": 3.95,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 51,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR",
-    "GRC",
-    "IRL",
-    "BRA",
-    "AUS",
-    "CAN",
-    "SAU",
-    "CHN",
-    "NZL",
-    "ARE",
-    "KOR",
-    "JPN"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T04:45:21Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T11:49:36Z",
-     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
-     "url": "https://www.novinite.com/view_news.php?id=241244"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T12:26:10Z",
-     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
-     "url": "https://www.novinite.com/view_news.php?id=241247"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-25T12:57:13Z",
-     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:40:10Z",
-     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T14:01:55Z",
-     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
-     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
-    }
-   ]
-  },
-  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.97,
-   "risk": 8.01,
+   "importance": 8.1,
+   "risk": 8.11,
    "confidence": 0.9,
    "status": "spreading",
    "outlets": 65,
@@ -708,7 +384,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T05:37:57Z",
+   "last_seen": "2026-10-26T05:57:49Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -990,6 +666,332 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    }
+   ]
+  },
+  {
+   "id": 20210,
+   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.69,
+   "risk": 4.11,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 53,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC",
+    "IRL",
+    "BRA",
+    "AUS",
+    "CAN",
+    "SAU",
+    "CHN",
+    "NZL",
+    "ARE",
+    "KOR",
+    "IND",
+    "JPN"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-26T05:50:00Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T11:49:36Z",
+     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
+     "url": "https://www.novinite.com/view_news.php?id=241244"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T12:26:10Z",
+     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
+     "url": "https://www.novinite.com/view_news.php?id=241247"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -5452,7 +5454,7 @@
    "cat": 1,
    "importance": 6.51,
    "risk": 1.69,
-   "confidence": 0.9,
+   "confidence": 0.91,
    "status": "spreading",
    "outlets": 38,
    "countries": [
@@ -5480,7 +5482,7 @@
     "KOR"
    ],
    "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T04:12:03Z",
+   "last_seen": "2026-10-26T05:41:54Z",
    "page": "event/24261.html",
    "reports": [
     {
@@ -6267,257 +6269,6 @@
      "time": "2026-10-25T18:08:38Z",
      "headline": "Obama blasts Trump’s ‘chaos, cruelty’",
      "url": "https://www.thedailystar.net/news/world/united-states/news/obama-blasts-trumps-chaos-cruelty-4307431"
-    }
-   ]
-  },
-  {
-   "id": 17275,
-   "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 6.44,
-   "risk": 1.99,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 17,
-   "countries": [
-    "SAU",
-    "PAK",
-    "ARE",
-    "TWN",
-    "IND",
-    "BRA",
-    "ZAF",
-    "CYP",
-    "JAM",
-    "SGP",
-    "AUS",
-    "UGA",
-    "NLD",
-    "NAM",
-    "KOR",
-    "TUR"
-   ],
-   "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-26T03:41:19Z",
-   "page": "event/17275.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T04:32:28Z",
-     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
-     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T06:47:07Z",
-     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
-     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T02:06:21Z",
-     "headline": "Antonelli eyes perfect weekend in title bid",
-     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T04:28:28Z",
-     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
-     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T06:05:33Z",
-     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T07:32:03Z",
-     "headline": "US Grand Prix Weekend Opens in Austin",
-     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T07:44:56Z",
-     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:25:52Z",
-     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
-     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T13:54:52Z",
-     "headline": "Antonelli Can Clinch F1 Title in Austin",
-     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T19:01:30Z",
-     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T22:14:25Z",
-     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:53:12Z",
-     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
-     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T04:25:52Z",
-     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
-     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T05:03:00Z",
-     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T08:10:12Z",
-     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
-     "url": "https://english.aawsat.com/node/5333344"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-25T11:53:27Z",
-     "headline": "Antonelli stands on brink of history in Austin",
-     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T19:01:58Z",
-     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
-     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T21:50:32Z",
-     "headline": "Antonelli on brink of title after winning US Grand Prix",
-     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T21:52:31Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-25T22:33:52Z",
-     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
-     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:42:53Z",
-     "headline": "Antonelli wins US Grand Prix to close on world title",
-     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T22:57:02Z",
-     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
-     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T23:54:57Z",
-     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
-     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T00:27:03Z",
-     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
-     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T01:07:06Z",
-     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
-     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T01:25:22Z",
-     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:15:57Z",
-     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:41:19Z",
-     "headline": "Antonelli wins in US but has to wait to secure title",
-     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
     }
    ]
   },
@@ -7433,6 +7184,264 @@
      "time": "2026-10-25T14:09:46Z",
      "headline": "Ukraine says Starlink drone speeds are back above 400 km/h",
      "url": "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored"
+    }
+   ]
+  },
+  {
+   "id": 17275,
+   "title": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.21,
+   "risk": 1.91,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 18,
+   "countries": [
+    "SAU",
+    "PAK",
+    "ARE",
+    "TWN",
+    "IND",
+    "BRA",
+    "ZAF",
+    "CYP",
+    "JAM",
+    "SGP",
+    "AUS",
+    "UGA",
+    "NLD",
+    "NAM",
+    "KOR",
+    "TUR"
+   ],
+   "first_seen": "2026-10-22T04:32:28Z",
+   "last_seen": "2026-10-26T05:53:18Z",
+   "page": "event/17275.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T04:32:28Z",
+     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
+     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T06:47:07Z",
+     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
+     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T02:06:21Z",
+     "headline": "Antonelli eyes perfect weekend in title bid",
+     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:28:28Z",
+     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
+     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T06:05:33Z",
+     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T07:32:03Z",
+     "headline": "US Grand Prix Weekend Opens in Austin",
+     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T07:44:56Z",
+     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T09:25:52Z",
+     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
+     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T13:54:52Z",
+     "headline": "Antonelli Can Clinch F1 Title in Austin",
+     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T19:01:30Z",
+     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T22:14:25Z",
+     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:53:12Z",
+     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
+     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T04:25:52Z",
+     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
+     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T05:03:00Z",
+     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T08:10:12Z",
+     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
+     "url": "https://english.aawsat.com/node/5333344"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T11:53:27Z",
+     "headline": "Antonelli stands on brink of history in Austin",
+     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T19:01:58Z",
+     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
+     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T21:50:32Z",
+     "headline": "Antonelli on brink of title after winning US Grand Prix",
+     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T21:52:31Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T22:33:52Z",
+     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
+     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:42:53Z",
+     "headline": "Antonelli wins US Grand Prix to close on world title",
+     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T22:57:02Z",
+     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
+     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T23:54:57Z",
+     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
+     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T00:27:03Z",
+     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
+     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T01:07:06Z",
+     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
+     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T01:25:22Z",
+     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:15:57Z",
+     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:41:19Z",
+     "headline": "Antonelli wins in US but has to wait to secure title",
+     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:53:18Z",
+     "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
+     "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
     }
    ]
   },
@@ -8438,6 +8447,319 @@
    ]
   },
   {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.11,
+   "risk": 1.34,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 20,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "ARE",
+    "TUR",
+    "JAM",
+    "GHA",
+    "UGA",
+    "KOR"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-26T06:41:38Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T22:43:27Z",
+     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T23:09:14Z",
+     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
+     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T00:10:18Z",
+     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T01:05:42Z",
+     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
+     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:37:49Z",
+     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
+     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:45:34Z",
+     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T04:30:00Z",
+     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
+     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
+    }
+   ]
+  },
+  {
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
@@ -9218,6 +9540,323 @@
    ]
   },
   {
+   "id": 16998,
+   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.03,
+   "risk": 3.71,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 31,
+   "countries": [
+    "OMN",
+    "ARE",
+    "JPN",
+    "USA",
+    "TUR",
+    "SAU",
+    "KWT",
+    "SGP",
+    "RUS",
+    "MAR",
+    "IND",
+    "BGD",
+    "CHN",
+    "THA",
+    "AUS",
+    "AZE",
+    "NGA",
+    "IRQ",
+    "PAK"
+   ],
+   "first_seen": "2026-10-20T02:51:41Z",
+   "last_seen": "2026-10-26T05:40:57Z",
+   "page": "event/16998.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T02:51:41Z",
+     "headline": "Riyadh Airport reopens, but with limited capacity",
+     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-20T13:16:27Z",
+     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
+     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-21T23:54:54Z",
+     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
+     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "Simple Flying",
+     "country": "USA",
+     "time": "2026-10-23T15:00:20Z",
+     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
+     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T20:27:30Z",
+     "headline": "Riyadh airport splits domestic and international flights between two terminals",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T20:30:29Z",
+     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
+     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:08:45Z",
+     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
+     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T21:14:13Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T21:22:00Z",
+     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
+     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:50:06Z",
+     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T22:25:00Z",
+     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
+     "url": "https://tass.com/world/2207361"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-24T22:51:01Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T23:05:18Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T00:00:23Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
+     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T02:21:39Z",
+     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T02:59:25Z",
+     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T03:30:34Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T04:03:15Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T04:10:58Z",
+     "headline": "Houthis renew warning against using King Khalid airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T05:23:12Z",
+     "headline": "Riyadh Airport Partially Resumes Operations",
+     "url": "https://english.aawsat.com/node/5333303"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:44:26Z",
+     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
+     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T05:56:33Z",
+     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
+     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T06:48:00Z",
+     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T07:12:51Z",
+     "headline": "Riyadh airport announces partial reopening",
+     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T09:27:31Z",
+     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
+     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "Houthis claim strikes on a major Saudi Arabian airport hours after flights resumed",
+     "url": "https://www.sbs.com.au/news/article/houthis-claim-strikes-on-a-major-saudi-arabian-airport-hours-after-flights-resumed/5pe6uf0qw"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:07:34Z",
+     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-25T14:35:41Z",
+     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
+     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Houthis say attacked Riyadh airport hours after flights resume",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T16:32:35Z",
+     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
+     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T18:20:00Z",
+     "headline": "Houthis reported strikes on Riyadh airport and military bases",
+     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T18:40:56Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-25T18:42:42Z",
+     "headline": "Houthis say they attacked Riyadh Airport and military bases",
+     "url": "https://tass.com/world/2207607"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T19:09:17Z",
+     "headline": "Riyadh airport partially resumes flights after Houthi attacks",
+     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-partially-resumes-flights-after-houthi-attacks/4100424"
+    }
+   ]
+  },
+  {
    "id": 26331,
    "title": "Fire devastates former Hitler guest house 'Eagle's Nest'",
    "category": "Society & Law",
@@ -9676,314 +10315,183 @@
    ]
   },
   {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.96,
-   "risk": 1.32,
-   "confidence": 0.89,
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 5.95,
+   "risk": 0.0,
+   "confidence": 0.85,
    "status": "spreading",
-   "outlets": 19,
+   "outlets": 11,
    "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
     "ARE",
-    "TUR",
-    "JAM",
-    "GHA",
-    "UGA"
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "OMN",
+    "TUR"
    ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T06:41:38Z",
-   "page": "event/23444.html",
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T05:55:29Z",
+   "page": "event/18222.html",
    "reports": [
     {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Gulf News",
+     "outlet": "The National",
      "country": "ARE",
-     "time": "2026-10-25T22:43:27Z",
-     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T23:09:14Z",
-     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
-     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T23:33:20Z",
-     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T00:10:18Z",
-     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T01:05:42Z",
-     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
-     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:37:49Z",
-     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
-     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
     },
     {
      "outlet": "The National",
      "country": "ARE",
-     "time": "2026-10-26T03:45:34Z",
-     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
     },
     {
      "outlet": "IOL",
      "country": "ZAF",
-     "time": "2026-10-26T04:30:00Z",
-     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
-     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T05:45:00Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:55:29Z",
+     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
+     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
     }
    ]
   },
@@ -10166,323 +10674,6 @@
      "time": "2026-10-25T02:00:49Z",
      "headline": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move"
-    }
-   ]
-  },
-  {
-   "id": 16998,
-   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.91,
-   "risk": 3.67,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 31,
-   "countries": [
-    "OMN",
-    "ARE",
-    "JPN",
-    "USA",
-    "TUR",
-    "SAU",
-    "KWT",
-    "SGP",
-    "RUS",
-    "MAR",
-    "IND",
-    "BGD",
-    "CHN",
-    "THA",
-    "AUS",
-    "AZE",
-    "NGA",
-    "IRQ",
-    "PAK"
-   ],
-   "first_seen": "2026-10-20T02:51:41Z",
-   "last_seen": "2026-10-26T03:59:04Z",
-   "page": "event/16998.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T02:51:41Z",
-     "headline": "Riyadh Airport reopens, but with limited capacity",
-     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-20T13:16:27Z",
-     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
-     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-21T23:54:54Z",
-     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
-     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "Simple Flying",
-     "country": "USA",
-     "time": "2026-10-23T15:00:20Z",
-     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
-     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T20:27:30Z",
-     "headline": "Riyadh airport splits domestic and international flights between two terminals",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T20:30:29Z",
-     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:08:45Z",
-     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
-     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T21:14:13Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T21:22:00Z",
-     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
-     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:06Z",
-     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T22:25:00Z",
-     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
-     "url": "https://tass.com/world/2207361"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-24T22:51:01Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T23:05:18Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:00:23Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
-     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T02:21:39Z",
-     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T02:59:25Z",
-     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T03:30:34Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T04:03:15Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T04:10:58Z",
-     "headline": "Houthis renew warning against using King Khalid airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T05:23:12Z",
-     "headline": "Riyadh Airport Partially Resumes Operations",
-     "url": "https://english.aawsat.com/node/5333303"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:44:26Z",
-     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
-     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T05:56:33Z",
-     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
-     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T06:48:00Z",
-     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T07:12:51Z",
-     "headline": "Riyadh airport announces partial reopening",
-     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T09:27:31Z",
-     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
-     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "Houthis claim strikes on a major Saudi Arabian airport hours after flights resumed",
-     "url": "https://www.sbs.com.au/news/article/houthis-claim-strikes-on-a-major-saudi-arabian-airport-hours-after-flights-resumed/5pe6uf0qw"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:07:34Z",
-     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-25T14:35:41Z",
-     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Houthis say attacked Riyadh airport hours after flights resume",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T16:32:35Z",
-     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
-     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T18:20:00Z",
-     "headline": "Houthis reported strikes on Riyadh airport and military bases",
-     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T18:40:56Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-25T18:42:42Z",
-     "headline": "Houthis say they attacked Riyadh Airport and military bases",
-     "url": "https://tass.com/world/2207607"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T19:09:17Z",
-     "headline": "Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-partially-resumes-flights-after-houthi-attacks/4100424"
     }
    ]
   },
@@ -11220,7 +11411,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T10:03:31Z",
-     "headline": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+     "headline": "Two dead and tens of thousands of properties without power as Storm Boelo batters UK",
      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk"
     },
     {
@@ -12477,172 +12668,6 @@
      "time": "2026-10-25T16:37:09Z",
      "headline": "Arsenal join Man City at summit after Villa upset",
      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619"
-    }
-   ]
-  },
-  {
-   "id": 18222,
-   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.69,
-   "risk": 0.0,
-   "confidence": 0.85,
-   "status": "peaking",
-   "outlets": 10,
-   "countries": [
-    "ARE",
-    "DEU",
-    "NGA",
-    "SAU",
-    "QAT",
-    "ZAF",
-    "BRA",
-    "OMN"
-   ],
-   "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T03:34:59Z",
-   "page": "event/18222.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T04:30:04Z",
-     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:40:58Z",
-     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T08:33:00Z",
-     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T09:16:06Z",
-     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
-     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:58:09Z",
-     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
-     "url": "https://english.aawsat.com/node/5332582"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T07:56:27Z",
-     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:39:59Z",
-     "headline": "My wife eager to know Ballon d’Or result, says Kane",
-     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T11:52:16Z",
-     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:05:00Z",
-     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T17:00:00Z",
-     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
-     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:21:34Z",
-     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-24T17:27:11Z",
-     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
-     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T06:31:01Z",
-     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:38:57Z",
-     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T01:35:01Z",
-     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
-     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:36:53Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T03:06:40Z",
-     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T03:34:59Z",
-     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
     }
    ]
   },
