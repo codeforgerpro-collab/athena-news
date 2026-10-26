@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:53:37Z",
+ "generated": "2026-10-26T05:10:39Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.35,
+   "importance": 8.37,
    "risk": 3.24,
    "confidence": 0.89,
    "status": "fading",
-   "outlets": 41,
+   "outlets": 42,
    "countries": [
     "QAT",
     "USA",
@@ -43,10 +43,11 @@
     "UKR",
     "ARE",
     "IRN",
-    "PER"
+    "PER",
+    "ZAF"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T04:37:32Z",
+   "last_seen": "2026-10-26T05:02:00Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -661,8 +662,8 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.78,
-   "risk": 7.86,
+   "importance": 7.85,
+   "risk": 7.91,
    "confidence": 0.9,
    "status": "spreading",
    "outlets": 65,
@@ -705,7 +706,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T04:46:30Z",
+   "last_seen": "2026-10-26T04:52:01Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -7460,7 +7461,7 @@
     "GHA"
    ],
    "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-26T04:36:14Z",
+   "last_seen": "2026-10-26T04:59:28Z",
    "page": "event/23496.html",
    "reports": [
     {
@@ -13569,6 +13570,124 @@
    ]
   },
   {
+   "id": 18987,
+   "title": "Lula wins record fourth term in Brazil in a shock comeback",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.64,
+   "risk": 1.47,
+   "confidence": 0.84,
+   "status": "spreading",
+   "outlets": 10,
+   "countries": [
+    "ARG",
+    "IND",
+    "BRA",
+    "NPL",
+    "ZAF",
+    "QAT",
+    "KEN",
+    "CHN",
+    "TUR"
+   ],
+   "first_seen": "2026-10-20T16:42:06Z",
+   "last_seen": "2026-10-26T04:51:32Z",
+   "page": "event/18987.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-20T16:42:06Z",
+     "headline": "With selfies and squats, Brazil's Lula fights for one last comeback",
+     "url": "https://www.batimes.com.ar/news/latin-america/with-selfies-and-squats-brazils-lula-fights-for-one-last-comeback.phtml"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T05:32:13Z",
+     "headline": "With Selfies And Squats, Brazil's Lula Seeks One Last Political Comeback",
+     "url": "https://www.ndtv.com/world-news/with-selfies-and-squats-brazils-president-luiz-inacio-lula-da-silva-seeks-one-last-political-comeback-12223581#publisher=newsstand"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T01:49:52Z",
+     "headline": "Lula wins record fourth term in Brazil in a shock comeback",
+     "url": "https://www.batimes.com.ar/news/latin-america/lula-wins-record-fourth-term-in-brazil-in-a-shock-comeback.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-26T02:00:07Z",
+     "headline": "Lula Wins Again. What Now for Brazil?",
+     "url": "https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-26T02:11:38Z",
+     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+     "url": "https://kathmandupost.com/world/2026/10/26/lula-brazil-s-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T02:35:00Z",
+     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-26T02:52:56Z",
+     "headline": "What challenges await Brazil's Lula in his fourth term in office?",
+     "url": "https://www.batimes.com.ar/news/latin-america/what-challenges-await-brazils-lula-in-his-fourth-term-in-office.phtml"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T02:59:50Z",
+     "headline": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-26T03:30:53Z",
+     "headline": "Trump Critic Lula Wins Record Fourth Term In Brazil In Surprise Comeback",
+     "url": "https://www.ndtv.com/world-news/lula-wins-record-fourth-term-in-brazil-in-surprise-comeback-12235573#publisher=newsstand"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T03:47:11Z",
+     "headline": "Lula wins fourth term in dramatic comeback",
+     "url": "https://www.sabcnews.com/sabcnews/lula-wins-fourth-term-in-dramatic-comeback/"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-26T04:26:11Z",
+     "headline": "Lula wins fourth term as Brazil president in shock comeback against Flavio Bolsonaro",
+     "url": "https://capitalfm.africa/lula-wins-fourth-term-as-brazil-president-in-shock-comeback-against-flavio-bolsonaro/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-26T04:36:14Z",
+     "headline": "Lula wins reelection in Brazil",
+     "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea567e4b06d4aa0564b5b.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T04:51:32Z",
+     "headline": "PROFILE - From prison to historic 4th term: Brazil's Lula extends extraordinary political career",
+     "url": "https://www.aa.com.tr/en/americas/profile-from-prison-to-historic-4th-term-brazils-lula-extends-extraordinary-political-career/4100570"
+    }
+   ]
+  },
+  {
    "id": 30188,
    "title": "Voting ends in Brazil's presidential runoff after 2-hour extension",
    "category": "Geopolitics",
@@ -14249,194 +14368,6 @@
      "time": "2026-10-25T10:34:00Z",
      "headline": "Fresh Clashes Rock France as Protesters March On",
      "url": "https://www.kyivpost.com/post/88102"
-    }
-   ]
-  },
-  {
-   "id": 25543,
-   "title": "Netanyahu rebuked for crypto plan to bypass economic sanctions",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.6,
-   "risk": 3.94,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 13,
-   "countries": [
-    "ISR",
-    "TUR",
-    "QAT",
-    "SGP",
-    "PAK",
-    "USA",
-    "SAU",
-    "CYP",
-    "IND"
-   ],
-   "first_seen": "2026-10-23T17:12:33Z",
-   "last_seen": "2026-10-25T16:37:42Z",
-   "page": "event/25543.html",
-   "reports": [
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T17:12:33Z",
-     "headline": "Netanyahu says Israel must prepare for banking sanctions, floats crypto as a possible bypass",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/netanyahu-warns-of-banking-sanctions-on-israel-floats-crypto-as-possible-bypass/000001a1-6980-db3a-a9fb-fdabc11e0000"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-23T18:04:50Z",
-     "headline": "Netanyahu warns Israel could face banking sanctions, prepares alternative financial system",
-     "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-23T18:53:29Z",
-     "headline": "Instead of averting sanctions, Netanyahu offers Israelis an Iran-style blockchain economy",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/.premium/netanyahu-cant-block-sanctions-on-israel-so-he-offers-blockchain-instead/000001a1-69ff-d29a-a1a5-ebff39f00000"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T23:17:21Z",
-     "headline": "Netanyahu says end to US military aid to Israel ‘only a matter of time’",
-     "url": "https://www.aa.com.tr/en/middle-east/netanyahu-says-end-to-us-military-aid-to-israel-only-a-matter-of-time-/4099148"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T05:13:37Z",
-     "headline": "Netanyahu tells Israelis to brace for sanctions, suggests crypto workaround",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-israelis-brace-sanctions-suggests-crypto-workaround"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T13:27:11Z",
-     "headline": "Netanyahu floats Crypto to bypass sanctions",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T14:17:36Z",
-     "headline": "Netanyahu orders plan to bypass banking sanctions, eyes blockchain as option",
-     "url": "https://www.turkiyetoday.com/region/netanyahu-orders-plan-to-bypass-banking-sanctions-eyes-blockchain-as-option-3230955"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T15:02:59Z",
-     "headline": "Netanyahu says Israel mulling over crypto ahead of possible sanctions",
-     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-says-israel-mulling-over-crypto-ahead-of-possible-sanctions"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T19:24:33Z",
-     "headline": "Bank of Israel against Netanyahu: Cryptocurrencies cannot be used to circumvent sanctions",
-     "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-10-24/ty-article/.premium/bank-of-israel-against-netanyahu-crypto-cannot-be-used-to-circumvent-sanctions/000001a1-6ef5-dd3a-afe1-eff75a8d0000"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-25T01:22:27Z",
-     "headline": "Opposition leader says Netanyahu ‘no longer fit’ to lead Israel",
-     "url": "https://tribune.com.pk/story/2636815/opposition-leader-says-netanyahu-no-longer-fit-to-lead-israel"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T07:41:16Z",
-     "headline": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
-     "url": "https://www.aa.com.tr/en/middle-east/cryptocurrencies-cannot-circumvent-sanctions-bank-of-israel-responds-to-netanyahu/4100017"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T08:53:31Z",
-     "headline": "Bank of Israel says crypto cannot be used to bypass sanctions",
-     "url": "https://www.turkiyetoday.com/region/bank-of-israel-says-crypto-cannot-be-used-to-bypass-sanctions-3230977"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-25T09:47:30Z",
-     "headline": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-     "url": "https://tribune.com.pk/story/2636858/netanyahu-rebuked-for-plan-to-use-crypto-to-bypass-economic-sanctions"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T11:18:13Z",
-     "headline": "Netanyahu's crypto plan could cause 'irreversible damage' to Israeli economy, business leaders warn",
-     "url": "https://www.jpost.com/business-and-innovation/article-912781"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T11:42:33Z",
-     "headline": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
-     "url": "https://www.middleeasteye.net/news/diplomatic-financial-isolation-netanyahu-crypto-plan-bypass-sanctions-draws-rebuke"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T11:45:27Z",
-     "headline": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-     "url": "https://www.straitstimes.com/world/europe/netanyahu-rebuked-for-plan-to-use-crypto-to-bypass-economic-sanctions"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T11:46:35Z",
-     "headline": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-     "url": "https://www.al-monitor.com/originals/2026/10/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T11:48:19Z",
-     "headline": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-rebuked-for-plan-to-use-crypto-to-bypass-economic-sanctions-3008196"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T12:10:22Z",
-     "headline": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-     "url": "https://cyprus-mail.com/2026/10/25/netanyahu-rebuked-for-plan-to-use-crypto-to-bypass-economic-sanctions"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:48:13Z",
-     "headline": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomatic-and-financial-isolation-netanyahus-crypto-plan-bypass"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T14:46:38Z",
-     "headline": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-     "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T15:44:23Z",
-     "headline": "Netanyahu rebuked for crypto plan to bypass economic sanctions",
-     "url": "https://www.newarab.com/news/netanyahu-rebuked-crypto-plan-bypass-economic-sanctions"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:37:42Z",
-     "headline": "'BibiCoin policy': Netanyahu faces backlash over plan to use crypto to bypass sanctions",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/bibicoin-policy-netanyahu-faces-backlash-over-plan-to-use-crypto-to-bypass-sanctions/articleshow/135194703.cms"
     }
    ]
   }
