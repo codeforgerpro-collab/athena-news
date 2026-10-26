@@ -423,4 +423,28 @@ border-radius:14px;background:linear-gradient(135deg,color-mix(in srgb,#229ed9 1
 .lcout .lcsrc{color:var(--muted);font-size:14px}.lcout .lcthin{border-left:3px solid var(--elev);background:var(--paper2);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:14.5px}
 .lcev li,.lchd li{margin:8px 0}.lcev .small,.lchd .small{color:var(--muted)}
 .lchd a.lco{font-family:var(--head);font-size:17px}.lchd .lcat{margin-inline-start:8px;font-size:12.5px;font-weight:700;color:var(--gold2)}
+.lcbox{border:1px solid var(--rule);background:var(--card);border-radius:12px;padding:12px 16px;margin:14px 0}.lcbox h3{border-top:0!important;padding-top:0!important;margin:2px 0 8px!important}
+.lcmt{font-size:12.5px;color:var(--muted);margin-top:2px}.lcst{color:var(--gold2);letter-spacing:1px;font-size:13px}
+.lcmar{margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:14px}.lcms{border:1px solid var(--rule);border-radius:999px;padding:2px 10px;font-size:13px}
+.lcms.ms-Disrupted{color:var(--crit);border-color:var(--crit)}.lcms.ms-Elevated{color:var(--high);border-color:var(--high)}.lcms.ms-Watch{color:var(--elev)}
+.lcnr{width:100%;border-collapse:collapse;font-size:14px}.lcnr td{padding:6px 8px;border-bottom:1px solid var(--rule)}.lcnr td.ok{color:#3f9e6e}.lcnr td.no{color:var(--muted)}
 .lcrule{margin:28px 0 8px;padding:12px 16px;border:1px solid var(--rule);border-radius:12px;background:var(--card);font-size:14.5px;color:var(--ink2);max-width:900px}
+
+/* WEB-1.11 Maritime & Shipping */
+.mtks{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:12px 0 24px}
+.mtk{border:1px solid var(--rule);background:var(--card);border-radius:10px;padding:12px 14px}.mtk b{display:block;font-family:var(--head);font-size:30px;line-height:1.1}
+.mtk span{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--ink2)}
+.mtk.crit b{color:var(--crit)}.mtk.high b{color:var(--high)}.mtk.elev b{color:var(--elev)}
+.mtgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin:8px 0 28px}
+.mtc{border:1px solid var(--rule);border-top:4px solid var(--rule);background:var(--card);border-radius:10px;padding:12px 14px}
+.mtc.st-crit{border-top-color:var(--crit)}.mtc.st-high{border-top-color:var(--high)}.mtc.st-elev{border-top-color:var(--elev)}.mtc.st-ok{border-top-color:#3f9e6e}
+.mtc h3{font-family:var(--head);font-size:19px;margin:4px 0}.mth{display:flex;justify-content:space-between;align-items:center}
+.mtst{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}.st-crit .mtst{color:var(--crit)}.st-high .mtst{color:var(--high)}.st-elev .mtst{color:var(--elev)}.st-ok .mtst{color:#3f9e6e}
+.mtr{font-size:13.5px;color:var(--ink2);margin:4px 0 6px}.mtw{margin-top:6px}
+.mtsp{width:100%;height:28px;display:block;margin:4px 0}.mtsp polyline,.mtsp line{fill:none;stroke:var(--gold);stroke-width:1.6;vector-effect:non-scaling-stroke}
+.mtcols{display:grid;grid-template-columns:3fr 2fr;gap:32px}
+.mtinc li{margin:12px 0}.mtty{display:inline-block;font-size:12px;font-weight:700;color:var(--gold2);margin-inline-end:8px}
+.mtb{display:inline-block;font-size:11.5px;font-weight:700;border-radius:999px;padding:1px 8px;margin-inline-end:6px}
+.mtb.off{background:color-mix(in srgb,var(--crit) 14%,transparent);color:var(--crit)}.mtb.dis{background:var(--chip);color:var(--ink2)}
+.mtnot li{margin:10px 0}.mtnot a{font-family:var(--head);font-size:16px}
+@media (max-width:900px){.mtks{grid-template-columns:repeat(2,1fr)}.mtcols{grid-template-columns:1fr}}

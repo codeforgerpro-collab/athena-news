@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T11:46:51Z",
+ "generated": "2026-10-26T12:04:56Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9,10 +9,10 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.75,
-   "risk": 3.72,
+   "risk": 3.71,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 61,
+   "outlets": 62,
    "countries": [
     "QAT",
     "USA",
@@ -52,10 +52,11 @@
     "MOZ",
     "AFG",
     "EGY",
-    "PRT"
+    "PRT",
+    "TZA"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T11:32:05Z",
+   "last_seen": "2026-10-26T11:51:46Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -337,336 +338,6 @@
      "time": "2026-10-26T01:01:00Z",
      "headline": "Lula wins Brazil’s presidency for a fourth time with 51.8% of the vote",
      "url": "https://en.mercopress.com/2026/10/26/lula-wins-brazil-s-presidency-for-a-fourth-time-with-51.8-of-the-vote?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    }
-   ]
-  },
-  {
-   "id": 20210,
-   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 8.62,
-   "risk": 4.65,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 58,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR",
-    "GRC",
-    "IRL",
-    "FIN",
-    "BRA",
-    "AUS",
-    "CAN",
-    "SAU",
-    "CHN",
-    "NZL",
-    "ARE",
-    "KOR",
-    "IND",
-    "JPN",
-    "LKA",
-    "GEO",
-    "GHA"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T11:04:35Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T11:49:36Z",
-     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
-     "url": "https://www.novinite.com/view_news.php?id=241244"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T12:26:10Z",
-     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
-     "url": "https://www.novinite.com/view_news.php?id=241247"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-25T12:57:13Z",
-     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:40:10Z",
-     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T14:01:55Z",
-     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
-     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -1001,6 +672,336 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    }
+   ]
+  },
+  {
+   "id": 20210,
+   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 8.56,
+   "risk": 4.61,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 58,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC",
+    "IRL",
+    "FIN",
+    "BRA",
+    "AUS",
+    "CAN",
+    "SAU",
+    "CHN",
+    "NZL",
+    "ARE",
+    "KOR",
+    "IND",
+    "JPN",
+    "LKA",
+    "GEO",
+    "GHA"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-26T11:28:25Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T11:49:36Z",
+     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
+     "url": "https://www.novinite.com/view_news.php?id=241244"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T12:26:10Z",
+     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
+     "url": "https://www.novinite.com/view_news.php?id=241247"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -1663,11 +1664,11 @@
    "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.35,
-   "risk": 6.98,
+   "importance": 7.46,
+   "risk": 6.85,
    "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 21,
+   "status": "spreading",
+   "outlets": 23,
    "countries": [
     "USA",
     "IRQ",
@@ -1687,7 +1688,7 @@
     "GBR"
    ],
    "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-26T11:30:00Z",
+   "last_seen": "2026-10-26T11:46:52Z",
    "page": "event/12369.html",
    "reports": [
     {
@@ -1920,6 +1921,20 @@
      "time": "2026-10-26T11:30:00Z",
      "headline": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Attacks-on-Saudi-Arabias-East-West-Oil-Pipeline.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-26T11:43:41Z",
+     "headline": "CNA Explains: Why are the Houthis targeting Saudi airports?",
+     "url": "https://www.channelnewsasia.com/world/cna-explains-houthis-targeting-saudi-arabia-airports-6492256"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T11:46:52Z",
+     "headline": "Could Syria help Saudi Arabia fight the Houthis without troops?",
+     "url": "https://www.newarab.com/analysis/could-syria-help-saudi-arabia-fight-houthis-without-troops"
     }
    ]
   },
@@ -2576,11 +2591,11 @@
    "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
    "category": "Health & Science",
    "cat": 7,
-   "importance": 7.15,
-   "risk": 0.0,
-   "confidence": 0.86,
+   "importance": 7.16,
+   "risk": 1.62,
+   "confidence": 0.85,
    "status": "spreading",
-   "outlets": 20,
+   "outlets": 21,
    "countries": [
     "ARE",
     "DEU",
@@ -2596,10 +2611,11 @@
     "TUR",
     "KOR",
     "GHA",
-    "THA"
+    "THA",
+    "IND"
    ],
    "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T10:47:53Z",
+   "last_seen": "2026-10-26T11:42:13Z",
    "page": "event/18222.html",
    "reports": [
     {
@@ -2853,6 +2869,13 @@
      "time": "2026-10-26T10:47:53Z",
      "headline": "Ballon d'Or 2026 Odds: Who is favourite to win the award? Latest odds on Harry Kane, Kylian Mbappe, Lamine Yamal",
      "url": "https://www.scotsman.com/sport/football/international/ballon-dor-2026-odds-who-is-favourite-to-win-the-award-latest-odds-on-harry-kane-kylian-mbappe-lamine-yamal-9022159"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T11:42:13Z",
+     "headline": "Ballon d'Or: Messi, Yamal and Mbappe among favourites; how the winners are decided",
+     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ballon-dor-2026-lionel-messi-yamal-and-mbappe-among-favourites-how-the-winners-are-decided/articleshow/135210649.cms"
     }
    ]
   },
@@ -4146,11 +4169,11 @@
    "title": "Jordan arrests three suspects in deadly church attack, state media says",
    "category": "Society & Law",
    "cat": 8,
-   "importance": 7.02,
+   "importance": 7.04,
    "risk": 6.92,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 19,
+   "outlets": 20,
    "countries": [
     "SAU",
     "USA",
@@ -4169,7 +4192,7 @@
     "CAN"
    ],
    "first_seen": "2026-10-25T11:13:12Z",
-   "last_seen": "2026-10-26T11:08:48Z",
+   "last_seen": "2026-10-26T11:55:56Z",
    "page": "event/29318.html",
    "reports": [
     {
@@ -4325,6 +4348,13 @@
      "time": "2026-10-26T11:08:48Z",
      "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T11:55:56Z",
+     "headline": "Jordan arrests 3 in dawn raid over church attack",
+     "url": "https://www.dawn.com/news/2039967/jordan-arrests-3-in-dawn-raid-over-church-attack"
     }
    ]
   },
@@ -5698,7 +5728,7 @@
      "outlet": "The National",
      "country": "ARE",
      "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
      "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
     },
     {
@@ -6271,6 +6301,237 @@
    ]
   },
   {
+   "id": 30826,
+   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.73,
+   "risk": 0.0,
+   "confidence": 0.93,
+   "status": "peaking",
+   "outlets": 25,
+   "countries": [
+    "GBR",
+    "CAN",
+    "RUS",
+    "PAK",
+    "USA",
+    "URY",
+    "QAT",
+    "ARE",
+    "LVA",
+    "NGA",
+    "ZAF",
+    "AUS",
+    "IRL",
+    "KOR",
+    "ISR",
+    "FIN",
+    "FRA"
+   ],
+   "first_seen": "2026-10-25T13:26:30Z",
+   "last_seen": "2026-10-26T11:50:55Z",
+   "page": "event/30826.html",
+   "reports": [
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T13:26:30Z",
+     "headline": "Close contest expected as Lula takes on Bolsonaro’s son in Brazilian election",
+     "url": "https://www.irishnews.com/news/world/close-contest-expected-as-lula-takes-on-bolsanaros-son-in-brazilian-election-4BHEUXJBRRMIVPLXWEVFFUDCGA/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-26T00:30:30Z",
+     "headline": "Lula re-elected in Brazil as Bolsonaro rejects results",
+     "url": "https://www.cbc.ca/news/world/lula-brazil-re-election-9.7395695?cmp=rss"
+    },
+    {
+     "outlet": "Belfast Telegraph",
+     "country": "GBR",
+     "time": "2026-10-26T00:31:06Z",
+     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
+     "url": "https://www.belfasttelegraph.co.uk/news/world-news/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/a/163603174.html"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T03:17:24Z",
+     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
+     "url": "https://tass.com/world/2207645"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T03:50:23Z",
+     "headline": "Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+     "url": "https://tribune.com.pk/story/2636997/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-26T04:09:07Z",
+     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
+     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T04:26:00Z",
+     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
+     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T04:36:46Z",
+     "headline": "Bolsonaro calls for Brazil election result to be annulled",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T06:06:40Z",
+     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
+    },
+    {
+     "outlet": "Baltic News Network",
+     "country": "LVA",
+     "time": "2026-10-26T06:21:23Z",
+     "headline": "Tight presidential race ends in Brazil – Lula wins as Bolsonaro plans legal challenge",
+     "url": "https://bnn-news.com/world/tight-presidential-race-ends-in-brazil-lula-wins-as-bolsonaro-plans-legal-challenge-5r2z8ux"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T06:51:50Z",
+     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
+     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T06:53:00Z",
+     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
+     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T06:55:34Z",
+     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
+     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T07:07:30Z",
+     "headline": "Brazil election: Left-wing President Lula scores surprise victory over Flávio Bolsonaro",
+     "url": "https://www.thejournal.ie/brazil-election-result-7205214-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:12:05Z",
+     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:35:39Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-26T07:37:02Z",
+     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T07:38:36Z",
+     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
+     "url": "https://www.irishnews.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results-NG3Q4YKN3VPFPE43FIZCEDZ4PI/"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-26T08:14:54Z",
+     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
+     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:11:33Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T09:12:13Z",
+     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
+     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T09:15:21Z",
+     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-26T09:55:52Z",
+     "headline": "'Fraud': Netanyahu minister disputes Brazil election as Israeli leaders denounce Lula",
+     "url": "https://www.haaretz.com/world-news/2026-10-26/ty-article/.premium/israeli-minister-disputes-brazil-election-result-alleges-fraud-after-lula-win/000001a1-7799-dc36-a7b3-77fd73600000"
+    },
+    {
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-26T10:15:21Z",
+     "headline": "SAFTU welcomes Lula da Silva’s election victory in Brazil",
+     "url": "https://www.sabcnews.com/sabcnews/saftu-welcomes-lula-da-silvas-election-victory-in-brazil/"
+    },
+    {
+     "outlet": "Helsinki Times",
+     "country": "FIN",
+     "time": "2026-10-26T10:15:44Z",
+     "headline": "Lula wins Brazil presidential election as Bolsonaro refuses to accept defeat",
+     "url": "https://www.helsinkitimes.fi/world-int/29426-lula-wins-brazil-presidential-election-as-bolsonaro-refuses-to-accept-defeat.html"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-26T10:31:13Z",
+     "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+     "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T11:31:10Z",
+     "headline": "Lula deals Trump a blow with Brazil election victory that ends Latin America’s right-wing streak",
+     "url": "https://www.independent.co.uk/news/world/americas/brazil-lula-bolsonaro-trump-election-b3073397.html"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T11:50:55Z",
+     "headline": "Lula beats Bolsonaro in Brazil runoff: What does it mean for Donald Trump?",
+     "url": "https://www.france24.com/en/video/20261026-lula-beats-bolsonaro-in-brazil-runoff-what-does-it-mean-for-donald-trump"
+    }
+   ]
+  },
+  {
    "id": 23444,
    "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
    "category": "Geopolitics",
@@ -6584,229 +6845,6 @@
      "time": "2026-10-26T01:05:42Z",
      "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
      "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
-    }
-   ]
-  },
-  {
-   "id": 30826,
-   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.59,
-   "risk": 0.0,
-   "confidence": 0.93,
-   "status": "peaking",
-   "outlets": 24,
-   "countries": [
-    "GBR",
-    "CAN",
-    "RUS",
-    "PAK",
-    "USA",
-    "URY",
-    "QAT",
-    "ARE",
-    "LVA",
-    "NGA",
-    "ZAF",
-    "AUS",
-    "IRL",
-    "KOR",
-    "ISR",
-    "FIN"
-   ],
-   "first_seen": "2026-10-25T13:26:30Z",
-   "last_seen": "2026-10-26T11:31:10Z",
-   "page": "event/30826.html",
-   "reports": [
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-25T13:26:30Z",
-     "headline": "Close contest expected as Lula takes on Bolsonaro’s son in Brazilian election",
-     "url": "https://www.irishnews.com/news/world/close-contest-expected-as-lula-takes-on-bolsanaros-son-in-brazilian-election-4BHEUXJBRRMIVPLXWEVFFUDCGA/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-26T00:30:30Z",
-     "headline": "Lula re-elected in Brazil as Bolsonaro rejects results",
-     "url": "https://www.cbc.ca/news/world/lula-brazil-re-election-9.7395695?cmp=rss"
-    },
-    {
-     "outlet": "Belfast Telegraph",
-     "country": "GBR",
-     "time": "2026-10-26T00:31:06Z",
-     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
-     "url": "https://www.belfasttelegraph.co.uk/news/world-news/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/a/163603174.html"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-26T03:17:24Z",
-     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
-     "url": "https://tass.com/world/2207645"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T03:50:23Z",
-     "headline": "Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
-     "url": "https://tribune.com.pk/story/2636997/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-26T04:09:07Z",
-     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
-     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T04:26:00Z",
-     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
-     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T04:36:46Z",
-     "headline": "Bolsonaro calls for Brazil election result to be annulled",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T06:06:40Z",
-     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
-    },
-    {
-     "outlet": "Baltic News Network",
-     "country": "LVA",
-     "time": "2026-10-26T06:21:23Z",
-     "headline": "Tight presidential race ends in Brazil – Lula wins as Bolsonaro plans legal challenge",
-     "url": "https://bnn-news.com/world/tight-presidential-race-ends-in-brazil-lula-wins-as-bolsonaro-plans-legal-challenge-5r2z8ux"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T06:51:50Z",
-     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
-     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T06:53:00Z",
-     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
-     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T06:55:34Z",
-     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
-     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T07:07:30Z",
-     "headline": "Brazil election: Left-wing President Lula scores surprise victory over Flávio Bolsonaro",
-     "url": "https://www.thejournal.ie/brazil-election-result-7205214-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:12:05Z",
-     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T07:35:39Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-26T07:37:02Z",
-     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-26T07:38:36Z",
-     "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
-     "url": "https://www.irishnews.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results-NG3Q4YKN3VPFPE43FIZCEDZ4PI/"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-26T08:14:54Z",
-     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
-     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:11:33Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T09:12:13Z",
-     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
-     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T09:15:21Z",
-     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-26T09:55:52Z",
-     "headline": "'Fraud': Netanyahu minister disputes Brazil election as Israeli leaders denounce Lula",
-     "url": "https://www.haaretz.com/world-news/2026-10-26/ty-article/.premium/israeli-minister-disputes-brazil-election-result-alleges-fraud-after-lula-win/000001a1-7799-dc36-a7b3-77fd73600000"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-26T10:15:21Z",
-     "headline": "SAFTU welcomes Lula da Silva’s election victory in Brazil",
-     "url": "https://www.sabcnews.com/sabcnews/saftu-welcomes-lula-da-silvas-election-victory-in-brazil/"
-    },
-    {
-     "outlet": "Helsinki Times",
-     "country": "FIN",
-     "time": "2026-10-26T10:15:44Z",
-     "headline": "Lula wins Brazil presidential election as Bolsonaro refuses to accept defeat",
-     "url": "https://www.helsinkitimes.fi/world-int/29426-lula-wins-brazil-presidential-election-as-bolsonaro-refuses-to-accept-defeat.html"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-26T10:31:13Z",
-     "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-     "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T11:31:10Z",
-     "headline": "Lula deals Trump a blow with Brazil election victory that ends Latin America’s right-wing streak",
-     "url": "https://www.independent.co.uk/news/world/americas/brazil-lula-bolsonaro-trump-election-b3073397.html"
     }
    ]
   },
@@ -11296,6 +11334,130 @@
    ]
   },
   {
+   "id": 31617,
+   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.98,
+   "risk": 5.79,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 13,
+   "countries": [
+    "OMN",
+    "USA",
+    "IRN",
+    "GRC",
+    "TUR",
+    "NGA",
+    "IRL",
+    "AZE"
+   ],
+   "first_seen": "2026-10-26T03:07:52Z",
+   "last_seen": "2026-10-26T11:57:45Z",
+   "page": "event/31617.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
+     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
+    },
+    {
+     "outlet": "Rigzone",
+     "country": "USA",
+     "time": "2026-10-26T08:33:01Z",
+     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T08:48:09Z",
+     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
+     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-26T09:00:26Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
+     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
+    },
+    {
+     "outlet": "Turkish Minute",
+     "country": "TUR",
+     "time": "2026-10-26T09:38:43Z",
+     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
+     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:50:26Z",
+     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
+     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Iran International (English)",
+     "country": "IRN",
+     "time": "2026-10-26T09:56:34Z",
+     "headline": "Mecca defense pact officials head to Iran for talks on regional conflict",
+     "url": "https://www.iranintl.com/en/202610260367"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "country": "IRL",
+     "time": "2026-10-26T09:58:11Z",
+     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
+     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T10:14:39Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
+     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T10:23:00Z",
+     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
+     "url": "https://www.azernews.az/region/266213.html"
+    },
+    {
+     "outlet": "Hürriyet Daily News",
+     "country": "TUR",
+     "time": "2026-10-26T11:14:00Z",
+     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
+     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T11:30:19Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T11:57:45Z",
+     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
+     "url": "https://www.vanguardngr.com/2026/10/houthis-attack-saudi-arabia-before-high-stakes-talks-in-tehran/"
+    }
+   ]
+  },
+  {
    "id": 22319,
    "title": "Meghan Markle 'distressed' over claims father had child abuse images",
    "category": "Society & Law",
@@ -12369,123 +12531,6 @@
    ]
   },
   {
-   "id": 31617,
-   "title": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.88,
-   "risk": 5.64,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "OMN",
-    "USA",
-    "IRN",
-    "GRC",
-    "TUR",
-    "NGA",
-    "IRL",
-    "AZE"
-   ],
-   "first_seen": "2026-10-26T03:07:52Z",
-   "last_seen": "2026-10-26T11:30:19Z",
-   "page": "event/31617.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/world/region/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Saudi-led talks in Tehran seek to avert renewed Iran, US war",
-     "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
-    },
-    {
-     "outlet": "Rigzone",
-     "country": "USA",
-     "time": "2026-10-26T08:33:01Z",
-     "headline": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
-     "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/?rss=true"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T08:48:09Z",
-     "headline": "Baqaei: Tehran meeting to focus on endogenous security",
-     "url": "https://en.irna.ir/news/86303695/Baqaei-Tehran-meeting-to-focus-on-endogenous-security"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-26T09:00:26Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to Meet Iranian Leaders",
-     "url": "https://www.tovima.com/world/saudi-arabia-turkey-and-pakistan-to-meet-iranian-leaders/"
-    },
-    {
-     "outlet": "Turkish Minute",
-     "country": "TUR",
-     "time": "2026-10-26T09:38:43Z",
-     "headline": "Iran to hold security talks with Saudi Arabia, Pakistan and Turkey",
-     "url": "https://www.turkishminute.com/2026/10/26/iran-to-hold-security-talks-with-saudi-arabia-pakistan-and-turkey/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:50:26Z",
-     "headline": "Iran holds security talks with Saudi, Pakistan, Turkey",
-     "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Iran International (English)",
-     "country": "IRN",
-     "time": "2026-10-26T09:56:34Z",
-     "headline": "Mecca defense pact officials head to Iran for talks on regional conflict",
-     "url": "https://www.iranintl.com/en/202610260367"
-    },
-    {
-     "outlet": "TheJournal.ie",
-     "country": "IRL",
-     "time": "2026-10-26T09:58:11Z",
-     "headline": "Iran to engage in security talks with Saudi, Pakistan and Turkey",
-     "url": "https://www.thejournal.ie/iran-security-talks-tehran-7205338-Oct2026/"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T10:14:39Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold security talks in Iran",
-     "url": "https://www.newarab.com/news/saudi-arabia-turkey-and-pakistan-hold-security-talks-iran"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T10:23:00Z",
-     "headline": "Saudi, Pakistani and Turkish officials to visit Tehran for regional security talks",
-     "url": "https://www.azernews.az/region/266213.html"
-    },
-    {
-     "outlet": "Hürriyet Daily News",
-     "country": "TUR",
-     "time": "2026-10-26T11:14:00Z",
-     "headline": "Mecca pact countries to hold security talks with Iranian officials in Tehran",
-     "url": "https://www.hurriyetdailynews.com/mecca-pact-countries-to-hold-security-talks-with-iranian-officials-in-tehran-228610"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T11:30:19Z",
-     "headline": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-attack-saudi-arabia-high-stakes-talks-tehran"
-    }
-   ]
-  },
-  {
    "id": 16185,
    "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
    "category": "Geopolitics",
@@ -12636,6 +12681,146 @@
      "time": "2026-10-24T21:55:00Z",
      "headline": "Trump admits to discussing situation in Ukraine with Elon Musk",
      "url": "https://tass.com/world/2207357"
+    }
+   ]
+  },
+  {
+   "id": 30486,
+   "title": "Vucic concedes defeat in Serbian election",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.83,
+   "risk": 1.67,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "TUR",
+    "BRA",
+    "SGP",
+    "AZE",
+    "GRC",
+    "NPL",
+    "RUS",
+    "ISR",
+    "FRA",
+    "AFG"
+   ],
+   "first_seen": "2026-10-25T22:09:20Z",
+   "last_seen": "2026-10-26T11:45:39Z",
+   "page": "event/30486.html",
+   "reports": [
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:09:20Z",
+     "headline": "Serbia’s student-backed opposition projected to win parliamentary majority as Vucic concedes defeat",
+     "url": "https://www.aa.com.tr/en/europe/serbia-s-student-backed-opposition-projected-to-win-parliamentary-majority-as-vucic-concedes-defeat/4100513"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T22:44:58Z",
+     "headline": "Serbians Celebrate After Vučić Concedes",
+     "url": "https://www.riotimesonline.com/serbians-celebrate-after-vucic-concedes-election/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T23:00:46Z",
+     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+     "url": "https://www.straitstimes.com/world/europe/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T23:12:00Z",
+     "headline": "Vucic concedes defeat in Serbian election",
+     "url": "https://en.apa.az/europe/vucic-concedes-defeat-in-serbian-election-532109"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-25T23:16:11Z",
+     "headline": "Political earthquake in Serbia: Vucic admits defeat as Student List wins election – Celebrations erupt in Belgrade",
+     "url": "https://en.protothema.gr/2026/10/26/political-earthquake-in-serbia-vucic-admits-defeat-as-student-list-wins-election-celebrations-erupt-in-belgrade/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-26T03:10:58Z",
+     "headline": "Vucic Concedes Defeat as Student List Wins Serbia Vote",
+     "url": "https://greekcitytimes.com/2026/10/26/vucic-admits-defeat-student-list-serbia/"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-26T05:54:05Z",
+     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+     "url": "https://kathmandupost.com/world/2026/10/26/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T08:09:11Z",
+     "headline": "IN BRIEF: What is known about Vucic party’s defeat in Serbia’s parliamentary elections",
+     "url": "https://tass.com/world/2207725"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T08:31:12Z",
+     "headline": "Thousands of students celebrate in Belgrade after Vucic concedes in Serbia election",
+     "url": "https://www.jpost.com/international/article-912869"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T09:00:15Z",
+     "headline": "Serbian students declare victory as Vucic concedes defeat",
+     "url": "https://www.turkiyetoday.com/region/serbian-students-declare-victory-as-vucic-concedes-defeat-3231041"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T09:06:27Z",
+     "headline": "‘Student List’ wins 52% of vote, Vucic’s supporters get 39% — Serbian electoral commission",
+     "url": "https://tass.com/world/2207739"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T09:17:19Z",
+     "headline": "China says ready to work with Serbia's new government after Vucic concedes defeat",
+     "url": "https://www.aa.com.tr/en/asia-pacific/china-says-ready-to-work-with-serbias-new-government-after-vucic-concedes-defeat/4100955"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T09:55:43Z",
+     "headline": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
+     "url": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T10:05:57Z",
+     "headline": "After Vucic defeat, Serbia waits to see how student-backed leaders will govern",
+     "url": "https://www.straitstimes.com/world/europe/after-vucic-defeat-serbia-waits-to-see-how-student-backed-leaders-will-govern"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-26T10:27:00Z",
+     "headline": "Serbia’s Student-Backed Opposition Wins Election as Vučić Concedes Defeat",
+     "url": "https://www.khaama.com/serbia-student-movement-election-vucic-defeat/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T11:45:39Z",
+     "headline": "Kremlin hails defeated Serbian ally Vucic as student election win adds to its geopolitical woes",
+     "url": "https://www.straitstimes.com/world/europe/kremlin-hails-defeated-serbian-ally-vucic-as-student-election-win-adds-to-its-geopolitical-woes"
     }
    ]
   },
@@ -13494,139 +13679,6 @@
      "time": "2026-10-25T19:29:12Z",
      "headline": "Bayern beat Freiburg to reclaim top spot after Kompany illness",
      "url": "https://www.namibian.com.na/bayern-beat-freiburg-to-reclaim-top-spot-after-kompany-illness/"
-    }
-   ]
-  },
-  {
-   "id": 30486,
-   "title": "Vucic concedes defeat in Serbian election",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.76,
-   "risk": 1.65,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 12,
-   "countries": [
-    "TUR",
-    "BRA",
-    "SGP",
-    "AZE",
-    "GRC",
-    "NPL",
-    "RUS",
-    "ISR",
-    "FRA",
-    "AFG"
-   ],
-   "first_seen": "2026-10-25T22:09:20Z",
-   "last_seen": "2026-10-26T10:27:00Z",
-   "page": "event/30486.html",
-   "reports": [
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:09:20Z",
-     "headline": "Serbia’s student-backed opposition projected to win parliamentary majority as Vucic concedes defeat",
-     "url": "https://www.aa.com.tr/en/europe/serbia-s-student-backed-opposition-projected-to-win-parliamentary-majority-as-vucic-concedes-defeat/4100513"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T22:44:58Z",
-     "headline": "Serbians Celebrate After Vučić Concedes",
-     "url": "https://www.riotimesonline.com/serbians-celebrate-after-vucic-concedes-election/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T23:00:46Z",
-     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
-     "url": "https://www.straitstimes.com/world/europe/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T23:12:00Z",
-     "headline": "Vucic concedes defeat in Serbian election",
-     "url": "https://en.apa.az/europe/vucic-concedes-defeat-in-serbian-election-532109"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-25T23:16:11Z",
-     "headline": "Political earthquake in Serbia: Vucic admits defeat as Student List wins election – Celebrations erupt in Belgrade",
-     "url": "https://en.protothema.gr/2026/10/26/political-earthquake-in-serbia-vucic-admits-defeat-as-student-list-wins-election-celebrations-erupt-in-belgrade/"
-    },
-    {
-     "outlet": "Greek City Times",
-     "country": "GRC",
-     "time": "2026-10-26T03:10:58Z",
-     "headline": "Vucic Concedes Defeat as Student List Wins Serbia Vote",
-     "url": "https://greekcitytimes.com/2026/10/26/vucic-admits-defeat-student-list-serbia/"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-26T05:54:05Z",
-     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
-     "url": "https://kathmandupost.com/world/2026/10/26/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-26T08:09:11Z",
-     "headline": "IN BRIEF: What is known about Vucic party’s defeat in Serbia’s parliamentary elections",
-     "url": "https://tass.com/world/2207725"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T08:31:12Z",
-     "headline": "Thousands of students celebrate in Belgrade after Vucic concedes in Serbia election",
-     "url": "https://www.jpost.com/international/article-912869"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T09:00:15Z",
-     "headline": "Serbian students declare victory as Vucic concedes defeat",
-     "url": "https://www.turkiyetoday.com/region/serbian-students-declare-victory-as-vucic-concedes-defeat-3231041"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-26T09:06:27Z",
-     "headline": "‘Student List’ wins 52% of vote, Vucic’s supporters get 39% — Serbian electoral commission",
-     "url": "https://tass.com/world/2207739"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T09:17:19Z",
-     "headline": "China says ready to work with Serbia's new government after Vucic concedes defeat",
-     "url": "https://www.aa.com.tr/en/asia-pacific/china-says-ready-to-work-with-serbias-new-government-after-vucic-concedes-defeat/4100955"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-26T09:55:43Z",
-     "headline": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
-     "url": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T10:05:57Z",
-     "headline": "After Vucic defeat, Serbia waits to see how student-backed leaders will govern",
-     "url": "https://www.straitstimes.com/world/europe/after-vucic-defeat-serbia-waits-to-see-how-student-backed-leaders-will-govern"
-    },
-    {
-     "outlet": "Khaama Press",
-     "country": "AFG",
-     "time": "2026-10-26T10:27:00Z",
-     "headline": "Serbia’s Student-Backed Opposition Wins Election as Vučić Concedes Defeat",
-     "url": "https://www.khaama.com/serbia-student-movement-election-vucic-defeat/"
     }
    ]
   },
