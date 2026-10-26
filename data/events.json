@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T10:37:45Z",
+ "generated": "2026-10-26T10:55:47Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -341,335 +341,6 @@
    ]
   },
   {
-   "id": 20210,
-   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 8.68,
-   "risk": 4.68,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 57,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR",
-    "GRC",
-    "IRL",
-    "FIN",
-    "BRA",
-    "AUS",
-    "CAN",
-    "SAU",
-    "CHN",
-    "NZL",
-    "ARE",
-    "KOR",
-    "IND",
-    "JPN",
-    "LKA",
-    "GEO"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T09:57:07Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T11:49:36Z",
-     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
-     "url": "https://www.novinite.com/view_news.php?id=241244"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T12:26:10Z",
-     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
-     "url": "https://www.novinite.com/view_news.php?id=241247"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-25T12:57:13Z",
-     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:40:10Z",
-     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T14:01:55Z",
-     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
-     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
-    }
-   ]
-  },
-  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
@@ -1000,6 +671,336 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
+    }
+   ]
+  },
+  {
+   "id": 20210,
+   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 8.56,
+   "risk": 4.62,
+   "confidence": 0.88,
+   "status": "peaking",
+   "outlets": 58,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC",
+    "IRL",
+    "FIN",
+    "BRA",
+    "AUS",
+    "CAN",
+    "SAU",
+    "CHN",
+    "NZL",
+    "ARE",
+    "KOR",
+    "IND",
+    "JPN",
+    "LKA",
+    "GEO",
+    "GHA"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-26T10:46:16Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T11:49:36Z",
+     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
+     "url": "https://www.novinite.com/view_news.php?id=241244"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T12:26:10Z",
+     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
+     "url": "https://www.novinite.com/view_news.php?id=241247"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -2237,6 +2238,617 @@
    ]
   },
   {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.18,
+   "risk": 2.14,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 45,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE",
+    "NZL",
+    "CUB",
+    "FIN",
+    "JPN",
+    "ARG",
+    "GHA",
+    "KOR",
+    "GRC",
+    "KWT",
+    "LKA",
+    "DEU",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-26T10:14:26Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T17:29:39Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-25T19:25:23Z",
+     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T19:41:21Z",
+     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:56:33Z",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
+     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T19:57:11Z",
+     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
+     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:58:47Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T20:46:42Z",
+     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
+     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T21:05:50Z",
+     "headline": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T21:42:56Z",
+     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
+     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-25T21:59:11Z",
+     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
+    },
+    {
+     "outlet": "Helsinki Times",
+     "country": "FIN",
+     "time": "2026-10-25T23:17:49Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
+     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:23:25Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 7.15,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 20,
+   "countries": [
+    "ARE",
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "GBR",
+    "OMN",
+    "PAK",
+    "FRA",
+    "TUR",
+    "KOR",
+    "GHA",
+    "THA"
+   ],
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T10:47:53Z",
+   "page": "event/18222.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-25T22:53:30Z",
+     "headline": "Ballon d'Or odds: Kane remains odds-on to claim top prize despite Mbappe betting surge",
+     "url": "https://www.standard.co.uk/sport/betting/ballon-dor-betting-odds-2026-b1299674.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T01:59:07Z",
+     "headline": "Kane favourite for Ballon d'Or",
+     "url": "https://tribune.com.pk/story/2636981/kane-favourite-for-ballon-dor"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T04:38:55Z",
+     "headline": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race",
+     "url": "https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T05:45:00Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:55:29Z",
+     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
+     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-26T06:06:49Z",
+     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
+     "url": "https://www.koreaherald.com/article/10915050"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:17:18Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T07:21:16Z",
+     "headline": "Joy Sports journalists make Ballon d’Or 2026 predictions",
+     "url": "https://www.myjoyonline.com/joy-sports-journalists-make-ballon-dor-2026-predictions/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-26T07:30:18Z",
+     "headline": "Kane Primed to Pip Yamal, Mbappe to Ballon d'Or Glory",
+     "url": "https://english.aawsat.com/node/5333689"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T07:55:17Z",
+     "headline": "Who will win 2026 Ballon d'Or? Latest odds as Harry Kane faces late Kylian Mbappe surge",
+     "url": "https://www.standard.co.uk/sport/football/ballon-dor-2026-latest-odds-kane-mbappe-b1301787.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T09:00:06Z",
+     "headline": "Kylian Mbappe vs Harry Kane vs Lamine Yamal stats comparison: Who has the better numbers for Ballon d'Or 2026?",
+     "url": "https://gulfnews.com/sport/kylian-mbappe-vs-harry-kane-vs-lamine-yamal-stats-comparison-who-has-the-better-numbers-for-ballon-dor-2026-1.500723666"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T09:19:17Z",
+     "headline": "Ballon d'Or 2026: When, where to watch, timings, favourites and how voting works",
+     "url": "https://gulfnews.com/sport/football/ballon-dor-2026-when-where-to-watch-timings-favourites-and-how-voting-works-1.500723883"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T09:20:40Z",
+     "headline": "Has Kylian Mbappe won 2026 Ballon d'Or? Fan theory explained",
+     "url": "https://www.standard.co.uk/sport/football/has-mbappe-won-2026-ballon-dor-fan-theory-b1302322.html"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-26T10:20:15Z",
+     "headline": "Mbappé, Yamal and Kane to discover Ballon d'Or fates at London awards ceremony",
+     "url": "https://www.rfi.fr/en/sports/20261026-mbapp%C3%A9-yamal-and-kane-to-discover-ballon-d-or-fates-at-london-awards-ceremony"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-26T10:26:35Z",
+     "headline": "Bayern 'work to remove Tottenham clause' in Harry Kane contract ahead of Ballon d'Or",
+     "url": "https://www.standard.co.uk/sport/football/bayern-kane-ballon-dor-tottenham-clause-b1302332.html"
+    },
+    {
+     "outlet": "The Scotsman",
+     "country": "GBR",
+     "time": "2026-10-26T10:47:53Z",
+     "headline": "Ballon d'Or 2026 Odds: Who is favourite to win the award? Latest odds on Harry Kane, Kylian Mbappe, Lamine Yamal",
+     "url": "https://www.scotsman.com/sport/football/international/ballon-dor-2026-odds-who-is-favourite-to-win-the-award-latest-odds-on-harry-kane-kylian-mbappe-lamine-yamal-9022159"
+    }
+   ]
+  },
+  {
    "id": 24812,
    "title": "Officials confirm ceasefire for Russian-held Oleshky",
    "category": "Geopolitics",
@@ -2883,332 +3495,6 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.12,
-   "risk": 2.12,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 45,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR",
-    "AUS",
-    "QAT",
-    "ARE",
-    "NZL",
-    "CUB",
-    "FIN",
-    "JPN",
-    "ARG",
-    "GHA",
-    "KOR",
-    "GRC",
-    "KWT",
-    "LKA",
-    "DEU",
-    "ZAF"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T09:31:12Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "The Irish News (Belfast)",
-     "country": "GBR",
-     "time": "2026-10-25T17:29:39Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.irishnews.com/news/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile-BYDIB3IGIZNH7PGFR6BFG6WXKY/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-25T19:25:23Z",
-     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T19:28:40Z",
-     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T19:41:21Z",
-     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-25T19:56:33Z",
-     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T19:57:11Z",
-     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
-     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:58:47Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T20:46:42Z",
-     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
-     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T21:05:50Z",
-     "headline": "Who Is María Corina Machado?",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T21:42:56Z",
-     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
-     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-25T21:59:11Z",
-     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
-    },
-    {
-     "outlet": "Helsinki Times",
-     "country": "FIN",
-     "time": "2026-10-25T23:17:49Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns after 10 months in exile",
-     "url": "https://www.helsinkitimes.fi/world-int/29425-venezuela-opposition-leader-maria-corina-machado-returns-after-10-months-in-exile.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:23:25Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 1869,
    "title": "Kenya confirms second Ebola case, a relative of first patient",
    "category": "Health & Science",
@@ -3844,277 +4130,6 @@
      "time": "2026-10-26T07:13:00Z",
      "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
      "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
-    }
-   ]
-  },
-  {
-   "id": 18222,
-   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 7.03,
-   "risk": 0.0,
-   "confidence": 0.86,
-   "status": "peaking",
-   "outlets": 18,
-   "countries": [
-    "ARE",
-    "DEU",
-    "NGA",
-    "SAU",
-    "QAT",
-    "ZAF",
-    "BRA",
-    "GBR",
-    "OMN",
-    "PAK",
-    "FRA",
-    "TUR",
-    "KOR",
-    "GHA",
-    "THA"
-   ],
-   "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T10:26:35Z",
-   "page": "event/18222.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T04:30:04Z",
-     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:40:58Z",
-     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T08:33:00Z",
-     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T09:16:06Z",
-     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
-     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:58:09Z",
-     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
-     "url": "https://english.aawsat.com/node/5332582"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T07:56:27Z",
-     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:39:59Z",
-     "headline": "My wife eager to know Ballon d’Or result, says Kane",
-     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T11:52:16Z",
-     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:05:00Z",
-     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T17:00:00Z",
-     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
-     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:21:34Z",
-     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-24T17:27:11Z",
-     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
-     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T06:31:01Z",
-     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-25T22:53:30Z",
-     "headline": "Ballon d'Or odds: Kane remains odds-on to claim top prize despite Mbappe betting surge",
-     "url": "https://www.standard.co.uk/sport/betting/ballon-dor-betting-odds-2026-b1299674.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:38:57Z",
-     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T01:35:01Z",
-     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
-     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:36:53Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T01:59:07Z",
-     "headline": "Kane favourite for Ballon d'Or",
-     "url": "https://tribune.com.pk/story/2636981/kane-favourite-for-ballon-dor"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T03:06:40Z",
-     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T03:34:59Z",
-     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-26T04:38:55Z",
-     "headline": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race",
-     "url": "https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T05:45:00Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:55:29Z",
-     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
-     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-26T06:06:49Z",
-     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
-     "url": "https://www.koreaherald.com/article/10915050"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T07:17:18Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T07:21:16Z",
-     "headline": "Joy Sports journalists make Ballon d’Or 2026 predictions",
-     "url": "https://www.myjoyonline.com/joy-sports-journalists-make-ballon-dor-2026-predictions/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-26T07:30:18Z",
-     "headline": "Kane Primed to Pip Yamal, Mbappe to Ballon d'Or Glory",
-     "url": "https://english.aawsat.com/node/5333689"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T07:55:17Z",
-     "headline": "Who will win 2026 Ballon d'Or? Latest odds as Harry Kane faces late Kylian Mbappe surge",
-     "url": "https://www.standard.co.uk/sport/football/ballon-dor-2026-latest-odds-kane-mbappe-b1301787.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T09:00:06Z",
-     "headline": "Kylian Mbappe vs Harry Kane vs Lamine Yamal stats comparison: Who has the better numbers for Ballon d'Or 2026?",
-     "url": "https://gulfnews.com/sport/kylian-mbappe-vs-harry-kane-vs-lamine-yamal-stats-comparison-who-has-the-better-numbers-for-ballon-dor-2026-1.500723666"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T09:19:17Z",
-     "headline": "Ballon d'Or 2026: When, where to watch, timings, favourites and how voting works",
-     "url": "https://gulfnews.com/sport/football/ballon-dor-2026-when-where-to-watch-timings-favourites-and-how-voting-works-1.500723883"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T09:20:40Z",
-     "headline": "Has Kylian Mbappe won 2026 Ballon d'Or? Fan theory explained",
-     "url": "https://www.standard.co.uk/sport/football/has-mbappe-won-2026-ballon-dor-fan-theory-b1302322.html"
-    },
-    {
-     "outlet": "Evening Standard (London)",
-     "country": "GBR",
-     "time": "2026-10-26T10:26:35Z",
-     "headline": "Bayern 'work to remove Tottenham clause' in Harry Kane contract ahead of Ballon d'Or",
-     "url": "https://www.standard.co.uk/sport/football/bayern-kane-ballon-dor-tottenham-clause-b1302332.html"
     }
    ]
   },
@@ -6444,6 +6459,322 @@
    ]
   },
   {
+   "id": 26704,
+   "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.56,
+   "risk": 3.42,
+   "confidence": 0.86,
+   "status": "fading",
+   "outlets": 26,
+   "countries": [
+    "PRK",
+    "KOR",
+    "QAT",
+    "SAU",
+    "USA",
+    "DEU",
+    "JPN",
+    "GBR",
+    "ARE",
+    "NZL",
+    "THA",
+    "TUR",
+    "AZE",
+    "TWN",
+    "PAK",
+    "SGP",
+    "AUS",
+    "EGY"
+   ],
+   "first_seen": "2026-10-23T09:32:27Z",
+   "last_seen": "2026-10-26T10:44:02Z",
+   "page": "event/26704.html",
+   "reports": [
+    {
+     "outlet": "NK News",
+     "country": "PRK",
+     "time": "2026-10-23T09:32:27Z",
+     "headline": "Chinese officials visit North Korea to mark China’s entry into Korean War",
+     "url": "https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:03:55Z",
+     "headline": "(URGENT) N. Korea's Kim arrives in China's border city of Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001900320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:17:50Z",
+     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://en.yna.co.kr/view/AEN20261024001951320"
+    },
+    {
+     "outlet": "NK News",
+     "country": "PRK",
+     "time": "2026-10-24T06:26:10Z",
+     "headline": "North Korea’s Kim Jong Un visits Chinese border city of Dandong: Xinhua",
+     "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T06:32:03Z",
+     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-koreas-kim-arrives-in-chinas-dandong-via-newly-opened-bridge-govt-source?utm_source=rss"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T06:34:54Z",
+     "headline": "(LEAD) N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+     "url": "https://en.yna.co.kr/view/AEN20261024001952320"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-24T07:07:06Z",
+     "headline": "Kim Jong-un makes surprise visit to China via new Yalu River bridge",
+     "url": "https://www.koreaherald.com/article/10913525"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T07:07:20Z",
+     "headline": "North Korea’s Kim Jong Un visits China via newly opened bridge",
+     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:19:26Z",
+     "headline": "North Korean leader arrives in Chinese border city, Yonhap says",
+     "url": "https://www.arabnews.com/world/north-korean-leader-arrives-in-chinese-border-city-yonhap-says-3008005"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T07:19:26Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.arabnews.com/world/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge-3008005"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T07:27:16Z",
+     "headline": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
+     "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un arrived in China's border city",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un arrives in Chinese border city",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-24T07:29:00Z",
+     "headline": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-24T07:30:09Z",
+     "headline": "N. Korean leader arrives in China via new border bridge: Yonhap",
+     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/030000c"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T07:39:18Z",
+     "headline": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
+     "url": "https://en.yna.co.kr/view/AEN20261024002300320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T07:41:26Z",
+     "headline": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001953320"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T08:42:07Z",
+     "headline": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001954320"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-24T09:34:40Z",
+     "headline": "Kim Jong-un crosses newly opened bridge into China",
+     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-24T09:51:14Z",
+     "headline": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+     "url": "https://en.yna.co.kr/view/AEN20261024001955320"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T10:12:47Z",
+     "headline": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
+     "url": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-24T10:25:29Z",
+     "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
+     "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-24T11:58:42Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.stuff.co.nz/world-news/361050791/north-korean-leader-kim-jong-un-visits-china-inaugurate"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T12:52:04Z",
+     "headline": "N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-korean-leader-kim-jong-un-visits-china-meets-senior-official-amid-ties-push?utm_source=rss"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-24T12:52:25Z",
+     "headline": "North Korean leader makes unannounced visit to Chinese border city",
+     "url": "https://www.bangkokpost.com/world/3342828/north-korean-leader-makes-unannounced-visit-to-chinese-border-city"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Kim Jong Un arrives in China via newly opened bridge after death rumors",
+     "url": "https://www.turkiyetoday.com/world/kim-jong-un-arrives-in-china-via-newly-opened-bridge-after-death-rumors-3230928"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T13:50:45Z",
+     "headline": "North Korean leader Kim visits China through new border bridge",
+     "url": "https://www.aa.com.tr/en/asia-pacific/north-korean-leader-kim-visits-china-through-new-border-bridge/4099612"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-24T13:51:00Z",
+     "headline": "North Korean leader Kim Jong Un arrives in China’s border city of Dandong",
+     "url": "https://www.azernews.az/region/266145.html"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T14:41:55Z",
+     "headline": "North Korea's Kim Returns Home after Visit to Chinese Border City",
+     "url": "https://english.aawsat.com/node/5333158"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:07:02Z",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T16:12:03Z",
+     "headline": "N. Korean leader Kim Jong-un visits China to inaugurate a new cross-border bridge",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-24T16:39:54Z",
+     "headline": "North Korea’s Kim returns home after visit to Chinese border city",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866589"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T18:00:20Z",
+     "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-24T18:35:03Z",
+     "headline": "North Korea's Kim returns home after visit to Chinese border city",
+     "url": "https://www.dawn.com/news/2039517/north-koreas-kim-returns-home-after-visit-to-chinese-border-city"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T19:01:56Z",
+     "headline": "Kim returns home after China visit",
+     "url": "https://tribune.com.pk/story/2636773/kim-returns-home-after-china-visit"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T19:48:02Z",
+     "headline": "North Korea's Kim returns home after visit to Chinese border city",
+     "url": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-returns-home-after-visit-chinese-border-city-6489741"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-24T20:12:34Z",
+     "headline": "Kim Jong Un crosses new bridge into China as trade ties warm",
+     "url": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-24T22:52:03Z",
+     "headline": "N. Korea reports leader Kim's surprise visit to China",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korea-reports-leader-kims-surprise-visit-to-china?utm_source=rss"
+    },
+    {
+     "outlet": "Yonhap (English)",
+     "country": "KOR",
+     "time": "2026-10-25T00:11:38Z",
+     "headline": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
+     "url": "https://en.yna.co.kr/view/AEN20261025000351315"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T00:17:03Z",
+     "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
+    }
+   ]
+  },
+  {
    "id": 12569,
    "title": "Australian lawmaker Helen Haines in critical condition after vehicle ramming attack",
    "category": "Society & Law",
@@ -7053,322 +7384,6 @@
      "time": "2026-10-25T00:46:40Z",
      "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
      "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
-    }
-   ]
-  },
-  {
-   "id": 26704,
-   "title": "N. Korean leader arrives in China via new border bridge: Yonhap",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.49,
-   "risk": 3.42,
-   "confidence": 0.86,
-   "status": "fading",
-   "outlets": 26,
-   "countries": [
-    "PRK",
-    "KOR",
-    "QAT",
-    "SAU",
-    "USA",
-    "DEU",
-    "JPN",
-    "GBR",
-    "ARE",
-    "NZL",
-    "THA",
-    "TUR",
-    "AZE",
-    "TWN",
-    "PAK",
-    "SGP",
-    "AUS",
-    "EGY"
-   ],
-   "first_seen": "2026-10-23T09:32:27Z",
-   "last_seen": "2026-10-26T06:56:16Z",
-   "page": "event/26704.html",
-   "reports": [
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-23T09:32:27Z",
-     "headline": "Chinese officials visit North Korea to mark China’s entry into Korean War",
-     "url": "https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:03:55Z",
-     "headline": "(URGENT) N. Korea's Kim arrives in China's border city of Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001900320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:17:50Z",
-     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://en.yna.co.kr/view/AEN20261024001951320"
-    },
-    {
-     "outlet": "NK News",
-     "country": "PRK",
-     "time": "2026-10-24T06:26:10Z",
-     "headline": "North Korea’s Kim Jong Un visits Chinese border city of Dandong: Xinhua",
-     "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T06:32:03Z",
-     "headline": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-koreas-kim-arrives-in-chinas-dandong-via-newly-opened-bridge-govt-source?utm_source=rss"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T06:34:54Z",
-     "headline": "(LEAD) N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
-     "url": "https://en.yna.co.kr/view/AEN20261024001952320"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-24T07:07:06Z",
-     "headline": "Kim Jong-un makes surprise visit to China via new Yalu River bridge",
-     "url": "https://www.koreaherald.com/article/10913525"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T07:07:20Z",
-     "headline": "North Korea’s Kim Jong Un visits China via newly opened bridge",
-     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:19:26Z",
-     "headline": "North Korean leader arrives in Chinese border city, Yonhap says",
-     "url": "https://www.arabnews.com/world/north-korean-leader-arrives-in-chinese-border-city-yonhap-says-3008005"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T07:19:26Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.arabnews.com/world/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge-3008005"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T07:27:16Z",
-     "headline": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
-     "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un arrived in China's border city",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un arrives in Chinese border city",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-24T07:29:00Z",
-     "headline": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-     "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T07:30:09Z",
-     "headline": "N. Korean leader arrives in China via new border bridge: Yonhap",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/030000c"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T07:39:18Z",
-     "headline": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
-     "url": "https://en.yna.co.kr/view/AEN20261024002300320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T07:41:26Z",
-     "headline": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001953320"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T08:42:07Z",
-     "headline": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001954320"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T09:34:40Z",
-     "headline": "Kim Jong-un crosses newly opened bridge into China",
-     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-24T09:51:14Z",
-     "headline": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-     "url": "https://en.yna.co.kr/view/AEN20261024001955320"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T10:12:47Z",
-     "headline": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
-     "url": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-24T10:25:29Z",
-     "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
-     "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-24T11:58:42Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.stuff.co.nz/world-news/361050791/north-korean-leader-kim-jong-un-visits-china-inaugurate"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T12:52:04Z",
-     "headline": "N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/n-korean-leader-kim-jong-un-visits-china-meets-senior-official-amid-ties-push?utm_source=rss"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-24T12:52:25Z",
-     "headline": "North Korean leader makes unannounced visit to Chinese border city",
-     "url": "https://www.bangkokpost.com/world/3342828/north-korean-leader-makes-unannounced-visit-to-chinese-border-city"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Kim Jong Un arrives in China via newly opened bridge after death rumors",
-     "url": "https://www.turkiyetoday.com/world/kim-jong-un-arrives-in-china-via-newly-opened-bridge-after-death-rumors-3230928"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T13:50:45Z",
-     "headline": "North Korean leader Kim visits China through new border bridge",
-     "url": "https://www.aa.com.tr/en/asia-pacific/north-korean-leader-kim-visits-china-through-new-border-bridge/4099612"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-24T13:51:00Z",
-     "headline": "North Korean leader Kim Jong Un arrives in China’s border city of Dandong",
-     "url": "https://www.azernews.az/region/266145.html"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T14:41:55Z",
-     "headline": "North Korea's Kim Returns Home after Visit to Chinese Border City",
-     "url": "https://english.aawsat.com/node/5333158"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:07:02Z",
-     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T16:12:03Z",
-     "headline": "N. Korean leader Kim Jong-un visits China to inaugurate a new cross-border bridge",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-24T16:39:54Z",
-     "headline": "North Korea’s Kim returns home after visit to Chinese border city",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866589"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T18:00:20Z",
-     "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-24T18:35:03Z",
-     "headline": "North Korea's Kim returns home after visit to Chinese border city",
-     "url": "https://www.dawn.com/news/2039517/north-koreas-kim-returns-home-after-visit-to-chinese-border-city"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T19:01:56Z",
-     "headline": "Kim returns home after China visit",
-     "url": "https://tribune.com.pk/story/2636773/kim-returns-home-after-china-visit"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T19:48:02Z",
-     "headline": "North Korea's Kim returns home after visit to Chinese border city",
-     "url": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-returns-home-after-visit-chinese-border-city-6489741"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-24T20:12:34Z",
-     "headline": "Kim Jong Un crosses new bridge into China as trade ties warm",
-     "url": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-24T22:52:03Z",
-     "headline": "N. Korea reports leader Kim's surprise visit to China",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korea-reports-leader-kims-surprise-visit-to-china?utm_source=rss"
-    },
-    {
-     "outlet": "Yonhap (English)",
-     "country": "KOR",
-     "time": "2026-10-25T00:11:38Z",
-     "headline": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
-     "url": "https://en.yna.co.kr/view/AEN20261025000351315"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T00:17:03Z",
-     "headline": "NK leader vows to advance ties with China during surprise Dandong visit",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit?utm_source=rss"
     }
    ]
   },
@@ -9066,6 +9081,116 @@
    ]
   },
   {
+   "id": 17145,
+   "title": "Global summit on children's well-being opens in Samarkand",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.15,
+   "risk": 2.23,
+   "confidence": 0.85,
+   "status": "fading",
+   "outlets": 9,
+   "countries": [
+    "KWT",
+    "USA",
+    "IRN",
+    "KGZ",
+    "AZE",
+    "OMN",
+    "TJK",
+    "PAK"
+   ],
+   "first_seen": "2026-10-21T05:09:00Z",
+   "last_seen": "2026-10-26T10:29:00Z",
+   "page": "event/17145.html",
+   "reports": [
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T05:09:00Z",
+     "headline": "Global summit on children's well-being opens in Samarkand",
+     "url": "https://www.arabtimesonline.com/news/global-summit-on-childrens-well-being-opens-in-samarkand/"
+    },
+    {
+     "outlet": "UN News",
+     "country": "USA",
+     "time": "2026-10-21T12:00:00Z",
+     "headline": "Summit in Samarkand, a boon for child wellbeing and health",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-21T12:50:02Z",
+     "headline": "Samarkand hosts global summit on children’s well-being",
+     "url": "https://www.tehrantimes.com/news/531344/Samarkand-hosts-global-summit-on-children-s-well-being"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-22T04:30:40Z",
+     "headline": "Aigul Japarova visits children's rehabilitation center in Samarkand",
+     "url": "https://24.kg/en/article/aigul-japarova-visits-childrens-rehabilitation-center-in-samarkand"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-22T06:55:00Z",
+     "headline": "Samarkand summit charts new path for children's well-being",
+     "url": "https://www.arabtimesonline.com/news/samarkand-summit-charts-new-path-for-childrens-well-being/"
+    },
+    {
+     "outlet": "The Times of Central Asia",
+     "country": "CAS",
+     "time": "2026-10-22T12:32:58Z",
+     "headline": "International Network Launched to Support Childhood Cancer Care in Uzbekistan",
+     "url": "https://timesca.com/childhood-cancer-care-in-uzbekistan-international-network/"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-22T13:08:00Z",
+     "headline": "Azerbaijani delegation attends World Summit in Uzbekistan",
+     "url": "https://www.azernews.az/culture/266025.html"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-22T15:27:32Z",
+     "headline": "Oman wraps up child wellbeing summit in Uzbekistan",
+     "url": "https://www.omanobserver.om/article/1198404/oman/oman-wraps-up-child-wellbeing-summit-in-uzbekistan"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T06:22:00Z",
+     "headline": "Samarkand Declaration calls for greater investment in children",
+     "url": "https://www.arabtimesonline.com/news/samarkand-declaration-calls-for-greater-investment-in-children/"
+    },
+    {
+     "outlet": "Asia-Plus (English)",
+     "country": "TJK",
+     "time": "2026-10-23T12:02:07Z",
+     "headline": "Samarkand Declaration calls for greater investment in children’s well-beingSamarkand Declaration: World Summit agrees to increase investment in child well-being",
+     "url": "https://asiaplus.news/en/2026/10/23/samarkand-declaration-world-summit-agrees-to-increase-investment-in-child-well-being/"
+    },
+    {
+     "outlet": "APP (Associated Press of Pakistan)",
+     "country": "PAK",
+     "time": "2026-10-23T12:36:02Z",
+     "headline": "Samarkand Summit concludes, adopts declaration to boost investment in children’s wellbeing",
+     "url": "https://www.app.com.pk/national/samarkand-summit-concludes-adopts-declaration-to-boost-investment-in-childrens-wellbeing/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T10:29:00Z",
+     "headline": "Childhood cancer experts urge holistic care at Samarkand congress",
+     "url": "https://www.arabtimesonline.com/news/childhood-cancer-experts-urge-holistic-care-at-samarkand-congress/"
+    }
+   ]
+  },
+  {
    "id": 16259,
    "title": "UAE diplomat Lana Nusseibeh enters race for UN chief",
    "category": "Geopolitics",
@@ -9866,324 +9991,6 @@
      "time": "2026-10-25T10:36:00Z",
      "headline": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf"
-    }
-   ]
-  },
-  {
-   "id": 16998,
-   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.01,
-   "risk": 3.62,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 32,
-   "countries": [
-    "OMN",
-    "ARE",
-    "JPN",
-    "USA",
-    "TUR",
-    "SAU",
-    "KWT",
-    "SGP",
-    "RUS",
-    "MAR",
-    "IND",
-    "BGD",
-    "CHN",
-    "THA",
-    "AUS",
-    "AZE",
-    "NGA",
-    "IRQ",
-    "PAK",
-    "AFG"
-   ],
-   "first_seen": "2026-10-20T02:51:41Z",
-   "last_seen": "2026-10-26T08:21:22Z",
-   "page": "event/16998.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T02:51:41Z",
-     "headline": "Riyadh Airport reopens, but with limited capacity",
-     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-20T13:16:27Z",
-     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
-     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-21T23:54:54Z",
-     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
-     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
-    },
-    {
-     "outlet": "Simple Flying",
-     "country": "USA",
-     "time": "2026-10-23T15:00:20Z",
-     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
-     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T20:27:30Z",
-     "headline": "Riyadh airport splits domestic and international flights between two terminals",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T20:30:29Z",
-     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:08:45Z",
-     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
-     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T21:14:13Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-24T21:22:00Z",
-     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
-     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-24T21:50:06Z",
-     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
-     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T22:25:00Z",
-     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
-     "url": "https://tass.com/world/2207361"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-24T22:51:01Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T23:05:18Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T00:00:23Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
-     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
-     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T02:21:39Z",
-     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T02:59:25Z",
-     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T03:30:34Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T04:03:15Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-25T04:10:43Z",
-     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
-     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T04:10:58Z",
-     "headline": "Houthis renew warning against using King Khalid airport",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T05:23:12Z",
-     "headline": "Riyadh Airport Partially Resumes Operations",
-     "url": "https://english.aawsat.com/node/5333303"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T05:44:26Z",
-     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
-     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T05:56:33Z",
-     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
-     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T06:48:00Z",
-     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
-     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T07:12:51Z",
-     "headline": "Riyadh airport announces partial reopening",
-     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Riyadh airport resumes flights following Houthi attacks",
-     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-25T09:27:31Z",
-     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
-     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
-     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-25T09:43:58Z",
-     "headline": "Houthis claim strikes on a major Saudi Arabian airport hours after flights resumed",
-     "url": "https://www.sbs.com.au/news/article/houthis-claim-strikes-on-a-major-saudi-arabian-airport-hours-after-flights-resumed/5pe6uf0qw"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:07:34Z",
-     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
-     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-25T14:35:41Z",
-     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T15:30:23Z",
-     "headline": "Houthis say attacked Riyadh airport hours after flights resume",
-     "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T16:32:35Z",
-     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
-     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-25T18:20:00Z",
-     "headline": "Houthis reported strikes on Riyadh airport and military bases",
-     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T18:40:56Z",
-     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
-     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-25T18:42:42Z",
-     "headline": "Houthis say they attacked Riyadh Airport and military bases",
-     "url": "https://tass.com/world/2207607"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T19:09:17Z",
-     "headline": "Riyadh airport partially resumes flights after Houthi attacks",
-     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-partially-resumes-flights-after-houthi-attacks/4100424"
     }
    ]
   },
@@ -11606,6 +11413,324 @@
    ]
   },
   {
+   "id": 16998,
+   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 5.94,
+   "risk": 3.73,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 32,
+   "countries": [
+    "OMN",
+    "ARE",
+    "JPN",
+    "USA",
+    "TUR",
+    "SAU",
+    "KWT",
+    "SGP",
+    "RUS",
+    "MAR",
+    "IND",
+    "BGD",
+    "CHN",
+    "THA",
+    "AUS",
+    "AZE",
+    "NGA",
+    "IRQ",
+    "PAK",
+    "AFG"
+   ],
+   "first_seen": "2026-10-20T02:51:41Z",
+   "last_seen": "2026-10-26T10:46:30Z",
+   "page": "event/16998.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T02:51:41Z",
+     "headline": "Riyadh Airport reopens, but with limited capacity",
+     "url": "https://www.omanobserver.om/article/1198096/world/region/riyadh-airport-reopens-but-with-limited-capacity"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-20T13:16:27Z",
+     "headline": "Which airlines are flying to Riyadh? Latest schedules and cancellations",
+     "url": "https://www.thenationalnews.com/travel/2026/10/20/which-airlines-are-flying-to-riyadh-latest-schedules-and-cancellations/"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-21T23:54:54Z",
+     "headline": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
+     "url": "https://mainichi.jp/english/articles/20261022/p2g/00m/0in/008000c"
+    },
+    {
+     "outlet": "Simple Flying",
+     "country": "USA",
+     "time": "2026-10-23T15:00:20Z",
+     "headline": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
+     "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T20:27:30Z",
+     "headline": "Riyadh airport splits domestic and international flights between two terminals",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-splits-domestic-and-international-flights-between-two-terminals-3230962"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T20:30:29Z",
+     "headline": "Riyadh airport announces new terminal arrangements for domestic, international flights",
+     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:08:45Z",
+     "headline": "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
+     "url": "https://www.arabnews.com/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3008107"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T21:14:13Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-24T21:22:00Z",
+     "headline": "Riyadh Airport Assigns Terminals 1 and 2 for Domestic and International Flights",
+     "url": "https://www.arabtimesonline.com/news/riyadh-airport-assigns-terminals-1-and-2-for-domestic-and-international-flights/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-24T21:50:06Z",
+     "headline": "Iran-aligned Houthis warn against using Riyadh airport as it announces reopening",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-backed-houthis-warn-against-using-riyadh-airport-as-it-announces-reopening"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T22:25:00Z",
+     "headline": "Houthis declare Riyadh airport as their military target — spokesman",
+     "url": "https://tass.com/world/2207361"
+    },
+    {
+     "outlet": "Hespress English",
+     "country": "MAR",
+     "time": "2026-10-24T22:51:01Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://en.hespress.com/147939-riyadh-airport-to-resume-flights-sunday-following-closure-after-houthi-attacks.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T23:05:18Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T00:00:23Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
+     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Yemen's Houthis renew warning against using Riyadh airport",
+     "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-renew-warning-against-using-riyadh-airport"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T02:21:39Z",
+     "headline": "‘Will never be safe’: Houthis warn as Riyadh airport resumes flights",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/will-never-be-safe-houthis-warn-as-riyadh-airport-resumes-flights/articleshow/135181692.cms"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T02:59:25Z",
+     "headline": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T03:30:34Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T04:03:15Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-25T04:10:43Z",
+     "headline": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+     "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-resume-flights-sunday-following-closure-after-houthi-attacks-4306836"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T04:10:58Z",
+     "headline": "Houthis renew warning against using King Khalid airport",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T05:23:12Z",
+     "headline": "Riyadh Airport Partially Resumes Operations",
+     "url": "https://english.aawsat.com/node/5333303"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T05:44:26Z",
+     "headline": "Riyadh Airport Resumes Flight Operations Despite Houthi's \"Unsafe\" Warning",
+     "url": "https://www.ndtv.com/world-news/riyadh-airport-resumes-flight-operations-despite-houthis-unsafe-warning-12232412#publisher=newsstand"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T05:56:33Z",
+     "headline": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
+     "url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T06:48:00Z",
+     "headline": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+     "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T07:12:51Z",
+     "headline": "Riyadh airport announces partial reopening",
+     "url": "https://english.news.cn/20261025/dbb00c4529b34ad3abcfe2f3ba2a74b7/c.html"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Riyadh airport resumes flights following Houthi attacks",
+     "url": "https://www.bangkokpost.com/world/3343253/riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-25T09:27:31Z",
+     "headline": "Saudi downs 10 Houthi missiles as Riyadh airport reopens",
+     "url": "https://www.newarab.com/news/saudi-downs-10-houthi-missiles-riyadh-airport-reopens"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "A major Saudi Arabian airport is due to reopen amidst fresh attacks",
+     "url": "https://www.sbs.com.au/news/article/attacks-continue-just-as-a-major-saudi-arabian-airport-is-due-to-reopen/5pe6uf0qw"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-25T09:43:58Z",
+     "headline": "Houthis claim strikes on a major Saudi Arabian airport hours after flights resumed",
+     "url": "https://www.sbs.com.au/news/article/houthis-claim-strikes-on-a-major-saudi-arabian-airport-hours-after-flights-resumed/5pe6uf0qw"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:07:34Z",
+     "headline": "Riyadh airport tries to reopen as Houthi missiles, drones target Saudi Arabia",
+     "url": "https://www.turkiyetoday.com/region/riyadh-airport-tries-to-reopen-as-houthi-missiles-drones-target-saudi-arabia-3230986"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-25T14:35:41Z",
+     "headline": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
+     "url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.al-monitor.com/originals/2026/10/flights-resume-riyadh-airport-houthis-attack-saudi-arabia"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T15:30:23Z",
+     "headline": "Houthis say attacked Riyadh airport hours after flights resume",
+     "url": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T16:32:35Z",
+     "headline": "Flights resume at Riyadh airport after two-week closure as Houthi strikes continue",
+     "url": "https://www.turkiyetoday.com/region/flights-resume-at-riyadh-airport-after-two-week-closure-as-houthi-strikes-continue-3231016"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T18:20:00Z",
+     "headline": "Houthis reported strikes on Riyadh airport and military bases",
+     "url": "https://en.apa.az/asia/houthis-reported-strikes-on-riyadh-airport-and-military-bases-532081"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T18:40:56Z",
+     "headline": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+     "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-25T18:42:42Z",
+     "headline": "Houthis say they attacked Riyadh Airport and military bases",
+     "url": "https://tass.com/world/2207607"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T19:09:17Z",
+     "headline": "Riyadh airport partially resumes flights after Houthi attacks",
+     "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-partially-resumes-flights-after-houthi-attacks/4100424"
+    }
+   ]
+  },
+  {
    "id": 12603,
    "title": "Son of Aung San Suu Kyi says had first call in five years",
    "category": "Health & Science",
@@ -12738,6 +12863,139 @@
      "time": "2026-10-25T19:29:12Z",
      "headline": "Bayern beat Freiburg to reclaim top spot after Kompany illness",
      "url": "https://www.namibian.com.na/bayern-beat-freiburg-to-reclaim-top-spot-after-kompany-illness/"
+    }
+   ]
+  },
+  {
+   "id": 30486,
+   "title": "Vucic concedes defeat in Serbian election",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.76,
+   "risk": 1.65,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "TUR",
+    "BRA",
+    "SGP",
+    "AZE",
+    "GRC",
+    "NPL",
+    "RUS",
+    "ISR",
+    "FRA",
+    "AFG"
+   ],
+   "first_seen": "2026-10-25T22:09:20Z",
+   "last_seen": "2026-10-26T10:27:00Z",
+   "page": "event/30486.html",
+   "reports": [
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:09:20Z",
+     "headline": "Serbia’s student-backed opposition projected to win parliamentary majority as Vucic concedes defeat",
+     "url": "https://www.aa.com.tr/en/europe/serbia-s-student-backed-opposition-projected-to-win-parliamentary-majority-as-vucic-concedes-defeat/4100513"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T22:44:58Z",
+     "headline": "Serbians Celebrate After Vučić Concedes",
+     "url": "https://www.riotimesonline.com/serbians-celebrate-after-vucic-concedes-election/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T23:00:46Z",
+     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+     "url": "https://www.straitstimes.com/world/europe/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-25T23:12:00Z",
+     "headline": "Vucic concedes defeat in Serbian election",
+     "url": "https://en.apa.az/europe/vucic-concedes-defeat-in-serbian-election-532109"
+    },
+    {
+     "outlet": "ProtoThema English",
+     "country": null,
+     "time": "2026-10-25T23:16:11Z",
+     "headline": "Political earthquake in Serbia: Vucic admits defeat as Student List wins election – Celebrations erupt in Belgrade",
+     "url": "https://en.protothema.gr/2026/10/26/political-earthquake-in-serbia-vucic-admits-defeat-as-student-list-wins-election-celebrations-erupt-in-belgrade/"
+    },
+    {
+     "outlet": "Greek City Times",
+     "country": "GRC",
+     "time": "2026-10-26T03:10:58Z",
+     "headline": "Vucic Concedes Defeat as Student List Wins Serbia Vote",
+     "url": "https://greekcitytimes.com/2026/10/26/vucic-admits-defeat-student-list-serbia/"
+    },
+    {
+     "outlet": "The Kathmandu Post",
+     "country": "NPL",
+     "time": "2026-10-26T05:54:05Z",
+     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+     "url": "https://kathmandupost.com/world/2026/10/26/belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T08:09:11Z",
+     "headline": "IN BRIEF: What is known about Vucic party’s defeat in Serbia’s parliamentary elections",
+     "url": "https://tass.com/world/2207725"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T08:31:12Z",
+     "headline": "Thousands of students celebrate in Belgrade after Vucic concedes in Serbia election",
+     "url": "https://www.jpost.com/international/article-912869"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T09:00:15Z",
+     "headline": "Serbian students declare victory as Vucic concedes defeat",
+     "url": "https://www.turkiyetoday.com/region/serbian-students-declare-victory-as-vucic-concedes-defeat-3231041"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T09:06:27Z",
+     "headline": "‘Student List’ wins 52% of vote, Vucic’s supporters get 39% — Serbian electoral commission",
+     "url": "https://tass.com/world/2207739"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T09:17:19Z",
+     "headline": "China says ready to work with Serbia's new government after Vucic concedes defeat",
+     "url": "https://www.aa.com.tr/en/asia-pacific/china-says-ready-to-work-with-serbias-new-government-after-vucic-concedes-defeat/4100955"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-26T09:55:43Z",
+     "headline": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
+     "url": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T10:05:57Z",
+     "headline": "After Vucic defeat, Serbia waits to see how student-backed leaders will govern",
+     "url": "https://www.straitstimes.com/world/europe/after-vucic-defeat-serbia-waits-to-see-how-student-backed-leaders-will-govern"
+    },
+    {
+     "outlet": "Khaama Press",
+     "country": "AFG",
+     "time": "2026-10-26T10:27:00Z",
+     "headline": "Serbia’s Student-Backed Opposition Wins Election as Vučić Concedes Defeat",
+     "url": "https://www.khaama.com/serbia-student-movement-election-vucic-defeat/"
     }
    ]
   },
@@ -14371,396 +14629,6 @@
      "time": "2026-10-25T17:15:37Z",
      "headline": "Jamaica hit Sri Lanka for six at U15 World Cup",
      "url": "https://www.jamaicaobserver.com/2026/10/25/jamaica-hit-sri-lanka-six-u15-world-cup/"
-    }
-   ]
-  },
-  {
-   "id": 6450,
-   "title": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.64,
-   "risk": 1.64,
-   "confidence": 0.85,
-   "status": "fading",
-   "outlets": 11,
-   "countries": [
-    "IRN",
-    "OMN",
-    "UZB",
-    "PHL",
-    "SGP",
-    "KOR",
-    "HKG",
-    "JPN",
-    "CHN"
-   ],
-   "first_seen": "2026-10-16T07:26:52Z",
-   "last_seen": "2026-10-25T05:24:43Z",
-   "page": "event/6450.html",
-   "reports": [
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:26:52Z",
-     "headline": "Iran’s wheelchair basketball start on high in Nagoya 2026",
-     "url": "https://www.tehrantimes.com/news/531101/Iran-s-wheelchair-basketball-start-on-high-in-Nagoya-2026"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T07:51:18Z",
-     "headline": "Iran blind football lose to Thailand at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531103/Iran-blind-football-lose-to-Thailand-at-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-16T13:55:48Z",
-     "headline": "Women’s wheelchair basketball fall to Japan in Nagoya",
-     "url": "https://www.tehrantimes.com/news/531121/Women-s-wheelchair-basketball-fall-to-Japan-in-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T06:10:05Z",
-     "headline": "2026 Nagoya: Iran’s men’s wheelchair basketball beat S. Korea",
-     "url": "https://www.tehrantimes.com/news/531138/2026-Nagoya-Iran-s-men-s-wheelchair-basketball-beat-S-Korea"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T07:33:49Z",
-     "headline": "Iran blind football defeat South Korea in 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531140/Iran-blind-football-defeat-South-Korea-in-2026-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-17T10:36:23Z",
-     "headline": "Iran women’s wheelchair basketball suffer loss against Thailand",
-     "url": "https://www.tehrantimes.com/news/531141/Iran-women-s-wheelchair-basketball-suffer-loss-against-Thailand"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-18T12:01:07Z",
-     "headline": "Al Hubaishi launches Oman’s Asian Para Games campaign",
-     "url": "https://www.omanobserver.om/article/1198007/sports/other-sports/al-hubaishi-launches-omans-asian-para-games-campaign"
-    },
-    {
-     "outlet": "Gazeta.uz (English)",
-     "country": "UZB",
-     "time": "2026-10-19T05:10:00Z",
-     "headline": "Photo report: Opening ceremony of 5th Asian Para Games Aichi-Nagoya 2026",
-     "url": "https://www.gazeta.uz/en/2026/10/19/v-asian-para-games/"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:31:22Z",
-     "headline": "Iran blind football beat China: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531223/Iran-blind-football-beat-China-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T08:41:54Z",
-     "headline": "Iran rout Qatar in goalball at Nagoya Para Asian Games",
-     "url": "https://www.tehrantimes.com/news/531224/Iran-rout-Qatar-10-0-in-goalball-at-Nagoya-Para-Asian-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T09:30:50Z",
-     "headline": "Iranian girl Jami takes gold in taekwondo at 2026 Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531225/Iranian-girl-Jami-takes-gold-in-taekwondo-at-2026-Asian-Para"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:15:20Z",
-     "headline": "Iranian women para-athletes win gold and silver: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531226/Iranian-women-para-athletes-win-gold-and-silver-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T10:46:40Z",
-     "headline": "Men’s wheelchair basketball defeat the Philippines: 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531227/Men-s-wheelchair-basketball-defeat-the-Philippines-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T11:31:56Z",
-     "headline": "Women’s wheelchair basketball beat Cambodia at Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531229/Women-s-wheelchair-basketball-beat-Cambodia-at-Asian-Para-Games"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:48:55Z",
-     "headline": "Para swimmer Zeighaminejad seizes Iran’s third gold at Nagoya",
-     "url": "https://www.tehrantimes.com/news/531240/Para-swimmer-Zeighaminejad-seizes-Iran-s-third-gold-at-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-19T12:49:53Z",
-     "headline": "Fewer Athletes, Same Big Ambitions: Iran Chases Para Games Glory",
-     "url": "https://www.tehrantimes.com/news/531241/Fewer-Athletes-Same-Big-Ambitions-Iran-Chases-Para-Games-Glory"
-    },
-    {
-     "outlet": "Rappler",
-     "country": "PHL",
-     "time": "2026-10-19T13:34:50Z",
-     "headline": "Gawilan bags Philippines’ first gold at 2026 Asian Para Games",
-     "url": "https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T04:38:00Z",
-     "headline": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
-     "url": "https://www.channelnewsasia.com/east-asia/asian-para-games-wrong-anthems-played-6481461"
-    },
-    {
-     "outlet": "Korea Herald",
-     "country": "KOR",
-     "time": "2026-10-22T07:03:33Z",
-     "headline": "Cho Eun-hye wins Korea's first Asian Para Games fencing gold",
-     "url": "https://www.koreaherald.com/article/10911552"
-    },
-    {
-     "outlet": "RTHK English",
-     "country": "HKG",
-     "time": "2026-10-22T08:44:58Z",
-     "headline": "HK wins silver in women's épée at Asian Para Games",
-     "url": "https://news.rthk.hk/rthk/en/component/k2/1874937-20261022.htm"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-23T11:00:12Z",
-     "headline": "Oda wins Asian Para Games wheelchair tennis gold, Paralympic berth",
-     "url": "https://mainichi.jp/english/articles/20261023/p2g/00m/0sp/054000c"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-23T11:38:51Z",
-     "headline": "Men’s wheelchair basketball bag silver at 2026 Nagoya",
-     "url": "https://www.tehrantimes.com/news/531401/Men-s-wheelchair-basketball-bag-silver-at-2026-Nagoya"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-24T08:33:16Z",
-     "headline": "Iran drops four places to sixth at Nagoya Asian Para Games",
-     "url": "https://www.tehrantimes.com/news/531423/Iran-drops-four-places-to-sixth-at-Nagoya-Asian-Para-Games"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-24T12:00:10Z",
-     "headline": "Aichi-Nagoya Asian Para Games conclude with hopes for inclusive society",
-     "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0sp/038000c"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T12:53:43Z",
-     "headline": "Closing ceremony of Aichi-Nagoya Asian Para Games held in Nagoya",
-     "url": "https://english.news.cn/20261024/bd1d0cdb220b4eec8131c66002bfaf38/c.html"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-24T19:21:39Z",
-     "headline": "Iran finishes sixth at Nagoya Asian Para Games",
-     "url": "https://en.mehrnews.com/news/248865/Iran-finishes-sixth-at-Nagoya-Asian-Para-Games"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-25T05:24:43Z",
-     "headline": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
-     "url": "https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    }
-   ]
-  },
-  {
-   "id": 30188,
-   "title": "Voting ends in Brazil's presidential runoff after 2-hour extension",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.62,
-   "risk": 1.21,
-   "confidence": 0.84,
-   "status": "fading",
-   "outlets": 10,
-   "countries": [
-    "CHN",
-    "DEU",
-    "BRA",
-    "TUR",
-    "SGP",
-    "RUS",
-    "GBR",
-    "USA",
-    "JPN"
-   ],
-   "first_seen": "2026-10-24T13:58:51Z",
-   "last_seen": "2026-10-25T23:57:36Z",
-   "page": "event/30188.html",
-   "reports": [
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-24T13:58:51Z",
-     "headline": "Voting begins in Brazil's presidential runoff",
-     "url": "https://news.cgtn.com/news/2026-10-24/news-1RvDEEVS4V2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "CGTN (World)",
-     "country": "CHN",
-     "time": "2026-10-25T11:02:47Z",
-     "headline": "Voting begins in Brazil's presidential runoff",
-     "url": "https://news.cgtn.com/news/2026-10-25/news-1Rx5YGR2s4o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T14:13:00Z",
-     "headline": "Brazil's Supreme Court extends voting in presidential runoff for two hours over transport issues",
-     "url": "https://www.dw.com/en/brazil-s-supreme-court-extends-voting-in-presidential-runoff-for-two-hours-over-transport-issues/live-79755630?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T14:13:00Z",
-     "headline": "Brazil elections: Voting extended after transport complaints",
-     "url": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T17:43:12Z",
-     "headline": "Lula Campaign Asks to Extend Voting Hours",
-     "url": "https://www.riotimesonline.com/lula-campaign-asks-to-extend-voting-hours-bus-cuts-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T20:37:00Z",
-     "headline": "Zanin Extends Brazil Voting to 6 p.m. ET",
-     "url": "https://www.riotimesonline.com/zanin-extends-brazil-runoff-voting-tse-pauses-count-2026/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T20:39:00Z",
-     "headline": "Brazil Supreme Court extends presidential voting by 2 hours",
-     "url": "https://www.aa.com.tr/en/politics/brazil-supreme-court-extends-presidential-voting-by-2-hours/4100472"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T20:55:26Z",
-     "headline": "Brazil’s Count Is Paused: What Happens Next",
-     "url": "https://www.riotimesonline.com/brazil-count-paused-as-flavios-odds-slide/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T21:28:00Z",
-     "headline": "Brazil elections: Vote counting resumes after extension",
-     "url": "https://www.dw.com/en/brazil-elections-vote-counting-resumes-after-extension/live-79755630?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T21:41:01Z",
-     "headline": "Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
-     "url": "https://english.news.cn/20261026/f0c1827913ff4a7390bd6be455fe7ae9/c.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T21:50:10Z",
-     "headline": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-     "url": "https://www.channelnewsasia.com/world/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours-6490261"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-25T22:04:49Z",
-     "headline": "Voting at Brazil’s runoff presidential election extended for two hours",
-     "url": "https://tass.com/world/2207623"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T22:17:09Z",
-     "headline": "Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
-     "url": "https://english.news.cn/20261026/3c7100c5dc80458482120bd7e5714216/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T22:17:09Z",
-     "headline": "Flash: Voting ends in Brazil's presidential runoff",
-     "url": "https://english.news.cn/20261026/efaea61632bd4f84bf5b617a539cb181/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T22:33:52Z",
-     "headline": "Urgent: Voting ends in Brazil's presidential runoff after 2-hour extension",
-     "url": "https://english.news.cn/20261026/6189a8d0aea549f081ef6e3e7cc70781/c.html"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T22:45:01Z",
-     "headline": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T22:45:35Z",
-     "headline": "Lula Wins Re-election as Bolsonaro Rejects Result",
-     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T23:10:29Z",
-     "headline": "Voting ends in Brazil's presidential runoff after 2-hour extension",
-     "url": "https://english.news.cn/20261026/879f815275a7471bb232f4c0e75c5043/c.html"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-25T23:30:09Z",
-     "headline": "Brazil resumes vote counting after last-minute extension of polling hours in tense presidential race",
-     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/006000c"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T23:45:00Z",
-     "headline": "Brazil elections: Votes being tallied after polls close",
-     "url": "https://www.dw.com/en/brazil-elections-votes-being-tallied-after-polls-close/live-79755630?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T23:57:36Z",
-     "headline": "Voting ends in Brazil's presidential runoff after 2-hour extension",
-     "url": "https://english.news.cn/20261026/2e62e2c7582d49098994a4957586479d/c.html"
     }
    ]
   }
