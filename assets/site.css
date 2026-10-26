@@ -448,3 +448,19 @@ border-radius:14px;background:linear-gradient(135deg,color-mix(in srgb,#229ed9 1
 .mtb.off{background:color-mix(in srgb,var(--crit) 14%,transparent);color:var(--crit)}.mtb.dis{background:var(--chip);color:var(--ink2)}
 .mtnot li{margin:10px 0}.mtnot a{font-family:var(--head);font-size:16px}
 @media (max-width:900px){.mtks{grid-template-columns:repeat(2,1fr)}.mtcols{grid-template-columns:1fr}}
+
+/* WEB-1.12 interactive maritime page */
+.mttap{margin:-2px 0 8px}
+button.mtc{font:inherit;color:inherit;text-align:start;cursor:pointer;width:100%;transition:box-shadow .15s,transform .15s}
+button.mtc:hover{box-shadow:0 4px 14px rgba(0,0,0,.12);transform:translateY(-1px)}button.mtc.on{outline:2px solid var(--gold);outline-offset:2px}
+.mtpanel{border:1px solid var(--rule);border-top:5px solid var(--rule);background:var(--card);border-radius:14px;padding:16px 20px;margin:6px 0 20px;scroll-margin-top:70px}
+.mtpanel.st-crit{border-top-color:var(--crit)}.mtpanel.st-high{border-top-color:var(--high)}.mtpanel.st-elev{border-top-color:var(--elev)}.mtpanel.st-ok{border-top-color:#3f9e6e}
+.mtph{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}.mtph h2{font-family:var(--head);font-size:28px;margin:2px 0 0}
+.mtpanel h3{font-family:var(--head);font-size:18px;margin:16px 0 6px}
+.mtfacts{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}.mtfacts div{background:var(--paper2);border-radius:10px;padding:8px 12px;min-width:120px}
+.mtfacts b{display:block;font-family:var(--head);font-size:20px}.mtfacts span{font-size:12px;color:var(--muted)}
+.mtbars{width:100%;height:auto;display:block}.mtbars rect{fill:var(--gold);opacity:.55}.mtbars rect.now{opacity:1}
+.mtbars text{font-size:11px;fill:var(--ink2)}.mtbars text.d{fill:var(--muted);font-size:10.5px}
+.mtpcols{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.mtf{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 10px}.mtf .qchip[aria-pressed=true]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+@media (max-width:760px){.mtpcols{grid-template-columns:1fr}.mtph h2{font-size:23px}}
