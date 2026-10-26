@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:49:06Z",
+ "generated": "2026-10-26T02:06:06Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -1583,11 +1583,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.14,
+   "importance": 7.19,
    "risk": 1.46,
    "confidence": 0.91,
    "status": "spreading",
-   "outlets": 30,
+   "outlets": 31,
    "countries": [
     "QAT",
     "USA",
@@ -1610,10 +1610,11 @@
     "RUS",
     "TUR",
     "KOR",
-    "JPN"
+    "JPN",
+    "IND"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T01:31:17Z",
+   "last_seen": "2026-10-26T01:40:12Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -1732,7 +1733,7 @@
      "outlet": "Sky News (World)",
      "country": "GBR",
      "time": "2026-10-25T22:13:00Z",
-     "headline": "Lula re-elected president in Brazil, electoral authority says",
+     "headline": "Lula re-elected president in Brazil but his opponent refuses to accept result",
      "url": "https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818"
     },
     {
@@ -2862,6 +2863,331 @@
      "time": "2026-10-17T19:41:02Z",
      "headline": "Kenya Confirms Four New Ebola Cases",
      "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+    }
+   ]
+  },
+  {
+   "id": 2857,
+   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.06,
+   "risk": 3.01,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 38,
+   "countries": [
+    "ARG",
+    "USA",
+    "SGP",
+    "BRA",
+    "QAT",
+    "TUR",
+    "COL",
+    "URY",
+    "IRL",
+    "DEU",
+    "ZAF",
+    "FRA",
+    "AZE",
+    "TWN",
+    "CUB",
+    "OMN",
+    "NGA",
+    "SAU",
+    "PAK",
+    "GBR",
+    "IND",
+    "BLZ",
+    "KOR",
+    "PHL",
+    "GRC",
+    "CHN",
+    "ISR"
+   ],
+   "first_seen": "2026-10-05T05:14:00Z",
+   "last_seen": "2026-10-26T02:01:16Z",
+   "page": "event/2857.html",
+   "reports": [
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T05:14:00Z",
+     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:19:01Z",
+     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
+     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T10:41:18Z",
+     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T11:30:18Z",
+     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
+    },
+    {
+     "outlet": "Democracy Now!",
+     "country": "USA",
+     "time": "2026-10-05T12:15:56Z",
+     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-05T16:26:40Z",
+     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-05T18:29:55Z",
+     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
+     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-06T16:55:19Z",
+     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
+     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-07T20:19:31Z",
+     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
+     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-08T01:01:27Z",
+     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
+     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T10:06:40Z",
+     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-15T18:00:42Z",
+     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
+     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-15T22:06:21Z",
+     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-15T22:16:03Z",
+     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
+     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T06:25:30Z",
+     "headline": "Brazil Runoff Poll Shows Race Tightening",
+     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-16T16:34:26Z",
+     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-16T17:06:25Z",
+     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T18:50:20Z",
+     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
+     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-16T18:51:11Z",
+     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
+     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-16T19:28:16Z",
+     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
+     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-17T06:23:00Z",
+     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
+     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T14:32:39Z",
+     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
+     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-17T15:06:41Z",
+     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
+     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-19T03:49:22Z",
+     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T03:50:00Z",
+     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-19T06:01:00Z",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T06:51:02Z",
+     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-19T10:23:39Z",
+     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-19T10:36:04Z",
+     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T10:52:37Z",
+     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
+     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "country": "ARG",
+     "time": "2026-10-19T11:51:20Z",
+     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
+     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-19T13:39:44Z",
+     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-19T15:50:20Z",
+     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
+     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T17:10:00Z",
+     "headline": "Poll shows Lula, Bolsonaro neck and neck",
+     "url": "https://www.azernews.az/region/265838.html"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-19T18:57:39Z",
+     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-22T11:38:30Z",
+     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
+     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T22:26:37Z",
+     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-23T01:50:22Z",
+     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
+     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T09:00:00Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T12:17:20Z",
+     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
+     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -4399,329 +4725,6 @@
      "time": "2026-10-24T03:34:42Z",
      "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
      "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
-    }
-   ]
-  },
-  {
-   "id": 2857,
-   "title": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.85,
-   "risk": 2.79,
-   "confidence": 0.91,
-   "status": "fading",
-   "outlets": 36,
-   "countries": [
-    "ARG",
-    "USA",
-    "SGP",
-    "BRA",
-    "QAT",
-    "TUR",
-    "COL",
-    "URY",
-    "IRL",
-    "DEU",
-    "ZAF",
-    "FRA",
-    "AZE",
-    "TWN",
-    "CUB",
-    "OMN",
-    "NGA",
-    "SAU",
-    "PAK",
-    "GBR",
-    "IND",
-    "BLZ",
-    "KOR",
-    "PHL",
-    "GRC"
-   ],
-   "first_seen": "2026-10-05T05:14:00Z",
-   "last_seen": "2026-10-25T22:50:31Z",
-   "page": "event/2857.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T05:14:00Z",
-     "headline": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:19:01Z",
-     "headline": "Fans of Brazil's Lula hope for comeback against Bolsonaro",
-     "url": "https://www.batimes.com.ar/news/latin-america/fans-of-brazils-lula-hope-for-comeback-against-bolsonaro.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T10:41:18Z",
-     "headline": "Bolsonaro clan wins big in multiple Brazil polls",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-clan-wins-big-in-multiple-brazil-polls.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T11:30:18Z",
-     "headline": "Bolsonaro pushes Lula to brink of defeat ahead of Brazil run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/bolsonaro-pushes-lula-to-brink-of-defeat-ahead-of-brazil-run-off.phtml"
-    },
-    {
-     "outlet": "Democracy Now!",
-     "country": "USA",
-     "time": "2026-10-05T12:15:56Z",
-     "headline": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-     "url": "http://www.democracynow.org/2026/10/5/brazil_election"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-05T16:26:40Z",
-     "headline": "Flávio Bolsonaro rides right-wing surge into Brazil's election run-off",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-rides-right-wing-surge-into-brazils-election-run-off.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-05T18:29:55Z",
-     "headline": "Flávio Bolsonaro edges Lula in Brazil’s closest first-round presidential vote",
-     "url": "https://latinamericareports.com/flavio-bolsonaro-edges-lula-in-brazils-closest-first-round-presidential-vote/15333/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-06T16:55:19Z",
-     "headline": "Brazil market euphoria hinges on fixes Flávio Bolsonaro is yet to lay out",
-     "url": "https://www.batimes.com.ar/news/latin-america/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out.phtml"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-07T20:19:31Z",
-     "headline": "Brazilian markets rally after right-wing Flavio Bolsonaro leads in presidential first round",
-     "url": "https://latinamericareports.com/brazilian-markets-rally-after-right-wing-flavio-bolsonaro-leads-in-presidential-first-round/15364/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-08T01:01:27Z",
-     "headline": "Flávio Bolsonaro secures four key party endorsements in Brazil race",
-     "url": "https://www.batimes.com.ar/news/latin-america/flavio-bolsonaro-secures-four-key-party-endorsements-in-brazil-race.phtml"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T10:06:40Z",
-     "headline": "Brazil’s Bolsonaro racks up endorsements, shaping potential governing bloc",
-     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-racks-up-endorsements-shaping-potential-governing-bloc"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-15T18:00:42Z",
-     "headline": "Brazil Runoff Odds Fall Below 80% for Flávio",
-     "url": "https://www.riotimesonline.com/brazil-runoff-odds-flavio-below-80-percent-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-15T22:06:21Z",
-     "headline": "Bolsonaro, Lula in tight race ahead of Brazil runoff, poll shows",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-15T22:16:03Z",
-     "headline": "No more '6x1': Brazil's Congress approves shorter workweek",
-     "url": "https://www.batimes.com.ar/news/latin-america/no-more-6x1-brazils-congress-approves-shorter-workweek.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T06:25:30Z",
-     "headline": "Brazil Runoff Poll Shows Race Tightening",
-     "url": "https://www.riotimesonline.com/brazil-runoff-poll-race-tightens-2026/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-16T16:34:26Z",
-     "headline": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-16T17:06:25Z",
-     "headline": "New poll shows narrowing race between Bolsonaro and Lula in Brazil presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/new-poll-shows-narrowing-race-between-bolsonaro-and-lula-in-brazil-presidential-runoff/4091346"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T18:50:20Z",
-     "headline": "PoderData Poll Ties Lula, Flávio at 50%",
-     "url": "https://www.riotimesonline.com/poderdata-aya-poll-lula-flavio-tied-50-runoff-2026/"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-16T18:51:11Z",
-     "headline": "Lula Closes Gap With Flavio Bolsonaro Ahead of Brazil’s Presidential Runoff",
-     "url": "https://colombiaone.com/2026/10/16/brazil-presidential-runoff-lula-flavio-bolsonaro-polls/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-16T19:28:16Z",
-     "headline": "Ciro’s Running Mate Backs Flávio Bolsonaro",
-     "url": "https://www.riotimesonline.com/roberto-claudio-backs-flavio-bolsonaro-runoff-2026/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-17T06:23:00Z",
-     "headline": "Bolsonaro and Lula head into the final stretch of Brazil’s campaign in a statistical tie",
-     "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T14:32:39Z",
-     "headline": "Veritá Poll Puts Flávio at 51%, Lula at 49%",
-     "url": "https://www.riotimesonline.com/verita-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-17T15:06:41Z",
-     "headline": "Ipespe Poll Has Flávio 51.2%, Lula 48.8%",
-     "url": "https://www.riotimesonline.com/ipespe-abrapel-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-19T03:49:22Z",
-     "headline": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
-     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T03:50:00Z",
-     "headline": "‘Liar’, ‘clown’: Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.straitstimes.com/world/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-19T06:01:00Z",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T06:51:02Z",
-     "headline": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-19T10:23:39Z",
-     "headline": "Brazil’s Bolsonaro, Lula spar in first debate as personal attacks fly",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-19-brazils-bolsonaro-lula-spar-in-first-debate-as-personal-attacks-fly/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-19T10:36:04Z",
-     "headline": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
-     "url": "https://www.straitstimes.com/world/bolsonaros-lead-over-lula-narrows-ahead-of-brazil-runoff-polls-show"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T10:52:37Z",
-     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-     "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-19T11:51:20Z",
-     "headline": "'Liar,' 'clown' – Lula and Bolsonaro spar in Brazil poll debate",
-     "url": "https://www.batimes.com.ar/news/latin-america/liar-clown-lula-and-bolsonaro-spar-in-brazil-poll-debate.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-19T13:39:44Z",
-     "headline": "PoderData Poll Has Flávio 52%, Lula 48%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-52-lula-48-runoff-2026/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-19T15:50:20Z",
-     "headline": "Brazil’s Lula and Bolsonaro clash in debate before runoff",
-     "url": "https://www.turkiyetoday.com/world/brazils-lula-and-bolsonaro-clash-in-debate-before-runoff-3230620"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T17:10:00Z",
-     "headline": "Poll shows Lula, Bolsonaro neck and neck",
-     "url": "https://www.azernews.az/region/265838.html"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-19T18:57:39Z",
-     "headline": "Lula, Bolsonaro trade insults in Brazil poll debate",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/20/2003866302"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-22T11:38:30Z",
-     "headline": "PoderData Poll Has Flávio 51%, Lula 49%",
-     "url": "https://www.riotimesonline.com/poderdata-poll-flavio-51-lula-49-runoff-2026/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T22:26:37Z",
-     "headline": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-and-lula-about-even-ahead-of-brazil-runoff-datafolha-poll-shows"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-23T01:50:22Z",
-     "headline": "Brazil’s Presidential Runoff: Lula’s Last Remake?",
-     "url": "https://havanatimes.org/features/brazils-presidential-runoff-lulas-last-remake/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T09:00:00Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T12:17:20Z",
-     "headline": "Brazil Poll Has Lula 50.6%, Flávio 49.4%",
-     "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-50-6-flavio-49-4-runoff-2026/"
     }
    ]
   },
@@ -8149,150 +8152,319 @@
    ]
   },
   {
-   "id": 16361,
-   "title": "Australian MP loses both legs after car attack",
-   "category": "Society & Law",
-   "cat": 8,
-   "importance": 6.13,
-   "risk": 1.91,
-   "confidence": 0.88,
+   "id": 23496,
+   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 6.17,
+   "risk": 6.67,
+   "confidence": 0.9,
    "status": "fading",
-   "outlets": 15,
+   "outlets": 28,
    "countries": [
-    "IRL",
-    "DEU",
-    "ARE",
-    "KWT",
-    "GBR",
-    "CAN",
+    "NGA",
+    "KEN",
+    "CHN",
+    "SAU",
+    "SGP",
+    "FRA",
+    "TZA",
     "USA",
-    "UGA",
-    "TWN",
+    "DEU",
+    "ZAF",
+    "OMN",
+    "KWT",
+    "KOR",
+    "QAT",
+    "IND",
     "NZL",
-    "AUS"
+    "IRN",
+    "GBR",
+    "GHA"
    ],
-   "first_seen": "2026-10-21T03:37:48Z",
-   "last_seen": "2026-10-24T01:55:15Z",
-   "page": "event/16361.html",
+   "first_seen": "2026-10-23T07:25:04Z",
+   "last_seen": "2026-10-26T00:33:00Z",
+   "page": "event/23496.html",
    "reports": [
     {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-21T03:37:48Z",
-     "headline": "Australian MP loses both legs after car attack",
-     "url": "https://www.rte.ie/news/world/2026/1021/1596206-australia-politican-attack/"
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T07:25:04Z",
+     "headline": "One dead, three rescued in Lagos building collapse",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
     },
     {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-21T08:16:00Z",
-     "headline": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf"
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T08:44:39Z",
+     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
+     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
     },
     {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T08:36:54Z",
-     "headline": "Australian MP has both legs amputated after ramming 'attack'",
-     "url": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/"
+     "outlet": "Daily Trust",
+     "country": "NGA",
+     "time": "2026-10-23T08:45:19Z",
+     "headline": "Lagos: One dead, several feared trapped as building collapses",
+     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
     },
     {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T08:48:00Z",
-     "headline": "Australian politician who was hit by car has lost both legs",
-     "url": "https://www.arabtimesonline.com/news/australian-politician-who-was-hit-by-car-has-lost-both-legs/"
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T11:12:46Z",
+     "headline": "Several trapped after building collapse in Eastleigh",
+     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
     },
     {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T09:18:05Z",
-     "headline": "What is transverse myelitis? The rare condition experienced by MP Helen Haines’s alleged attacker",
-     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-brendan-nugent-idiopathic-transverse-myelitis-b3070495.html"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T12:02:13Z",
+     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
+     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
     },
     {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-21T10:15:16Z",
-     "headline": "Australian MP loses both legs after alleged vehicle attack as suspect appears in court",
-     "url": "https://www.cbc.ca/news/world/australian-politician-car-9.7389606?cmp=rss"
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T12:12:49Z",
+     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
+     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T12:31:56Z",
+     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
+     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-23T12:33:32Z",
+     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
+     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:40:41Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
+    },
+    {
+     "outlet": "KBC",
+     "country": "KEN",
+     "time": "2026-10-23T12:55:16Z",
+     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
+     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T12:57:29Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T13:03:29Z",
+     "headline": "One dead, three injured as two-storey building collapses in Lagos",
+     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T13:29:04Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T13:29:24Z",
+     "headline": "One dies, three injured in Lagos building collapse",
+     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T13:32:07Z",
+     "headline": "Building collapse in Nairobi, several feared trapped",
+     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-23T13:40:56Z",
+     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
+     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
     },
     {
      "outlet": "ABC News (International)",
      "country": "USA",
-     "time": "2026-10-21T10:26:22Z",
-     "headline": "Australian politician who was hit by car has lost both legs",
-     "url": "https://abcnews.com/International/wireStory/australian-politician-hit-car-lost-legs-137438270"
+     "time": "2026-10-23T13:49:16Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
     },
     {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-21T10:42:41Z",
-     "headline": "Australian MP loses both legs after alleged car attack, husband says",
-     "url": "https://nilepost.co.ug/news/380348/australian-mp-loses-both-legs-after-alleged-car-attack-husband-says"
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T14:09:00Z",
+     "headline": "Many feared trapped under collapsed building in Nairobi",
+     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-21T12:10:14Z",
-     "headline": "Politician who was intentionally hit by car loses both her legs",
-     "url": "https://www.cbsnews.com/news/australian-politician-intentionally-hit-by-car-loses-both-legs/"
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T14:15:25Z",
+     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
+     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
     },
     {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-21T12:53:23Z",
-     "headline": "Australian MP Helen Haines has both legs amputated after car ramming ‘attack’, husband says",
-     "url": "https://www.independent.co.uk/news/world/australasia/helen-haines-amputation-australian-mp-brendan-nugent-b3070418.html"
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-23T14:21:31Z",
+     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
+     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
     },
     {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-21T18:10:42Z",
-     "headline": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
+     "outlet": "SABC News",
+     "country": "ZAF",
+     "time": "2026-10-23T14:26:05Z",
+     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
+     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
     },
     {
-     "outlet": "Global News (World)",
-     "country": "CAN",
-     "time": "2026-10-21T18:28:23Z",
-     "headline": "Australian lawmaker loses both legs after alleged vehicle attack",
-     "url": "https://globalnews.ca/news/12111176/australian-lawmaker-helen-haines-loses-both-legs-after-vehicle-attack/"
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T14:33:01Z",
+     "headline": "1 rescued after building collapse in Kenya's Nairobi",
+     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
     },
     {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T00:00:00Z",
-     "headline": "Australian lawmaker lost legs in attack",
-     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/22/2003866426"
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:57:00Z",
+     "headline": "NAIROBI",
+     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T15:50:00Z",
+     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
+     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-23T15:52:03Z",
+     "headline": "Many feared trapped as a tall building collapses in Kenya",
+     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T15:52:25Z",
+     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
+     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
+    },
+    {
+     "outlet": "The Standard",
+     "country": "KEN",
+     "time": "2026-10-23T16:27:13Z",
+     "headline": "Several feared trapped in Eastleigh building collapse",
+     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:01:05Z",
+     "headline": "Many feared trapped after Kenya building collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T17:49:04Z",
+     "headline": "Several people missing after multistorey building collapses in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-23T19:02:08Z",
+     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
+     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-23T20:31:50Z",
+     "headline": "Building collapse in Nairobi search for survivors under way",
+     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
     },
     {
      "outlet": "Stuff",
      "country": "NZL",
-     "time": "2026-10-24T00:23:16Z",
-     "headline": "‘She is a fighter’: Helen Haines’ condition improves after alleged car attack",
-     "url": "https://www.stuff.co.nz/world-news/361050623/she-fighter-helen-haines-condition-improves-after-alleged-car-attack"
+     "time": "2026-10-23T20:50:01Z",
+     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
+     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
     },
     {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T00:39:21Z",
-     "headline": "Helen Haines' condition improves following alleged attack, but remains serious",
-     "url": "https://www.sbs.com.au/news/article/helen-haines-condition-update-serious-but-stable/nodrxcue6"
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T06:31:18Z",
+     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
+     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
     },
     {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-24T00:41:29Z",
-     "headline": "Helen Haines’s condition improves days after losing both legs from alleged attack",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-24T08:05:43Z",
+     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
+     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
+    },
+    {
+     "outlet": "Capital FM",
+     "country": "KEN",
+     "time": "2026-10-24T08:42:35Z",
+     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
+     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
     },
     {
      "outlet": "BBC News",
      "country": "GBR",
-     "time": "2026-10-24T01:55:15Z",
-     "headline": "Australian MP's condition improves after alleged car attack",
-     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+     "time": "2026-10-24T09:44:01Z",
+     "headline": "Two rescued after Nairobi building collapse with five still missing",
+     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T17:02:12Z",
+     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
+     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T23:27:47Z",
+     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
+     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-25T14:51:24Z",
+     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
+     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T19:51:04Z",
+     "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
+     "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
     }
    ]
   },
@@ -8603,322 +8775,6 @@
      "time": "2026-10-25T14:39:06Z",
      "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
      "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-    }
-   ]
-  },
-  {
-   "id": 23496,
-   "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 6.11,
-   "risk": 7.0,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 27,
-   "countries": [
-    "NGA",
-    "KEN",
-    "CHN",
-    "SAU",
-    "SGP",
-    "FRA",
-    "TZA",
-    "USA",
-    "DEU",
-    "ZAF",
-    "OMN",
-    "KWT",
-    "KOR",
-    "QAT",
-    "IND",
-    "NZL",
-    "IRN",
-    "GBR"
-   ],
-   "first_seen": "2026-10-23T07:25:04Z",
-   "last_seen": "2026-10-25T20:59:14Z",
-   "page": "event/23496.html",
-   "reports": [
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T07:25:04Z",
-     "headline": "One dead, three rescued in Lagos building collapse",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T08:44:39Z",
-     "headline": "One Dead, Three Rescued As Building Collapses In Lagos",
-     "url": "https://www.channelstv.com/2026/10/23/just-in-one-dead-three-rescued-as-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "Daily Trust",
-     "country": "NGA",
-     "time": "2026-10-23T08:45:19Z",
-     "headline": "Lagos: One dead, several feared trapped as building collapses",
-     "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T11:12:46Z",
-     "headline": "Several trapped after building collapse in Eastleigh",
-     "url": "https://capitalfm.africa/several-trapped-after-building-collapse-in-eastleigh/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T12:02:13Z",
-     "headline": "Urgent: Several feared trapped after 18-story building collapses in Kenya",
-     "url": "https://english.news.cn/20261023/bf36848e2e7b4362b2ab7fb5ef725571/c.html"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T12:12:49Z",
-     "headline": "Police lob teargas to clear crowds as Emergency Crews Respond to Eastleigh Building Collapse",
-     "url": "https://capitalfm.africa/police-lob-teargas-to-clear-crowds-as-emergency-crews-respond-to-eastleigh-building-collapse/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T12:31:56Z",
-     "headline": "Casualties feared as multi-story building collapses in Nairobi: media",
-     "url": "https://www.arabnews.com/world/casualties-feared-as-multi-story-building-collapses-in-nairobi-media-3007891"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-23T12:33:32Z",
-     "headline": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-     "url": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:40:41Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.vanguardngr.com/2026/10/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "KBC",
-     "country": "KEN",
-     "time": "2026-10-23T12:55:16Z",
-     "headline": "Multi-storey building collapses in Eastleigh, several people feared trapped",
-     "url": "https://www.kbc.co.ke/multi-storey-building-collapses-in-eastleigh-several-people-feared-trapped/"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T12:57:29Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.straitstimes.com/world/building-collapses-in-kenyan-capital-rescuers-on-the-scene"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T13:03:29Z",
-     "headline": "One dead, three injured as two-storey building collapses in Lagos",
-     "url": "https://www.vanguardngr.com/2026/10/one-dead-three-injured-as-two-storey-building-collapses-in-lagos/"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T13:29:04Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.rfi.fr/en/africa/20261023-casualties-feared-as-multi-storey-building-collapses-in-nairobi"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T13:29:24Z",
-     "headline": "One dies, three injured in Lagos building collapse",
-     "url": "https://punchng.com/breaking-one-dies-three-injured-in-lagos-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T13:32:07Z",
-     "headline": "Building collapse in Nairobi, several feared trapped",
-     "url": "https://dailynews.co.tz/c-several-feared-trapped/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-23T13:40:56Z",
-     "headline": "Casualties Feared As Multi-Storey Building Collapses In Nairobi",
-     "url": "https://www.channelstv.com/2026/10/23/casualties-feared-as-multi-storey-building-collapses-in-nairobi/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-23T13:49:16Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T14:09:00Z",
-     "headline": "Many feared trapped under collapsed building in Nairobi",
-     "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T14:15:25Z",
-     "headline": "Kenya: huge piles of rubble after high-rise building collapses",
-     "url": "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-23T14:21:31Z",
-     "headline": "Eastleigh Collapse: Woman Pulled from Rubble as Search for Other Survivors Continues",
-     "url": "https://capitalfm.africa/eastleigh-collapse-woman-pulled-from-rubble-as-search-for-other-survivors-continues/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-23T14:26:05Z",
-     "headline": "Building collapses in Kenyan capital, rescuers on the scene",
-     "url": "https://www.sabcnews.com/sabcnews/building-collapses-in-kenyan-capital-rescuers-on-the-scene/"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T14:33:01Z",
-     "headline": "1 rescued after building collapse in Kenya's Nairobi",
-     "url": "https://english.news.cn/20261023/0a4d3b1402c0447d85a904b79f1ec963/c.html"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:57:00Z",
-     "headline": "NAIROBI",
-     "url": "https://www.omanobserver.om/article/1198431/world/nairobi"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T15:50:00Z",
-     "headline": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
-     "url": "https://www.arabtimesonline.com/news/multi-storey-building-collapses-during-construction-in-kenyas-nairobi-many-feared-trapped/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-23T15:52:03Z",
-     "headline": "Many feared trapped as a tall building collapses in Kenya",
-     "url": "https://www.koreatimes.co.kr/world/20261024/many-feared-trapped-as-a-tall-building-collapses-in-kenya?utm_source=rss"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T15:52:25Z",
-     "headline": "Casualties feared as multi-storey building collapses in Nairobi",
-     "url": "https://www.newarab.com/news/casualties-feared-multi-storey-building-collapses-nairobi"
-    },
-    {
-     "outlet": "The Standard",
-     "country": "KEN",
-     "time": "2026-10-23T16:27:13Z",
-     "headline": "Several feared trapped in Eastleigh building collapse",
-     "url": "https://www.standardmedia.co.ke/article/2001560751/several-feared-trapped-in-eastleigh-building-collapse"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:01:05Z",
-     "headline": "Many feared trapped after Kenya building collapse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T17:49:04Z",
-     "headline": "Several people missing after multistorey building collapses in Kenya",
-     "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T19:02:08Z",
-     "headline": "Many Feared Trapped As Multi-Storey Building Collapses In Kenya",
-     "url": "https://www.ndtv.com/world-news/many-feared-trapped-as-multi-storey-building-collapses-in-kenya-12227720#publisher=newsstand"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-23T20:31:50Z",
-     "headline": "Building collapse in Nairobi search for survivors under way",
-     "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-23T20:50:01Z",
-     "headline": "Dramatic video shows the moment tower pancakes in Kenya. Many are feared trapped",
-     "url": "https://www.stuff.co.nz/world-news/361050571/many-feared-trapped-tall-building-collapses-kenya"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-24T06:31:18Z",
-     "headline": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-     "url": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-24T08:05:43Z",
-     "headline": "VIDEO: Moment when an 18-story building collapses in Kenya",
-     "url": "https://en.mehrnews.com/news/248852/VIDEO-Moment-when-an-18-story-building-collapses-in-Kenya"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-24T08:42:35Z",
-     "headline": "Seven Missing After Eastleigh Building Collapse as Rescue Teams Race to Reach Trapped People",
-     "url": "https://capitalfm.africa/seven-missing-after-eastleigh-building-collapse-as-rescue-teams-race-to-reach-trapped-people/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-24T09:44:01Z",
-     "headline": "Two rescued after Nairobi building collapse with five still missing",
-     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T17:02:12Z",
-     "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
-     "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T23:27:47Z",
-     "headline": "Kenya searches for 7 missing people after Nairobi building collapse",
-     "url": "https://english.news.cn/20261024/bd05302388894a2a898f92f76683a428/c.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-25T14:51:24Z",
-     "headline": "Chinese firm's machinery aids rescue effort at Nairobi building collapse",
-     "url": "https://english.news.cn/20261025/1763e1e2e249452e87138d24b8df4ea2/c.html"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T19:51:04Z",
-     "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
-     "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
     }
    ]
   },
@@ -12582,7 +12438,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T22:45:01Z",
-     "headline": "Brazil runoff live updates: Lula speaks after historic victory over Flávio Bolsonaro",
+     "headline": "Brazil runoff live updates: Flávio Bolsonaro calls for election results to be ‘annulled’ after historic loss to Lula",
      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
     },
     {
@@ -14549,6 +14405,108 @@
      "time": "2026-10-23T08:35:15Z",
      "headline": "First human case of Shamonda virus: What is it, what are the risks",
      "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
+    }
+   ]
+  },
+  {
+   "id": 12757,
+   "title": "Iran start FIFA U15 World Cup & Festival 2026 on high",
+   "category": "Economy & Markets",
+   "cat": 2,
+   "importance": 5.65,
+   "risk": 0.0,
+   "confidence": 0.84,
+   "status": "fading",
+   "outlets": 9,
+   "countries": [
+    "AZE",
+    "LCA",
+    "OMN",
+    "TZA",
+    "IRN",
+    "KGZ",
+    "JAM"
+   ],
+   "first_seen": "2026-10-19T15:12:00Z",
+   "last_seen": "2026-10-25T17:15:37Z",
+   "page": "event/12757.html",
+   "reports": [
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-19T15:12:00Z",
+     "headline": "Azerbaijan, World Bank explore new areas of cooperation",
+     "url": "https://www.azernews.az/business/265835.html"
+    },
+    {
+     "outlet": "St Lucia Times",
+     "country": "LCA",
+     "time": "2026-10-20T16:46:44Z",
+     "headline": "Young Boyz off to Baku for FIFA U15 World Cup",
+     "url": "https://stluciatimes.com/185114/2026/10/young-boyz-off-to-baku-for-fifa-u15-world-cup/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-21T12:27:04Z",
+     "headline": "Oman U15s land in Baku for historic Fifa World Cup campaign",
+     "url": "https://www.omanobserver.om/article/1198199/sports/oman-u15s-land-in-baku-for-historic-fifa-world-cup-campaign"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T06:40:00Z",
+     "headline": "FIFA: Azerbaijan is ready for World Cup",
+     "url": "https://en.apa.az/football/fifa-azerbaijan-is-ready-for-world-cup-531531"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-22T15:51:00Z",
+     "headline": "Dates announced for FIFA U-20 World Cup to be hosted by Azerbaijan and Uzbekistan",
+     "url": "https://en.apa.az/football/dates-announced-for-fifa-u-20-world-cup-to-be-hosted-by-azerbaijan-and-uzbekistan-531695"
+    },
+    {
+     "outlet": "Daily News",
+     "country": "TZA",
+     "time": "2026-10-23T08:01:27Z",
+     "headline": "U15 coach banks on recovery ahead of Zambia clash",
+     "url": "https://dailynews.co.tz/u15-coach-banks-on-recovery-ahead-of-zambia-clash/"
+    },
+    {
+     "outlet": "Tehran Times",
+     "country": "IRN",
+     "time": "2026-10-24T12:42:04Z",
+     "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high",
+     "url": "https://www.tehrantimes.com/news/531444/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T13:34:03Z",
+     "headline": "Oman U15s kick off WC campaign with big win",
+     "url": "https://www.omanobserver.om/article/1198490/sports/football/oman-u15s-kick-off-wc-campaign-with-big-win"
+    },
+    {
+     "outlet": "24.kg (English)",
+     "country": "KGZ",
+     "time": "2026-10-24T14:07:59Z",
+     "headline": "Kyrgyzstan's U15 team to make FIFA World Championship debut",
+     "url": "https://24.kg/en/article/kyrgyzstans-u15-team-to-make-fifa-world-championship-debut"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-24T19:46:44Z",
+     "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high",
+     "url": "https://en.mehrnews.com/news/248867/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T17:15:37Z",
+     "headline": "Jamaica hit Sri Lanka for six at U15 World Cup",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/jamaica-hit-sri-lanka-six-u15-world-cup/"
     }
    ]
   }
