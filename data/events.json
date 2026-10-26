@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-26T08:57:47Z",
+ "generated": "2026-10-26T09:14:26Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
   {
    "id": 25521,
-   "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+   "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.65,
    "risk": 3.65,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 54,
+   "outlets": 56,
    "countries": [
     "QAT",
     "USA",
@@ -49,10 +49,12 @@
     "ZAF",
     "IRQ",
     "CYP",
-    "MOZ"
+    "MOZ",
+    "AFG",
+    "EGY"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T08:18:59Z",
+   "last_seen": "2026-10-26T09:08:28Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -199,7 +201,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-26T00:19:05Z",
-     "headline": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+     "headline": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
     },
     {
@@ -676,11 +678,11 @@
    "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.44,
-   "risk": 4.61,
+   "importance": 8.53,
+   "risk": 4.64,
    "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 53,
+   "status": "peaking",
+   "outlets": 54,
    "countries": [
     "USA",
     "BEL",
@@ -709,10 +711,11 @@
     "ARE",
     "KOR",
     "IND",
-    "JPN"
+    "JPN",
+    "LKA"
    ],
    "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T08:28:19Z",
+   "last_seen": "2026-10-26T09:01:02Z",
    "page": "event/20210.html",
    "reports": [
     {
@@ -1974,6 +1977,234 @@
    ]
   },
   {
+   "id": 27258,
+   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 7.24,
+   "risk": 2.09,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 20,
+   "countries": [
+    "PAK",
+    "OMN",
+    "SGP",
+    "USA",
+    "ISR",
+    "IRN",
+    "IRQ",
+    "SAU",
+    "IND",
+    "ARE",
+    "BGD",
+    "CYP",
+    "TUR",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-24T10:49:29Z",
+   "last_seen": "2026-10-26T09:08:09Z",
+   "page": "event/27258.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T10:49:29Z",
+     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:45:13Z",
+     "headline": "Makkah pact members to tackle US war on Iran, other issues during meeting: Baghaei",
+     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:54:55Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials",
+     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:07:52Z",
+     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
+     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T03:25:03Z",
+     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T03:25:35Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
+     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:27:19Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T03:46:28Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-26T03:54:22Z",
+     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T04:47:32Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
+     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T05:18:33Z",
+     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
+     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T05:19:53Z",
+     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T05:56:05Z",
+     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T06:10:23Z",
+     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T06:15:00Z",
+     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
+     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-26T06:24:43Z",
+     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
+     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T06:32:04Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
+    },
+    {
+     "outlet": "The Daily Star — page reader",
+     "country": "BGD",
+     "time": "2026-10-26T06:54:35Z",
+     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
+     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-26T07:02:02Z",
+     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
+     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T07:02:15Z",
+     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
+     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-26T07:27:26Z",
+     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
+     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-26T07:29:04Z",
+     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-26T07:34:28Z",
+     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
+     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:36:45Z",
+     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
+     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T08:42:21Z",
+     "headline": "Mecca Pact members to convene security talks in Iran",
+     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T09:08:09Z",
+     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday/"
+    }
+   ]
+  },
+  {
    "id": 12369,
    "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
    "category": "Geopolitics",
@@ -3191,226 +3422,6 @@
    ]
   },
   {
-   "id": 27258,
-   "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 7.05,
-   "risk": 2.08,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 19,
-   "countries": [
-    "PAK",
-    "OMN",
-    "SGP",
-    "USA",
-    "ISR",
-    "IRN",
-    "IRQ",
-    "SAU",
-    "IND",
-    "ARE",
-    "BGD",
-    "CYP",
-    "TUR"
-   ],
-   "first_seen": "2026-10-24T10:49:29Z",
-   "last_seen": "2026-10-26T08:42:21Z",
-   "page": "event/27258.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T10:49:29Z",
-     "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-     "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:45:13Z",
-     "headline": "Makkah pact members to tackle US war on Iran, other issues during meeting: Baghaei",
-     "url": "https://tribune.com.pk/story/2636971/cdf-munir-to-attend-joint-meeting-with-saudi-defence-turkish-intelligence-chiefs-in-tehran-irna"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:54:55Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials",
-     "url": "https://www.omanobserver.om/article/1198574/world/region/officials-from-mecca-pact-countries-to-meet-iranian-officials"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:07:52Z",
-     "headline": "Iran to hold security talks with Saudi, Pakistan, Turkiye",
-     "url": "https://www.omanobserver.om/article/1198579/oman/iran-to-hold-security-talks-with-saudi-pakistan-turkiye"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T03:25:03Z",
-     "headline": "Report: Leading officials from Mecca pact to meet Iranian officials in Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T03:25:35Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Oct 26, two sources say",
-     "url": "https://www.straitstimes.com/world/middle-east/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:27:19Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-monday-two-sources-say"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran on Monday",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran-monday"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T03:46:28Z",
-     "headline": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
-     "url": "https://www.al-monitor.com/originals/2026/10/officials-mecca-pact-countries-meet-iranian-officials-tehran"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-26T03:54:22Z",
-     "headline": "Top officials from Mecca pact countries to meet Iranian officials in Tehran, two sources say",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-912855"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T04:47:32Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani officials",
-     "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T05:18:33Z",
-     "headline": "Iran Hosts Mecca Alliance members In Tehran Security Summit",
-     "url": "https://www.kurdistan24.net/en/story/948570/iran-hosts-mecca-alliance-members-in-tehran-security-summit"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T05:19:53Z",
-     "headline": "Top officials from Makkah pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/top-officials-from-makkah-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T05:56:05Z",
-     "headline": "Saudi defense minister leads delegation attending Makkah pact countries’ meeting with Iran",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-26T06:10:23Z",
-     "headline": "Mecca country officials to hold joint meeting in Tehran; discuss regional security",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-pak-and-turkish-officials-to-hold-joint-meeting-in-tehran-discuss-regional-security/articleshow/135204168.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T06:15:00Z",
-     "headline": "Saudi Defence Minister leads Makkah pact delegation to Tehran",
-     "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-26T06:24:43Z",
-     "headline": "Tehran to host Saudi, Turkish, Pakistani top officials: Official",
-     "url": "https://en.irna.ir/news/86303391/Tehran-to-host-Saudi-Turkish-Pakistani-top-officials-Official"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T06:32:04Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.brecorder.com/news/40445951/officials-from-makkah-pact-countries-to-meet-iranian-officials-on-monday-two-sources-say"
-    },
-    {
-     "outlet": "The Daily Star — page reader",
-     "country": "BGD",
-     "time": "2026-10-26T06:54:35Z",
-     "headline": "Officials from Makkah pact countries to meet Iranian officials on Monday, two sources say",
-     "url": "https://www.thedailystar.net/news/world/middle-east/news/officials-makkah-pact-countries-meet-iranian-officials-monday-two-sources-say-4307631"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-26T07:02:02Z",
-     "headline": "Iran, Mecca Defence Alliance states to hold talks today",
-     "url": "https://en.mehrnews.com/news/248926/Iran-Mecca-Defence-Alliance-to-hold-talka-today"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T07:02:15Z",
-     "headline": "Saudi Arabia, Turkey and Pakistan to hold Iran talks amid rising tensions",
-     "url": "https://cyprus-mail.com/2026/10/26/saudi-arabia-turkey-and-pakistan-to-hold-iran-talks-amid-rising-tensions"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T07:27:26Z",
-     "headline": "Senior Turkish, Saudi, Pakistani officials to visit Iran for security talks",
-     "url": "https://www.aa.com.tr/en/world/senior-turkish-saudi-pakistani-officials-to-visit-iran-for-security-talks/4100729"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-26T07:29:04Z",
-     "headline": "Iran's Bagheri confirms top officials from Mecca Pact countries' visit to Tehran",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-bagheri-confirms-top-officials-mecca-pact-countries-visit-tehran"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-26T07:34:28Z",
-     "headline": "Makkah defence pact officials to visit Tehran today: Iranian state media",
-     "url": "https://www.dawn.com/news/2039939/makkah-defence-pact-officials-to-visit-tehran-today-iranian-state-media"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:36:45Z",
-     "headline": "Iran to meet with Saudi, Pakistan, Turkey for security talks",
-     "url": "https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T08:42:21Z",
-     "headline": "Mecca Pact members to convene security talks in Iran",
-     "url": "https://shafaq.com/en/World/Mecca-Pact-members-to-convene-security-talks-in-Iran"
-    }
-   ]
-  },
-  {
    "id": 23140,
    "title": "France to deploy 70,000 police ahead of weekend protests",
    "category": "Society & Law",
@@ -4305,6 +4316,330 @@
      "time": "2026-10-24T03:34:42Z",
      "headline": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
      "url": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446"
+    }
+   ]
+  },
+  {
+   "id": 24261,
+   "title": "María Corina Machado Returns to Venezuela",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.88,
+   "risk": 1.76,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 42,
+   "countries": [
+    "SGP",
+    "USA",
+    "COL",
+    "IND",
+    "GBR",
+    "BRA",
+    "CAN",
+    "FRA",
+    "CYP",
+    "TUR",
+    "URY",
+    "IRL",
+    "ISR",
+    "AUS",
+    "QAT",
+    "ARE",
+    "NZL",
+    "CUB",
+    "JPN",
+    "ARG",
+    "GHA",
+    "KOR",
+    "KWT",
+    "LKA",
+    "DEU",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-23T11:01:51Z",
+   "last_seen": "2026-10-26T09:08:09Z",
+   "page": "event/24261.html",
+   "reports": [
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-23T11:01:51Z",
+     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
+     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:08:55Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-25T16:13:29Z",
+     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:15:54Z",
+     "headline": "María Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T16:17:45Z",
+     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
+    },
+    {
+     "outlet": "NPR",
+     "country": "USA",
+     "time": "2026-10-25T16:18:41Z",
+     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T16:21:40Z",
+     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T16:29:04Z",
+     "headline": "Machado Back in Venezuela, Odds Hit 99%",
+     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
+    },
+    {
+     "outlet": "CBC News",
+     "country": "CAN",
+     "time": "2026-10-25T16:38:13Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T16:39:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-25T16:54:12Z",
+     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T16:57:43Z",
+     "headline": "Venezuela opposition leader María Corina Machado returns to country",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
+    },
+    {
+     "outlet": "PBS NewsHour",
+     "country": "USA",
+     "time": "2026-10-25T16:58:58Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile",
+     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T17:00:12Z",
+     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T17:00:40Z",
+     "headline": "Venezuela opposition leader Machado returns after months in exile",
+     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T17:03:00Z",
+     "headline": "Exiled opposition leader announces shock return to Venezuela",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T17:06:00Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T17:06:15Z",
+     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
+     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T17:08:00Z",
+     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
+     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T17:10:11Z",
+     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T17:32:19Z",
+     "headline": "Opposition leader Machado announces return to Venezuela",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-25T17:41:29Z",
+     "headline": "Machado returns to Venezuela after 10 months of exile",
+     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+    },
+    {
+     "outlet": "Fox News (World)",
+     "country": "USA",
+     "time": "2026-10-25T17:47:02Z",
+     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
+    },
+    {
+     "outlet": "NDTV",
+     "country": "IND",
+     "time": "2026-10-25T18:25:58Z",
+     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
+     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T18:30:37Z",
+     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.jpost.com/international/article-912825"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T18:49:33Z",
+     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T18:55:39Z",
+     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Latin America Reports",
+     "country": "LAT",
+     "time": "2026-10-25T19:25:23Z",
+     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T19:28:40Z",
+     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-25T19:41:21Z",
+     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:56:33Z",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
+     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T19:57:11Z",
+     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
+     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
+    },
+    {
+     "outlet": "NBC News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:58:47Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
+    },
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-25T20:46:42Z",
+     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
+     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T21:05:50Z",
+     "headline": "Who Is María Corina Machado?",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T21:42:56Z",
+     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
+     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
+    },
+    {
+     "outlet": "Havana Times",
+     "country": "CUB",
+     "time": "2026-10-25T21:59:11Z",
+     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
+     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:23:25Z",
+     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
+    },
+    {
+     "outlet": "Mainichi (English)",
+     "country": "JPN",
+     "time": "2026-10-26T00:55:41Z",
+     "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/011000c"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-26T02:43:08Z",
+     "headline": "Venezuela's most prominent opposition leader returns home from exile",
+     "url": "https://www.sbs.com.au/news/article/venezuela-maria-corina-machado-returns-from-exile/juniayfsh"
     }
    ]
   },
@@ -5644,6 +5979,316 @@
    ]
   },
   {
+   "id": 17275,
+   "title": "Antonelli wins US Grand Prix but must wait for title",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.58,
+   "risk": 1.95,
+   "confidence": 0.9,
+   "status": "peaking",
+   "outlets": 22,
+   "countries": [
+    "SAU",
+    "PAK",
+    "ARE",
+    "TWN",
+    "IND",
+    "BRA",
+    "ZAF",
+    "CYP",
+    "JAM",
+    "SGP",
+    "AUS",
+    "UGA",
+    "NLD",
+    "NAM",
+    "KOR",
+    "TUR",
+    "OMN",
+    "QAT",
+    "ITA"
+   ],
+   "first_seen": "2026-10-22T04:32:28Z",
+   "last_seen": "2026-10-26T08:50:39Z",
+   "page": "event/17275.html",
+   "reports": [
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T04:32:28Z",
+     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
+     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-22T06:47:07Z",
+     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
+     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T08:15:31Z",
+     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T02:06:21Z",
+     "headline": "Antonelli eyes perfect weekend in title bid",
+     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-23T04:28:28Z",
+     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
+     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T06:05:33Z",
+     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T07:32:03Z",
+     "headline": "US Grand Prix Weekend Opens in Austin",
+     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-23T07:44:56Z",
+     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T09:25:52Z",
+     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
+     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T13:54:52Z",
+     "headline": "Antonelli Can Clinch F1 Title in Austin",
+     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-24T19:01:30Z",
+     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-24T22:14:25Z",
+     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T01:53:12Z",
+     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
+     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-25T04:25:52Z",
+     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
+     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T05:03:00Z",
+     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T08:10:12Z",
+     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
+     "url": "https://english.aawsat.com/node/5333344"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T11:53:27Z",
+     "headline": "Antonelli stands on brink of history in Austin",
+     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-25T19:01:58Z",
+     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
+     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T21:50:32Z",
+     "headline": "Antonelli on brink of title after winning US Grand Prix",
+     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T21:52:31Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
+    },
+    {
+     "outlet": "NL Times",
+     "country": "NLD",
+     "time": "2026-10-25T22:33:52Z",
+     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
+     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:42:53Z",
+     "headline": "Antonelli wins US Grand Prix to close on world title",
+     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-25T22:57:02Z",
+     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
+     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T23:54:57Z",
+     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
+     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T00:27:03Z",
+     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
+     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-26T00:51:33Z",
+     "headline": "Antonelli wins US Grand Prix",
+     "url": "https://tribune.com.pk/story/2636972/antonelli-wins-us-grand-prix"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T01:07:06Z",
+     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
+     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T01:25:22Z",
+     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:15:57Z",
+     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
+     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T03:30:54Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://www.omanobserver.om/article/1198582/sports/antonelli-wins-us-grand-prix-but-must-wait-for-title"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:41:19Z",
+     "headline": "Antonelli wins in US but has to wait to secure title",
+     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:53:18Z",
+     "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
+     "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T05:59:46Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T07:13:00Z",
+     "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
+     "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T08:26:22Z",
+     "headline": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss"
+    },
+    {
+     "outlet": "ANSA English",
+     "country": "ITA",
+     "time": "2026-10-26T08:48:38Z",
+     "headline": "F1: Antonelli two points from title after winning United States Grand Prix",
+     "url": "https://www.ansa.it/english/news/2026/10/26/f1-antonelli-two-points-from-title-after-winning-united-states-grand_9bcc3298-cc77-4c2d-b1e2-c34c60aacfea.html"
+    },
+    {
+     "outlet": "ANSA English",
+     "country": "ITA",
+     "time": "2026-10-26T08:50:39Z",
+     "headline": "F1: Antonelli two points from title after winning United States Grand Prix",
+     "url": "https://www.ansa.it/english/news/sports/2026/10/26/f1-antonelli-two-points-from-title-after-winning-united-states-grand_a4a2c231-0399-410f-a706-d8d870970c7f.html"
+    }
+   ]
+  },
+  {
    "id": 12569,
    "title": "Australian lawmaker Helen Haines in critical condition after vehicle ramming attack",
    "category": "Society & Law",
@@ -6258,621 +6903,6 @@
    ]
   },
   {
-   "id": 24261,
-   "title": "María Corina Machado Returns to Venezuela",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.44,
-   "risk": 1.52,
-   "confidence": 0.9,
-   "status": "fading",
-   "outlets": 38,
-   "countries": [
-    "SGP",
-    "USA",
-    "COL",
-    "IND",
-    "GBR",
-    "BRA",
-    "CAN",
-    "FRA",
-    "CYP",
-    "TUR",
-    "URY",
-    "IRL",
-    "ISR",
-    "AUS",
-    "QAT",
-    "ARE",
-    "NZL",
-    "CUB",
-    "JPN",
-    "ARG",
-    "GHA",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T11:01:51Z",
-   "last_seen": "2026-10-26T08:42:14Z",
-   "page": "event/24261.html",
-   "reports": [
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-23T11:01:51Z",
-     "headline": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
-     "url": "https://www.straitstimes.com/world/awaiting-machados-return-venezuela-opposition-looks-ahead-to-elections"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:08:55Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/maria-corina-machado-returns-to-venezuela.html"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-25T16:13:29Z",
-     "headline": "Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://colombiaone.com/2026/10/25/opposition-leader-maria-corina-machado-says-she-has-returned-to-venezuela/"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:15:54Z",
-     "headline": "María Corina Machado Returns to Venezuela",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T16:17:45Z",
-     "headline": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms"
-    },
-    {
-     "outlet": "NPR",
-     "country": "USA",
-     "time": "2026-10-25T16:18:41Z",
-     "headline": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-25T16:21:40Z",
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T16:29:04Z",
-     "headline": "Machado Back in Venezuela, Odds Hit 99%",
-     "url": "https://www.riotimesonline.com/venezuela-machado-back-odds-hit-99-percent-2026/"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-25T16:38:13Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T16:39:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
-     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-25T16:54:12Z",
-     "headline": "María Corina Machado back in Venezuela after 10 months in exile",
-     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T16:57:43Z",
-     "headline": "Venezuela opposition leader María Corina Machado returns to country",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-25T16:58:58Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile",
-     "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T17:00:40Z",
-     "headline": "Venezuela opposition leader Machado returns after months in exile",
-     "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T17:03:00Z",
-     "headline": "Exiled opposition leader announces shock return to Venezuela",
-     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T17:06:00Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://cyprus-mail.com/2026/10/25/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T17:06:15Z",
-     "headline": "Opposition leader Machado returns to Venezuela after months in exile",
-     "url": "https://www.aa.com.tr/en/politics/opposition-leader-machado-returns-to-venezuela-after-months-in-exile/4100374"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T17:08:00Z",
-     "headline": "María Corina Machado returns to Venezuela after ten months abroad and seven failed attempts",
-     "url": "https://en.mercopress.com/2026/10/25/maria-corina-machado-returns-to-venezuela-after-ten-months-abroad-and-seven-failed-attempts?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T17:10:11Z",
-     "headline": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T17:32:19Z",
-     "headline": "Opposition leader Machado announces return to Venezuela",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596811-machado-venezuela-return/"
-    },
-    {
-     "outlet": "The Hill",
-     "country": "USA",
-     "time": "2026-10-25T17:41:29Z",
-     "headline": "Machado returns to Venezuela after 10 months of exile",
-     "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
-    },
-    {
-     "outlet": "Fox News (World)",
-     "country": "USA",
-     "time": "2026-10-25T17:47:02Z",
-     "headline": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-     "url": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-25T18:25:58Z",
-     "headline": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-     "url": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T18:30:37Z",
-     "headline": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.jpost.com/international/article-912825"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T18:49:33Z",
-     "headline": "Opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T18:55:39Z",
-     "headline": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Latin America Reports",
-     "country": "LAT",
-     "time": "2026-10-25T19:25:23Z",
-     "headline": "Exiled Venezuela opposition leader Maria Corina Machado returns to Venezuela",
-     "url": "https://latinamericareports.com/exiled-venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela/15447/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T19:28:40Z",
-     "headline": "Opposition leader and Nobel Prize winner Maria Corina Machado returns to Venezuela",
-     "url": "https://www.thenationalnews.com/news/us/2026/10/25/machado-returns-venezuela-trump/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-25T19:41:21Z",
-     "headline": "Nobel laureate, Venezuela opposition leader Machado returns after 1 year of exile",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-25T19:56:33Z",
-     "headline": "Venezuelan opposition leader María Corina Machado returns after 10-month exile",
-     "url": "https://www.independent.co.uk/news/world/americas/venezuelan-opposition-leader-maria-machado-returns-b3073063.html"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T19:57:11Z",
-     "headline": "Venezuela opposition leader Machado returns home after fraught year away",
-     "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756"
-    },
-    {
-     "outlet": "NBC News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:58:47Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.nbcnews.com/video/venezuela-s-opposition-leader-machado-returns-after-months-in-exile-272198725649"
-    },
-    {
-     "outlet": "Stuff",
-     "country": "NZL",
-     "time": "2026-10-25T20:46:42Z",
-     "headline": "Venezuela's exiled leader returns home to challenge Trump-backed regime",
-     "url": "https://www.stuff.co.nz/world-news/361051067/venezuelas-opposition-leader-machado-returns-after-months"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T21:05:50Z",
-     "headline": "Who Is María Corina Machado?",
-     "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T21:42:56Z",
-     "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after months abroad",
-     "url": "https://gulfnews.com/world/nobel-laureate-maria-corina-machado-returns-to-venezuela-after-months-abroad-1.500723415"
-    },
-    {
-     "outlet": "Havana Times",
-     "country": "CUB",
-     "time": "2026-10-25T21:59:11Z",
-     "headline": "Exiled Opposition Leader Maria Corina Machado Returns to Venezuela",
-     "url": "https://havanatimes.org/news/exiled-opposition-leader-maria-corina-machado-returns-to-venezuela/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:23:25Z",
-     "headline": "Venezuela’s opposition leader Machado returns after months in exile",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
-    },
-    {
-     "outlet": "Mainichi (English)",
-     "country": "JPN",
-     "time": "2026-10-26T00:55:41Z",
-     "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-     "url": "https://mainichi.jp/english/articles/20261026/p2g/00m/0in/011000c"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-26T02:43:08Z",
-     "headline": "Venezuela's most prominent opposition leader returns home from exile",
-     "url": "https://www.sbs.com.au/news/article/venezuela-maria-corina-machado-returns-from-exile/juniayfsh"
-    }
-   ]
-  },
-  {
-   "id": 17275,
-   "title": "Antonelli wins US Grand Prix but must wait for title",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 6.39,
-   "risk": 1.91,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 21,
-   "countries": [
-    "SAU",
-    "PAK",
-    "ARE",
-    "TWN",
-    "IND",
-    "BRA",
-    "ZAF",
-    "CYP",
-    "JAM",
-    "SGP",
-    "AUS",
-    "UGA",
-    "NLD",
-    "NAM",
-    "KOR",
-    "TUR",
-    "OMN",
-    "QAT"
-   ],
-   "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-26T08:26:22Z",
-   "page": "event/17275.html",
-   "reports": [
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T04:32:28Z",
-     "headline": "Verstappen bids to delay Antonelli’s F1 coronation in US",
-     "url": "https://www.arabnews.com/motorsport/verstappen-bids-to-delay-antonellis-f1-coronation-in-us-3007656"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T06:47:07Z",
-     "headline": "Verstappen bids to delay Antonelli's F1 coronation",
-     "url": "https://tribune.com.pk/story/2636324/verstappen-bids-to-delay-antonellis-f1-coronation"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "F1 title race explained: What Kimi Antonelli needs to become champion at the United States Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/22/f1-title-race-explained-what-kimi-antonelli-needs-to-become-champion-at-the-united-states-grand-prix/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T08:15:31Z",
-     "headline": "Kimi Antonelli takes pole in Austin: Here's what he need to be crowned champion at US Grand Prix",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-title-permutations-what-kimi-antonelli-needs-to-be-crowned-champion-this-weekend/"
-    },
-    {
-     "outlet": "Taipei Times",
-     "country": "TWN",
-     "time": "2026-10-22T19:56:01Z",
-     "headline": "Verstappen seeks to delay Antonelli’s F1 coronation",
-     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866467"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T02:06:21Z",
-     "headline": "Antonelli eyes perfect weekend in title bid",
-     "url": "https://tribune.com.pk/story/2636475/antonelli-eyes-perfect-weekend-in-title-bid"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-23T04:28:28Z",
-     "headline": "Can Kimi Antonelli clinch the F1 2026 title in Austin?",
-     "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T06:05:33Z",
-     "headline": "F1 power rankings and US GP predictions: Verstappen eyes hat-trick while Antonelli has title in grasp",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/23/f1-power-rankings-and-us-gp-predictions-verstappen-eyes-hat-trick-while-antonelli-has-title-in-grasp/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T07:32:03Z",
-     "headline": "US Grand Prix Weekend Opens in Austin",
-     "url": "https://www.riotimesonline.com/us-grand-prix-weekend-opens-austin/"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-23T07:44:56Z",
-     "headline": "TITLE BECKONS: Maiden Formula One title in sight for phenom Kimi Antonelli",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-23-maiden-formula-one-title-in-sight-for-phenom-kimi-antonelli/"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T09:25:52Z",
-     "headline": "‘Slow down’: Hamilton jokes to champion-in-waiting Antonelli",
-     "url": "https://cyprus-mail.com/2026/10/23/slow-down-hamilton-jokes-to-champion-in-waiting-antonelli"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T13:54:52Z",
-     "headline": "Antonelli Can Clinch F1 Title in Austin",
-     "url": "https://www.riotimesonline.com/antonelli-can-clinch-f1-title-austin/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-24T19:01:30Z",
-     "headline": "Hamilton on top with Antonelli fourth in final practice at US Grand Prix",
-     "url": "https://www.jamaicaobserver.com/2026/10/24/hamilton-top-antonelli-fourth-final-practice-us-grand-prix/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-24T22:14:25Z",
-     "headline": "Antonelli on pole for US Grand Prix with F1 title in sight",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T01:53:12Z",
-     "headline": "Antonelli on pole as he eyes record-setting world F1 title",
-     "url": "https://www.abc.net.au/news/2026-10-25/antonelli-on-pole-as-he-eyes-record-setting-world-f1-title/107306218"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-25T04:25:52Z",
-     "headline": "Antonelli Takes Austin Pole, Eyes F1 Title",
-     "url": "https://www.riotimesonline.com/antonelli-takes-austin-pole-us-grand-prix-2026/"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T05:03:00Z",
-     "headline": "Antonelli storms to US Grand Prix pole on weekend he can take title",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-storms-us-grand-prix-pole-weekend-can-take-title/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T08:10:12Z",
-     "headline": "Verstappen’s Advice to Antonelli: Enjoy the Ride and Celebrate",
-     "url": "https://english.aawsat.com/node/5333344"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-25T11:53:27Z",
-     "headline": "Antonelli stands on brink of history in Austin",
-     "url": "https://nilepost.co.ug/sports/381290/antonelli-stands-on-brink-of-history-in-austin"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-25T19:01:58Z",
-     "headline": "Antonelli wins in US but must wait one more week for F1 world championship",
-     "url": "https://www.abc.net.au/news/2026-10-26/f1-live-united-states-grand-prix-kimi-antonelli-oscar-piastri/106998708"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T21:50:32Z",
-     "headline": "Antonelli on brink of title after winning US Grand Prix",
-     "url": "https://cyprus-mail.com/2026/10/25/antonelli-on-brink-of-title-after-winning-us-grand-prix"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T21:52:31Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576"
-    },
-    {
-     "outlet": "NL Times",
-     "country": "NLD",
-     "time": "2026-10-25T22:33:52Z",
-     "headline": "Max Verstappen takes third in Austin as Kimi Antonelli closes in on F1 title",
-     "url": "https://nltimes.nl/2026/10/25/max-verstappen-takes-third-austin-kimi-antonelli-closes-f1-title"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:42:53Z",
-     "headline": "Antonelli wins US Grand Prix to close on world title",
-     "url": "https://www.namibian.com.na/antonelli-wins-us-grand-prix-to-close-on-world-title/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-25T22:57:02Z",
-     "headline": "Kimi Antonelli wins dominant US Grand Prix, tightens grip on historic F1 title chase",
-     "url": "https://www.koreatimes.co.kr/sports/20261026/kimi-antonelli-wins-dominant-us-grand-prix-tightens-grip-on-historic-f1-title-chase?utm_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T23:54:57Z",
-     "headline": "Antonelli misses out on clinching F1 title despite dominant US Grand Prix win",
-     "url": "https://www.aa.com.tr/en/sports/antonelli-misses-out-on-clinching-f1-title-despite-dominant-us-grand-prix-win/4100529"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T00:27:03Z",
-     "headline": "Antonelli is two points away from the F1 title, and can win it next week",
-     "url": "https://www.abc.net.au/news/2026-10-26/how-kimi-antonelli-can-win-f1-drivers-championship/107308200"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-26T00:51:33Z",
-     "headline": "Antonelli wins US Grand Prix",
-     "url": "https://tribune.com.pk/story/2636972/antonelli-wins-us-grand-prix"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T01:07:06Z",
-     "headline": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
-     "url": "https://www.arabnews.com/motorsport/kimi-antonelli-wins-us-grand-prix-and-tightens-his-grip-on-historic-f1-title-chase-3008275"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T01:25:22Z",
-     "headline": "Antonelli wins US Grand but title triumph has to wait another week",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/antonelli-wins-us-grand-title-triumph-wait-another-week/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:15:57Z",
-     "headline": "Kimi Antonelli wins US Grand Prix to move within touching distance of F1 title",
-     "url": "https://www.thenationalnews.com/sport/f1/2026/10/26/kimi-antonelli-wins-us-grand-prix-to-move-within-touching-distance-of-f1-title/"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T03:30:54Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://www.omanobserver.om/article/1198582/sports/antonelli-wins-us-grand-prix-but-must-wait-for-title"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:41:19Z",
-     "headline": "Antonelli wins in US but has to wait to secure title",
-     "url": "https://nilepost.co.ug/sports/381372/antonelli-wins-in-us-but-has-to-wait-to-secure-title"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:53:18Z",
-     "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
-     "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T05:59:46Z",
-     "headline": "Antonelli wins US Grand Prix but must wait for title",
-     "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T07:13:00Z",
-     "headline": "Antonelli on brink of securing Drivers’ Championship crown with United States GP win",
-     "url": "https://iol.co.za/sport/2026-10-26-antonelli-on-brink-of-securing-drivers-championship-crown-with-united-states-gp-win/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T08:26:22Z",
-     "headline": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss"
-    }
-   ]
-  },
-  {
    "id": 23956,
    "title": "France: 1 killed, 4 wounded after shooting near Paris",
    "category": "Society & Law",
@@ -7104,6 +7134,322 @@
      "time": "2026-10-25T15:32:51Z",
      "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": 13172,
+   "title": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.35,
+   "risk": 1.68,
+   "confidence": 0.91,
+   "status": "peaking",
+   "outlets": 23,
+   "countries": [
+    "URY",
+    "USA",
+    "FRA",
+    "TUR",
+    "QAT",
+    "SGP",
+    "MOZ",
+    "BRA",
+    "NLD",
+    "AUS",
+    "EGY",
+    "GBR",
+    "CYP",
+    "IRL",
+    "CHN",
+    "PAK",
+    "AZE",
+    "RUS"
+   ],
+   "first_seen": "2026-10-18T19:43:00Z",
+   "last_seen": "2026-10-26T09:05:47Z",
+   "page": "event/13172.html",
+   "reports": [
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-18T19:43:00Z",
+     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
+     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-19T06:15:00Z",
+     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
+     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-19T08:03:24Z",
+     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
+     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-19T09:21:10Z",
+     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-19T14:13:23Z",
+     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-19T14:16:05Z",
+     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-19T17:24:28Z",
+     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T09:06:35Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
+    },
+    {
+     "outlet": "Club of Mozambique",
+     "country": "MOZ",
+     "time": "2026-10-22T10:06:12Z",
+     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
+     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-23T02:21:54Z",
+     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
+     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-23T08:44:07Z",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T09:48:00Z",
+     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
+     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:02:00Z",
+     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-23T10:13:00Z",
+     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
+     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "The Next Web",
+     "country": "NLD",
+     "time": "2026-10-23T10:30:00Z",
+     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
+     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-24T08:08:03Z",
+     "headline": "Brazil candidates make final campaign push ahead of presidential runoff",
+     "url": "http://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T11:14:47Z",
+     "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+     "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T22:09:36Z",
+     "headline": "On eve of Brazilian presidential runoff, polls put Bolsonaro narrowly ahead of Lula",
+     "url": "https://www.aa.com.tr/en/americas/on-eve-of-brazilian-presidential-runoff-polls-put-bolsonaro-narrowly-ahead-of-lula/4099904"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-24T23:36:38Z",
+     "headline": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203"
+    },
+    {
+     "outlet": "SBS News",
+     "country": "AUS",
+     "time": "2026-10-24T23:44:10Z",
+     "headline": "Tens of thousands take to streets in Brazil ahead of closely contested runoff",
+     "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T05:30:40Z",
+     "headline": "Brazilian candidates hold final rallies as runoff race remains tight",
+     "url": "https://www.aa.com.tr/en/americas/brazilian-candidates-hold-final-rallies-as-runoff-race-remains-tight/4099954"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T05:52:27Z",
+     "headline": "Brazil votes in a tense Lula vs Bolsonaro runoff as extended voting hours cause confusion",
+     "url": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T06:05:34Z",
+     "headline": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
+     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-25T07:02:00Z",
+     "headline": "Brazil chooses between Lula and Bolsonaro in its tightest runoff in recent history",
+     "url": "https://en.mercopress.com/2026/10/25/brazil-chooses-between-lula-and-bolsonaro-in-its-tightest-runoff-in-recent-history?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Egypt Independent",
+     "country": "EGY",
+     "time": "2026-10-25T07:25:10Z",
+     "headline": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
+     "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T08:00:58Z",
+     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:37:28Z",
+     "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
+     "url": "https://cyprus-mail.com/2026/10/25/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr"
+    },
+    {
+     "outlet": "Agência Brasil (English)",
+     "country": "BRA",
+     "time": "2026-10-25T10:00:00Z",
+     "headline": "Brazil to elect its next president this Sunday",
+     "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/brazil-elect-its-next-president-sunday"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T11:40:38Z",
+     "headline": "Polls open in Brazil presidential runoff",
+     "url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff"
+    },
+    {
+     "outlet": "RTÉ News",
+     "country": "IRL",
+     "time": "2026-10-25T11:49:26Z",
+     "headline": "Brazil extends voting hours after public transport issues",
+     "url": "https://www.rte.ie/news/world/2026/1025/1596792-brazil-election/"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T11:51:22Z",
+     "headline": "The Latest: Brazilians vote in a tense runoff as Lula faces Trump ally Flávio Bolsonaro",
+     "url": "https://abcnews.com/International/wireStory/latest-brazilians-choose-lula-flvio-bolsonaro-presidential-runoff-137550398"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T12:24:28Z",
+     "headline": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.",
+     "url": "https://cyprus-mail.com/2026/10/25/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T12:48:31Z",
+     "headline": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
+     "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T13:10:36Z",
+     "headline": "What are Brazilian voters' main concerns?",
+     "url": "https://www.straitstimes.com/world/what-are-brazilian-voters-main-concerns"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T13:52:44Z",
+     "headline": "Presidential runoff under way in Brazil",
+     "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-25T19:52:43Z",
+     "headline": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
+     "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T20:00:04Z",
+     "headline": "Brazil election results 2026 updates: Lula beats Bolsonaro in tight race",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-26T02:10:20Z",
+     "headline": "Profile: Brazilian President-elect Luiz Inacio Lula da Silva",
+     "url": "https://english.news.cn/20261026/6d72bd9a6fd34f7dade5919b568b78ab/c.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-26T03:17:26Z",
+     "headline": "Bolsonaro refuses to concede, says he will seek annulment of Brazil vote",
+     "url": "https://www.brecorder.com/news/40445949/bolsonaro-refuses-to-concede-says-he-will-seek-annulment-of-brazil-vote"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T08:59:00Z",
+     "headline": "Eduardo Bolsonaro urges brother to leave Brazil as Lula wins presidential election",
+     "url": "https://www.azernews.az/region/266200.html"
     }
    ]
   },
@@ -7421,6 +7767,140 @@
      "time": "2026-10-25T19:51:04Z",
      "headline": "4 rescued on third day after Kenya building collapse as families lose hope",
      "url": "https://abcnews.com/International/wireStory/4-rescued-day-after-kenya-building-collapse-families-137556682"
+    }
+   ]
+  },
+  {
+   "id": 29318,
+   "title": "Shock and grief in a Jordanian village after church attack",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 6.33,
+   "risk": 6.69,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 14,
+   "countries": [
+    "SAU",
+    "USA",
+    "THA",
+    "JAM",
+    "QAT",
+    "AZE",
+    "CYP",
+    "IRQ",
+    "KWT",
+    "ARE",
+    "ZAF"
+   ],
+   "first_seen": "2026-10-25T11:13:12Z",
+   "last_seen": "2026-10-26T09:08:09Z",
+   "page": "event/29318.html",
+   "reports": [
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-25T11:13:12Z",
+     "headline": "Shock and Grief in a Jordanian Village after Church Attack",
+     "url": "https://english.aawsat.com/node/5333409"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T11:30:22Z",
+     "headline": "Shock and grief in a Jordanian village after church attack",
+     "url": "https://www.al-monitor.com/originals/2026/10/shock-and-grief-jordanian-village-after-church-attack"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as eight victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-eight-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T11:47:59Z",
+     "headline": "Jordan unites in grief as nine victims of church terror attack laid to rest",
+     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-nine-victims-of-church-terror-attack-laid-to-rest-3008198"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:16:48Z",
+     "headline": "Jordanians mourn victims of deadly church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-25T19:19:55Z",
+     "headline": "Jordanians reject attempts to sow division in society",
+     "url": "https://www.arabnews.com/middle-east/jordanians-reject-attempts-to-sow-division-in-society-3008225"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-26T04:37:31Z",
+     "headline": "Jordan arrests 3 over church attack",
+     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-over-church-attack-3008281"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-26T05:08:40Z",
+     "headline": "Jordanian security forces say they've arrested three men in deadly church attack",
+     "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601"
+    },
+    {
+     "outlet": "AzerNews",
+     "country": "AZE",
+     "time": "2026-10-26T06:00:00Z",
+     "headline": "Jordan arrests three suspects over church attack that killed nine",
+     "url": "https://www.azernews.az/region/266192.html"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T06:25:55Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://cyprus-mail.com/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-26T06:57:34Z",
+     "headline": "Jordan detains three suspects in deadly church attack",
+     "url": "https://shafaq.com/en/Middle-East/Jordan-detains-three-suspects-in-deadly-church-attack"
+    },
+    {
+     "outlet": "CBS News (World)",
+     "country": "USA",
+     "time": "2026-10-26T07:10:00Z",
+     "headline": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
+     "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T07:12:00Z",
+     "headline": "Jordan Arrests Three Suspects Over Church Attack That Killed Nine",
+     "url": "https://www.arabtimesonline.com/news/jordan-arrests-three-suspects-over-church-attack-that-killed-nine/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T08:14:38Z",
+     "headline": "Jordan arrests three suspects in Karak church attack after three-hour gun battle",
+     "url": "https://gulfnews.com/world/mena/jordan-arrests-three-suspects-in-karak-church-attack-after-three-hour-gun-battle-1.500723708"
+    },
+    {
+     "outlet": "Daily Maverick",
+     "country": "ZAF",
+     "time": "2026-10-26T09:08:09Z",
+     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-26-jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says/"
     }
    ]
   },
@@ -8455,313 +8935,6 @@
    ]
   },
   {
-   "id": 13172,
-   "title": "Lula wins fourth term as Brazil's president",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.15,
-   "risk": 1.49,
-   "confidence": 0.9,
-   "status": "peaking",
-   "outlets": 21,
-   "countries": [
-    "URY",
-    "USA",
-    "FRA",
-    "TUR",
-    "QAT",
-    "SGP",
-    "MOZ",
-    "BRA",
-    "NLD",
-    "AUS",
-    "EGY",
-    "GBR",
-    "CYP",
-    "IRL",
-    "CHN",
-    "PAK"
-   ],
-   "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-26T03:17:26Z",
-   "page": "event/13172.html",
-   "reports": [
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-18T19:43:00Z",
-     "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
-     "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-19T06:15:00Z",
-     "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
-     "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-19T08:03:24Z",
-     "headline": "Corruption is top worry for Brazilian voters ahead of runoff between Bolsonaro, Lula",
-     "url": "https://abcnews.com/International/wireStory/corruption-top-concern-brazilian-voters-ahead-runoff-bolsonaro-137370744"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-19T09:21:10Z",
-     "headline": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
-     "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-19T14:13:23Z",
-     "headline": "Brazilian court gives Meta 24 hours to prove AI neutrality over looming presidential runoff",
-     "url": "https://www.aa.com.tr/en/americas/brazilian-court-gives-meta-24-hours-to-prove-ai-neutrality-over-looming-presidential-runoff/4093657"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-19T14:16:05Z",
-     "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
-     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-19T17:24:28Z",
-     "headline": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T09:06:35Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://www.straitstimes.com/world/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro"
-    },
-    {
-     "outlet": "Club of Mozambique",
-     "country": "MOZ",
-     "time": "2026-10-22T10:06:12Z",
-     "headline": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro",
-     "url": "https://clubofmozambique.com/news/lula-hopes-older-voters-can-help-power-him-to-victory-against-flavio-bolsonaro/"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-23T02:21:54Z",
-     "headline": "Datafolha Finds 46% Reject Flávio, 45% Lula",
-     "url": "https://www.riotimesonline.com/datafolha-rejection-flavio-46-lula-45-runoff-2026/"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-23T08:44:07Z",
-     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazils-runoff-lulas-legacy-vs-bolsonaros-dynasty"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T09:48:00Z",
-     "headline": "Sanders and Democratic lawmakers ask Meta to explain alleged favouritism towards Bolsonaro",
-     "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:02:00Z",
-     "headline": "Lula and Bolsonaro chase non-voters in the final stretch of Brazil’s campaign",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-chase-non-voters-in-the-final-stretch-of-brazil-s-campaign?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-23T10:13:00Z",
-     "headline": "Lula and Bolsonaro agree to open their bank and phone records days before the runoff",
-     "url": "https://en.mercopress.com/2026/10/23/lula-and-bolsonaro-agree-to-open-their-bank-and-phone-records-days-before-the-runoff?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "The Next Web",
-     "country": "NLD",
-     "time": "2026-10-23T10:30:00Z",
-     "headline": "US lawmakers press Zuckerberg over Meta’s role in Brazil’s runoff",
-     "url": "https://thenextweb.com/news/meta-brazil-election-lula-bolsonaro-us-lawmakers"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-24T08:08:03Z",
-     "headline": "Brazil candidates make final campaign push ahead of presidential runoff",
-     "url": "http://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T11:14:47Z",
-     "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
-     "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T22:09:36Z",
-     "headline": "On eve of Brazilian presidential runoff, polls put Bolsonaro narrowly ahead of Lula",
-     "url": "https://www.aa.com.tr/en/americas/on-eve-of-brazilian-presidential-runoff-polls-put-bolsonaro-narrowly-ahead-of-lula/4099904"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-24T23:36:38Z",
-     "headline": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
-     "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203"
-    },
-    {
-     "outlet": "SBS News",
-     "country": "AUS",
-     "time": "2026-10-24T23:44:10Z",
-     "headline": "Tens of thousands take to streets in Brazil ahead of closely contested runoff",
-     "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T05:30:40Z",
-     "headline": "Brazilian candidates hold final rallies as runoff race remains tight",
-     "url": "https://www.aa.com.tr/en/americas/brazilian-candidates-hold-final-rallies-as-runoff-race-remains-tight/4099954"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T05:52:27Z",
-     "headline": "Brazil votes in a tense Lula vs Bolsonaro runoff as extended voting hours cause confusion",
-     "url": "https://abcnews.com/International/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548340"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T06:05:34Z",
-     "headline": "What to know as Brazilians choose between Lula and Flavio Bolsonaro in tense presidential runoff",
-     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-25T07:02:00Z",
-     "headline": "Brazil chooses between Lula and Bolsonaro in its tightest runoff in recent history",
-     "url": "https://en.mercopress.com/2026/10/25/brazil-chooses-between-lula-and-bolsonaro-in-its-tightest-runoff-in-recent-history?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Egypt Independent",
-     "country": "EGY",
-     "time": "2026-10-25T07:25:10Z",
-     "headline": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
-     "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T08:00:58Z",
-     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-     "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:37:28Z",
-     "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
-     "url": "https://cyprus-mail.com/2026/10/25/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr"
-    },
-    {
-     "outlet": "Agência Brasil (English)",
-     "country": "BRA",
-     "time": "2026-10-25T10:00:00Z",
-     "headline": "Brazil to elect its next president this Sunday",
-     "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/brazil-elect-its-next-president-sunday"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T11:40:38Z",
-     "headline": "Polls open in Brazil presidential runoff",
-     "url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-25T11:49:26Z",
-     "headline": "Brazil extends voting hours after public transport issues",
-     "url": "https://www.rte.ie/news/world/2026/1025/1596792-brazil-election/"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T11:51:22Z",
-     "headline": "The Latest: Brazilians vote in a tense runoff as Lula faces Trump ally Flávio Bolsonaro",
-     "url": "https://abcnews.com/International/wireStory/latest-brazilians-choose-lula-flvio-bolsonaro-presidential-runoff-137550398"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T12:24:28Z",
-     "headline": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.",
-     "url": "https://cyprus-mail.com/2026/10/25/brazil-votes-in-tight-runoff-between-leftist-lula-and-bolsonaro-jr"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T12:48:31Z",
-     "headline": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-     "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T13:10:36Z",
-     "headline": "What are Brazilian voters' main concerns?",
-     "url": "https://www.straitstimes.com/world/what-are-brazilian-voters-main-concerns"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T13:52:44Z",
-     "headline": "Presidential runoff under way in Brazil",
-     "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-25T19:52:43Z",
-     "headline": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
-     "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T20:00:04Z",
-     "headline": "Brazil election results 2026 updates: Lula beats Bolsonaro in tight race",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-26T02:10:20Z",
-     "headline": "Profile: Brazilian President-elect Luiz Inacio Lula da Silva",
-     "url": "https://english.news.cn/20261026/6d72bd9a6fd34f7dade5919b568b78ab/c.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-26T03:17:26Z",
-     "headline": "Bolsonaro refuses to concede, says he will seek annulment of Brazil vote",
-     "url": "https://www.brecorder.com/news/40445949/bolsonaro-refuses-to-concede-says-he-will-seek-annulment-of-brazil-vote"
-    }
-   ]
-  },
-  {
    "id": 16086,
    "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
    "category": "Geopolitics",
@@ -9082,132 +9255,6 @@
      "time": "2026-10-25T21:08:11Z",
      "headline": "Audi CEO Gernot Döllner appears on stage with Trump at a Republican campaign rally to announce a new car factory in Georgia",
      "url": "https://fortune.com/2026/10/25/audi-ceo-gernot-dollner-trump-republican-campaign-rally-car-factory-georgia/"
-    }
-   ]
-  },
-  {
-   "id": 29318,
-   "title": "Shock and grief in a Jordanian village after church attack",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.06,
-   "risk": 7.63,
-   "confidence": 0.88,
-   "status": "spreading",
-   "outlets": 13,
-   "countries": [
-    "SAU",
-    "USA",
-    "THA",
-    "JAM",
-    "QAT",
-    "AZE",
-    "CYP",
-    "IRQ",
-    "KWT",
-    "ARE"
-   ],
-   "first_seen": "2026-10-25T11:13:12Z",
-   "last_seen": "2026-10-26T08:14:38Z",
-   "page": "event/29318.html",
-   "reports": [
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-25T11:13:12Z",
-     "headline": "Shock and Grief in a Jordanian Village after Church Attack",
-     "url": "https://english.aawsat.com/node/5333409"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T11:30:22Z",
-     "headline": "Shock and grief in a Jordanian village after church attack",
-     "url": "https://www.al-monitor.com/originals/2026/10/shock-and-grief-jordanian-village-after-church-attack"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T11:47:59Z",
-     "headline": "Jordan unites in grief as eight victims of church terror attack laid to rest",
-     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-eight-victims-of-church-terror-attack-laid-to-rest-3008198"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T11:47:59Z",
-     "headline": "Jordan unites in grief as nine victims of church terror attack laid to rest",
-     "url": "https://www.arabnews.com/middle-east/jordan-unites-in-grief-as-nine-victims-of-church-terror-attack-laid-to-rest-3008198"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:16:48Z",
-     "headline": "Jordanians mourn victims of deadly church attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-25T19:19:55Z",
-     "headline": "Jordanians reject attempts to sow division in society",
-     "url": "https://www.arabnews.com/middle-east/jordanians-reject-attempts-to-sow-division-in-society-3008225"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-26T04:37:31Z",
-     "headline": "Jordan arrests 3 over church attack",
-     "url": "https://www.arabnews.com/middle-east/jordan-arrests-3-over-church-attack-3008281"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-26T05:08:40Z",
-     "headline": "Jordanian security forces say they've arrested three men in deadly church attack",
-     "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601"
-    },
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-26T06:00:00Z",
-     "headline": "Jordan arrests three suspects over church attack that killed nine",
-     "url": "https://www.azernews.az/region/266192.html"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T06:25:55Z",
-     "headline": "Jordan arrests three suspects in deadly church attack, state media says",
-     "url": "https://cyprus-mail.com/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack-state-media-says"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-26T06:57:34Z",
-     "headline": "Jordan detains three suspects in deadly church attack",
-     "url": "https://shafaq.com/en/Middle-East/Jordan-detains-three-suspects-in-deadly-church-attack"
-    },
-    {
-     "outlet": "CBS News (World)",
-     "country": "USA",
-     "time": "2026-10-26T07:10:00Z",
-     "headline": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
-     "url": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-26T07:12:00Z",
-     "headline": "Jordan Arrests Three Suspects Over Church Attack That Killed Nine",
-     "url": "https://www.arabtimesonline.com/news/jordan-arrests-three-suspects-over-church-attack-that-killed-nine/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T08:14:38Z",
-     "headline": "Jordan arrests three suspects in Karak church attack after three-hour gun battle",
-     "url": "https://gulfnews.com/world/mena/jordan-arrests-three-suspects-in-karak-church-attack-after-three-hour-gun-battle-1.500723708"
     }
    ]
   },
@@ -11675,6 +11722,317 @@
    ]
   },
   {
+   "id": 5498,
+   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.78,
+   "risk": 6.97,
+   "confidence": 0.92,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR",
+    "IRL"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-26T08:54:53Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:24:26Z",
+     "headline": "Israeli strike on Gaza university kills three",
+     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    }
+   ]
+  },
+  {
    "id": 17297,
    "title": "4 pilots killed as two Philippine military planes crash during training",
    "category": "Trade & Industry",
@@ -12834,317 +13192,6 @@
      "time": "2026-10-26T07:26:30Z",
      "headline": "The world leaders congratulating Brazil President Lula on his historic re-election",
      "url": "https://www.independent.co.uk/news/world/americas/bolsonaro-trump-brazil-election-results-reaction-b3073202.html"
-    }
-   ]
-  },
-  {
-   "id": 5498,
-   "title": "Israeli drone strike kills two Palestinians in Gaza City",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.72,
-   "risk": 6.91,
-   "confidence": 0.91,
-   "status": "peaking",
-   "outlets": 19,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR",
-    "IRL"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-26T08:44:50Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:24:26Z",
-     "headline": "Israeli strike on Gaza university kills three",
-     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
     }
    ]
   },
