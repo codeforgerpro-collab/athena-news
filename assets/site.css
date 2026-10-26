@@ -413,3 +413,14 @@ border-radius:14px;background:linear-gradient(135deg,color-mix(in srgb,#229ed9 1
 .tgline{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:26px 0;padding:12px 16px;border:1px solid var(--rule);border-radius:12px;background:var(--card)}
 .tgline>svg{color:#229ed9;flex:none}.tgline>span{flex:1;font-weight:600;min-width:200px}.tgline .tgbtn{padding:8px 14px}
 @media (max-width:760px){.tgbox{grid-template-columns:1fr}.tgic{display:none}}
+
+/* WEB-1.10 Local news */
+.lcform{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:16px 0 10px}
+.lcform label{font-weight:700}.lcform input{flex:1;min-width:240px;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--card);color:var(--ink)}
+.lcgo{border:0;cursor:pointer;font:inherit;font-weight:700}
+.lcpop{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 18px}
+.lcout h2{font-family:var(--head);font-size:28px;margin:18px 0 4px}.lcout h3{font-family:var(--head);font-size:20px;margin:22px 0 8px;border-top:2px solid var(--ink);padding-top:8px}
+.lcout .lcsrc{color:var(--muted);font-size:14px}.lcout .lcthin{border-left:3px solid var(--elev);background:var(--paper2);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-size:14.5px}
+.lcev li,.lchd li{margin:8px 0}.lcev .small,.lchd .small{color:var(--muted)}
+.lchd a.lco{font-family:var(--head);font-size:17px}.lchd .lcat{margin-inline-start:8px;font-size:12.5px;font-weight:700;color:var(--gold2)}
+.lcrule{margin:28px 0 8px;padding:12px 16px;border:1px solid var(--rule);border-radius:12px;background:var(--card);font-size:14.5px;color:var(--ink2);max-width:900px}

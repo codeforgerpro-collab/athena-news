@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T10:05:29Z",
+ "generated": "2026-10-26T10:14:53Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -9,10 +9,10 @@
    "category": "Geopolitics",
    "cat": 1,
    "importance": 8.75,
-   "risk": 3.74,
+   "risk": 3.72,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 58,
+   "outlets": 59,
    "countries": [
     "QAT",
     "USA",
@@ -11880,6 +11880,147 @@
    ]
   },
   {
+   "id": 30826,
+   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.81,
+   "risk": 0.0,
+   "confidence": 0.93,
+   "status": "spreading",
+   "outlets": 15,
+   "countries": [
+    "RUS",
+    "USA",
+    "URY",
+    "QAT",
+    "ARE",
+    "NGA",
+    "ZAF",
+    "AUS",
+    "KOR",
+    "GBR",
+    "ISR"
+   ],
+   "first_seen": "2026-10-26T03:17:24Z",
+   "last_seen": "2026-10-26T09:55:52Z",
+   "page": "event/30826.html",
+   "reports": [
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-26T03:17:24Z",
+     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
+     "url": "https://tass.com/world/2207645"
+    },
+    {
+     "outlet": "Fortune",
+     "country": "USA",
+     "time": "2026-10-26T04:09:07Z",
+     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
+     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
+    },
+    {
+     "outlet": "MercoPress",
+     "country": "URY",
+     "time": "2026-10-26T04:26:00Z",
+     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
+     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T04:36:46Z",
+     "headline": "Bolsonaro calls for Brazil election result to be annulled",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T06:06:40Z",
+     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
+     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-26T06:51:50Z",
+     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
+     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T06:53:00Z",
+     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
+     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
+    },
+    {
+     "outlet": "ABC News Australia",
+     "country": "AUS",
+     "time": "2026-10-26T06:55:34Z",
+     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
+     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-26T07:12:05Z",
+     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T07:35:39Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
+    },
+    {
+     "outlet": "Korea Times",
+     "country": "KOR",
+     "time": "2026-10-26T07:37:02Z",
+     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
+    },
+    {
+     "outlet": "Africanews (English)",
+     "country": "AFR",
+     "time": "2026-10-26T08:14:54Z",
+     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
+     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T09:11:33Z",
+     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
+     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T09:12:13Z",
+     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
+     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T09:15:21Z",
+     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-26T09:55:52Z",
+     "headline": "'Fraud': Netanyahu minister disputes Brazil election as Israeli leaders denounce Lula",
+     "url": "https://www.haaretz.com/world-news/2026-10-26/ty-article/.premium/israeli-minister-disputes-brazil-election-result-alleges-fraud-after-lula-win/000001a1-7799-dc36-a7b3-77fd73600000"
+    }
+   ]
+  },
+  {
    "id": 28591,
    "title": "Eleven shot near Florida A&M university in Tallahassee",
    "category": "Health & Science",
@@ -14349,139 +14490,6 @@
      "time": "2026-10-25T05:24:43Z",
      "headline": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
      "url": "https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    }
-   ]
-  },
-  {
-   "id": 30826,
-   "title": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.64,
-   "risk": 0.0,
-   "confidence": 0.92,
-   "status": "spreading",
-   "outlets": 14,
-   "countries": [
-    "RUS",
-    "USA",
-    "URY",
-    "QAT",
-    "ARE",
-    "NGA",
-    "ZAF",
-    "AUS",
-    "KOR",
-    "GBR"
-   ],
-   "first_seen": "2026-10-26T03:17:24Z",
-   "last_seen": "2026-10-26T09:15:21Z",
-   "page": "event/30826.html",
-   "reports": [
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-26T03:17:24Z",
-     "headline": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
-     "url": "https://tass.com/world/2207645"
-    },
-    {
-     "outlet": "Fortune",
-     "country": "USA",
-     "time": "2026-10-26T04:09:07Z",
-     "headline": "Trump critic Lula wins reelection, saying Brazil is not ‘anyone’s backyard,’ while Bolsonaro asks for results to be annulled",
-     "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
-    },
-    {
-     "outlet": "MercoPress",
-     "country": "URY",
-     "time": "2026-10-26T04:26:00Z",
-     "headline": "Bolsonaro refuses to recognise Lula’s victory and says he will seek to annul the election",
-     "url": "https://en.mercopress.com/2026/10/26/bolsonaro-refuses-to-recognise-lula-s-victory-and-says-he-will-seek-to-annul-the-election?utm_source=feed&amp;utm_medium=rss&amp;utm_content=main&amp;utm_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T04:36:46Z",
-     "headline": "Bolsonaro calls for Brazil election result to be annulled",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T06:06:40Z",
-     "headline": "Lula wins Brazil election as Bolsonaro refuses to concede defeat",
-     "url": "https://gulfnews.com/world/americas/lula-wins-brazil-election-as-bolsonaro-refuses-to-concede-defeat-1.500723668"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-26T06:51:50Z",
-     "headline": "Brazil’s Lula Clinches Poll Victory, Bolsonaro Seeks To Annul Election",
-     "url": "https://www.channelstv.com/2026/10/26/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T06:53:00Z",
-     "headline": "‘A victory for democracy’: Lula supporters celebrate Brazil election win",
-     "url": "https://iol.co.za/news/world/2026-10-26-a-victory-for-democracy-lula-supporters-celebrate-brazil-election-win/"
-    },
-    {
-     "outlet": "ABC News Australia",
-     "country": "AUS",
-     "time": "2026-10-26T06:55:34Z",
-     "headline": "Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results",
-     "url": "https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-26T07:12:05Z",
-     "headline": "Brazil's Lula wins, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.newarab.com/news/brazils-lula-wins-flavio-bolsonaro-refuses-concede"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T07:35:39Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://www.vanguardngr.com/2026/10/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/"
-    },
-    {
-     "outlet": "Korea Times",
-     "country": "KOR",
-     "time": "2026-10-26T07:37:02Z",
-     "headline": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
-     "url": "https://www.koreatimes.co.kr/world/20261026/brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede?utm_source=rss"
-    },
-    {
-     "outlet": "Africanews (English)",
-     "country": "AFR",
-     "time": "2026-10-26T08:14:54Z",
-     "headline": "Brazil's Lula clinches re-election, Bolsonaro calls to annul vote",
-     "url": "http://www.africanews.com/2026/10/26/brazils-lula-clinches-re-election-bolsonaro-calls-to-annul-vote/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T09:11:33Z",
-     "headline": "Brazil’s Lula clinches poll victory, Bolsonaro seeks to annul election",
-     "url": "https://punchng.com/brazils-lula-clinches-poll-victory-bolsonaro-seeks-to-annul-election/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-26T09:12:13Z",
-     "headline": "Trump ally Bolsonaro refuses to concede defeat as Lula triumphs in neck-and-neck Brazilian election",
-     "url": "https://www.independent.co.uk/news/world/americas/jair-bolsonaro-flavio-lula-brazil-election-b3073236.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T09:15:21Z",
-     "headline": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss"
     }
    ]
   }
