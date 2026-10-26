@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T10:55:47Z",
+ "generated": "2026-10-26T11:12:41Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -12,7 +12,7 @@
    "risk": 3.72,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 59,
+   "outlets": 60,
    "countries": [
     "QAT",
     "USA",
@@ -55,7 +55,7 @@
     "PRT"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T10:03:00Z",
+   "last_seen": "2026-10-26T11:05:01Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -7077,10 +7077,10 @@
    "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.51,
-   "risk": 5.01,
+   "importance": 6.38,
+   "risk": 5.3,
    "confidence": 0.89,
-   "status": "fading",
+   "status": "peaking",
    "outlets": 26,
    "countries": [
     "OMN",
@@ -7102,7 +7102,7 @@
     "IRL"
    ],
    "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-26T09:40:54Z",
+   "last_seen": "2026-10-26T10:41:23Z",
    "page": "event/16782.html",
    "reports": [
     {
@@ -14213,6 +14213,153 @@
    ]
   },
   {
+   "id": 30228,
+   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.66,
+   "risk": 1.01,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 17,
+   "countries": [
+    "GBR",
+    "USA",
+    "GHA",
+    "KWT",
+    "IND",
+    "NGA",
+    "ARE",
+    "QAT",
+    "FRA",
+    "TUR"
+   ],
+   "first_seen": "2026-10-25T19:08:27Z",
+   "last_seen": "2026-10-26T10:51:10Z",
+   "page": "event/30228.html",
+   "reports": [
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T19:08:27Z",
+     "headline": "Nicki Minaj shares Air Force One video as Trump hints at new White House press secretary",
+     "url": "https://www.independent.co.uk/tv/news/nicki-minaj-trump-white-house-press-secretary-video-b3073049.html"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T22:36:59Z",
+     "headline": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-25T23:06:36Z",
+     "headline": "Trump focuses on Nicki Minaj’s ‘beautiful’ rear, AOC and owning Greenland in marathon rally speech",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-michigan-rally-nicki-minaj-aoc-greenland-b3073110.html"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-25T23:33:19Z",
+     "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "The Hill",
+     "country": "USA",
+     "time": "2026-10-26T02:52:18Z",
+     "headline": "Nicki Minaj tells Trump she’ll support him if he runs again",
+     "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T04:42:00Z",
+     "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "url": "https://www.myjoyonline.com/rapper-nicki-minaj-joins-trump-onstage-at-michigan-rally/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-26T06:42:00Z",
+     "headline": "Trump’s Candid Remark About Nicki Minaj’s ‘Beautiful A***’ Sparks Buzz",
+     "url": "https://www.arabtimesonline.com/news/trumps-candid-remark-about-nicki-minajs-beautiful-a-sparks-buzz/"
+    },
+    {
+     "outlet": "Times of India",
+     "country": "IND",
+     "time": "2026-10-26T07:21:23Z",
+     "headline": "Nicki Minaj new White House press secretary? Rapper accompanies Trump on Air Force One",
+     "url": "https://timesofindia.indiatimes.com/world/us/is-nicki-minaj-new-white-house-press-secretary-rumours-fly-as-rapper-accompanies-trump-on-air-force-one/articleshow/135204451.cms"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-26T07:23:56Z",
+     "headline": "Trump jokes about Nicki Minaj, then says ‘she never looked more beautiful’",
+     "url": "https://indianexpress.com/article/world/trump-nicki-minaj-hard-to-miss-michigan-rally-10937001/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T07:36:09Z",
+     "headline": "Trump has changed America’s mood — Nicki Minaj",
+     "url": "https://punchng.com/trump-has-changed-americas-mood-nicki-minaj/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T07:39:52Z",
+     "headline": "Could Nicki Minaj trade rap for politics? Speculation sparks over White House Press Secretary role",
+     "url": "https://gulfnews.com/entertainment/could-nicki-minaj-trade-rap-for-politics-speculation-sparks-over-white-house-press-secretary-role-1.500723770"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T08:23:37Z",
+     "headline": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-26T08:32:19Z",
+     "headline": "US: Nicki Minaj endorses Trump at Michigan Republican rally",
+     "url": "https://www.euronews.com/video/2026/10/26/us-nicki-minaj-endorses-trump-at-michigan-republican-rally"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-26T09:17:16Z",
+     "headline": "‘That’s hard to miss’ – Donald Trump compliments Nicki Minaj’s backside at Michigan rally",
+     "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/920291-thats-hard-to-miss-donald-trump-compliments-nicki-minajs-backside-at-michigan-rally.html"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T10:33:56Z",
+     "headline": "Nicki Minaj and Trump spark White House podium rumor",
+     "url": "https://www.turkiyetoday.com/world/nicki-minaj-and-trump-spark-white-house-podium-rumor-3231050"
+    },
+    {
+     "outlet": "Belfast Telegraph",
+     "country": "GBR",
+     "time": "2026-10-26T10:51:10Z",
+     "headline": "Nicki Minaj backs Trump at Michigan rally amid tight midterm elections battle",
+     "url": "https://www.belfasttelegraph.co.uk/news/world-news/nicki-minaj-backs-trump-at-michigan-rally-amid-tight-midterm-elections-battle/a/163616208.html"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-26T10:51:10Z",
+     "headline": "Nicki Minaj backs Trump at Michigan rally amid tight midterm elections battle",
+     "url": "https://www.irishnews.com/news/world/nicki-minaj-backs-trump-at-michigan-rally-amid-tight-midterm-elections-battle-JJ2IDEJOJJLGJDI5FNEC4JHJAA/"
+    }
+   ]
+  },
+  {
    "id": 19970,
    "title": "France reports first human Shamonda virus case",
    "category": "Health & Science",
@@ -14527,108 +14674,6 @@
      "time": "2026-10-23T08:35:15Z",
      "headline": "First human case of Shamonda virus: What is it, what are the risks",
      "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
-    }
-   ]
-  },
-  {
-   "id": 12757,
-   "title": "Iran start FIFA U15 World Cup & Festival 2026 on high",
-   "category": "Economy & Markets",
-   "cat": 2,
-   "importance": 5.65,
-   "risk": 0.0,
-   "confidence": 0.84,
-   "status": "fading",
-   "outlets": 9,
-   "countries": [
-    "AZE",
-    "LCA",
-    "OMN",
-    "TZA",
-    "IRN",
-    "KGZ",
-    "JAM"
-   ],
-   "first_seen": "2026-10-19T15:12:00Z",
-   "last_seen": "2026-10-25T17:15:37Z",
-   "page": "event/12757.html",
-   "reports": [
-    {
-     "outlet": "AzerNews",
-     "country": "AZE",
-     "time": "2026-10-19T15:12:00Z",
-     "headline": "Azerbaijan, World Bank explore new areas of cooperation",
-     "url": "https://www.azernews.az/business/265835.html"
-    },
-    {
-     "outlet": "St Lucia Times",
-     "country": "LCA",
-     "time": "2026-10-20T16:46:44Z",
-     "headline": "Young Boyz off to Baku for FIFA U15 World Cup",
-     "url": "https://stluciatimes.com/185114/2026/10/young-boyz-off-to-baku-for-fifa-u15-world-cup/"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-21T12:27:04Z",
-     "headline": "Oman U15s land in Baku for historic Fifa World Cup campaign",
-     "url": "https://www.omanobserver.om/article/1198199/sports/oman-u15s-land-in-baku-for-historic-fifa-world-cup-campaign"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T06:40:00Z",
-     "headline": "FIFA: Azerbaijan is ready for World Cup",
-     "url": "https://en.apa.az/football/fifa-azerbaijan-is-ready-for-world-cup-531531"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T15:51:00Z",
-     "headline": "Dates announced for FIFA U-20 World Cup to be hosted by Azerbaijan and Uzbekistan",
-     "url": "https://en.apa.az/football/dates-announced-for-fifa-u-20-world-cup-to-be-hosted-by-azerbaijan-and-uzbekistan-531695"
-    },
-    {
-     "outlet": "Daily News",
-     "country": "TZA",
-     "time": "2026-10-23T08:01:27Z",
-     "headline": "U15 coach banks on recovery ahead of Zambia clash",
-     "url": "https://dailynews.co.tz/u15-coach-banks-on-recovery-ahead-of-zambia-clash/"
-    },
-    {
-     "outlet": "Tehran Times",
-     "country": "IRN",
-     "time": "2026-10-24T12:42:04Z",
-     "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high",
-     "url": "https://www.tehrantimes.com/news/531444/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T13:34:03Z",
-     "headline": "Oman U15s kick off WC campaign with big win",
-     "url": "https://www.omanobserver.om/article/1198490/sports/football/oman-u15s-kick-off-wc-campaign-with-big-win"
-    },
-    {
-     "outlet": "24.kg (English)",
-     "country": "KGZ",
-     "time": "2026-10-24T14:07:59Z",
-     "headline": "Kyrgyzstan's U15 team to make FIFA World Championship debut",
-     "url": "https://24.kg/en/article/kyrgyzstans-u15-team-to-make-fifa-world-championship-debut"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-24T19:46:44Z",
-     "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high",
-     "url": "https://en.mehrnews.com/news/248867/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-25T17:15:37Z",
-     "headline": "Jamaica hit Sri Lanka for six at U15 World Cup",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/jamaica-hit-sri-lanka-six-u15-world-cup/"
     }
    ]
   }
