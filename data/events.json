@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T05:27:41Z",
+ "generated": "2026-10-26T05:44:41Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -8,11 +8,11 @@
    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.38,
-   "risk": 3.63,
-   "confidence": 0.89,
+   "importance": 8.4,
+   "risk": 3.64,
+   "confidence": 0.9,
    "status": "peaking",
-   "outlets": 43,
+   "outlets": 45,
    "countries": [
     "QAT",
     "USA",
@@ -36,6 +36,7 @@
     "TUR",
     "KOR",
     "JPN",
+    "OMN",
     "IND",
     "LKA",
     "CUB",
@@ -48,7 +49,7 @@
     "IRQ"
    ],
    "first_seen": "2026-10-23T16:41:09Z",
-   "last_seen": "2026-10-26T05:24:20Z",
+   "last_seen": "2026-10-26T05:32:12Z",
    "page": "event/25521.html",
    "reports": [
     {
@@ -663,8 +664,8 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 7.91,
-   "risk": 7.96,
+   "importance": 7.97,
+   "risk": 8.01,
    "confidence": 0.9,
    "status": "spreading",
    "outlets": 65,
@@ -707,7 +708,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T05:14:00Z",
+   "last_seen": "2026-10-26T05:37:57Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -4833,6 +4834,320 @@
    ]
   },
   {
+   "id": 16782,
+   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.59,
+   "risk": 5.53,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 25,
+   "countries": [
+    "OMN",
+    "KWT",
+    "SAU",
+    "TUR",
+    "PAK",
+    "CHN",
+    "ARE",
+    "RUS",
+    "IRQ",
+    "AZE",
+    "USA",
+    "CYP",
+    "QAT",
+    "IRN",
+    "ISR",
+    "BGD"
+   ],
+   "first_seen": "2026-10-20T05:10:15Z",
+   "last_seen": "2026-10-26T05:38:20Z",
+   "page": "event/16782.html",
+   "reports": [
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-20T05:10:15Z",
+     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
+     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-20T08:53:00Z",
+     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:04:54Z",
+     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
+     "url": "https://english.aawsat.com/node/5331492"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-21T04:16:00Z",
+     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
+     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-21T04:30:28Z",
+     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
+     "url": "https://english.aawsat.com/node/5331807"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T22:38:35Z",
+     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T00:12:00Z",
+     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-22T02:41:20Z",
+     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
+     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
+    },
+    {
+     "outlet": "China Daily — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T07:07:55Z",
+     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
+     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-22T09:19:34Z",
+     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T10:21:14Z",
+     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
+     "url": "https://english.aawsat.com/node/5332304"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T10:40:40Z",
+     "headline": "Saudi-led coalition claims drone downed over Riyadh",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T20:59:07Z",
+     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
+     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T00:24:39Z",
+     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T00:48:20Z",
+     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
+     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T01:15:08Z",
+     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T01:31:40Z",
+     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T02:56:28Z",
+     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T04:30:30Z",
+     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
+     "url": "https://english.aawsat.com/node/5332564"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T00:41:30Z",
+     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
+     "url": "https://english.aawsat.com/node/5332979"
+    },
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-24T00:53:49Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
+     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T01:26:26Z",
+     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
+     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T01:49:40Z",
+     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T02:48:56Z",
+     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+    },
+    {
+     "outlet": "TASS (English)",
+     "country": "RUS",
+     "time": "2026-10-24T03:01:00Z",
+     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
+     "url": "https://tass.com/world/2207235"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-24T03:15:24Z",
+     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
+     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-24T06:01:35Z",
+     "headline": "Saudi-led Coalition strikes Saada, Taiz",
+     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T06:21:05Z",
+     "headline": "Two explosions heard in Riyadh following alert",
+     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-24T06:29:13Z",
+     "headline": "Ballistic missiles targeting Saudi cities intercepted",
+     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T06:42:57Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T09:14:58Z",
+     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T09:43:24Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-24T10:01:14Z",
+     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
+     "url": "https://english.aawsat.com/node/5333054"
+    },
+    {
+     "outlet": "APA (English)",
+     "country": "AZE",
+     "time": "2026-10-24T10:14:00Z",
+     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
+     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T11:13:29Z",
+     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
+     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-25T00:46:40Z",
+     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
+    }
+   ]
+  },
+  {
    "id": 12569,
    "title": "Australian lawmaker Helen Haines in critical condition after vehicle ramming attack",
    "category": "Society & Law",
@@ -5263,7 +5578,7 @@
      "outlet": "The Guardian",
      "country": "GBR",
      "time": "2026-10-25T17:00:12Z",
-     "headline": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "headline": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
     },
     {
@@ -6442,320 +6757,6 @@
    ]
   },
   {
-   "id": 16782,
-   "title": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.34,
-   "risk": 5.46,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 25,
-   "countries": [
-    "OMN",
-    "KWT",
-    "SAU",
-    "TUR",
-    "PAK",
-    "CHN",
-    "ARE",
-    "RUS",
-    "IRQ",
-    "AZE",
-    "USA",
-    "CYP",
-    "QAT",
-    "IRN",
-    "ISR",
-    "BGD"
-   ],
-   "first_seen": "2026-10-20T05:10:15Z",
-   "last_seen": "2026-10-26T04:46:30Z",
-   "page": "event/16782.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-20T05:10:15Z",
-     "headline": "Saudi force intercept ballistic missile targeting Riyadh",
-     "url": "https://www.omanobserver.om/article/1198102/world/region/saudi-force-intercept-ballistic-missile-targeting-riyadh"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-20T08:53:00Z",
-     "headline": "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-says-it-intercepts-iran-backed-houthi-ballistic-missile-targeting-riyadh/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:04:54Z",
-     "headline": "Coalition Says Intercepted Ballistic Missile Targeting Riyadh",
-     "url": "https://english.aawsat.com/node/5331492"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-21T04:16:00Z",
-     "headline": "Saudi-led Coalition Intercepts Four Drones Targeting Kingdom",
-     "url": "https://www.arabtimesonline.com/news/saudi-led-coalition-intercepts-four-drones-targeting-kingdom/"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-21T04:30:28Z",
-     "headline": "Coalition: Drones Launched Toward Saudi Arabia Intercepted, Destroyed",
-     "url": "https://english.aawsat.com/node/5331807"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T22:38:35Z",
-     "headline": "Saudi-led coalition says four drones intercepted and destroyed in Eastern Province",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T00:12:00Z",
-     "headline": "Saudi-led coalition intercepts 4 drones over eastern Saudi Arabia",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-4-drones-over-eastern-saudi-arabia/4096583"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-22T02:41:20Z",
-     "headline": "Saudis intercept more drones as conflict with Houthis spirals",
-     "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T07:07:55Z",
-     "headline": "Drones intercepted over Riyadh, other regions: Saudi-led coalition",
-     "url": "https://www.chinadaily.com.cn/a/202610/17/WS6ad3957de4b06d4aa0563636.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:19:34Z",
-     "headline": "Saudi-led coalition intercepts, destroys drone in Riyadh region",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-destroys-drone-in-riyadh-region/4096914"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T10:21:14Z",
-     "headline": "Coalition: Four UAVs Intercepted and Destroyed in Riyadh and Madinah Regions",
-     "url": "https://english.aawsat.com/node/5332304"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T10:40:40Z",
-     "headline": "Saudi-led coalition claims drone downed over Riyadh",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-drone-downed-over-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-22T20:59:07Z",
-     "headline": "Houthi claims about tribal gathering threats are ‘completely baseless,’ coalition says",
-     "url": "https://www.arabnews.com/saudi-arabia/houthi-claims-about-tribal-gathering-threats-are-completely-baseless-coalition-says-3007821"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T00:24:39Z",
-     "headline": "Saudi-led coalition says it intercepted two Houthi drones targeting Saudi Arabia",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-houthi-drones-targeting"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T00:48:20Z",
-     "headline": "Yemeni army says over 35 Houthi fighters killed or wounded in Taiz",
-     "url": "https://tribune.com.pk/story/2636466/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T01:15:08Z",
-     "headline": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T01:31:40Z",
-     "headline": "Alerts issued in Saudi Arabia's Riyadh and Najran, Saudi-led coalition says Houthi missiles intercepted",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/alerts-issued-saudi-arabias-riyadh-and-najran-saudi-led-coalition-says"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missile bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missile-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T02:56:28Z",
-     "headline": "Coalition air defenses down missiles bound for Riyadh, Khamis Mushait amid ongoing Houthi attacks",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-down-missiles-bound-for-riyadh-khamis-mushait-amid-ongoing-houthi-attacks-3007832"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T04:30:30Z",
-     "headline": "Coalition Destroys Ballistic Missile, Drones, Denies Houthi Claims about Saudi Threats Against Tribal Gatherings",
-     "url": "https://english.aawsat.com/node/5332564"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T00:41:30Z",
-     "headline": "Two Houthi Ballistic Missiles Intercepted Over Riyadh, Khamis Mushait",
-     "url": "https://english.aawsat.com/node/5332979"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-24T00:53:49Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
-     "url": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missile-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T01:26:26Z",
-     "headline": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
-     "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T01:49:40Z",
-     "headline": "Saudi-led coalition says ballistic missile aimed at Riyadh destroyed",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-aimed-riyadh-destroyed"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T02:48:56Z",
-     "headline": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
-    },
-    {
-     "outlet": "TASS (English)",
-     "country": "RUS",
-     "time": "2026-10-24T03:01:00Z",
-     "headline": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
-     "url": "https://tass.com/world/2207235"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-24T03:15:24Z",
-     "headline": "Saudi-led coalition says intercepts Houthi ballistic missile targeting Riyadh",
-     "url": "https://english.news.cn/20261024/3481770869a64729833e3bac07bd6dec/c.html"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-24T06:01:35Z",
-     "headline": "Saudi-led Coalition strikes Saada, Taiz",
-     "url": "https://shafaq.com/en/Middle-East/Saudi-led-Coalition-strikes-Saada-Taiz"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T06:21:05Z",
-     "headline": "Two explosions heard in Riyadh following alert",
-     "url": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-24T06:29:13Z",
-     "headline": "Ballistic missiles targeting Saudi cities intercepted",
-     "url": "https://www.omanobserver.om/article/1198449/oman/ballistic-missiles-targeting-saudi-cities-intercepted"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T06:42:57Z",
-     "headline": "Morning update",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T09:14:58Z",
-     "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T09:43:24Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-24T10:01:14Z",
-     "headline": "Saudi Arabia Intercepts Three Missiles Targeting Riyadh, Taif and Yanbu",
-     "url": "https://english.aawsat.com/node/5333054"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-24T10:14:00Z",
-     "headline": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles targeting Saudi cities",
-     "url": "https://en.apa.az/asia/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities-531986"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T11:13:29Z",
-     "headline": "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
-     "url": "https://www.brecorder.com/news/40445753/saudi-forces-say-intercepted-two-houthi-missiles-targeting-yanbu-taif"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-25T00:46:40Z",
-     "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues",
-     "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-intercepts-drones-and-missiles-fighting-yemens-houthis-continues"
-    }
-   ]
-  },
-  {
    "id": 23496,
    "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
    "category": "Trade & Industry",
@@ -7436,318 +7437,6 @@
    ]
   },
   {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.21,
-   "risk": 1.21,
-   "confidence": 0.89,
-   "status": "fading",
-   "outlets": 19,
-   "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
-    "ARE",
-    "TUR",
-    "JAM",
-    "GHA",
-    "UGA"
-   ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T04:30:00Z",
-   "page": "event/23444.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T22:43:27Z",
-     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T23:09:14Z",
-     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
-     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T23:33:20Z",
-     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T00:10:18Z",
-     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T01:05:42Z",
-     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
-     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:37:49Z",
-     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
-     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:45:34Z",
-     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T04:30:00Z",
-     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
-     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
-    }
-   ]
-  },
-  {
    "id": 28776,
    "title": "Why Michael Carrick dropped Bruno Fernandes for Manchester United vs Bournemouth",
    "category": "Energy & Environment",
@@ -8412,7 +8101,7 @@
      "outlet": "CBS News (World)",
      "country": "USA",
      "time": "2026-10-25T19:52:43Z",
-     "headline": "Lula wins fourth term as Brazil's president",
+     "headline": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
      "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
     },
     {
@@ -9983,6 +9672,318 @@
      "time": "2026-10-25T12:49:20Z",
      "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
+    }
+   ]
+  },
+  {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 5.96,
+   "risk": 1.32,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "ARE",
+    "TUR",
+    "JAM",
+    "GHA",
+    "UGA"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-26T06:41:38Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T22:43:27Z",
+     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T23:09:14Z",
+     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
+     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T00:10:18Z",
+     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T01:05:42Z",
+     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
+     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:37:49Z",
+     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
+     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:45:34Z",
+     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T04:30:00Z",
+     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
+     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
     }
    ]
   },
@@ -12480,6 +12481,172 @@
    ]
   },
   {
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Trade & Industry",
+   "cat": 4,
+   "importance": 5.69,
+   "risk": 0.0,
+   "confidence": 0.85,
+   "status": "peaking",
+   "outlets": 10,
+   "countries": [
+    "ARE",
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "OMN"
+   ],
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T03:34:59Z",
+   "page": "event/18222.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    }
+   ]
+  },
+  {
    "id": 16196,
    "title": "Russia ready to resume trilateral talks on Ukraine — Putin",
    "category": "Geopolitics",
@@ -13567,124 +13734,6 @@
      "time": "2026-10-25T05:24:43Z",
      "headline": "Aichi-Nagoya bids farewell to Asian Para Games in closing ceremony",
      "url": "https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-    }
-   ]
-  },
-  {
-   "id": 18987,
-   "title": "Lula wins record fourth term in Brazil in a shock comeback",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.64,
-   "risk": 1.47,
-   "confidence": 0.84,
-   "status": "spreading",
-   "outlets": 10,
-   "countries": [
-    "ARG",
-    "IND",
-    "BRA",
-    "NPL",
-    "ZAF",
-    "QAT",
-    "KEN",
-    "CHN",
-    "TUR"
-   ],
-   "first_seen": "2026-10-20T16:42:06Z",
-   "last_seen": "2026-10-26T04:51:32Z",
-   "page": "event/18987.html",
-   "reports": [
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-20T16:42:06Z",
-     "headline": "With selfies and squats, Brazil's Lula fights for one last comeback",
-     "url": "https://www.batimes.com.ar/news/latin-america/with-selfies-and-squats-brazils-lula-fights-for-one-last-comeback.phtml"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-23T05:32:13Z",
-     "headline": "With Selfies And Squats, Brazil's Lula Seeks One Last Political Comeback",
-     "url": "https://www.ndtv.com/world-news/with-selfies-and-squats-brazils-president-luiz-inacio-lula-da-silva-seeks-one-last-political-comeback-12223581#publisher=newsstand"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-26T01:49:52Z",
-     "headline": "Lula wins record fourth term in Brazil in a shock comeback",
-     "url": "https://www.batimes.com.ar/news/latin-america/lula-wins-record-fourth-term-in-brazil-in-a-shock-comeback.phtml"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-26T02:00:07Z",
-     "headline": "Lula Wins Again. What Now for Brazil?",
-     "url": "https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/"
-    },
-    {
-     "outlet": "The Kathmandu Post",
-     "country": "NPL",
-     "time": "2026-10-26T02:11:38Z",
-     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
-     "url": "https://kathmandupost.com/world/2026/10/26/lula-brazil-s-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback"
-    },
-    {
-     "outlet": "Daily Maverick",
-     "country": "ZAF",
-     "time": "2026-10-26T02:35:00Z",
-     "headline": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-26-lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback/"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "country": "ARG",
-     "time": "2026-10-26T02:52:56Z",
-     "headline": "What challenges await Brazil's Lula in his fourth term in office?",
-     "url": "https://www.batimes.com.ar/news/latin-america/what-challenges-await-brazils-lula-in-his-fourth-term-in-office.phtml"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T02:59:50Z",
-     "headline": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-26T03:30:53Z",
-     "headline": "Trump Critic Lula Wins Record Fourth Term In Brazil In Surprise Comeback",
-     "url": "https://www.ndtv.com/world-news/lula-wins-record-fourth-term-in-brazil-in-surprise-comeback-12235573#publisher=newsstand"
-    },
-    {
-     "outlet": "SABC News",
-     "country": "ZAF",
-     "time": "2026-10-26T03:47:11Z",
-     "headline": "Lula wins fourth term in dramatic comeback",
-     "url": "https://www.sabcnews.com/sabcnews/lula-wins-fourth-term-in-dramatic-comeback/"
-    },
-    {
-     "outlet": "Capital FM",
-     "country": "KEN",
-     "time": "2026-10-26T04:26:11Z",
-     "headline": "Lula wins fourth term as Brazil president in shock comeback against Flavio Bolsonaro",
-     "url": "https://capitalfm.africa/lula-wins-fourth-term-as-brazil-president-in-shock-comeback-against-flavio-bolsonaro/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news"
-    },
-    {
-     "outlet": "China Daily — page reader",
-     "country": "CHN",
-     "time": "2026-10-26T04:36:14Z",
-     "headline": "Lula wins reelection in Brazil",
-     "url": "https://www.chinadaily.com.cn/a/202610/26/WS6adea567e4b06d4aa0564b5b.html"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-26T04:51:32Z",
-     "headline": "PROFILE - From prison to historic 4th term: Brazil's Lula extends extraordinary political career",
-     "url": "https://www.aa.com.tr/en/americas/profile-from-prison-to-historic-4th-term-brazils-lula-extends-extraordinary-political-career/4100570"
     }
    ]
   },
