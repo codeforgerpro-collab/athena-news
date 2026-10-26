@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:01:43Z",
+ "generated": "2026-10-26T06:18:44Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -340,8 +340,8 @@
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 8.1,
-   "risk": 8.11,
+   "importance": 8.16,
+   "risk": 8.16,
    "confidence": 0.9,
    "status": "spreading",
    "outlets": 65,
@@ -384,7 +384,7 @@
     "IDN"
    ],
    "first_seen": "2026-10-23T08:56:41Z",
-   "last_seen": "2026-10-26T05:57:49Z",
+   "last_seen": "2026-10-26T06:10:05Z",
    "page": "event/24515.html",
    "reports": [
     {
@@ -4354,10 +4354,10 @@
    "title": "Houthis strike Saudi Aramco facilities and Saudi airports",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.72,
-   "risk": 4.95,
-   "confidence": 0.89,
-   "status": "spreading",
+   "importance": 6.66,
+   "risk": 5.02,
+   "confidence": 0.88,
+   "status": "peaking",
    "outlets": 18,
    "countries": [
     "USA",
@@ -4375,7 +4375,7 @@
     "DEU"
    ],
    "first_seen": "2026-10-17T21:04:33Z",
-   "last_seen": "2026-10-25T11:09:36Z",
+   "last_seen": "2026-10-26T06:15:41Z",
    "page": "event/12369.html",
    "reports": [
     {
@@ -4566,6 +4566,27 @@
      "time": "2026-10-25T11:09:36Z",
      "headline": "Saudi Arabia intercepts missiles, drones as fighting with Yemen's Iran-backed Houthis continues",
      "url": "https://www.jpost.com/middle-east/article-912766"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-26T05:35:00Z",
+     "headline": "Houthis claim to have struck Saudi Arabia oil infrastructure",
+     "url": "https://news.am/en/news/1070281"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T06:09:57Z",
+     "headline": "Erdogan pledges to stand by Saudi Arabia as Houthis threaten Aramco",
+     "url": "https://www.turkiyetoday.com/region/erdogan-pledges-to-stand-by-saudi-arabia-as-houthis-threaten-aramco-3230246"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T06:15:41Z",
+     "headline": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+     "url": "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-as-fighting-intensifies"
     }
    ]
   },
@@ -6508,6 +6529,320 @@
    ]
   },
   {
+   "id": 23444,
+   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.37,
+   "risk": 1.36,
+   "confidence": 0.89,
+   "status": "spreading",
+   "outlets": 22,
+   "countries": [
+    "PAK",
+    "SAU",
+    "NGA",
+    "QAT",
+    "SGP",
+    "CYP",
+    "ZAF",
+    "IRQ",
+    "NAM",
+    "ARE",
+    "TUR",
+    "JAM",
+    "GHA",
+    "UGA",
+    "KOR",
+    "FRA"
+   ],
+   "first_seen": "2026-10-23T03:27:19Z",
+   "last_seen": "2026-10-26T06:41:38Z",
+   "page": "event/23444.html",
+   "reports": [
+    {
+     "outlet": "Express Tribune",
+     "country": "PAK",
+     "time": "2026-10-23T03:27:19Z",
+     "headline": "Barcelona eye Clasico statement against Real Madrid",
+     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T07:52:46Z",
+     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
+     "url": "https://english.aawsat.com/node/5332620"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:05:27Z",
+     "headline": "La Liga: El Clásico always 50-50, says Courtois",
+     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T10:04:42Z",
+     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
+     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Premium Times",
+     "country": "NGA",
+     "time": "2026-10-23T10:25:40Z",
+     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
+     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T13:12:36Z",
+     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-23T13:48:56Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T14:50:03Z",
+     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T15:17:00Z",
+     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T10:50:37Z",
+     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
+     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:05:40Z",
+     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-24T12:45:00Z",
+     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T16:18:17Z",
+     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-24T20:04:26Z",
+     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
+     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-24T21:24:50Z",
+     "headline": "Alvarez fires Atletico to win against Deportivo",
+     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T03:40:52Z",
+     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T10:33:54Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T11:01:26Z",
+     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T12:25:11Z",
+     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T12:53:02Z",
+     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
+     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-25T13:00:00Z",
+     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
+     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T15:01:46Z",
+     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T16:30:00Z",
+     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
+    },
+    {
+     "outlet": "Shafaq News (English)",
+     "country": "IRQ",
+     "time": "2026-10-25T22:05:32Z",
+     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
+     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T22:13:17Z",
+     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
+     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T22:14:09Z",
+     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
+    },
+    {
+     "outlet": "The Namibian",
+     "country": "NAM",
+     "time": "2026-10-25T22:20:09Z",
+     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T22:22:53Z",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "Channels TV",
+     "country": "NGA",
+     "time": "2026-10-25T22:28:39Z",
+     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
+     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T22:43:27Z",
+     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
+     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-25T22:49:22Z",
+     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
+     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-25T23:06:56Z",
+     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
+     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-25T23:09:14Z",
+     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
+     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T23:33:20Z",
+     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
+     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-26T00:10:18Z",
+     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-26T01:05:42Z",
+     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
+     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-26T03:37:49Z",
+     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
+     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-26T03:45:34Z",
+     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T04:30:00Z",
+     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
+     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
+    }
+   ]
+  },
+  {
    "id": 23496,
    "title": "Multi-Storey Building Collapses During Construction in Kenya's Nairobi; Many Feared Trapped",
    "category": "Trade & Industry",
@@ -7195,7 +7530,7 @@
    "importance": 6.21,
    "risk": 1.91,
    "confidence": 0.9,
-   "status": "peaking",
+   "status": "spreading",
    "outlets": 18,
    "countries": [
     "SAU",
@@ -7216,7 +7551,7 @@
     "TUR"
    ],
    "first_seen": "2026-10-22T04:32:28Z",
-   "last_seen": "2026-10-26T05:53:18Z",
+   "last_seen": "2026-10-26T05:59:46Z",
    "page": "event/17275.html",
    "reports": [
     {
@@ -7442,6 +7777,13 @@
      "time": "2026-10-26T05:53:18Z",
      "headline": "Kimi Antonelli wins US Grand Prix but F1 title celebration put on hold",
      "url": "https://www.turkiyetoday.com/sports/kimi-antonelli-wins-us-grand-prix-but-f1-title-celebration-put-on-hold-3231024"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T05:59:46Z",
+     "headline": "Antonelli wins US Grand Prix but must wait for title",
+     "url": "https://cyprus-mail.com/2026/10/26/antonelli-wins-us-grand-prix-but-must-wait-for-title"
     }
    ]
   },
@@ -8137,6 +8479,195 @@
    ]
   },
   {
+   "id": 18222,
+   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+   "category": "Health & Science",
+   "cat": 7,
+   "importance": 6.14,
+   "risk": 0.0,
+   "confidence": 0.86,
+   "status": "spreading",
+   "outlets": 12,
+   "countries": [
+    "ARE",
+    "DEU",
+    "NGA",
+    "SAU",
+    "QAT",
+    "ZAF",
+    "BRA",
+    "OMN",
+    "TUR",
+    "KOR"
+   ],
+   "first_seen": "2026-10-21T04:30:04Z",
+   "last_seen": "2026-10-26T06:06:49Z",
+   "page": "event/18222.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-21T04:30:04Z",
+     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T04:40:58Z",
+     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-22T08:33:00Z",
+     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T09:16:06Z",
+     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
+     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:58:09Z",
+     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
+     "url": "https://english.aawsat.com/node/5332582"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T07:56:27Z",
+     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T08:39:59Z",
+     "headline": "My wife eager to know Ballon d’Or result, says Kane",
+     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T11:52:16Z",
+     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T12:05:00Z",
+     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
+     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T13:48:08Z",
+     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
+     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-23T17:00:00Z",
+     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
+     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T14:21:34Z",
+     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
+    },
+    {
+     "outlet": "The Rio Times",
+     "country": "BRA",
+     "time": "2026-10-24T17:27:11Z",
+     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
+     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-25T06:31:01Z",
+     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T23:38:57Z",
+     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-26T01:35:01Z",
+     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
+     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T01:36:53Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-26T03:06:40Z",
+     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
+     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T03:34:59Z",
+     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-26T05:45:00Z",
+     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
+     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-26T05:55:29Z",
+     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
+     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
+    },
+    {
+     "outlet": "Korea Herald",
+     "country": "KOR",
+     "time": "2026-10-26T06:06:49Z",
+     "headline": "Kane favored over Yamal, Mbappe for Ballon d'Or",
+     "url": "https://www.koreaherald.com/article/10915050"
+    }
+   ]
+  },
+  {
    "id": 5498,
    "title": "Israeli drone strike kills two Palestinians in Gaza City",
    "category": "Geopolitics",
@@ -8443,319 +8974,6 @@
      "time": "2026-10-25T14:39:06Z",
      "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
      "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-    }
-   ]
-  },
-  {
-   "id": 23444,
-   "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 6.11,
-   "risk": 1.34,
-   "confidence": 0.89,
-   "status": "spreading",
-   "outlets": 20,
-   "countries": [
-    "PAK",
-    "SAU",
-    "NGA",
-    "QAT",
-    "SGP",
-    "CYP",
-    "ZAF",
-    "IRQ",
-    "NAM",
-    "ARE",
-    "TUR",
-    "JAM",
-    "GHA",
-    "UGA",
-    "KOR"
-   ],
-   "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T06:41:38Z",
-   "page": "event/23444.html",
-   "reports": [
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-23T03:27:19Z",
-     "headline": "Barcelona eye Clasico statement against Real Madrid",
-     "url": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T07:52:46Z",
-     "headline": "Barcelona Aiming to Put Real Madrid Out of Sight in Clasico",
-     "url": "https://english.aawsat.com/node/5332620"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:05:27Z",
-     "headline": "La Liga: El Clásico always 50-50, says Courtois",
-     "url": "https://punchng.com/la-liga-el-clasico-always-50-50-says-courtois/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T10:04:42Z",
-     "headline": "Barcelona aiming to put Real Madrid out of sight in Clasico",
-     "url": "https://punchng.com/barcelona-aiming-to-put-real-madrid-out-of-sight-in-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Premium Times",
-     "country": "NGA",
-     "time": "2026-10-23T10:25:40Z",
-     "headline": "El Clásico: UNILAG to host watch party as Barcelona face Real Madrid",
-     "url": "https://www.premiumtimesng.com/sports/football/919538-el-clasico-unilag-to-host-watch-party-as-barcelona-face-real-madrid.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T13:12:36Z",
-     "headline": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-23T13:48:56Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-23T14:50:03Z",
-     "headline": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-     "url": "https://cyprus-mail.com/2026/10/23/mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T15:17:00Z",
-     "headline": "Barcelona prepare for El Clasico test against Real Madrid as lead hangs in balance",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-23-barcelona-prepare-for-el-clasico-test-against-real-madrid-as-lead-hangs-in-balance2/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T10:50:37Z",
-     "headline": "Real Madrid still a work in progress, says Mourinho ahead of El Clásico",
-     "url": "https://punchng.com/real-madrid-still-a-work-in-progress-says-mourinho-ahead-of-el-clasico/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:05:40Z",
-     "headline": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-24T12:45:00Z",
-     "headline": "Mourinho plays down Real Madrid comparisons with Barcelona before Clasico",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-24-mourinho-plays-down-real-madrid-comparisons-with-barcelona-before-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T16:18:17Z",
-     "headline": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-24T20:04:26Z",
-     "headline": "El Clásico: No specific plan to stop Yamal, says Mourinho",
-     "url": "https://punchng.com/el-clasico-no-specific-plan-to-stop-yamal-says-mourinho/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-24T21:24:50Z",
-     "headline": "Alvarez fires Atletico to win against Deportivo",
-     "url": "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T03:40:52Z",
-     "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T10:33:54Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-goalkeeper-courtois-miss-clasico-due-illness-6490371"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T11:01:26Z",
-     "headline": "Real Madrid goalkeeper Courtois to miss Clasico due to illness",
-     "url": "https://cyprus-mail.com/2026/10/25/real-madrid-goalkeeper-courtois-to-miss-clasico-due-to-illness"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T12:25:11Z",
-     "headline": "Real Madrid’s Courtois to miss El Classico due to illness",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrids-courtois-to-miss-el-classico-due-to-illness/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T12:53:02Z",
-     "headline": "Madrid’s Courtois ruled out of El Clásico with illness",
-     "url": "https://punchng.com/just-in-madrids-courtois-ruled-out-of-el-clasico-with-illness/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-25T13:00:00Z",
-     "headline": "Mourinho faces first Barcelona Clasico since Real Madrid return",
-     "url": "https://iol.co.za/sport/soccer/la-liga/2026-10-25-mourinho-faces-first-barcelona-clasico-since-real-madrid-return/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Out Of Clasico With Flu",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-out-of-clasico-with-flu/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T15:01:46Z",
-     "headline": "Real Madrid’s Courtois Down With Flu, Out Of Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/real-madrids-courtois-down-with-flu-out-of-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T16:30:00Z",
-     "headline": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss"
-    },
-    {
-     "outlet": "Shafaq News (English)",
-     "country": "IRQ",
-     "time": "2026-10-25T22:05:32Z",
-     "headline": "El Clasico: Real Madrid ends Barcelona's perfect start",
-     "url": "https://shafaq.com/en/sport/El-Clasico-Real-Madrid-ends-Barcelona-s-perfect-start"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-25T22:13:17Z",
-     "headline": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
-     "url": "https://www.vanguardngr.com/2026/10/real-madrid-beat-barcelona-2-1-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T22:14:09Z",
-     "headline": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-     "url": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606"
-    },
-    {
-     "outlet": "The Namibian",
-     "country": "NAM",
-     "time": "2026-10-25T22:20:09Z",
-     "headline": "Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://www.namibian.com.na/real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T22:22:53Z",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-25T22:28:39Z",
-     "headline": "Mbappe’s Brace Helps Real Madrid Beat Barcelona In La Liga Clasico",
-     "url": "https://www.channelstv.com/2026/10/25/mbappes-brace-helps-real-madrid-beat-barcelona-in-la-liga-clasico/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T22:43:27Z",
-     "headline": "Video: Real Madrid beat Barcelona in La Liga Clasico",
-     "url": "https://gulfnews.com/sport/football/real-madrid-beat-barcelona-in-la-liga-clasico-1.500723422"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-25T22:49:22Z",
-     "headline": "Mbappe brace gives Real Madrid 2-1 El Clasico victory",
-     "url": "https://www.aa.com.tr/en/sports/mbappe-brace-gives-real-madrid-2-1-el-clasico-victory/4100519"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-25T23:06:56Z",
-     "headline": "El Clásico: Mbappé scores brace as Madrid Beat Barcelona 2-1",
-     "url": "https://punchng.com/el-clasico-mbappe-scores-brace-as-madrid-beat-barcelona-2-1/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-25T23:09:14Z",
-     "headline": "Jose Mourinho recreates iconic knee-slide celebration at Camp Nou after Real Madrid stun Barcelona in El Clasico",
-     "url": "https://gulfnews.com/sport/football/jose-mourinho-recreates-iconic-knee-slide-celebration-at-camp-nou-after-real-madrid-stun-barcelona-1.500723433"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-25T23:33:20Z",
-     "headline": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-     "url": "https://www.channelnewsasia.com/sport/mourinho-gives-real-madrid-answers-barcelona-test-in-return-clasico-6491706"
-    },
-    {
-     "outlet": "Jamaica Observer",
-     "country": "JAM",
-     "time": "2026-10-26T00:10:18Z",
-     "headline": "Mbappe double helps Real Madrid stun Barca in La Liga Clasico",
-     "url": "https://www.jamaicaobserver.com/2026/10/25/mbappe-double-helps-real-madrid-stun-barca-la-liga-clasico/"
-    },
-    {
-     "outlet": "MyJoyOnline",
-     "country": "GHA",
-     "time": "2026-10-26T01:05:42Z",
-     "headline": "El Clásico: Kylian Mbappe scores twice to end Laliga leaders’ winning start",
-     "url": "https://www.myjoyonline.com/el-clasico-kylian-mbappe-scores-twice-to-end-laliga-leaders-winning-start/"
-    },
-    {
-     "outlet": "Nile Post",
-     "country": "UGA",
-     "time": "2026-10-26T03:37:49Z",
-     "headline": "Mbappe double fires Real Madrid to win at leaders Barcelona",
-     "url": "https://nilepost.co.ug/sports/381368/mbappe-double-fires-real-madrid-to-win-at-leaders-barcelona"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-26T03:45:34Z",
-     "headline": "Mourinho's Real Madrid stun Barcelona to blow La Liga title race wide open",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/26/mourinhos-real-madrid-stun-barcelona-to-blow-la-liga-title-race-wide-open/"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T04:30:00Z",
-     "headline": "Mbappe hits century mark as Madrid edge Barcelona in fiery Clasico",
-     "url": "https://iol.co.za/sport/soccer/2026-10-26-mbappe-hits-century-mark-as-madrid-edge-barcelona-in-fiery-clasico/"
     }
    ]
   },
@@ -10311,187 +10529,6 @@
      "time": "2026-10-25T12:49:20Z",
      "headline": "Europe should be included in Ukraine peace discussions, Kremlin aide says",
      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912793"
-    }
-   ]
-  },
-  {
-   "id": 18222,
-   "title": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-   "category": "Trade & Industry",
-   "cat": 4,
-   "importance": 5.95,
-   "risk": 0.0,
-   "confidence": 0.85,
-   "status": "spreading",
-   "outlets": 11,
-   "countries": [
-    "ARE",
-    "DEU",
-    "NGA",
-    "SAU",
-    "QAT",
-    "ZAF",
-    "BRA",
-    "OMN",
-    "TUR"
-   ],
-   "first_seen": "2026-10-21T04:30:04Z",
-   "last_seen": "2026-10-26T05:55:29Z",
-   "page": "event/18222.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-21T04:30:04Z",
-     "headline": "Ballon d’Or 2026: Nominees, favourites, ceremony date and how to watch",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/21/ballon-dor-2026-nominees-favourites-ceremony-date-and-how-to-watch/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T04:40:58Z",
-     "headline": "Ballon d'Or 2026 predictions: Who will be crowned the world's best footballer?",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/ballon-dor-2026-predictions-who-will-be-crowned-the-worlds-best-footballer/"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T08:33:00Z",
-     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-     "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T09:16:06Z",
-     "headline": "Rice backs Kane to win 2026 Ballon d’Or",
-     "url": "https://punchng.com/rice-backs-kane-to-win-2026-ballon-dor/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:58:09Z",
-     "headline": "Complete Kane Hopes for 'Special Night' as Ballon d'Or Rumors Swirl",
-     "url": "https://english.aawsat.com/node/5332582"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T07:56:27Z",
-     "headline": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-23T08:39:59Z",
-     "headline": "My wife eager to know Ballon d’Or result, says Kane",
-     "url": "https://punchng.com/my-wife-eager-to-know-ballon-dor-result-says-kane/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T11:52:16Z",
-     "headline": "Kane edges out Yamal to win award 3 days ahead of Ballon d’Or ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/kane-edges-out-yamal-to-win-award-3-days-ahead-of-ballon-dor-ceremony/"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-23T12:05:00Z",
-     "headline": "Ballon d’Or 2026: Yamal charters private jet for London ceremony",
-     "url": "https://www.vanguardngr.com/2026/10/ballon-dor-2026-yamal-charters-private-jet-for-london-ceremony/"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/sport/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T13:48:08Z",
-     "headline": "Yamal and Mbappé face off in clasico one day before Ballon d’Or winner is revealed",
-     "url": "https://www.arabnews.com/football/yamal-and-mbappé-face-off-in-clasico-one-day-before-ballon-dor-winner-is-revealed-3007900"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-23T17:00:00Z",
-     "headline": "Harry Kane eyes 'special night' as favourite for Ballon d'Or in London home",
-     "url": "https://iol.co.za/sport/soccer/uefa-champions-league/2026-10-23-harry-kane-eyes-special-night-as-favourite-for-ballon-dor-in-london-home2/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T14:21:34Z",
-     "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss"
-    },
-    {
-     "outlet": "The Rio Times",
-     "country": "BRA",
-     "time": "2026-10-24T17:27:11Z",
-     "headline": "Ecuador Defender Eyes Ballon D’Or on 26 Oct",
-     "url": "https://www.riotimesonline.com/ecuador-willian-pacho-ballon-dor-26-october-2026/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-25T06:31:01Z",
-     "headline": "Ballon d’Or 2026: The five most historic winners – from Matthews to Messi",
-     "url": "https://www.thenationalnews.com/sport/football/2026/10/25/ballon-dor-2026-the-five-most-historic-winners-from-matthews-to-messi/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T23:38:57Z",
-     "headline": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-26T01:35:01Z",
-     "headline": "Nigerians missing as 2026 Ballon d’Or winner emerges today",
-     "url": "https://punchng.com/nigerians-missing-as-2026-ballon-dor-winner-emerges-today/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T01:36:53Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://www.omanobserver.om/article/1198572/sports/football/kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-26T03:06:40Z",
-     "headline": "Kane primed to beat Yamal, Mbappe to Ballon d’Or glory",
-     "url": "https://www.vanguardngr.com/2026/10/kane-primed-to-beat-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-26T03:34:59Z",
-     "headline": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
-     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss"
-    },
-    {
-     "outlet": "IOL",
-     "country": "ZAF",
-     "time": "2026-10-26T05:45:00Z",
-     "headline": "Kane primed to pip Yamal, Mbappe to Ballon d'Or glory",
-     "url": "https://iol.co.za/sport/cricket/2026-10-26-kane-primed-to-pip-yamal-mbappe-to-ballon-dor-glory/"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-26T05:55:29Z",
-     "headline": "Harry Kane leads Ballon d'Or race as Yamal, Mbappe challenge for 2026 award",
-     "url": "https://www.turkiyetoday.com/sports/harry-kane-leads-ballon-dor-race-as-yamal-mbappe-challenge-for-2026-award-3231026"
     }
    ]
   },
@@ -13903,7 +13940,7 @@
      "outlet": "The New York Times (World)",
      "country": "USA",
      "time": "2026-10-25T22:45:35Z",
-     "headline": "Brazil Live Updates: Lula Wins Re-election as Bolsonaro Rejects Result",
+     "headline": "Lula Wins Re-election as Bolsonaro Rejects Result",
      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
     },
     {
