@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T11:12:41Z",
+ "generated": "2026-10-26T11:29:50Z",
  "method": "WEB-1.5",
  "licence_note": "Headlines and links belong to their publishers; ATHENA publishes no article text. Scores are analytical indicators of coverage — not facts, forecasts or probabilities.",
  "events": [
@@ -341,6 +341,336 @@
    ]
   },
   {
+   "id": 20210,
+   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 8.62,
+   "risk": 4.65,
+   "confidence": 0.88,
+   "status": "spreading",
+   "outlets": 58,
+   "countries": [
+    "USA",
+    "BEL",
+    "GBR",
+    "QAT",
+    "IRQ",
+    "BGR",
+    "FRA",
+    "DEU",
+    "RUS",
+    "ISR",
+    "TUR",
+    "SGP",
+    "PAK",
+    "CYP",
+    "THA",
+    "UKR",
+    "GRC",
+    "IRL",
+    "FIN",
+    "BRA",
+    "AUS",
+    "CAN",
+    "SAU",
+    "CHN",
+    "NZL",
+    "ARE",
+    "KOR",
+    "IND",
+    "JPN",
+    "LKA",
+    "GEO",
+    "GHA"
+   ],
+   "first_seen": "2026-10-22T09:01:53Z",
+   "last_seen": "2026-10-26T11:04:35Z",
+   "page": "event/20210.html",
+   "reports": [
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-22T09:01:53Z",
+     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+     "outlet": "EUobserver",
+     "country": "BEL",
+     "time": "2026-10-22T09:18:43Z",
+     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
+     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-22T14:33:06Z",
+     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T15:13:34Z",
+     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
+    },
+    {
+     "outlet": "Politico Europe",
+     "country": "BEL",
+     "time": "2026-10-23T02:00:00Z",
+     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-23T05:43:19Z",
+     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
+    },
+    {
+     "outlet": "Kurdistan24 (English)",
+     "country": "IRQ",
+     "time": "2026-10-23T06:15:54Z",
+     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
+     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-23T07:40:08Z",
+     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
+     "url": "https://www.novinite.com/view_news.php?id=241208"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-23T09:52:20Z",
+     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-23T11:30:51Z",
+     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
+     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-23T11:43:00Z",
+     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Meduza (English)",
+     "country": "RUS",
+     "time": "2026-10-23T20:15:13Z",
+     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
+     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T23:08:23Z",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-24T09:01:49Z",
+     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
+    },
+    {
+     "outlet": "NPR World",
+     "country": "USA",
+     "time": "2026-10-24T11:42:11Z",
+     "headline": "European student protests take aim at Serbia's elections",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T12:18:06Z",
+     "headline": "Serbia elections test student movement demanding justice for 16 victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-24T12:54:37Z",
+     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
+     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-25T01:05:39Z",
+     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "The New York Times (World)",
+     "country": "USA",
+     "time": "2026-10-25T04:01:22Z",
+     "headline": "What to Know as Serbia Votes for a New Parliament",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T04:43:06Z",
+     "headline": "Serbia votes in election pitting longtime leader against student movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-25T05:01:25Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T05:32:00Z",
+     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "France 24 English",
+     "country": "FRA",
+     "time": "2026-10-25T07:14:50Z",
+     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+    },
+    {
+     "outlet": "ABC News (International)",
+     "country": "USA",
+     "time": "2026-10-25T07:34:05Z",
+     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
+    },
+    {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-25T07:46:00Z",
+     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T08:13:07Z",
+     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
+     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+    },
+    {
+     "outlet": "Bangkok Post — page reader",
+     "country": "THA",
+     "time": "2026-10-25T08:16:23Z",
+     "headline": "Serbia votes with ruling party facing ascendant student movement",
+     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
+    },
+    {
+     "outlet": "RFE/RL (English)",
+     "country": "INT",
+     "time": "2026-10-25T08:57:37Z",
+     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
+     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
+    },
+    {
+     "outlet": "Kyiv Post",
+     "country": "UKR",
+     "time": "2026-10-25T10:07:00Z",
+     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
+     "url": "https://www.kyivpost.com/post/88097"
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "country": "ISR",
+     "time": "2026-10-25T10:37:45Z",
+     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
+     "url": "https://www.jpost.com/international/article-912779"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
+     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "DW English",
+     "country": "DEU",
+     "time": "2026-10-25T10:42:00Z",
+     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
+     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "Türkiye Today",
+     "country": "TUR",
+     "time": "2026-10-25T10:52:44Z",
+     "headline": "Serbians head to polls as student movement targets Vucic’s party",
+     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T11:49:36Z",
+     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
+     "url": "https://www.novinite.com/view_news.php?id=241244"
+    },
+    {
+     "outlet": "Novinite",
+     "country": "BGR",
+     "time": "2026-10-25T12:26:10Z",
+     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
+     "url": "https://www.novinite.com/view_news.php?id=241247"
+    },
+    {
+     "outlet": "to vima",
+     "country": "GRC",
+     "time": "2026-10-25T12:57:13Z",
+     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
+     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T13:40:10Z",
+     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
+    },
+    {
+     "outlet": "RFI English",
+     "country": "FRA",
+     "time": "2026-10-25T14:01:55Z",
+     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
+     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
+    }
+   ]
+  },
+  {
    "id": 24515,
    "title": "Seven killed, 34 wounded in attack at funeral in Jordan's Karak, officials say",
    "category": "Geopolitics",
@@ -671,336 +1001,6 @@
      "time": "2026-10-23T13:44:41Z",
      "headline": "Gunmen Kill At Least Seven At Church Funeral In Jordan",
      "url": "https://www.tovima.com/world/gunmen-kill-at-least-seven-at-church-funeral-in-jordan/"
-    }
-   ]
-  },
-  {
-   "id": 20210,
-   "title": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 8.56,
-   "risk": 4.62,
-   "confidence": 0.88,
-   "status": "peaking",
-   "outlets": 58,
-   "countries": [
-    "USA",
-    "BEL",
-    "GBR",
-    "QAT",
-    "IRQ",
-    "BGR",
-    "FRA",
-    "DEU",
-    "RUS",
-    "ISR",
-    "TUR",
-    "SGP",
-    "PAK",
-    "CYP",
-    "THA",
-    "UKR",
-    "GRC",
-    "IRL",
-    "FIN",
-    "BRA",
-    "AUS",
-    "CAN",
-    "SAU",
-    "CHN",
-    "NZL",
-    "ARE",
-    "KOR",
-    "IND",
-    "JPN",
-    "LKA",
-    "GEO",
-    "GHA"
-   ],
-   "first_seen": "2026-10-22T09:01:53Z",
-   "last_seen": "2026-10-26T10:46:16Z",
-   "page": "event/20210.html",
-   "reports": [
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-22T09:01:53Z",
-     "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-     "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-     "outlet": "EUobserver",
-     "country": "BEL",
-     "time": "2026-10-22T09:18:43Z",
-     "headline": "Serbia’s election: can a student-led movement of hope overcome Vučić’s hollowed-out political system?",
-     "url": "https://euobserver.com/244185/serbias-election-can-a-student-led-movement-of-hope-overcome-vucics-hollowed-out-political-system/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T14:33:06Z",
-     "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T15:13:34Z",
-     "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-     "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-23T02:00:00Z",
-     "headline": "Serbia’s protesting students mount serious challenge to Vučić’s power",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-23T05:43:19Z",
-     "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-     "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia"
-    },
-    {
-     "outlet": "Kurdistan24 (English)",
-     "country": "IRQ",
-     "time": "2026-10-23T06:15:54Z",
-     "headline": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-     "url": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-23T07:40:08Z",
-     "headline": "Serbia’s Student Opposition Holds Final Rally Before Parliamentary Vote",
-     "url": "https://www.novinite.com/view_news.php?id=241208"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-23T09:52:20Z",
-     "headline": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-23T11:30:51Z",
-     "headline": "Student-led movement seeks to unseat ruling party in Serbian election",
-     "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-23T11:43:00Z",
-     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-     "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Meduza (English)",
-     "country": "RUS",
-     "time": "2026-10-23T20:15:13Z",
-     "headline": "Can Serbia’s student protesters stop Aleksandar Vučić from becoming prime minister? The country’s longtime leader has called an early election to extend his hold on power.",
-     "url": "https://meduza.io/en/feature/2026/10/23/can-serbia-s-student-protesters-stop-aleksandar-vucic-from-becoming-prime-minister-the-country-s-longtime-leader-has-called-an-early-election-to-extend-his-hold-on-power"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T23:08:23Z",
-     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-24T09:01:49Z",
-     "headline": "Netanyahu's Serbian ally also faces a tough election this week. What's at stake for Israel?",
-     "url": "https://www.haaretz.com/world-news/europe/2026-10-24/ty-article-magazine/.premium/netanyahus-serbian-ally-faces-a-tough-election-whats-at-stake-for-israel/000001a1-6952-d46d-a1fd-e95329670000"
-    },
-    {
-     "outlet": "NPR World",
-     "country": "USA",
-     "time": "2026-10-24T11:42:11Z",
-     "headline": "European student protests take aim at Serbia's elections",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T12:18:06Z",
-     "headline": "Serbia elections test student movement demanding justice for 16 victims",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-24T12:54:37Z",
-     "headline": "Vucic or the students? Serbia faces a vote neither side expects to lose",
-     "url": "https://www.turkiyetoday.com/opinion/vucic-or-the-students-serbia-faces-a-vote-neither-side-expects-to-lose-3230932"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-25T01:05:39Z",
-     "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-     "url": "https://www.straitstimes.com/world/europe/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "The New York Times (World)",
-     "country": "USA",
-     "time": "2026-10-25T04:01:22Z",
-     "headline": "What to Know as Serbia Votes for a New Parliament",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T04:43:06Z",
-     "headline": "Serbia votes in election pitting longtime leader against student movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-25T05:01:25Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://www.brecorder.com/news/40445854/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-     "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T05:32:00Z",
-     "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-25T07:14:50Z",
-     "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
-    },
-    {
-     "outlet": "ABC News (International)",
-     "country": "USA",
-     "time": "2026-10-25T07:34:05Z",
-     "headline": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-     "url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-25T07:46:00Z",
-     "headline": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after defeat",
-     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-25T08:13:07Z",
-     "headline": "Serbia votes as students seek to unseat Vucic in snap election",
-     "url": "https://cyprus-mail.com/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
-    },
-    {
-     "outlet": "Bangkok Post — page reader",
-     "country": "THA",
-     "time": "2026-10-25T08:16:23Z",
-     "headline": "Serbia votes with ruling party facing ascendant student movement",
-     "url": "https://www.bangkokpost.com/world/3343284/serbia-votes-with-ruling-party-facing-ascendant-student-movement"
-    },
-    {
-     "outlet": "RFE/RL (English)",
-     "country": "INT",
-     "time": "2026-10-25T08:57:37Z",
-     "headline": "Vucic Concedes Defeat In Pivotal Serbian Parliamentary Election",
-     "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-    },
-    {
-     "outlet": "Kyiv Post",
-     "country": "UKR",
-     "time": "2026-10-25T10:07:00Z",
-     "headline": "Serbia Votes as Student Movement Mounts Major Challenge to Vučić",
-     "url": "https://www.kyivpost.com/post/88097"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-25T10:37:45Z",
-     "headline": "Vucic's mission: Can Serbia's longtime leader secure new mandate? - analysis",
-     "url": "https://www.jpost.com/international/article-912779"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-     "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia election: Student-led opposition ends Aleksandar Vucic's grip on power",
-     "url": "https://www.dw.com/en/serbia-election-student-led-opposition-ends-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-25T10:42:00Z",
-     "headline": "Serbia's Aleksandar Vucic concedes defeat to student-backed protest movement in parliamentary vote",
-     "url": "https://www.dw.com/en/serbia-s-aleksandar-vucic-concedes-defeat-to-student-backed-protest-movement-in-parliamentary-vote/a-79753482?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Türkiye Today",
-     "country": "TUR",
-     "time": "2026-10-25T10:52:44Z",
-     "headline": "Serbians head to polls as student movement targets Vucic’s party",
-     "url": "https://www.turkiyetoday.com/region/serbians-head-to-polls-as-student-movement-targets-vucics-party-3230985"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T11:49:36Z",
-     "headline": "Election fever grips Serbia. People have been waiting in lines since morning",
-     "url": "https://www.novinite.com/view_news.php?id=241244"
-    },
-    {
-     "outlet": "Novinite",
-     "country": "BGR",
-     "time": "2026-10-25T12:26:10Z",
-     "headline": "Vucic waits an hour and a half to vote in Serbian parliamentary elections",
-     "url": "https://www.novinite.com/view_news.php?id=241247"
-    },
-    {
-     "outlet": "to vima",
-     "country": "GRC",
-     "time": "2026-10-25T12:57:13Z",
-     "headline": "Serbia Votes As Student Movement Challenges Vucic’s Rule",
-     "url": "https://www.tovima.com/world/serbia-votes-as-student-movement-challenges-vucics-rule/"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T13:40:10Z",
-     "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-    },
-    {
-     "outlet": "RFI English",
-     "country": "FRA",
-     "time": "2026-10-25T14:01:55Z",
-     "headline": "High turnout in Serbia as student movement takes on Vucic at the polls",
-     "url": "https://www.rfi.fr/en/international/20261025-high-turnout-in-serbia-as-student-movement-takes-on-vucic-at-the-polls"
     }
    ]
   },
@@ -2822,7 +2822,7 @@
      "outlet": "Evening Standard (London)",
      "country": "GBR",
      "time": "2026-10-26T09:20:40Z",
-     "headline": "Has Kylian Mbappe won 2026 Ballon d'Or? Fan theory explained",
+     "headline": "Kylian Mbappe 'reveals Ballon d'Or win' in fan theory ahead of London ceremony",
      "url": "https://www.standard.co.uk/sport/football/has-mbappe-won-2026-ballon-dor-fan-theory-b1302322.html"
     },
     {
@@ -4138,11 +4138,11 @@
    "title": "Jordan arrests three suspects in deadly church attack, state media says",
    "category": "Society & Law",
    "cat": 8,
-   "importance": 7.0,
-   "risk": 6.95,
+   "importance": 7.02,
+   "risk": 6.92,
    "confidence": 0.9,
    "status": "peaking",
-   "outlets": 18,
+   "outlets": 19,
    "countries": [
     "SAU",
     "USA",
@@ -4155,12 +4155,13 @@
     "IRQ",
     "KWT",
     "ARE",
+    "GBR",
     "ZAF",
     "DEU",
     "CAN"
    ],
    "first_seen": "2026-10-25T11:13:12Z",
-   "last_seen": "2026-10-26T10:25:39Z",
+   "last_seen": "2026-10-26T11:08:48Z",
    "page": "event/29318.html",
    "reports": [
     {
@@ -4276,6 +4277,13 @@
      "url": "https://gulfnews.com/world/mena/jordan-arrests-three-suspects-in-karak-church-attack-after-three-hour-gun-battle-1.500723708"
     },
     {
+     "outlet": "Sky News (World)",
+     "country": "GBR",
+     "time": "2026-10-26T08:27:00Z",
+     "headline": "Three men arrested in shootout after deadly attack on church in Jordan",
+     "url": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900"
+    },
+    {
      "outlet": "Daily Maverick",
      "country": "ZAF",
      "time": "2026-10-26T09:08:09Z",
@@ -4302,6 +4310,13 @@
      "time": "2026-10-26T10:25:39Z",
      "headline": "Jordan arrests 3 suspects in deadly church attack, state media says",
      "url": "https://www.cbc.ca/news/world/jordan-church-attack-arrests-9.7395806?cmp=rss"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-26T11:08:48Z",
+     "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
     }
    ]
   },
@@ -5930,8 +5945,8 @@
    "title": "Real Madrid beat Barcelona 2-1 in La Liga Clasico",
    "category": "Geopolitics",
    "cat": 1,
-   "importance": 6.65,
-   "risk": 1.39,
+   "importance": 6.72,
+   "risk": 1.41,
    "confidence": 0.88,
    "status": "peaking",
    "outlets": 26,
@@ -5957,7 +5972,7 @@
     "ESP"
    ],
    "first_seen": "2026-10-23T03:27:19Z",
-   "last_seen": "2026-10-26T10:34:31Z",
+   "last_seen": "2026-10-26T11:11:08Z",
    "page": "event/23444.html",
    "reports": [
     {
@@ -7418,7 +7433,7 @@
     "RUS"
    ],
    "first_seen": "2026-10-18T19:43:00Z",
-   "last_seen": "2026-10-26T09:05:47Z",
+   "last_seen": "2026-10-26T11:26:24Z",
    "page": "event/13172.html",
    "reports": [
     {
@@ -9730,6 +9745,587 @@
    ]
   },
   {
+   "id": 22579,
+   "title": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
+   "category": "Energy & Environment",
+   "cat": 3,
+   "importance": 6.06,
+   "risk": 6.13,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "ARE",
+    "PAK",
+    "SAU",
+    "TUR",
+    "KWT",
+    "ARM",
+    "CHN",
+    "FRA",
+    "USA",
+    "GBR",
+    "QAT",
+    "OMN",
+    "SGP",
+    "CYP"
+   ],
+   "first_seen": "2026-10-22T23:34:31Z",
+   "last_seen": "2026-10-26T11:17:31Z",
+   "page": "event/22579.html",
+   "reports": [
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T23:34:31Z",
+     "headline": "UAE confirms oil spill off coast causing strong fuel smell",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/22/uae-strong-smell-tanker-oil-spill/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T23:34:31Z",
+     "headline": "UAE confirms oil spill off coast and temporarily closes Umm Al Quwain beaches",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T02:58:39Z",
+     "headline": "UAE says tanker oil spill affects beaches in Umm Al Quwain",
+     "url": "https://www.brecorder.com/news/40445583/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T03:10:16Z",
+     "headline": "UAE says tanker oil spill affects beaches in Umm Al-Quwain",
+     "url": "https://www.arabnews.com/middle-east/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain-3007833"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-23T03:10:16Z",
+     "headline": "Oil spill off UAE coast prompts beach closures, cleanup effort",
+     "url": "https://www.arabnews.com/middle-east/oil-spill-off-uae-coast-prompts-beach-closures-cleanup-effort-3007833"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T03:27:18Z",
+     "headline": "UAE announce temporary closure of Umm Al Quwain beaches",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-announce-temporary-closure-umm-al-quwain-beaches"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T04:37:50Z",
+     "headline": "UAE detects tanker oil spill affecting beaches in Umm Al Quwain",
+     "url": "https://www.aa.com.tr/en/middle-east/uae-detects-tanker-oil-spill-affecting-beaches-in-umm-al-quwain/4097924"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T05:13:04Z",
+     "headline": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
+     "url": "https://english.aawsat.com/node/5332574"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-23T05:49:26Z",
+     "headline": "UAE tackles oil spill, Yemen warns of Houthi child recruitment and Oman strengthens UK investment ties",
+     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/"
+    },
+    {
+     "outlet": "Arab Times",
+     "country": "KWT",
+     "time": "2026-10-23T06:14:00Z",
+     "headline": "UAE Closes Umm Al Quwain Beaches After Tanker Oil Spill",
+     "url": "https://www.arabtimesonline.com/news/uae-closes-umm-al-quwain-beaches-after-tanker-oil-spill/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T07:01:01Z",
+     "headline": "Morning update",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-649"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T07:12:13Z",
+     "headline": "UAE mystery smells explained: How reports led to oil spill discovery",
+     "url": "https://gulfnews.com/uae/uae-mystery-smells-explained-how-reports-led-to-oil-spill-discovery-1.500720788"
+    },
+    {
+     "outlet": "NEWS.am (English)",
+     "country": "ARM",
+     "time": "2026-10-23T07:49:00Z",
+     "headline": "Reuters: Oil spill from tanker detected off UAE coast",
+     "url": "https://news.am/en/news/1069777"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T09:22:00Z",
+     "headline": "Oil spill prompts closure of beaches in UAE's Umm Al Quwain",
+     "url": "https://english.news.cn/20261023/8c67eee23d464035afc903fbee9fe990/c.html"
+    },
+    {
+     "outlet": "Euronews English",
+     "country": "FRA",
+     "time": "2026-10-23T09:36:16Z",
+     "headline": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
+     "url": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T10:37:34Z",
+     "headline": "UAE oil spill: Umm Al Quwain steps up efforts to contain slick along emirate’s beaches",
+     "url": "https://gulfnews.com/uae/umm-al-quwain-municipality-steps-up-efforts-to-contain-oil-spill-along-emirates-beaches-1.500720994"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-23T13:28:14Z",
+     "headline": "UAE battles tanker oil spill as war's environmental toll mounts",
+     "url": "https://www.al-monitor.com/originals/2026/10/uae-battles-tanker-oil-spill-wars-environmental-toll-mounts"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T13:48:58Z",
+     "headline": "Sharjah temporarily closes Al Hamriyah Beach over oil spill concerns",
+     "url": "https://gulfnews.com/uae/environment/sharjah-temporarily-closes-al-hamriyah-beach-over-oil-spill-concerns-1.500721368"
+    },
+    {
+     "outlet": "BBC News",
+     "country": "GBR",
+     "time": "2026-10-23T15:30:47Z",
+     "headline": "Oil spill washes up on UAE beaches after tanker strike",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-23T15:45:48Z",
+     "headline": "UAE residents’ evening update: Oil spill closes UAQ beaches, flight updates, Netanyahu’s West Bank move",
+     "url": "https://gulfnews.com/uae/uae-residents-evening-update-oil-spill-closes-uaq-beaches-flight-updates-netanyahus-west-bank-move-1.500721505"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-23T16:23:32Z",
+     "headline": "UAE reports oil spill from tanker as ships attacked during war",
+     "url": "https://www.newarab.com/news/uae-reports-oil-spill-tanker-ships-attacked-during-war"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-23T21:34:30Z",
+     "headline": "Northern UAE beach closed as precaution after tanker oil spill",
+     "url": "https://english.news.cn/20261024/b71aa981df6e4ee1ad2cbcc80f49cbc9/c.html"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T00:32:33Z",
+     "headline": "UAE reports oil spill from tanker",
+     "url": "https://www.brecorder.com/news/40445720/uae-reports-oil-spill-from-tanker"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-24T04:48:40Z",
+     "headline": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-24T05:30:57Z",
+     "headline": "The fight to save marine life: how specialists are tackling the oil spill off the UAE coast",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-24T08:20:46Z",
+     "headline": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
+     "url": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T12:22:29Z",
+     "headline": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
+     "url": "https://www.brecorder.com/news/40445756/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T12:05:16Z",
+     "headline": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
+    },
+    {
+     "outlet": "Gulf News",
+     "country": "ARE",
+     "time": "2026-10-26T01:30:00Z",
+     "headline": "UAE’s massive beach clean-up after oil spill concerns and mystery smell: All you need to know",
+     "url": "https://gulfnews.com/uae/uaes-massive-beach-clean-up-after-oil-spill-concerns-and-mystery-smell-all-you-need-to-know-1.500723253"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-26T05:38:06Z",
+     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+     "url": "https://www.omanobserver.om/article/1198589/world/region/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-26T09:30:39Z",
+     "headline": "Oil spill off UAE widens, prompting more beach closures",
+     "url": "https://www.straitstimes.com/world/middle-east/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-26T09:46:28Z",
+     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+     "url": "https://www.al-monitor.com/originals/2026/10/oil-spill-uae-widens-satellite-images-show-prompting-more-beach-closures"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-26T10:30:00Z",
+     "headline": "UAE oil spill spreads, forcing more beach closures",
+     "url": "https://cyprus-mail.com/2026/10/26/uae-oil-spill-spreads-forcing-more-beach-closures"
+    },
+    {
+     "outlet": "The Independent",
+     "country": "GBR",
+     "time": "2026-10-26T11:17:31Z",
+     "headline": "Satellite images show huge oil spill from damaged tanker that triggered beach closures across UAE",
+     "url": "https://www.independent.co.uk/news/world/middle-east/united-arab-emirates-oil-spill-beach-b3073385.html"
+    }
+   ]
+  },
+  {
+   "id": 5498,
+   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+   "category": "Geopolitics",
+   "cat": 1,
+   "importance": 6.03,
+   "risk": 7.16,
+   "confidence": 0.91,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "TUR",
+    "QAT",
+    "SAU",
+    "IRN",
+    "SGP",
+    "USA",
+    "CHN",
+    "OMN",
+    "COL",
+    "PAK",
+    "GBR",
+    "ISR",
+    "IRL"
+   ],
+   "first_seen": "2026-10-16T04:43:34Z",
+   "last_seen": "2026-10-26T09:58:34Z",
+   "page": "event/5498.html",
+   "reports": [
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T04:43:34Z",
+     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-16T20:05:40Z",
+     "headline": "Israeli fire kills at least three Palestinians across Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-17T07:20:34Z",
+     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T11:30:01Z",
+     "headline": "Five Palestinians killed by Israel in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-17T18:26:59Z",
+     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-17T19:04:22Z",
+     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T10:43:03Z",
+     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T11:48:49Z",
+     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-19T15:39:45Z",
+     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-20T09:56:47Z",
+     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
+     "url": "https://english.aawsat.com/node/5331508"
+    },
+    {
+     "outlet": "IRNA (English)",
+     "country": "IRN",
+     "time": "2026-10-21T15:56:31Z",
+     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-21T21:54:59Z",
+     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T06:06:52Z",
+     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
+     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:49:55Z",
+     "headline": "Israeli attack on vehicle in Gaza City kills two",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T11:58:19Z",
+     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
+    },
+    {
+     "outlet": "The Straits Times",
+     "country": "SGP",
+     "time": "2026-10-22T12:27:14Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
+    },
+    {
+     "outlet": "Al-Monitor",
+     "country": "USA",
+     "time": "2026-10-22T12:46:30Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
+    },
+    {
+     "outlet": "Mehr News (English)",
+     "country": "IRN",
+     "time": "2026-10-22T13:14:56Z",
+     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
+     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T14:57:55Z",
+     "headline": "Israeli Fire Kills Three People in Gaza",
+     "url": "https://english.aawsat.com/node/5332402"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-22T16:06:55Z",
+     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T16:10:22Z",
+     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
+    },
+    {
+     "outlet": "Xinhua (English) — page reader",
+     "country": "CHN",
+     "time": "2026-10-22T19:54:35Z",
+     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
+     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T22:17:22Z",
+     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-22T23:44:31Z",
+     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-23T08:07:06Z",
+     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
+     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T12:12:05Z",
+     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-23T14:58:20Z",
+     "headline": "Israeli fire kills four people in Gaza, medics say",
+     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-23T21:06:33Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-23T22:09:51Z",
+     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
+    },
+    {
+     "outlet": "Anadolu Agency (English)",
+     "country": "TUR",
+     "time": "2026-10-24T12:11:45Z",
+     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
+     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
+    },
+    {
+     "outlet": "Colombia One",
+     "country": "COL",
+     "time": "2026-10-24T13:00:00Z",
+     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
+     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T16:09:20Z",
+     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
+    },
+    {
+     "outlet": "The New Arab",
+     "country": "INT",
+     "time": "2026-10-24T16:25:45Z",
+     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
+     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-24T17:23:41Z",
+     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-24T21:25:40Z",
+     "headline": "Gaza after the ceasefire",
+     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
+    },
+    {
+     "outlet": "The Guardian",
+     "country": "GBR",
+     "time": "2026-10-25T06:00:54Z",
+     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+    },
+    {
+     "outlet": "Oman Observer",
+     "country": "OMN",
+     "time": "2026-10-25T12:24:26Z",
+     "headline": "Israeli strike on Gaza university kills three",
+     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
+    },
+    {
+     "outlet": "Middle East Eye",
+     "country": "INT",
+     "time": "2026-10-25T12:46:19Z",
+     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
+    },
+    {
+     "outlet": "Dawn",
+     "country": "PAK",
+     "time": "2026-10-25T14:31:00Z",
+     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
+    },
+    {
+     "outlet": "Haaretz (English)",
+     "country": "ISR",
+     "time": "2026-10-25T14:39:06Z",
+     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
+     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
+    }
+   ]
+  },
+  {
    "id": 26331,
    "title": "Fire devastates former Hitler guest house 'Eagle's Nest'",
    "category": "Society & Law",
@@ -10363,580 +10959,6 @@
    ]
   },
   {
-   "id": 5498,
-   "title": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-   "category": "Geopolitics",
-   "cat": 1,
-   "importance": 5.97,
-   "risk": 7.11,
-   "confidence": 0.91,
-   "status": "spreading",
-   "outlets": 19,
-   "countries": [
-    "TUR",
-    "QAT",
-    "SAU",
-    "IRN",
-    "SGP",
-    "USA",
-    "CHN",
-    "OMN",
-    "COL",
-    "PAK",
-    "GBR",
-    "ISR",
-    "IRL"
-   ],
-   "first_seen": "2026-10-16T04:43:34Z",
-   "last_seen": "2026-10-26T09:58:34Z",
-   "page": "event/5498.html",
-   "reports": [
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T04:43:34Z",
-     "headline": "Several people wounded in Israeli strike on tent sheltering displaced Gazans, Wafa reports",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-people-wounded-israeli-strike-tent-sheltering-displaced-gazans"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-16T20:05:40Z",
-     "headline": "Israeli fire kills at least three Palestinians across Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-least-three-palestinians-across-gaza"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-17T07:20:34Z",
-     "headline": "1 Palestinian killed, others injured in Israeli drone strike in Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-israeli-drone-strike-in-gaza/4091665"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T11:30:01Z",
-     "headline": "Five Palestinians killed by Israel in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-palestinians-killed-israel-gaza"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-17T18:26:59Z",
-     "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-17T19:04:22Z",
-     "headline": "Six Palestinians killed in Israeli strikes across Gaza in a day",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T10:43:03Z",
-     "headline": "Gaza death toll rises after five Palestinians killed in last 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-five-palestinians-killed-last-24-hours"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T11:48:49Z",
-     "headline": "Israeli strike on Gaza City kills one Palestinian and wounds others",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-one-palestinian-and-wounds-others"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-19T15:39:45Z",
-     "headline": "Israeli drone strike kills one, wounds several in Gaza, hospital says",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-20T09:56:47Z",
-     "headline": "Israeli Fire Kills Four People in Gaza, Medics Say",
-     "url": "https://english.aawsat.com/node/5331508"
-    },
-    {
-     "outlet": "IRNA (English)",
-     "country": "IRN",
-     "time": "2026-10-21T15:56:31Z",
-     "headline": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-     "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-21T21:54:59Z",
-     "headline": "Seven killed in Israeli attacks on Gaza in past 24 hours",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T06:06:52Z",
-     "headline": "Israeli attacks injure five Palestinians in southern Gaza",
-     "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:49:55Z",
-     "headline": "Israeli attack on vehicle in Gaza City kills two",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T11:58:19Z",
-     "headline": "Israel kills four Palestinians in last 24 hours, including teenage girl",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T12:27:14Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-people-in-gaza-medics-say1"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-22T12:46:30Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.al-monitor.com/originals/2026/10/israeli-fire-kills-four-people-gaza-medics-say-0"
-    },
-    {
-     "outlet": "Mehr News (English)",
-     "country": "IRN",
-     "time": "2026-10-22T13:14:56Z",
-     "headline": "Death toll from Israeli attacks on Gaza reaches 74,498",
-     "url": "https://en.mehrnews.com/news/248820/Death-toll-from-Israeli-attacks-on-Gaza-reaches-74-498"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-22T14:57:55Z",
-     "headline": "Israeli Fire Kills Three People in Gaza",
-     "url": "https://english.aawsat.com/node/5332402"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T16:06:55Z",
-     "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T16:10:22Z",
-     "headline": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T19:54:35Z",
-     "headline": "4 Palestinians killed by Israeli fire in Gaza Strip: sources",
-     "url": "https://english.news.cn/20261023/d5f1a297ee2d4cdf9d702ba88bb353c5/c.html"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T22:17:22Z",
-     "headline": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-22T23:44:31Z",
-     "headline": "Watch: Palestinian killed in Israeli strike on vehicle in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinian-killed-israeli-strike-vehicle-gaza-city"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T08:07:06Z",
-     "headline": "1 Palestinian killed, others injured in fresh Israeli attack on Gaza",
-     "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T12:12:05Z",
-     "headline": "Israeli drone strike kills two Palestinians in Gaza City",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-23T14:58:20Z",
-     "headline": "Israeli fire kills four people in Gaza, medics say",
-     "url": "https://www.omanobserver.om/article/1198432/world/israeli-fire-kills-four-people-in-gaza-medics-say"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-23T21:06:33Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/23/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T22:09:51Z",
-     "headline": "Israeli air strikes in Gaza City kill two Palestinians, wound several",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-24T12:11:45Z",
-     "headline": "2 Palestinians, including woman, killed in latest Israeli violations of Gaza ceasefire",
-     "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465"
-    },
-    {
-     "outlet": "Colombia One",
-     "country": "COL",
-     "time": "2026-10-24T13:00:00Z",
-     "headline": "Colombia’s Experience Could Help Locate More Than 10,000 Missing People in Gaza",
-     "url": "https://colombiaone.com/2026/10/24/colombias-experience-could-help-locate-more-than-10000-missing-people-in-gaza/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T16:09:20Z",
-     "headline": "Israeli gunfire kills Palestinian woman in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-woman-gaza"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-24T16:25:45Z",
-     "headline": "Israeli bombing cuts off water to large parts of Gaza City",
-     "url": "https://www.newarab.com/news/israeli-bombing-cuts-water-large-parts-gaza-city"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-24T17:23:41Z",
-     "headline": "Israeli gunfire kills Palestinian man in central Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T21:25:40Z",
-     "headline": "Gaza after the ceasefire",
-     "url": "https://www.brecorder.com/news/40445767/gaza-after-the-ceasefire"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-25T06:00:54Z",
-     "headline": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-25T12:24:26Z",
-     "headline": "Israeli strike on Gaza university kills three",
-     "url": "https://www.omanobserver.om/article/1198544/world/region/israeli-strike-on-gaza-university-kills-three"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-25T12:46:19Z",
-     "headline": "Israeli attacks kill at least five Palestinians in Gaza",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza"
-    },
-    {
-     "outlet": "Dawn",
-     "country": "PAK",
-     "time": "2026-10-25T14:31:00Z",
-     "headline": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-     "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-    },
-    {
-     "outlet": "Haaretz (English)",
-     "country": "ISR",
-     "time": "2026-10-25T14:39:06Z",
-     "headline": "Reports: Israeli strikes kill eight, including child, in Gaza Strip",
-     "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-    }
-   ]
-  },
-  {
-   "id": 22579,
-   "title": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
-   "category": "Energy & Environment",
-   "cat": 3,
-   "importance": 5.97,
-   "risk": 6.08,
-   "confidence": 0.9,
-   "status": "spreading",
-   "outlets": 18,
-   "countries": [
-    "ARE",
-    "PAK",
-    "SAU",
-    "TUR",
-    "KWT",
-    "ARM",
-    "CHN",
-    "FRA",
-    "USA",
-    "GBR",
-    "QAT",
-    "OMN",
-    "SGP",
-    "CYP"
-   ],
-   "first_seen": "2026-10-22T23:34:31Z",
-   "last_seen": "2026-10-26T10:30:00Z",
-   "page": "event/22579.html",
-   "reports": [
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T23:34:31Z",
-     "headline": "UAE confirms oil spill off coast causing strong fuel smell",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/22/uae-strong-smell-tanker-oil-spill/"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T23:34:31Z",
-     "headline": "UAE confirms oil spill off coast and temporarily closes Umm Al Quwain beaches",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-23T02:58:39Z",
-     "headline": "UAE says tanker oil spill affects beaches in Umm Al Quwain",
-     "url": "https://www.brecorder.com/news/40445583/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T03:10:16Z",
-     "headline": "UAE says tanker oil spill affects beaches in Umm Al-Quwain",
-     "url": "https://www.arabnews.com/middle-east/uae-says-tanker-oil-spill-affects-beaches-in-umm-al-quwain-3007833"
-    },
-    {
-     "outlet": "Arab News",
-     "country": "SAU",
-     "time": "2026-10-23T03:10:16Z",
-     "headline": "Oil spill off UAE coast prompts beach closures, cleanup effort",
-     "url": "https://www.arabnews.com/middle-east/oil-spill-off-uae-coast-prompts-beach-closures-cleanup-effort-3007833"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T03:27:18Z",
-     "headline": "UAE announce temporary closure of Umm Al Quwain beaches",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-announce-temporary-closure-umm-al-quwain-beaches"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-23T04:37:50Z",
-     "headline": "UAE detects tanker oil spill affecting beaches in Umm Al Quwain",
-     "url": "https://www.aa.com.tr/en/middle-east/uae-detects-tanker-oil-spill-affecting-beaches-in-umm-al-quwain/4097924"
-    },
-    {
-     "outlet": "Asharq Al-Awsat (English)",
-     "country": "SAU",
-     "time": "2026-10-23T05:13:04Z",
-     "headline": "UAE: Oil Spill from Tanker Affects Beaches in Umm Al Quwain",
-     "url": "https://english.aawsat.com/node/5332574"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-23T05:49:26Z",
-     "headline": "UAE tackles oil spill, Yemen warns of Houthi child recruitment and Oman strengthens UK investment ties",
-     "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/"
-    },
-    {
-     "outlet": "Arab Times",
-     "country": "KWT",
-     "time": "2026-10-23T06:14:00Z",
-     "headline": "UAE Closes Umm Al Quwain Beaches After Tanker Oil Spill",
-     "url": "https://www.arabtimesonline.com/news/uae-closes-umm-al-quwain-beaches-after-tanker-oil-spill/"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "country": "INT",
-     "time": "2026-10-23T07:01:01Z",
-     "headline": "Morning update",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-649"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T07:12:13Z",
-     "headline": "UAE mystery smells explained: How reports led to oil spill discovery",
-     "url": "https://gulfnews.com/uae/uae-mystery-smells-explained-how-reports-led-to-oil-spill-discovery-1.500720788"
-    },
-    {
-     "outlet": "NEWS.am (English)",
-     "country": "ARM",
-     "time": "2026-10-23T07:49:00Z",
-     "headline": "Reuters: Oil spill from tanker detected off UAE coast",
-     "url": "https://news.am/en/news/1069777"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T09:22:00Z",
-     "headline": "Oil spill prompts closure of beaches in UAE's Umm Al Quwain",
-     "url": "https://english.news.cn/20261023/8c67eee23d464035afc903fbee9fe990/c.html"
-    },
-    {
-     "outlet": "Euronews English",
-     "country": "FRA",
-     "time": "2026-10-23T09:36:16Z",
-     "headline": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
-     "url": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T10:37:34Z",
-     "headline": "UAE oil spill: Umm Al Quwain steps up efforts to contain slick along emirate’s beaches",
-     "url": "https://gulfnews.com/uae/umm-al-quwain-municipality-steps-up-efforts-to-contain-oil-spill-along-emirates-beaches-1.500720994"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-23T13:28:14Z",
-     "headline": "UAE battles tanker oil spill as war's environmental toll mounts",
-     "url": "https://www.al-monitor.com/originals/2026/10/uae-battles-tanker-oil-spill-wars-environmental-toll-mounts"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T13:48:58Z",
-     "headline": "Sharjah temporarily closes Al Hamriyah Beach over oil spill concerns",
-     "url": "https://gulfnews.com/uae/environment/sharjah-temporarily-closes-al-hamriyah-beach-over-oil-spill-concerns-1.500721368"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-23T15:30:47Z",
-     "headline": "Oil spill washes up on UAE beaches after tanker strike",
-     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-23T15:45:48Z",
-     "headline": "UAE residents’ evening update: Oil spill closes UAQ beaches, flight updates, Netanyahu’s West Bank move",
-     "url": "https://gulfnews.com/uae/uae-residents-evening-update-oil-spill-closes-uaq-beaches-flight-updates-netanyahus-west-bank-move-1.500721505"
-    },
-    {
-     "outlet": "The New Arab",
-     "country": "INT",
-     "time": "2026-10-23T16:23:32Z",
-     "headline": "UAE reports oil spill from tanker as ships attacked during war",
-     "url": "https://www.newarab.com/news/uae-reports-oil-spill-tanker-ships-attacked-during-war"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-23T21:34:30Z",
-     "headline": "Northern UAE beach closed as precaution after tanker oil spill",
-     "url": "https://english.news.cn/20261024/b71aa981df6e4ee1ad2cbcc80f49cbc9/c.html"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T00:32:33Z",
-     "headline": "UAE reports oil spill from tanker",
-     "url": "https://www.brecorder.com/news/40445720/uae-reports-oil-spill-from-tanker"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-24T04:48:40Z",
-     "headline": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-24T05:30:57Z",
-     "headline": "The fight to save marine life: how specialists are tackling the oil spill off the UAE coast",
-     "url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-24T08:20:46Z",
-     "headline": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
-     "url": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981"
-    },
-    {
-     "outlet": "Business Recorder",
-     "country": "PAK",
-     "time": "2026-10-24T12:22:29Z",
-     "headline": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
-     "url": "https://www.brecorder.com/news/40445756/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-25T12:05:16Z",
-     "headline": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-26T01:30:00Z",
-     "headline": "UAE’s massive beach clean-up after oil spill concerns and mystery smell: All you need to know",
-     "url": "https://gulfnews.com/uae/uaes-massive-beach-clean-up-after-oil-spill-concerns-and-mystery-smell-all-you-need-to-know-1.500723253"
-    },
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-26T05:38:06Z",
-     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
-     "url": "https://www.omanobserver.om/article/1198589/world/region/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-26T09:30:39Z",
-     "headline": "Oil spill off UAE widens, prompting more beach closures",
-     "url": "https://www.straitstimes.com/world/middle-east/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "Al-Monitor",
-     "country": "USA",
-     "time": "2026-10-26T09:46:28Z",
-     "headline": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
-     "url": "https://www.al-monitor.com/originals/2026/10/oil-spill-uae-widens-satellite-images-show-prompting-more-beach-closures"
-    },
-    {
-     "outlet": "Cyprus Mail",
-     "country": "CYP",
-     "time": "2026-10-26T10:30:00Z",
-     "headline": "UAE oil spill spreads, forcing more beach closures",
-     "url": "https://cyprus-mail.com/2026/10/26/uae-oil-spill-spreads-forcing-more-beach-closures"
-    }
-   ]
-  },
-  {
    "id": 22319,
    "title": "Meghan Markle 'distressed' over claims father had child abuse images",
    "category": "Society & Law",
@@ -11400,7 +11422,7 @@
      "outlet": "Middle East Eye",
      "country": "INT",
      "time": "2026-10-26T04:08:41Z",
-     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahj",
+     "headline": "Houthis claim missile attacks on Yemen's Aden, Lahij",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij"
     },
     {
@@ -13295,6 +13317,277 @@
    ]
   },
   {
+   "id": 17224,
+   "title": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+   "category": "Society & Law",
+   "cat": 8,
+   "importance": 5.74,
+   "risk": 2.99,
+   "confidence": 0.9,
+   "status": "spreading",
+   "outlets": 19,
+   "countries": [
+    "NZL",
+    "GHA",
+    "ARE",
+    "NGA",
+    "UGA",
+    "SAU",
+    "ZAF",
+    "SGP",
+    "TWN",
+    "PAK",
+    "CYP",
+    "IND",
+    "GBR",
+    "JAM",
+    "QAT"
+   ],
+   "first_seen": "2026-10-21T19:19:19Z",
+   "last_seen": "2026-10-26T11:12:20Z",
+   "page": "event/17224.html",
+   "reports": [
+    {
+     "outlet": "Stuff",
+     "country": "NZL",
+     "time": "2026-10-21T19:19:19Z",
+     "headline": "Watch: Man Utd embarrassed by Champions League newcomers in stunning four-goal loss",
+     "url": "https://www.stuff.co.nz/sport/361049433/man-uniteds-crisis-deepens-41-loss-champions-league"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-22T01:54:00Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://www.myjoyonline.com/fernandes-rounds-on-carrick-after-man-utd-humiliation/"
+    },
+    {
+     "outlet": "The National",
+     "country": "ARE",
+     "time": "2026-10-22T02:44:14Z",
+     "headline": "Bruno Fernandes turns on Michael Carrick as Manchester United crisis deepens",
+     "url": "https://www.thenationalnews.com/sport/football/2026/10/22/bruno-fernandes-turns-on-michael-carrick-as-manchester-united-crisis-deepens/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T06:51:35Z",
+     "headline": "Fernandes takes aim at Carrick as Man Utd lurch into fresh crisis",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-takes-aim-at-carrick-as-man-utd-lurch-into-fresh-crisis/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-22T08:06:43Z",
+     "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "url": "https://nilepost.co.ug/sports/380628/fernandes-rounds-on-carrick-after-man-utd-humiliation"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-22T08:08:07Z",
+     "headline": "Fernandes Takes Aim at Carrick as Man Utd Lurch into Fresh Crisis",
+     "url": "https://english.aawsat.com/node/5332254"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-22T08:34:33Z",
+     "headline": "UCL: Fernandes, Carrick clash over tactics after 4-1 loss to Como",
+     "url": "https://punchng.com/ucl-fernandes-carrick-clash-over-tactics-after-4-1-loss-to-como/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "IOL",
+     "country": "ZAF",
+     "time": "2026-10-22T09:29:00Z",
+     "headline": "Fernandes delivers brutal verdict on Carrick’s tactical failure at Como",
+     "url": "https://iol.co.za/sport/soccer/2026-10-22-fernandes-delivers-brutal-verdict-on-carricks-tactical-failure-at-como/"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-22T17:55:54Z",
+     "headline": "Fernandes to remain Man Utd captain despite outburst",
+     "url": "https://www.vanguardngr.com/2026/10/fernandes-to-remain-man-utd-captain-despite-outburst/"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-22T19:01:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.channelnewsasia.com/sport/rooney-labels-man-united-players-selfish-after-fernandes-criticism-6484211"
+    },
+    {
+     "outlet": "Arab News",
+     "country": "SAU",
+     "time": "2026-10-22T19:17:41Z",
+     "headline": "Rooney labels Man United players ‘selfish’ after Fernandes criticism",
+     "url": "https://www.arabnews.com/football/rooney-labels-man-united-players-selfish-after-fernandes-criticism-3007788"
+    },
+    {
+     "outlet": "Taipei Times",
+     "country": "TWN",
+     "time": "2026-10-22T19:56:01Z",
+     "headline": "Bruno Fernandes takes aim at Carrick",
+     "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/23/2003866466"
+    },
+    {
+     "outlet": "Business Recorder",
+     "country": "PAK",
+     "time": "2026-10-23T06:43:23Z",
+     "headline": "Rooney labels Man United players 'selfish' after Fernandes criticism",
+     "url": "https://www.brecorder.com/news/40445607/rooney-labels-man-united-players-selfish-after-fernandes-criticism"
+    },
+    {
+     "outlet": "Asharq Al-Awsat (English)",
+     "country": "SAU",
+     "time": "2026-10-23T06:49:17Z",
+     "headline": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
+     "url": "https://english.aawsat.com/node/5332601"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-23T07:32:46Z",
+     "headline": "Police investigate burglary at Man United captain Fernandes’ house",
+     "url": "https://cyprus-mail.com/2026/10/23/police-investigate-burglary-at-man-united-captain-fernandes-house"
+    },
+    {
+     "outlet": "Indian Express",
+     "country": "IND",
+     "time": "2026-10-23T07:54:57Z",
+     "headline": "Bruno Fernandes’s home burgled when he was out playing Champions League in Italy",
+     "url": "https://indianexpress.com/article/sports/football/bruno-fernandes-home-burglary-manchester-united-champions-league-como-10933447/"
+    },
+    {
+     "outlet": "Punch",
+     "country": "NGA",
+     "time": "2026-10-23T11:44:35Z",
+     "headline": "Bruno Fernandes’ home burgled while in Italy for Como match",
+     "url": "https://punchng.com/bruno-fernandes-home-burgled-while-in-italy-for-como-match/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-23T14:54:49Z",
+     "headline": "Bruno Fernandes’ home burgled during Man Utd’s 4-1 defeat to Como",
+     "url": "https://www.vanguardngr.com/2026/10/bruno-fernandes-home-burgled-during-man-utds-4-1-defeat-to-como/"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-23T18:56:40Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address 01:48",
+     "url": "https://nilepost.co.ug/sports/380962/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address-0148"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "country": "GHA",
+     "time": "2026-10-24T03:54:18Z",
+     "headline": "Carrick refuses to rule out dropping Fernandes in emotional address",
+     "url": "https://www.myjoyonline.com/carrick-refuses-to-rule-out-dropping-fernandes-in-emotional-address/"
+    },
+    {
+     "outlet": "Cyprus Mail",
+     "country": "CYP",
+     "time": "2026-10-25T12:53:31Z",
+     "headline": "Carrick drops United captain Fernandes to bench against Bournemouth",
+     "url": "https://cyprus-mail.com/2026/10/25/fernandes-pays-price-for-criticism-as-carrick-drops-united-captain"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-25T12:56:33Z",
+     "headline": "Man Utd XI vs Bournemouth: Bruno Fernandes dropped - Starting lineup, confirmed team news, injury latest",
+     "url": "https://www.standard.co.uk/sport/football/man-utd-xi-vs-bournemouth-starting-lineup-confirmed-team-news-injury-latest-today-b1301992.html"
+    },
+    {
+     "outlet": "CNA (Channel NewsAsia)",
+     "country": "SGP",
+     "time": "2026-10-25T12:56:41Z",
+     "headline": "Fernandes pays price for criticism as Carrick drops United captain",
+     "url": "https://www.channelnewsasia.com/sport/fernandes-pays-price-criticism-carrick-drops-united-captain-6490541"
+    },
+    {
+     "outlet": "Jamaica Observer",
+     "country": "JAM",
+     "time": "2026-10-25T13:13:35Z",
+     "headline": "Man Utd’s Fernandes dropped by Carrick after Como outburst",
+     "url": "https://www.jamaicaobserver.com/2026/10/25/man-utds-fernandes-dropped-carrick-como-outburst/"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-25T13:24:35Z",
+     "headline": "Michael Carrick makes shock Bruno Fernandes claim after dropping Man Utd captain",
+     "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-fernandes-dropped-b1302262.html"
+    },
+    {
+     "outlet": "Vanguard",
+     "country": "NGA",
+     "time": "2026-10-25T13:48:11Z",
+     "headline": "EPL: Carrick benches Bruno Fernandes after Como outburst",
+     "url": "https://www.vanguardngr.com/2026/10/epl-carrick-bench-bruno-fernandes-after-como-outburst/"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T14:05:22Z",
+     "headline": "Bruno Fernandes dropped for Man Utd’s key clash with Bournemouth",
+     "url": "https://www.irishnews.com/sport/soccer/bruno-fernandes-dropped-for-man-utds-key-clash-with-bournemouth-PD55GKSKXVKATMHGGDFXJKO74M/"
+    },
+    {
+     "outlet": "Evening Standard (London)",
+     "country": "GBR",
+     "time": "2026-10-25T14:12:31Z",
+     "headline": "'Manchester United players will be relieved Bruno Fernandes has been dropped'",
+     "url": "https://www.standard.co.uk/sport/football/man-utd-fernandes-dropped-happy-b1302265.html"
+    },
+    {
+     "outlet": "Nile Post",
+     "country": "UGA",
+     "time": "2026-10-25T16:22:31Z",
+     "headline": "Fernandes left on bench for Man Utd defeat",
+     "url": "https://nilepost.co.ug/sports/381327/fernandes-left-on-bench-for-man-utd-defeat"
+    },
+    {
+     "outlet": "The Irish News (Belfast)",
+     "country": "GBR",
+     "time": "2026-10-25T18:54:33Z",
+     "headline": "Michael Carrick says dropping captain Bruno Fernandes ‘pure football’ decision",
+     "url": "https://www.irishnews.com/sport/soccer/michael-carrick-says-dropping-captain-bruno-fernandes-pure-football-decision-26JSQL2KENNYRMYPVBIKITKGKA/"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "country": "QAT",
+     "time": "2026-10-25T20:01:00Z",
+     "headline": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss"
+    },
+    {
+     "outlet": "Manchester Evening News",
+     "country": "GBR",
+     "time": "2026-10-26T09:20:19Z",
+     "headline": "Bruno Fernandes aims subtle dig at Manchester United on social media",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-aims-subtle-dig-34816477"
+    },
+    {
+     "outlet": "Manchester Evening News",
+     "country": "GBR",
+     "time": "2026-10-26T11:05:32Z",
+     "headline": "Michael Carrick told he 'cut his nose to spite his face' with Bruno Fernandes decision",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-bruno-fernandes-united-34817120"
+    },
+    {
+     "outlet": "Manchester Evening News",
+     "country": "GBR",
+     "time": "2026-10-26T11:12:20Z",
+     "headline": "Why Bruno Fernandes is at Carrington amid Manchester United crisis talks",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-carrington-amid-manchester-34817167"
+    }
+   ]
+  },
+  {
    "id": 6981,
    "title": "iPhone Duo UAE pre-orders: 5 things Apple's foldable changes – and what it costs you",
    "category": "Business",
@@ -14356,324 +14649,6 @@
      "time": "2026-10-26T10:51:10Z",
      "headline": "Nicki Minaj backs Trump at Michigan rally amid tight midterm elections battle",
      "url": "https://www.irishnews.com/news/world/nicki-minaj-backs-trump-at-michigan-rally-amid-tight-midterm-elections-battle-JJ2IDEJOJJLGJDI5FNEC4JHJAA/"
-    }
-   ]
-  },
-  {
-   "id": 19970,
-   "title": "France reports first human Shamonda virus case",
-   "category": "Health & Science",
-   "cat": 7,
-   "importance": 5.65,
-   "risk": 5.45,
-   "confidence": 0.92,
-   "status": "fading",
-   "outlets": 34,
-   "countries": [
-    "OMN",
-    "SGP",
-    "GBR",
-    "IND",
-    "IRL",
-    "AZE",
-    "SWE",
-    "TUR",
-    "ISR",
-    "BEL",
-    "FRA",
-    "CHN",
-    "NGA",
-    "PAK",
-    "QAT",
-    "ARE",
-    "USA",
-    "DEU",
-    "MAR",
-    "CAN"
-   ],
-   "first_seen": "2026-10-22T04:48:26Z",
-   "last_seen": "2026-10-24T11:59:28Z",
-   "page": "event/19970.html",
-   "reports": [
-    {
-     "outlet": "Oman Observer",
-     "country": "OMN",
-     "time": "2026-10-22T04:48:26Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.omanobserver.om/article/1198225/scitech/science/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T08:36:24Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.straitstimes.com/world/europe/france-reports-first-human-shamonda-virus-case"
-    },
-    {
-     "outlet": "Sky News (World)",
-     "country": "GBR",
-     "time": "2026-10-22T08:38:00Z",
-     "headline": "France reports first Shamonda virus case in human who later died",
-     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T08:41:45Z",
-     "headline": "Deadly Shamonda virus detected in human for first time in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-detected-symptoms-b3071284.html"
-    },
-    {
-     "outlet": "NDTV",
-     "country": "IND",
-     "time": "2026-10-22T08:46:33Z",
-     "headline": "France Reports First Ever Case Of Human Shamonda Virus, 1 Dead",
-     "url": "https://www.ndtv.com/world-news/france-reports-first-ever-case-of-human-shamonda-virus-1-dead-12219412#publisher=newsstand"
-    },
-    {
-     "outlet": "RTÉ News",
-     "country": "IRL",
-     "time": "2026-10-22T09:04:32Z",
-     "headline": "France reports first death of human from Shamonda virus",
-     "url": "https://www.rte.ie/news/world/2026/1022/1596411-shamonda-virus/"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T09:13:00Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://en.apa.az/europe/france-reports-first-human-shamonda-virus-case-531619"
-    },
-    {
-     "outlet": "ECDC news",
-     "country": "SWE",
-     "time": "2026-10-22T09:13:22Z",
-     "headline": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
-     "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T09:36:59Z",
-     "headline": "France reports 1st human case of Shamonda virus after patient’s death",
-     "url": "https://www.aa.com.tr/en/europe/france-reports-1st-human-case-of-shamonda-virus-after-patient-s-death/4096943"
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "country": "ISR",
-     "time": "2026-10-22T09:38:19Z",
-     "headline": "French patient dies after Shamonda virus detected in human for first time",
-     "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-912535"
-    },
-    {
-     "outlet": "CNA (Channel NewsAsia)",
-     "country": "SGP",
-     "time": "2026-10-22T09:44:12Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.channelnewsasia.com/world/france-reports-first-human-shamonda-virus-case-6482136"
-    },
-    {
-     "outlet": "Euractiv",
-     "country": "BEL",
-     "time": "2026-10-22T10:01:36Z",
-     "headline": "Europe on alert as France reports first human Shamonda virus case",
-     "url": "https://www.rapporteur.com/news/europe-on-alert-as-france-reports-first-human-shamonda-virus-case/"
-    },
-    {
-     "outlet": "Times of India",
-     "country": "IND",
-     "time": "2026-10-22T10:06:31Z",
-     "headline": "Shamonda virus detected in human for first time in France; patient dies",
-     "url": "https://timesofindia.indiatimes.com/science/shamonda-virus-detected-in-human-for-first-time-in-france-patient-dies/articleshow/135115138.cms"
-    },
-    {
-     "outlet": "The Local France",
-     "country": "FRA",
-     "time": "2026-10-22T10:10:10Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://www.thelocal.fr/20261022/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
-    },
-    {
-     "outlet": "The Independent",
-     "country": "GBR",
-     "time": "2026-10-22T10:17:21Z",
-     "headline": "What is Shamonda virus? Symptoms and origin after first human case confirmed in France",
-     "url": "https://www.independent.co.uk/news/world/europe/shamonda-virus-france-symptoms-human-case-b3071325.html"
-    },
-    {
-     "outlet": "Xinhua (English) — page reader",
-     "country": "CHN",
-     "time": "2026-10-22T10:52:17Z",
-     "headline": "France reports world's first documented case of human infection with Shamonda virus",
-     "url": "https://english.news.cn/20261022/37386b7727eb4381accce646b6b4b5e8/c.html"
-    },
-    {
-     "outlet": "Vanguard",
-     "country": "NGA",
-     "time": "2026-10-22T10:59:03Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.vanguardngr.com/2026/10/france-reports-first-human-shamonda-virus-case-says-no-health-risk/"
-    },
-    {
-     "outlet": "BBC News",
-     "country": "GBR",
-     "time": "2026-10-22T11:04:14Z",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:13:52Z",
-     "headline": "14 EU Countries Affected As France Reports First Case Of Human Shamonda Virus",
-     "url": "https://www.channelstv.com/2026/10/22/14-eu-countries-affected-as-france-reports-first-case-of-human-shamonda-virus/"
-    },
-    {
-     "outlet": "Channels TV",
-     "country": "NGA",
-     "time": "2026-10-22T11:15:08Z",
-     "headline": "Human Shamonda Virus: Reported Case Has No Health Risk, Says France",
-     "url": "https://www.channelstv.com/2026/10/22/human-shamonda-virus-reported-case-has-no-health-risk-says-france/"
-    },
-    {
-     "outlet": "Punch",
-     "country": "NGA",
-     "time": "2026-10-22T11:20:08Z",
-     "headline": "France reports first human Shamonda virus case",
-     "url": "https://punchng.com/france-reports-first-human-shamonda-virus-case/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-     "outlet": "Express Tribune",
-     "country": "PAK",
-     "time": "2026-10-22T11:24:15Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://tribune.com.pk/story/2636360/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies"
-    },
-    {
-     "outlet": "Al Jazeera English",
-     "country": "QAT",
-     "time": "2026-10-22T11:28:05Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
-    },
-    {
-     "outlet": "Gulf News",
-     "country": "ARE",
-     "time": "2026-10-22T11:43:04Z",
-     "headline": "France reports first human Shamonda virus case, says no health risk",
-     "url": "https://gulfnews.com/world/europe/france-reports-first-human-shamonda-virus-case-says-no-health-risk-3-1.500719806"
-    },
-    {
-     "outlet": "ProtoThema English",
-     "country": null,
-     "time": "2026-10-22T11:45:00Z",
-     "headline": "France records first human case of Shamonda virus as patient dies",
-     "url": "https://en.protothema.gr/2026/10/22/france-records-first-human-case-of-shamonda-virus-as-patient-dies/"
-    },
-    {
-     "outlet": "UN News",
-     "country": "USA",
-     "time": "2026-10-22T12:00:00Z",
-     "headline": "First human case of Shamonda virus reported in France as patient dies",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168652"
-    },
-    {
-     "outlet": "France 24 English",
-     "country": "FRA",
-     "time": "2026-10-22T12:22:56Z",
-     "headline": "France reports first human case of Shamonda virus, but says there's no public health risk",
-     "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
-    },
-    {
-     "outlet": "DW English",
-     "country": "DEU",
-     "time": "2026-10-22T12:46:00Z",
-     "headline": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
-     "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "outlet": "Hespress English",
-     "country": "MAR",
-     "time": "2026-10-22T13:13:55Z",
-     "headline": "France reports first ever human Shamonda virus case in patient who died",
-     "url": "https://en.hespress.com/147788-france-reports-first-ever-human-shamonda-virus-case-in-patient-who-died.html"
-    },
-    {
-     "outlet": "Politico Europe",
-     "country": "BEL",
-     "time": "2026-10-22T13:14:26Z",
-     "headline": "First known human case of Shamonda virus confirmed in France",
-     "url": "https://www.politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-    },
-    {
-     "outlet": "APA (English)",
-     "country": "AZE",
-     "time": "2026-10-22T13:28:00Z",
-     "headline": "First human case of livestock virus Shamonda unlikely to lead to wider spread, WHO says",
-     "url": "https://en.apa.az/america/first-human-case-of-livestock-virus-shamonda-unlikely-to-lead-to-wider-spread-who-says-531670"
-    },
-    {
-     "outlet": "PBS NewsHour",
-     "country": "USA",
-     "time": "2026-10-22T14:26:05Z",
-     "headline": "France reports first human case of livestock virus Shamonda in patient who later died",
-     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
-    },
-    {
-     "outlet": "The Straits Times",
-     "country": "SGP",
-     "time": "2026-10-22T14:41:38Z",
-     "headline": "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
-     "url": "https://www.straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
-    },
-    {
-     "outlet": "CBC News",
-     "country": "CAN",
-     "time": "2026-10-22T14:59:25Z",
-     "headline": "1st human case of livestock virus Shamonda reported in France",
-     "url": "https://www.cbc.ca/news/health/shamonda-livestock-virus-human-case-9.7391560?cmp=rss"
-    },
-    {
-     "outlet": "The Guardian",
-     "country": "GBR",
-     "time": "2026-10-22T15:07:01Z",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-22T15:14:40Z",
-     "headline": "Shamonda virus: First human case reported in France; patient dies",
-     "url": "https://indianexpress.com/article/world/first-human-case-shamonda-virus-france-lyon-death-10932667/"
-    },
-    {
-     "outlet": "Anadolu Agency (English)",
-     "country": "TUR",
-     "time": "2026-10-22T16:30:54Z",
-     "headline": "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
-     "url": "https://www.aa.com.tr/en/europe/who-investigates-transmission-public-health-risks-of-1st-human-case-of-shamonda-virus-in-france/4097666"
-    },
-    {
-     "outlet": "The National",
-     "country": "ARE",
-     "time": "2026-10-22T17:52:59Z",
-     "headline": "France reports first human case of livestock virus Shamonda after patient dies",
-     "url": "https://www.thenationalnews.com/news/europe/2026/10/22/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T02:08:07Z",
-     "headline": "First Shamonda virus infection in human: Why this spillover event in France matters",
-     "url": "https://indianexpress.com/article/health-wellness/shamonda-virus-first-human-infection-france-matters-10933073/"
-    },
-    {
-     "outlet": "Indian Express",
-     "country": "IND",
-     "time": "2026-10-23T08:35:15Z",
-     "headline": "First human case of Shamonda virus: What is it, what are the risks",
-     "url": "https://indianexpress.com/article/explained/explained-health/shamonda-virus-france-first-human-case-symptoms-vaccine-10933530/"
     }
    ]
   }
