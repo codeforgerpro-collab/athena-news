@@ -118,6 +118,40 @@
   if (window.MutationObserver) new MutationObserver(function () { colours(); if (still) start(); }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme", "class"] });
 })();
 
+/* 27 Oct: text size (A- A A+) - six steps, remembered in this browser; assets/theme.js applies it before the page is drawn */
+(function () {
+  var d = document.documentElement, Z = [0.85, 0.92, 1, 1.1, 1.2, 1.35];
+  var i = parseInt(d.getAttribute("data-tsz"), 10); if (!(i >= 0)) i = 2;
+  function set(n) {
+    i = Math.max(0, Math.min(Z.length - 1, n));
+    d.style.zoom = i === 2 ? "" : Z[i]; d.setAttribute("data-tsz", i);
+    try { localStorage.setItem("athena-text-size", String(i)); } catch (e) {}
+    document.querySelectorAll("[data-tsz-btn]").forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-tsz") === "0" && i === 2 ? "true" : "false"); });
+  }
+  document.querySelectorAll(".tsz button[data-tsz]").forEach(function (b) {
+    b.setAttribute("data-tsz-btn", "");
+    b.addEventListener("click", function () { var s = +b.getAttribute("data-tsz"); set(s === 0 ? 2 : i + s); });
+  });
+  set(i);
+})();
+
+/* 27 Oct: a warm welcome each time the reader opens the site in a new browser session (once per session, any page) */
+(function () {
+  var w = document.getElementById("welc"); if (!w) return;
+  var seen = false;
+  try { seen = sessionStorage.getItem("athena-welcomed") === "1"; sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { seen = false; }
+  if (seen) return;
+  var g = (w.getAttribute("data-g") || "").split("|"), h = new Date().getHours();
+  var b = w.querySelector(".welc-g"); if (b) b.textContent = (h < 12 ? g[0] : h < 18 ? g[1] : g[2]) || g[0] || "";
+  w.hidden = false;
+  var gone = false;
+  function close() { if (gone) return; gone = true; w.classList.add("out"); setTimeout(function () { w.hidden = true; }, 380); }
+  w.querySelector(".welc-go").addEventListener("click", close);
+  w.querySelector(".welc-x").addEventListener("click", close);
+  document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
+  setTimeout(close, 14000);
+})();
+
 /* 27 Oct: the whole news item opens the story, on every page - not only the headline. The headline stays the real link
    (keyboard, screen readers, "open in new tab"); other links and buttons inside the item keep their own job; selecting
    text never jumps; Ctrl/Cmd/Shift or the middle button opens a new tab. Lists drawn later (local news, maritime panel,
