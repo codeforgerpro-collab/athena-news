@@ -141,7 +141,17 @@ mask-image:linear-gradient(90deg,transparent,#000 24px,#000 calc(100% - 24px),tr
 @keyframes tkm{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @keyframes tkp{0%,100%{opacity:1}50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.ticker .tt{animation:none}.ticker .tv{overflow-x:auto}.ticker .tl i{animation:none}}
-@media (max-width:640px){.ticker .tl span{display:none}.ticker .tl{padding:8px 10px}.ticker{font-size:13px}}
+@media (max-width:640px){.ticker .tl span{display:none}.ticker .tl{padding:8px 10px}.ticker{font-size:13px}.ticker .tkfs{display:none}}
+/* 27 Oct — ticker icons: the ATHENA owl in the label, a topic icon and the flags of the countries most reported on */
+.ticker .tl .tk-owl{width:20px;height:20px;border-radius:50%;box-shadow:0 0 0 1.5px rgba(255,255,255,.85);flex:none;animation:tkow 3.2s ease-in-out infinite}
+@keyframes tkow{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}
+.ticker .tki{display:inline-flex;align-self:center;color:var(--gold2)}
+.ticker .tki svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.ticker .tkfs{display:inline-flex;align-self:center}
+.ticker .tkfs img{width:20px;height:15px;border-radius:2px;object-fit:cover;box-shadow:0 0 0 1px rgba(0,0,0,.18);background:var(--rule)}
+.ticker .tkfs{gap:3px}
+:root[data-theme="contrast"] .ticker .tki{color:#000}
+@media (prefers-reduced-motion:reduce){.ticker .tl .tk-owl{animation:none}}
 .brief{border-left:3px solid var(--gold);background:var(--card);padding:12px 16px;margin:12px 0 6px}
 .brief b{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold2);margin-bottom:4px}
 .brief p{margin:0;font-family:var(--head);font-size:19px;line-height:1.5;color:var(--ink)}
@@ -491,11 +501,17 @@ button.mtc:hover{box-shadow:0 4px 14px rgba(0,0,0,.12);transform:translateY(-1px
 @media (max-width:760px){.mtpcols{grid-template-columns:1fr}.mtph h2{font-size:23px}}
 
 /* WEB-1.13 help, the living band, the Mind Graph guide */
-.amb{position:relative;height:92px;overflow:hidden;background:linear-gradient(180deg,var(--paper2),transparent);border-bottom:1px solid var(--rule)}
+.amb{position:relative;height:112px;overflow:hidden;background:linear-gradient(180deg,var(--paper2),transparent);border-bottom:1px solid var(--rule)}
 .amb canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
 .ambcap{font-size:12.5px;color:var(--muted);margin:6px 0 0;font-style:italic;letter-spacing:.1px}
-@media (max-width:640px){.amb{height:66px}.ambcap{font-size:12px}}
-@media print{.amb,.ambcap,.hp{display:none!important}}
+@media (max-width:640px){.amb{height:80px}.ambcap{font-size:12px}}
+.amb.hot{cursor:pointer}
+.partners{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin:6px 0 0;font-size:12.5px;color:var(--muted)}
+.partners b{font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:10.5px;border:1px solid var(--rule);border-radius:999px;padding:2px 7px}
+.partners a{display:inline-flex;align-items:center;gap:6px;color:var(--ink);text-decoration:none}
+.partners a:hover,.partners a:focus-visible{color:var(--gold2);text-decoration:underline;text-underline-offset:3px}
+.partners img{width:18px;height:18px;border-radius:50%;box-shadow:0 0 0 1.2px var(--gold)}
+@media print{.amb,.ambcap,.partners,.hp{display:none!important}}
 .hp{position:fixed;inset-inline-end:18px;bottom:18px;z-index:60}
 .hpbtn{list-style:none;cursor:pointer;display:flex;align-items:center;gap:8px;background:var(--ink);color:var(--paper);border-radius:999px;
 padding:9px 15px 9px 9px;box-shadow:0 6px 22px rgba(0,0,0,.22);font:600 14px/1 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;user-select:none}

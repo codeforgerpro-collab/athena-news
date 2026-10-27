@@ -46,15 +46,27 @@
       +"&s="+encodeURIComponent(screen.width+","+screen.height+","+(window.devicePixelRatio||1))+"&rnd="+Math.random().toString(36).slice(2);
       var im=new Image();im.src=c.getAttribute("content")+q;}catch(e){}}
   // the rolling news bar (data/breaking.json): breaking events, or the latest important updates when nothing new broke
+  var TKI={1:"M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6z",2:"M4 19h16M6 15l4-4 3 3 5-6M15 8h3v3",
+    3:"M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .3 1.8 1.2 2.7 2.5 3-.3-3 0-5.5 0-8z",4:"M3 16l2 4h14l2-4zM6 16v-5h12v5M9 11V7h6v4M12 7V4",
+    5:"M7 7h10v10H7zM10 10h4v4h-4zM4 10h3M4 14h3M17 10h3M17 14h3M10 4v3M14 4v3M10 17v3M14 17v3",6:"M4 8h16v11H4zM9 8V5h6v3M4 13h16",
+    7:"M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3M7.5 15h9",8:"M12 4v16M8 20h8M5 7h14M5 7l-3 6a3 3 0 0 0 6 0zM19 7l-3 6a3 3 0 0 0 6 0z",
+    9:"M12 21s-6-6-6-11a6 6 0 0 1 12 0c0 5-6 11-6 11zM12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z",10:"M12 4l9 16H3zM12 10v4M12 17v.5"};
   var tk=document.getElementById("ticker");
   if(tk&&window.fetch)fetch(tk.getAttribute("data-root")+"data/breaking.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
     var it=(j&&j.items)||[];if(!it.length)return;
     var brk=it.every(function(x){return x.kind==="breaking";}),base=tk.getAttribute("data-root")+tk.getAttribute("data-prefix");
-    var one=it.map(function(x){var a=ago(x.time)||"";return '<a class="ti" lang="en" href="'+esc(base+x.page)+'">'+(!brk&&x.kind==="breaking"?'<em class="tn" lang="'+LG+'">'+esc(W.new)+'</em>':'')+'<time datetime="'+esc(x.time)+'" lang="'+LG+'">'+esc(a)+'</time><b>'+esc(x.title)+'</b>'
+    // 27 Oct: a topic icon and the flags of the (at most 2) countries most reported on, before each headline
+    var rt=tk.getAttribute("data-root"),CN={},DN=null;try{CN=JSON.parse(tk.getAttribute("data-cats")||"{}");}catch(e){}
+    try{DN=new Intl.DisplayNames([LG],{type:"region"});}catch(e){}
+    function icons(x){var p=TKI[x.cat],h=p?'<span class="tki" title="'+esc(CN[x.cat]||"")+'"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="'+p+'"/></svg></span>':'';
+      var f=(x.cc||[]).map(function(c){var n="";try{n=DN?DN.of(c[1].toUpperCase()):"";}catch(e){}
+        return '<img src="'+esc(rt+"assets/cf/"+c[0]+".svg")+'" alt="" width="20" height="15" decoding="async" title="'+esc(n||"")+'">';}).join("");
+      return h+(f?'<span class="tkfs">'+f+'</span>':'');}
+    var one=it.map(function(x){var a=ago(x.time)||"";return '<a class="ti" lang="en" href="'+esc(base+x.page)+'">'+(!brk&&x.kind==="breaking"?'<em class="tn" lang="'+LG+'">'+esc(W.new)+'</em>':'')+'<time datetime="'+esc(x.time)+'" lang="'+LG+'">'+esc(a)+'</time>'+icons(x)+'<b>'+esc(x.title)+'</b>'
       +'<span class="rk '+rc(x.risk)+'" lang="'+LG+'">'+esc(W.risk)+' '+x.risk.toFixed(1)+'</span></a>';}).join("");
     var lbl=brk?W.brk:W.lat;
     tk.className="ticker"+(brk?"":" latest");tk.setAttribute("role","region");tk.setAttribute("aria-label",lbl);
-    tk.innerHTML='<div class="wrap"><div class="tl"><i></i>'+esc(lbl)+'<span>· '+it.length+'</span></div><div class="tv"><div class="tt">'+one+'<span aria-hidden="true" style="display:inline-flex">'+one+'</span></div></div>'
+    tk.innerHTML='<div class="wrap"><div class="tl"><i></i><img class="tk-owl" src="'+esc(rt+"assets/athena_mark.svg")+'" alt="" width="20" height="20">'+esc(lbl)+'<span>· '+it.length+'</span></div><div class="tv"><div class="tt">'+one+'<span aria-hidden="true" style="display:inline-flex">'+one+'</span></div></div>'
       +'<button class="tp" type="button" aria-label="'+esc(W.pause)+'" title="'+esc(W.pp)+'">❚❚</button></div>';
     [].forEach.call(tk.querySelectorAll('[aria-hidden] a'),function(a){a.tabIndex=-1;});
     var tt=tk.querySelector(".tt");tk.hidden=false;
