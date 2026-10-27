@@ -66,13 +66,32 @@
       +'<span class="rk '+rc(x.risk)+'" lang="'+LG+'">'+esc(W.risk)+' '+x.risk.toFixed(1)+'</span></a>';}).join("");
     var lbl=brk?W.brk:W.lat;
     tk.className="ticker"+(brk?"":" latest");tk.setAttribute("role","region");tk.setAttribute("aria-label",lbl);
-    tk.innerHTML='<div class="wrap"><div class="tl"><i></i><img class="tk-owl" src="'+esc(rt+"assets/athena_mark.svg")+'" alt="" width="20" height="20">'+esc(lbl)+'<span>· '+it.length+'</span></div><div class="tv"><div class="tt">'+one+'<span aria-hidden="true" style="display:inline-flex">'+one+'</span></div></div>'
+    tk.innerHTML='<div class="wrap"><div class="tl"><i></i><img class="tk-owl" src="'+esc(rt+"assets/athena_icon.svg")+'" alt="" width="20" height="20">'+esc(lbl)+'<span>· '+it.length+'</span></div><div class="tv"><div class="tt">'+one+'<span aria-hidden="true" style="display:inline-flex">'+one+'</span></div></div>'
       +'<button class="tp" type="button" aria-label="'+esc(W.pause)+'" title="'+esc(W.pp)+'">❚❚</button></div>';
     [].forEach.call(tk.querySelectorAll('[aria-hidden] a'),function(a){a.tabIndex=-1;});
     var tt=tk.querySelector(".tt");tk.hidden=false;
     var dv=document.querySelector(".dev");if(dv)dv.hidden=true;                             // the bar replaces the static "developing" strip
     tt.style.setProperty("--tkd",Math.max(25,Math.round(tt.scrollWidth/2/60))+"s");          // ~60 px a second, whatever the number of items
     var pb=tk.querySelector(".tp");pb.addEventListener("click",function(){var p=tk.classList.toggle("paused");pb.textContent=p?"▶":"❚❚";});
+  }).catch(function(){});
+  // 27 Oct: Notices from ATHENA (data/notices.json) - shown inside their time window, most important first; closing one
+  // hides it in this browser until it is changed (its revision)
+  var nb=document.getElementById("nbar");
+  if(nb&&window.fetch)fetch(nb.getAttribute("data-root")+"data/notices.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
+    var NL={};try{NL=JSON.parse(nb.getAttribute("data-l")||"{}");}catch(e){}
+    var lg=nb.getAttribute("data-lang")||"en",now=Date.now()/1000,rk={important:0,correction:1,notice:2};
+    function seen(x){try{return localStorage.getItem("athena-nb-"+x.id)===String(x.rev);}catch(e){return false;}}
+    var it=((j&&j.items)||[]).filter(function(x){return !x.withdrawn&&x.start<=now&&(!x.end||x.end>now);});
+    var open=it.filter(function(x){return !seen(x);}).sort(function(a,b){return (rk[a.kind]-rk[b.kind])||(b.start-a.start);});
+    if(!open.length)return;
+    var x=open[0],own=lg==="el"&&x.title.el,ti=own?x.title.el:x.title.en,tx=own?x.text.el:x.text.en,la=(lg!=="en"&&!own)?' lang="en"':'';
+    var page=nb.getAttribute("data-root")+nb.getAttribute("data-prefix")+"notices.html#n-"+x.id;
+    nb.className="nbar k-"+x.kind;nb.setAttribute("role","region");nb.setAttribute("aria-label",(NL.k||{})[x.kind]||"Notice");
+    nb.innerHTML='<div class="wrap"><span class="nk">'+esc((NL.k||{})[x.kind]||x.kind)+'</span><a class="nt" href="'+esc(page)+'"'+la+'><b>'+esc(ti)+'</b> '
+      +'<span>'+esc(tx.split("\n")[0])+'</span></a>'+(open.length>1?'<a class="nmore" href="'+esc(nb.getAttribute("data-root")+nb.getAttribute("data-prefix")+"notices.html")+'">'+esc((NL.plus||"+{n}").replace("{n}",open.length-1))+'</a>':'')
+      +'<button class="nx" type="button" aria-label="'+esc(NL.close||"Close")+'" title="'+esc(NL.close||"Close")+'">&times;</button></div>';
+    nb.hidden=false;
+    nb.querySelector(".nx").addEventListener("click",function(){try{localStorage.setItem("athena-nb-"+x.id,String(x.rev));}catch(e){}nb.hidden=true;});
   }).catch(function(){});
   // WEB-1.4: the boxes that change with every other story ("More in …", the tracker figures) are filled here from
   // data/related.json, so an event page itself changes — and is uploaded again — only when its own story changes

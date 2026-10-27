@@ -141,6 +141,24 @@ mask-image:linear-gradient(90deg,transparent,#000 24px,#000 calc(100% - 24px),tr
 @keyframes tkm{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @keyframes tkp{0%,100%{opacity:1}50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.ticker .tt{animation:none}.ticker .tv{overflow-x:auto}.ticker .tl i{animation:none}}
+/* 27 Oct: Notices from ATHENA - the bar under the menu and notices.html */
+.nbar{border-bottom:1px solid var(--rule);font-size:14px;--nc:#a8843a;background:color-mix(in srgb,var(--nc) 10%,var(--card))}
+.nbar.k-important{--nc:#b3261e}.nbar.k-correction{--nc:#1d5fa8}
+.nbar .wrap{display:flex;align-items:center;gap:12px;padding-top:9px;padding-bottom:9px}
+.nbar .nk,.ntc .nk{flex:none;font:700 10.5px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;padding:5px 9px;border-radius:999px;color:#fff;background:var(--nc)}
+.nbar .nt{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink)}.nbar .nt:hover b{text-decoration:underline}
+.nbar .nt span{color:var(--ink2)}.nbar .nmore{flex:none;font-size:13px;font-weight:600;color:var(--nc)}
+.nbar .nx{flex:none;border:0;background:transparent;color:var(--muted);font-size:20px;line-height:1;cursor:pointer;padding:0 4px}.nbar .nx:hover{color:var(--ink)}
+@media (max-width:640px){.nbar .nt{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}}
+.ntc{--nc:#a8843a;border:1px solid var(--rule);border-inline-start:4px solid var(--nc);border-radius:10px;padding:14px 18px 12px;margin:16px 0;background:var(--card);scroll-margin-top:90px}
+.ntc.k-important{--nc:#b3261e}.ntc.k-correction{--nc:#1d5fa8}.ntc.off{opacity:.7}
+.ntc-h{display:flex;flex-wrap:wrap;align-items:center;gap:10px;font-size:13px;color:var(--muted)}.ntc-h .wd{font-weight:700;color:var(--crit)}
+.ntc h2{font-size:21px;margin:10px 0 6px}.ntc p{margin:6px 0}.ntc .ntc-s{font-size:13px;color:var(--muted);font-style:italic}
+.ntc:target{box-shadow:0 0 0 3px color-mix(in srgb,var(--nc) 35%,transparent)}
+.prose figure.seal{float:right;margin:4px 0 14px 22px;width:150px;text-align:center}.prose figure.seal img{width:132px;height:132px;filter:drop-shadow(0 4px 10px rgba(0,0,0,.25))}
+.prose figure.seal figcaption{font-size:12px;line-height:1.4;color:var(--muted);font-style:italic;margin-top:6px}
+[dir="rtl"] .prose figure.seal{float:left;margin:4px 22px 14px 0}
+@media (max-width:640px){.prose figure.seal{float:none;margin:0 auto 16px}}
 @media (max-width:640px){.ticker .tl span{display:none}.ticker .tl{padding:8px 10px}.ticker{font-size:13px}.ticker .tkfs{display:none}}
 /* 27 Oct — ticker icons: the ATHENA owl in the label, a topic icon and the flags of the countries most reported on */
 .ticker .tl .tk-owl{width:20px;height:20px;border-radius:50%;box-shadow:0 0 0 1.5px rgba(255,255,255,.85);flex:none;animation:tkow 3.2s ease-in-out infinite}
@@ -535,3 +553,31 @@ color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);b
 .newsclick{cursor:pointer;border-radius:8px;transition:background-color .15s}
 .newsclick:hover{background-color:color-mix(in srgb,var(--gold) 9%,transparent)}
 .newsclick:hover a[href*="event/"]{text-decoration:underline}
+
+/* 27 Oct: Country Intelligence */
+.ci-regions{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 6px}
+.ci-reg{font-family:var(--head);font-size:24px;margin:26px 0 10px;padding-top:6px;border-top:1px solid var(--rule);scroll-margin-top:90px}
+.ci-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+.ci{border:1px solid var(--rule);border-radius:12px;background:var(--card);padding:14px 16px;scroll-margin-top:90px}
+.ci-h{display:flex;align-items:center;gap:10px}.ci-h h3{flex:1;margin:0;font-size:19px}
+.ci-h img{border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.15);flex:none}
+.ci-s{font-size:13px;color:var(--muted);margin:8px 0 6px}
+.ci-bar{height:5px;border-radius:3px;background:var(--rule);overflow:hidden;margin-bottom:8px}.ci-bar i{display:block;height:100%;background:var(--high)}
+.ci-top{list-style:none;margin:0;padding:0}.ci-top li{padding:5px 0;border-top:1px dotted var(--rule);font-size:14px;line-height:1.35}
+.ci-top li:first-child{border-top:0}.ci-top .rk{font-size:11px;white-space:nowrap}
+
+/* 27 Oct: Markets - directions only */
+.mk-g{font-family:var(--head);font-size:24px;margin:26px 0 10px;padding-top:6px;border-top:1px solid var(--rule)}
+table.mk{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--rule);border-radius:12px;overflow:hidden;font-size:15px}
+table.mk th,table.mk td{padding:9px 12px;border-top:1px solid var(--rule);text-align:center}
+table.mk thead th{border-top:0;font:600 12px/1.2 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+table.mk{table-layout:fixed}table.mk thead th:first-child{width:34%}table.mk thead th:last-child{width:28%}
+table.mk th[scope=row]{text-align:start;font-weight:600}table.mk .mk-n{text-align:start;font-size:12.5px;color:var(--muted)}
+table.mk tr.u{background:color-mix(in srgb,var(--high) 7%,transparent)}.mk-u{color:var(--high)}
+.mk-d{font-size:15px}.mk-d.up{color:#1f9d55}.mk-d.down{color:var(--crit)}.mk-d.flat{color:var(--muted)}.mk-d.none{color:var(--rule2,var(--muted))}
+.mk-src{color:var(--muted);margin-top:10px}
+ul.mk-news{list-style:none;margin:0;padding:0}ul.mk-news li{padding:8px 0;border-top:1px dotted var(--rule)}ul.mk-news li:first-child{border-top:0}
+@media (max-width:640px){table.mk th,table.mk td{padding:7px 6px}table.mk .mk-n{display:none}}
+details.mk-panel{border:1px solid var(--rule);border-radius:14px;background:var(--paper2);padding:6px 18px 16px;margin:0 0 22px}
+details.mk-panel>summary{cursor:pointer;font:700 13px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;padding:12px 0 6px;color:var(--ink)}
+details.mk-panel .mk-g{font-size:20px;margin:16px 0 8px}

@@ -28,7 +28,7 @@
   var FLAGS = ["grc", "cyp", "tur", "usa", "gbr", "deu", "fra", "ita", "esp", "ukr", "rus", "chn", "isr", "irn", "egy", "sau", "jpn", "ind"], FL = {}, FLK = [];
   function img(src) { var i = new Image(); i.decoding = "async"; i.onload = function () { SPR = {}; if (still) start(); }; i.src = src; return i; }
   FLAGS.forEach(function (k) { FL[k] = img(root + "assets/cf/" + k + ".svg"); FLK.push("f:" + k); });
-  var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] };
+  var OWL = img(root + "assets/athena_icon.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] };
   try { SYMS = JSON.parse(box.getAttribute("data-sym") || "{}"); } catch (e) {}
   var XS = (SYMS.x || []).map(function (s) { return img(s.src); });
   function crypto() { var a = []; if (SYMS.btc !== false) a.push("btc"); if (SYMS.eth !== false) a.push("eth"); XS.forEach(function (_, i) { a.push("x:" + i); }); return a; }
