@@ -111,14 +111,15 @@
     if (!n) { panel.innerHTML = '<p class="small">' + esc(I.panel) + "</p>"; return; }
     var h;
     if (n.t === "e") {
-      h = '<div class="small">' + esc(I.t_e) + '</div><h3 lang="en">' + esc(n.label) + "</h3>" +
+      h = '<div class="small">' + esc(I.t_e) + '</div><h3 lang="en"><a href="' + esc(I.base + "event/" + n.sid + ".html") + '">' + esc(n.label) + "</a></h3>" +
         '<div class="row"><span>' + esc(I.p_risk) + '</span><b style="color:' + riskCol(n.risk) + '">' + num(n.risk, 1) + "/10</b></div>" +
         '<div class="row"><span>' + esc(I.p_imp) + "</span><b>" + num(n.imp, 1) + "/10</b></div>" +
         '<div class="row"><span>' + esc(I.p_conf) + "</span><b>" + Math.round(n.conf * 100) + "%</b></div>" +
         '<div class="row"><span>' + num(n.outlets, 0) + " " + esc(I.p_outlets) + "</span><b>" + num(n.covered, 0) + " " + esc(I.p_covered) + "</b></div>";
       var gr = {}; (adj[n.id] || []).forEach(function (m) { (gr[m.t] = gr[m.t] || []).push(label(m)); });
       ["c", "k", "t", "a"].forEach(function (t) { if (gr[t]) h += "<p><b>" + esc(I["t_" + t]) + ":</b> " + esc(gr[t].join(", ")) + "</p>"; });
-      h += '<a class="go" href="' + esc(I.base + "event/" + n.sid + ".html") + '">' + esc(I.p_open) + " ›</a>";
+      h += '<a class="go" href="' + esc(I.base + "event/" + n.sid + ".html") + '">' + esc(I.p_open) + " ›</a>" +
+        '<p class="small mgtip">' + esc(I.p_again || "") + "</p>";
     } else {
       var evs = (adj[n.id] || []).filter(function (m) { return m.t === "e"; }).sort(function (a, b) { return b.risk - a.risk; });
       h = '<div class="small">' + esc(I["t_" + n.t]) + (n.region ? " · " + esc(I.regions[n.region] || n.region) : "") + "</div><h3>" + esc(label(n)) + "</h3>" +
@@ -129,7 +130,13 @@
     panel.innerHTML = h;
   }
   function pos(ev) { var r = host.getBoundingClientRect(); return [ev.clientX - r.left, ev.clientY - r.top]; }
-  var drag = null, moved = false, pts = {}, pinch = 0;
+  var drag = null, moved = false, pts = {}, pinch = 0, lastTap = 0, lastNode = null;
+  function openEvent(n, tab) {                                          // 27 Oct: one click on a news dot opens the story
+    if (!n || n.t !== "e" || !n.sid) return;
+    var u = I.base + "event/" + n.sid + ".html";
+    if (tab) { var w = window.open(u, "_blank", "noopener"); if (w) w.opener = null; } else location.href = u;
+  }
+  host.addEventListener("keydown", function (ev) { if (ev.key === "Enter" && sel && sel.t === "e") openEvent(sel); });
   host.addEventListener("pointerdown", function (ev) {
     var p = pos(ev); host.setPointerCapture(ev.pointerId); pts[ev.pointerId] = p; moved = false;
     var n = at(p[0], p[1]); drag = { n: n, x: p[0], y: p[1], ox: ox, oy: oy }; if (n) n.fixed = true; host.classList.add("drag");
@@ -147,16 +154,27 @@
       else { ox = drag.ox + dx; oy = drag.oy + dy; viewMoved = true; draw(); }
       return;
     }
-    var h = at(p[0], p[1]); if (h !== hov) { hov = h; host.style.cursor = h ? "pointer" : ""; draw(); }
+    var h = at(p[0], p[1]);
+    if (h !== hov) {
+      hov = h; host.style.cursor = h ? "pointer" : ""; host.title = h && h.t === "e" ? h.label + " - " + (I.p_again || "") : "";
+      if (ev.pointerType === "mouse" && !(R && !sel)) details(h && h.t === "e" ? h : sel);   // point at a news dot: its numbers, before the click
+      draw();
+    }
   });
   function up(ev) {
     delete pts[ev.pointerId]; pinch = 0; host.classList.remove("drag");
-    if (drag && !moved) { sel = drag.n || null; details(sel); }
+    if (drag && !moved) {
+      if (drag.n && drag.n.t === "e") {                                 // a news dot: straight to the story (Ctrl/middle: new tab)
+        openEvent(drag.n, ev.ctrlKey || ev.metaKey || ev.shiftKey || ev.button === 1);
+      } else {
+        sel = drag.n || null; details(sel);
+      }
+    }
     if (drag && drag.n && !moved) drag.n.fixed = false;
     drag = null; draw();
   }
   host.addEventListener("pointerup", up); host.addEventListener("pointercancel", up);
-  host.addEventListener("pointerleave", function () { if (hov) { hov = null; draw(); } });
+  host.addEventListener("pointerleave", function () { if (hov) { hov = null; host.title = ""; if (!(R && !sel)) details(sel); draw(); } });
   function zoom(px, py, f) { viewMoved = true; var nk = Math.min(4, Math.max(0.25, k * f)); ox = px - (px - ox) * nk / k; oy = py - (py - oy) * nk / k; k = nk; draw(); }
   host.addEventListener("wheel", function (ev) { ev.preventDefault(); var p = pos(ev); zoom(p[0], p[1], ev.deltaY < 0 ? 1.12 : 1 / 1.12); }, { passive: false });
   function refilter() { if (R && qs) { R = resolve(R.r); report(qs.value); } if (reduce) { for (var i = 0; i < 150; i++) tick(); draw(); } else run(); }

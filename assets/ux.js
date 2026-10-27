@@ -117,3 +117,40 @@
   document.addEventListener("visibilitychange", function () { on = !document.hidden; if (on && !still) start(); });
   if (window.MutationObserver) new MutationObserver(function () { colours(); if (still) start(); }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme", "class"] });
 })();
+
+/* 27 Oct: the whole news item opens the story, on every page - not only the headline. The headline stays the real link
+   (keyboard, screen readers, "open in new tab"); other links and buttons inside the item keep their own job; selecting
+   text never jumps; Ctrl/Cmd/Shift or the middle button opens a new tab. Lists drawn later (local news, maritime panel,
+   Ask results) are picked up too. */
+(function () {
+  var main = document.querySelector("main"); if (!main) return;
+  var EV = 'a[href*="event/"]';
+  function uniq(el) { var s = {}, n = 0; el.querySelectorAll(EV).forEach(function (a) { var h = a.getAttribute("href"); if (!s[h]) { s[h] = 1; n++; } }); return n; }
+  function mark() {
+    main.querySelectorAll(EV).forEach(function (a) {
+      if (a.closest(".newsclick") || (a.textContent || "").trim().length < 15 || a.closest("h1")) return;
+      var c = a.parentElement, best = null;
+      for (var i = 0; i < 4 && c && c !== main; i++) {
+        if (/^(LI|DIV|ARTICLE|P|SECTION|TR)$/.test(c.tagName) && !c.matches("#mg,#mgp,.mgwrap,.mgcols,.hp,.amb,form,nav")) {
+          if (uniq(c) !== 1) break;
+          if (c.getBoundingClientRect().height < 420) best = c;
+        }
+        c = c.parentElement;
+      }
+      if (best) { best.classList.add("newsclick"); best.setAttribute("data-go", a.href); }
+    });
+  }
+  function go(ev, tab) {
+    var c = ev.target.closest && ev.target.closest(".newsclick"); if (!c) return;
+    if (ev.target.closest("a,button,input,select,textarea,label,summary,[role=button],[contenteditable]")) return;
+    try { if (String(window.getSelection() || "").trim()) return; } catch (er) {}
+    var u = c.getAttribute("data-go"); if (!u) return;
+    ev.preventDefault();
+    if (tab) { var w = window.open(u, "_blank", "noopener"); if (w) w.opener = null; } else location.href = u;
+  }
+  document.addEventListener("click", function (ev) { if (ev.button === 0) go(ev, ev.ctrlKey || ev.metaKey || ev.shiftKey); });
+  document.addEventListener("auxclick", function (ev) { if (ev.button === 1) go(ev, true); });
+  mark();
+  var tm = null;
+  if (window.MutationObserver) new MutationObserver(function () { clearTimeout(tm); tm = setTimeout(mark, 120); }).observe(main, { childList: true, subtree: true });
+})();
