@@ -141,6 +141,11 @@ mask-image:linear-gradient(90deg,transparent,#000 24px,#000 calc(100% - 24px),tr
 @keyframes tkm{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @keyframes tkp{0%,100%{opacity:1}50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.ticker .tt{animation:none}.ticker .tv{overflow-x:auto}.ticker .tl i{animation:none}}
+/* 27 Oct: event 'why it matters' / 'what changed', tracker hubs */
+.brief .why,.brief .chg{margin:8px 0 0;font-size:15px}.brief .chg{color:var(--muted);font-size:14px}
+.box.explained{margin:18px 0}.box.explained h2{font-family:var(--head);font-size:22px;margin:0 0 6px}.box.explained h3{font-size:14px;margin:12px 0 4px;letter-spacing:.04em}
+ul.timeline .tl-day>h3{font:700 12px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:16px 0 6px}
+a.chip{text-decoration:none}a.chip:hover{text-decoration:underline}
 /* 27 Oct: Notices from ATHENA - the bar under the menu and notices.html */
 .nbar{border-bottom:1px solid var(--rule);font-size:14px;--nc:#a8843a;background:color-mix(in srgb,var(--nc) 10%,var(--card))}
 .nbar.k-important{--nc:#b3261e}.nbar.k-correction{--nc:#1d5fa8}
@@ -565,6 +570,12 @@ color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);b
 .ci-bar{height:5px;border-radius:3px;background:var(--rule);overflow:hidden;margin-bottom:8px}.ci-bar i{display:block;height:100%;background:var(--high)}
 .ci-top{list-style:none;margin:0;padding:0}.ci-top li{padding:5px 0;border-top:1px dotted var(--rule);font-size:14px;line-height:1.35}
 .ci-top li:first-child{border-top:0}.ci-top .rk{font-size:11px;white-space:nowrap}
+
+/* 27 Oct: one page per country */
+.cp-h{display:flex;align-items:center;gap:16px;margin:10px 0 14px}.cp-h img{border-radius:4px;box-shadow:0 0 0 1px rgba(0,0,0,.15);flex:none}
+.cp-h h1{margin:0;font-size:32px}.cp-h>div{flex:1;min-width:0}.cp-h .rk{flex:none}
+ol.cp-top{margin:0;padding-inline-start:22px}ol.cp-top li{padding:10px 0;border-top:1px dotted var(--rule)}ol.cp-top li:first-child{border-top:0}
+.ci-more{display:inline-block;margin-top:8px;font-weight:600;font-size:13.5px}
 
 /* 27 Oct: Markets - directions only */
 .mk-g{font-family:var(--head);font-size:24px;margin:26px 0 10px;padding-top:6px;border-top:1px solid var(--rule)}
