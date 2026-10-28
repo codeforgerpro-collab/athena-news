@@ -474,6 +474,10 @@ border-radius:14px;background:linear-gradient(135deg,color-mix(in srgb,#229ed9 1
 .tgline>svg{color:#229ed9;flex:none}.tgline>span{flex:1;font-weight:600;min-width:200px}.tgline .tgbtn{padding:8px 14px}
 @media (max-width:760px){.tgbox{grid-template-columns:1fr}.tgic{display:none}}
 
+/* LOCALDESK-1.1: section chips */
+.lcsec{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 8px}.lcsec .qchip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.lcoff{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--gold)}
+
 /* WEB-1.10 Local news */
 .lcform{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:16px 0 10px}
 .lcform label{font-weight:700}.lcform input{flex:1;min-width:240px;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--card);color:var(--ink)}
@@ -578,7 +582,11 @@ color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);b
 .cp-h h1{margin:0;font-size:32px}.cp-h>div{flex:1;min-width:0}.cp-h .rk{flex:none}
 ol.cp-top{margin:0;padding-inline-start:22px}ol.cp-top li{padding:10px 0;border-top:1px dotted var(--rule)}ol.cp-top li:first-child{border-top:0}
 .ci-more{display:inline-block;margin-top:8px;font-weight:600;font-size:13.5px}
-/* 28 Oct: Local merged in */
+/* 28 Oct: Local merged in; Most reported */
+.mostrep{margin:4px 0 8px}.mostrep .ci-reg{border-top:0;margin-top:14px}.mrl li{padding:6px 0}
+.ci-mr{font-size:13.5px;line-height:1.35;margin:2px 0 8px;padding:7px 10px;border-radius:8px;background:color-mix(in srgb,var(--gold) 9%,transparent)}
+.ci-mr .lcmt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:11.5px;margin-top:2px}
+.ci-mr .ci-mrl{font-weight:700;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.05em}.ci-mr .lco{color:var(--ink)}
 .lcfind{margin:16px 0 6px;padding:4px 18px 14px;border:1px solid var(--rule);border-radius:12px;background:var(--card)}
 .lcfind .ci-reg{border-top:0;margin-top:10px}.lcemb{margin-top:4px}
 
