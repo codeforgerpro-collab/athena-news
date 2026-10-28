@@ -57,6 +57,8 @@ h1,h2,h3,h4{margin:0;font-family:var(--head);font-weight:700;color:var(--ink);le
 .front .lead{padding-right:28px;border-right:1px solid var(--rule)}.front .lead .hl-xl a:hover{text-decoration:none;color:var(--gold2)}
 .front .tops{padding-left:24px}
 .glance{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}
+.glhow{margin:8px 0 0;font-size:13.5px;font-weight:600}.glhow a{color:var(--muted)}.glhow a:hover{color:var(--ink)}
+#numbers{scroll-margin-top:90px}
 .gl{border:1px solid var(--rule);border-radius:4px;padding:8px 12px;min-width:112px;background:var(--card)}
 .gl b{display:block;font-family:var(--head);font-size:24px;line-height:1.1;font-variant-numeric:lining-nums}.gl span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .gl.crit{border-top:3px solid var(--crit)}.gl.high{border-top:3px solid var(--high)}.gl.elev{border-top:3px solid var(--elev)}
