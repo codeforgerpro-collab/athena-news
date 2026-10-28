@@ -1,0 +1,1 @@
+(function(){var s=document.getElementById("fwd");if(!s)return;var d=JSON.parse(s.textContent||"{}"),h=(location.hash||"").slice(1).toUpperCase(),p=d.p||{};location.replace(p[h]?p[h]+"#local":d.to+(h?"#"+h:""));})();
