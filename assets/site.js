@@ -159,3 +159,11 @@
     if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fmt.format(new Date(t.getAttribute("datetime")));}
     if(fmt)t.title=fmt.format(new Date(t.getAttribute("datetime")));});
 })();
+
+/* 28 Oct: the menu - one drop-down open at a time; Escape or a click elsewhere closes it */
+(function(){var nav=document.querySelector("nav.sections");if(!nav)return;
+var all=function(){return nav.querySelectorAll("details")};
+nav.addEventListener("toggle",function(ev){var d=ev.target;if(d.open)all().forEach(function(x){if(x!==d&&!x.contains(d))x.open=false})},true);
+document.addEventListener("click",function(ev){if(!nav.contains(ev.target))all().forEach(function(x){x.open=false})});
+document.addEventListener("keydown",function(ev){if(ev.key==="Escape")all().forEach(function(x){if(x.open){x.open=false;var s=x.querySelector("summary");if(s)s.focus()}})});
+})();
