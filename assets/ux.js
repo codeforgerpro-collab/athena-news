@@ -1,4 +1,186 @@
 
+/* 28 Oct: the readers' quick tour - first visit, or each new session when the reader switched it on */
+(function () {
+  "use strict";
+  var src = document.getElementById("tour-i18n");
+  window.athenaTourAuto = function () { return false; };
+  if (!src) return;
+  var T = JSON.parse(src.textContent || "{}"), KEY = "athena-tour";
+  function get() { try { return localStorage.getItem(KEY); } catch (e) { return "blocked"; } }
+  function put(v) { try { localStorage.setItem(KEY, v); } catch (e) { /* private mode */ } }
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  var WHERE = { menu: ["nav.sections .nmain", "nav.sections .nmob"], ask: ["nav.sections > .wrap > .nask", "nav.sections .nsrch"], ticker: ["#ticker"],
+                numbers: [".glance"], sources: [".srcs"], display: [".util .modes", ".util .tsz"], help: ["#hp .hpbtn", "#hp"] };
+  function shown(el) { if (!el || el.closest("[hidden]")) return false; var r = el.getBoundingClientRect(); return r.width > 4 && r.height > 4; }
+  function find(k) { var l = WHERE[k]; if (!l) return null; for (var i = 0; i < l.length; i++) { var el = document.querySelector(l[i]); if (shown(el)) return el; } return undefined; }
+  var box = null, list = [], at = 0, last = null, autoOn = false;
+  function close() {
+    if (!box) return;
+    put(autoOn ? "on" : "off");
+    document.removeEventListener("keydown", keys, true); window.removeEventListener("resize", place); window.removeEventListener("scroll", onScroll, true);
+    box.remove(); box = null;
+    if (last && last.focus) try { last.focus(); } catch (e) { /* gone */ }
+    syncHelp();
+  }
+  var sT = 0;
+  function onScroll() {                                                 /* while the page scrolls, the spotlight follows at once */
+    if (!box) return;
+    box.classList.add("scrolling"); place();
+    clearTimeout(sT); sT = setTimeout(function () { if (box) { box.classList.remove("scrolling"); place(); } }, 140);
+  }
+  function keys(ev) {
+    if (!box) return;
+    if (ev.key === "Escape") { ev.preventDefault(); close(); }
+    else if (ev.key === "ArrowRight") { ev.preventDefault(); go(at + 1); }
+    else if (ev.key === "ArrowLeft") { ev.preventDefault(); go(at - 1); }
+  }
+  function place() {
+    if (!box) return;
+    var s = list[at], ring = box.querySelector(".tour-ring"), card = box.querySelector(".tour-card");
+    var el = s.el, vw = window.innerWidth, vh = window.innerHeight;
+    if (!el) { box.classList.remove("has-ring"); ring.hidden = true;
+      card.style.left = Math.max(12, (vw - card.offsetWidth) / 2) + "px"; card.style.top = Math.max(12, (vh - card.offsetHeight) / 2) + "px"; return; }
+    var r = el.getBoundingClientRect(), pad = 6, kids = el.children;
+    if (kids && kids.length && kids.length < 12) {                     /* hug the content, not a full-width row */
+      var L = 1e9, Tp = 1e9, Rr = -1e9, B = -1e9;
+      for (var c = 0; c < kids.length; c++) { var q = kids[c].getBoundingClientRect(); if (q.width && q.height) { L = Math.min(L, q.left); Tp = Math.min(Tp, q.top); Rr = Math.max(Rr, q.right); B = Math.max(B, q.bottom); } }
+      if (Rr > L && B > Tp && (Rr - L) < r.width * 0.9) r = { left: L, top: Tp, right: Rr, bottom: B, width: Rr - L, height: B - Tp };
+    }
+    ring.hidden = false; box.classList.add("has-ring");
+    ring.style.left = (r.left - pad) + "px"; ring.style.top = (r.top - pad) + "px"; ring.style.width = (r.width + 2 * pad) + "px"; ring.style.height = (r.height + 2 * pad) + "px";
+    if (vw <= 640) return;                                              /* phones: the card sits at the bottom (CSS) */
+    var cw = card.offsetWidth, ch = card.offsetHeight, top = r.bottom + 14;
+    if (top + ch > vh - 12) top = r.top - ch - 14;
+    if (top < 12) top = Math.min(vh - ch - 12, Math.max(12, r.bottom + 14));
+    var left = Math.min(vw - cw - 12, Math.max(12, r.left + r.width / 2 - cw / 2));
+    card.style.left = left + "px"; card.style.top = top + "px";
+  }
+  function go(i) {
+    if (!box) return;
+    if (i < 0) return;
+    if (i >= list.length) { close(); return; }
+    at = i;
+    var s = list[i], n = list.length, end = s.k === "end", card = box.querySelector(".tour-card");
+    var follow = end && (T.tg || T.x) ? '<div class="tour-follow">' + (T.tg ? '<a href="' + esc(T.tg) + '" target="_blank" rel="noopener">Telegram</a>' : "") +
+      (T.x ? '<a href="' + esc(T.x) + '" target="_blank" rel="noopener me">X</a>' : "") + "</div>" : "";
+    var dots = "<div class=\"tour-dots\" aria-hidden=\"true\">" + list.map(function (_, j) { return "<i" + (j === i ? ' class="on"' : "") + "></i>"; }).join("") + "</div>";
+    var auto = (i === 0 || end) ? '<label class="tour-auto"><input type="checkbox"' + (autoOn ? " checked" : "") + "> <span>" + esc(T.auto) + "</span></label>" : "";
+    card.innerHTML = '<p class="tour-k">' + esc(T.label) + " · " + esc(String(T.step).replace("{i}", i + 1).replace("{n}", n)) + "</p>" +
+      (s.k === "welcome" ? '<img class="tour-owl" src="' + esc(owl) + '" alt="" width="44" height="44">' : "") +
+      '<h3 id="tour-h">' + esc(s.h) + '</h3><p id="tour-p">' + esc(s.p) + "</p>" + follow + dots + auto +
+      '<div class="tour-btns">' + (end ? "" : '<button type="button" class="tour-skip">' + esc(T.skip) + "</button>") + '<span class="grow"></span>' +
+      (i > 0 ? '<button type="button" class="tour-back">' + esc(T.back) + "</button>" : "") +
+      '<button type="button" class="tour-next">' + esc(end ? T.done : T.next) + " " + (end ? "" : "&rsaquo;") + "</button></div>";
+    var a = card.querySelector(".tour-auto input"); if (a) a.addEventListener("change", function () { autoOn = a.checked; put(autoOn ? "on" : "off"); });
+    card.querySelector(".tour-next").addEventListener("click", function () { go(at + 1); });
+    var b = card.querySelector(".tour-back"); if (b) b.addEventListener("click", function () { go(at - 1); });
+    var k = card.querySelector(".tour-skip"); if (k) k.addEventListener("click", close);
+    if (s.el) { try { s.el.scrollIntoView({ block: "center", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); } catch (e) { s.el.scrollIntoView(); } }
+    place(); setTimeout(place, 320); setTimeout(place, 700);
+    card.querySelector(".tour-next").focus({ preventScroll: true });
+  }
+  var owl = (document.querySelector(".mast img") || {}).src || "";
+  function start() {
+    if (box) return;
+    try { sessionStorage.setItem("athena-tour-session", "1"); sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { /* ok */ }
+    var w = document.getElementById("welc"); if (w) w.hidden = true;
+    var hp = document.getElementById("hp"); if (hp) hp.open = false;
+    list = (T.steps || []).map(function (s) { var el = find(s.k); return { k: s.k, h: s.h, p: s.p, el: el }; })
+      .filter(function (s) { return s.el !== undefined; });
+    last = document.activeElement;
+    autoOn = get() === "on";
+    box = document.createElement("div"); box.className = "tour";
+    box.innerHTML = '<div class="tour-dim"></div><div class="tour-ring" hidden></div><div class="tour-card" role="dialog" aria-modal="true" aria-labelledby="tour-h" aria-describedby="tour-p"></div>';
+    document.body.appendChild(box);
+    box.querySelector(".tour-dim").addEventListener("click", function () { go(at + 1); });
+    document.addEventListener("keydown", keys, true); window.addEventListener("resize", place); window.addEventListener("scroll", onScroll, true);
+    go(0);
+  }
+  function auto() {
+    var v = get(), seen = false, played = true;
+    try { seen = sessionStorage.getItem("athena-tour-session") === "1"; } catch (e) { seen = true; }
+    try { played = localStorage.getItem("athena-intro") === "1"; } catch (e) { played = true; }
+    var wantTour = (T.steps || []).length && !seen && (v === null || v === "on");
+    var wantIntro = IN.on && !played && !seen;                          /* the intro: once per browser (and from Help) */
+    if ((!wantTour && !wantIntro) || window.innerWidth < 320) return false;
+    try { sessionStorage.setItem("athena-tour-session", "1"); sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { /* ok */ }
+    var next = function () { if (wantTour) setTimeout(start, 250); };
+    if (wantIntro) { try { localStorage.setItem("athena-intro", "1"); } catch (e) { /* ok */ } intro(next); } else setTimeout(next, 450);
+    return true;
+  }
+  /* ------------------------------------------------ the ATHENA intro (vector; the same animation as the social video) */
+  var IN = T.intro || {}, MARK = '<svg class="ai-mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z" fill="#0B1630" stroke="#C9A45C" stroke-width="2.4" stroke-linejoin="round"/><path d="M14.5 24 L17.5 9.5 L25.5 17.5 Z M49.5 24 L46.5 9.5 L38.5 17.5 Z" fill="#C9A45C"/><path d="M32 18.5 C25 13.5 14 15 14 27.5 C14 38.5 22.5 45 32 47 C41.5 45 50 38.5 50 27.5 C50 15 39 13.5 32 18.5 Z" fill="#14254D" stroke="#C9A45C" stroke-width="1.6"/><g fill="none" stroke="#C9A45C" stroke-width="1.8"><circle cx="24" cy="30" r="6.2"/><circle cx="40" cy="30" r="6.2"/></g><circle cx="24" cy="30" r="4" fill="#E2C27F"/><circle cx="40" cy="30" r="4" fill="#E2C27F"/><g class="ai-pup"><circle cx="24" cy="30" r="1.7" fill="#0B1630"/><circle cx="40" cy="30" r="1.7" fill="#0B1630"/><circle cx="24.9" cy="29" r=".7" fill="#fff"/><circle cx="40.9" cy="29" r=".7" fill="#fff"/></g><ellipse class="ai-l" cx="24" cy="30" rx="5.4" ry="0" fill="#14254D"/><ellipse class="ai-l" cx="40" cy="30" rx="5.4" ry="0" fill="#14254D"/><path d="M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5" fill="none" stroke="#E2C27F" stroke-width="2" stroke-linecap="round"/><path d="M29.2 29.5 H34.8 L32 37.5 Z" fill="#C9A45C"/><path d="M23 51 L27.5 54 L32 51 L36.5 54 L41 51" fill="none" stroke="#C9A45C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/></svg>';
+  var DUR = 6.2;
+  function intro(then) {
+    if (!IN.on || document.querySelector(".aintro")) { if (then) then(); return; }
+    var calm = false; try { calm = matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) { /* old browser */ }
+    if (calm) { if (then) then(); return; }
+    var el = document.createElement("div"); el.className = "aintro"; el.setAttribute("role", "img"); el.setAttribute("aria-label", "ATHENA News Room");
+    var tag = (IN.tag || []).map(function (x, i) { return (i ? "<b>·</b>" : "") + "<span>" + esc(x) + "</span>"; }).join("");
+    el.innerHTML = '<svg class="ai-globe" viewBox="-100 -100 200 200" fill="none" stroke="#d4b06a" stroke-width=".55" aria-hidden="true"><g></g></svg>' +
+      '<div class="ai-rule ai-r1"></div><div class="ai-rule ai-r2"></div><div class="ai-blk"><div style="position:relative;display:grid;place-items:center">' +
+      '<div class="ai-halo"></div>' + MARK + '</div><div><p class="ai-wm">' + "ATHENA".split("").map(function (c) { return "<span>" + c + "</span>"; }).join("") +
+      '</p><p class="ai-sub">NEWS ROOM</p><p class="ai-tag">' + tag + '</p></div></div><div class="ai-bar"></div>' +
+      '<button type="button" class="ai-skip">' + esc(IN.skip || "Skip") + " &rsaquo;</button>";
+    document.body.appendChild(el);
+    var q = function (s) { return el.querySelector(s); }, qa = function (s) { return el.querySelectorAll(s); };
+    var cl = function (x) { return Math.max(0, Math.min(1, x)); }, ease = function (x) { return 1 - Math.pow(1 - cl(x), 3); };
+    var t0 = null, raf = 0, done = false, g = q(".ai-globe g"), mk = q(".ai-mark"), halo = q(".ai-halo"), lids = qa(".ai-l"), pup = q(".ai-pup");
+    var letters = qa(".ai-wm span"), sub = q(".ai-sub"), tags = qa(".ai-tag span, .ai-tag b"), rules = qa(".ai-rule"), bar = q(".ai-bar");
+    function frame(now) {
+      if (done) return;
+      if (t0 === null) t0 = now;
+      var t = (now - t0) / 1000, r = ease(t / 1.0);
+      rules.forEach(function (x) { x.style.width = (88 * r) + "vw"; });
+      var m = ease((t - 0.2) / 0.9); mk.style.opacity = m; mk.style.transform = "translateY(" + (3 * (1 - m)) + "vmin) scale(" + (0.86 + 0.14 * m) + ")";
+      var hp = ((t - 0.9) % 2.6 + 2.6) % 2.6 / 2.6; halo.style.opacity = t < 0.9 ? 0 : 0.35 * (1 - hp); halo.style.transform = "scale(" + (0.7 + 0.5 * hp) + ")";
+      letters.forEach(function (s, i) { var a = ease((t - 0.75 - i * 0.11) / 0.45); s.style.opacity = a; s.style.transform = "translateY(" + (2.4 * (1 - a)) + "vmin)"; });
+      var sb = ease((t - 1.6) / 0.55); sub.style.opacity = sb; sub.style.letterSpacing = (0.8 - 0.28 * sb) + "em";
+      tags.forEach(function (s, i) { var a = ease((t - 2.1 - i * 0.22) / 0.45); s.style.opacity = a; s.style.transform = "translateY(" + (1.3 * (1 - a)) + "vmin)"; });
+      var bl = function (c) { var d = Math.abs(t - c); return d < 0.13 ? 1 - d / 0.13 : 0; }, k = Math.max(bl(3.9), bl(4.3));
+      lids.forEach(function (l) { l.setAttribute("ry", 6.4 * k); });
+      pup.setAttribute("transform", "translate(" + (t > 4.7 ? Math.sin((t - 4.7) * 2.2) * 0.9 : 0) + ",0)");
+      var ph = t * 0.35, gs = '<circle r="96"/><ellipse rx="96" ry="34"/><ellipse rx="96" ry="66"/><line x1="-96" x2="96"/><line y1="-96" y2="96" opacity=".4"/>';
+      for (var j = 0; j < 6; j++) { var an = ph + j * Math.PI / 6; gs += '<ellipse rx="' + Math.abs(96 * Math.cos(an)).toFixed(2) + '" ry="96" opacity="' + (0.35 + 0.65 * Math.abs(Math.sin(an))).toFixed(2) + '"/>'; }
+      g.innerHTML = gs;
+      bar.style.width = (100 * cl(t / DUR)) + "%";
+      if (t >= DUR) { finish(); return; }
+      raf = requestAnimationFrame(frame);
+    }
+    function finish() {
+      if (done) return; done = true; cancelAnimationFrame(raf);
+      document.removeEventListener("keydown", key, true);
+      el.classList.add("out"); setTimeout(function () { el.remove(); if (then) then(); }, 560);
+    }
+    function key(ev) { if (ev.key === "Escape" || ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); finish(); } }
+    el.addEventListener("click", finish);
+    document.addEventListener("keydown", key, true);
+    q(".ai-skip").focus({ preventScroll: true });
+    raf = requestAnimationFrame(frame);
+  }
+  window.athenaIntro = intro;
+
+  window.athenaTourAuto = auto;
+  window.athenaTour = start;
+  document.addEventListener("click", function (ev) {
+    var b = ev.target.closest && ev.target.closest("[data-tour-start]");
+    if (b) { ev.preventDefault(); start(); return; }
+    var pi = ev.target.closest && ev.target.closest("[data-intro-start]");
+    if (pi) { ev.preventDefault(); var hp = document.getElementById("hp"); if (hp) hp.open = false; intro(null); }
+  });
+  function syncHelp() { var c = document.querySelector(".hptour input"); if (c) c.checked = get() === "on"; }
+  var hb = document.querySelector("#hp .hpbox");
+  if (hb) {
+    var p = document.createElement("div"); p.className = "hptour";
+    p.innerHTML = ((T.steps || []).length ? '<button type="button" data-tour-start>' + esc(T.take) + ' &rsaquo;</button>' : "") +
+      (IN.on ? '<button type="button" data-intro-start>' + esc(IN.play) + " &rsaquo;</button>" : "") +
+      ((T.steps || []).length ? '<label><input type="checkbox"> <span>' + esc(T.auto) + "</span></label>" : "");
+    hb.appendChild(p);
+    var c = p.querySelector("input"); if (c) { c.checked = get() === "on"; c.addEventListener("change", function () { put(c.checked ? "on" : "off"); }); }
+  }
+  var wt = document.querySelector(".welc-tour"); if (wt) wt.hidden = false;
+})();
+
 /* WEB-1.13 - help panel and the living band. No libraries; still for readers who ask for less motion. */
 (function () {
   "use strict";
@@ -207,6 +389,7 @@
 /* 27 Oct: a warm welcome each time the reader opens the site in a new browser session (once per session, any page) */
 (function () {
   var w = document.getElementById("welc"); if (!w) return;
+  if (window.athenaTourAuto && window.athenaTourAuto()) return;      /* 28 Oct: first visit - the intro and the tour welcome the reader */
   var seen = false;
   try { seen = sessionStorage.getItem("athena-welcomed") === "1"; sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { seen = false; }
   if (seen) return;
@@ -217,6 +400,7 @@
   function close() { if (gone) return; gone = true; w.classList.add("out"); setTimeout(function () { w.hidden = true; }, 380); }
   w.querySelector(".welc-go").addEventListener("click", close);
   w.querySelector(".welc-x").addEventListener("click", close);
+  var wt = w.querySelector(".welc-tour"); if (wt) wt.addEventListener("click", close);
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
   setTimeout(close, 14000);
 })();
