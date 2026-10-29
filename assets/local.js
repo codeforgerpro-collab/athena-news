@@ -21,7 +21,7 @@
   function langName(code) { try { return (dn && dn.of(code)) || code; } catch (e) { return code; } }
   function ago(ts) {
     var s = Date.now() / 1000 - ts;
-    if (!rtf) return new Date(ts * 1000).toLocaleString();
+    if (!rtf) return new Date(ts * 1000).toISOString().slice(0, 16).replace("T", " ") + " UTC";
     if (s < 3600) return rtf.format(-Math.max(1, Math.round(s / 60)), "minute");
     if (s < 86400) return rtf.format(-Math.round(s / 3600), "hour");
     return rtf.format(-Math.round(s / 86400), "day");

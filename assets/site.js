@@ -1,7 +1,7 @@
 
 (function(){
   // WEB-1.4: one script for every language — the words come from W (site_i18n.JS), chosen by the page's lang
-  var d=document.documentElement, LG=d.getAttribute("lang")||"en", ALL={"en":{"now":"just now","m":" min ago","h":" h ago","d":" days ago","brk":"Breaking","lat":"Latest","new":"New","risk":"Risk","pause":"Pause","pp":"Pause / play","clock":"Your local time","wclose":"Fold the welcome","wopen":"Show the welcome","intl":"en-GB"},"el":{"now":"μόλις τώρα","m":" λεπτά πριν","h":" ώρες πριν","d":" ημέρες πριν","brk":"Έκτακτο","lat":"Τελευταία","new":"Νέο","risk":"Κίνδυνος","pause":"Παύση","pp":"Παύση / συνέχεια","clock":"Η ώρα σας","wclose":"Σύμπτυξη του καλωσορίσματος","wopen":"Εμφάνιση του καλωσορίσματος","intl":"el-GR"},"es":{"now":"ahora mismo","m":" min","h":" h","d":" días","pre":"hace ","brk":"Última hora","lat":"Lo último","new":"Nuevo","risk":"Riesgo","pause":"Pausa","pp":"Pausa / reanudar","clock":"Su hora local","wclose":"Plegar la bienvenida","wopen":"Mostrar la bienvenida","intl":"es-ES"},"fr":{"now":"à l'instant","m":" min","h":" h","d":" jours","pre":"il y a ","brk":"Dernière minute","lat":"En continu","new":"Nouveau","risk":"Risque","pause":"Pause","pp":"Pause / lecture","clock":"Votre heure locale","wclose":"Replier l'accueil","wopen":"Afficher l'accueil","intl":"fr-FR"},"de":{"now":"gerade eben","m":" Min.","h":" Std.","d":" Tagen","pre":"vor ","brk":"Eilmeldung","lat":"Neueste","new":"Neu","risk":"Risiko","pause":"Pause","pp":"Pause / weiter","clock":"Ihre Ortszeit","wclose":"Willkommen einklappen","wopen":"Willkommen anzeigen","intl":"de-DE"},"ar":{"now":"الآن","m":" دقيقة","h":" ساعة","d":" يوم","pre":"قبل ","brk":"عاجل","lat":"الأحدث","new":"جديد","risk":"الخطر","pause":"إيقاف مؤقت","pp":"إيقاف / تشغيل","clock":"توقيتك المحلي","wclose":"طيّ الترحيب","wopen":"إظهار الترحيب","intl":"ar"},"ru":{"now":"только что","m":" мин назад","h":" ч назад","d":" дн. назад","brk":"Срочно","lat":"Последнее","new":"Новое","risk":"Риск","pause":"Пауза","pp":"Пауза / продолжить","clock":"Ваше местное время","wclose":"Свернуть приветствие","wopen":"Показать приветствие","intl":"ru-RU"}}, W=ALL[LG]||ALL.en, LOC=W.intl||"en-GB";
+  var d=document.documentElement, LG=d.getAttribute("lang")||"en", ALL={"en":{"now":"just now","m":" min ago","h":" h ago","d":" days ago","d1":" day ago","brk":"Breaking","lat":"Latest","new":"New","risk":"Risk","pause":"Pause","pp":"Pause / play","clock":"Your local time","wclose":"Fold the welcome","wopen":"Show the welcome","intl":"en-GB"},"el":{"now":"μόλις τώρα","m":" λεπτά πριν","h":" ώρες πριν","d":" ημέρες πριν","m1":" λεπτό πριν","h1":" ώρα πριν","d1":" ημέρα πριν","brk":"Έκτακτο","lat":"Τελευταία","new":"Νέο","risk":"Κίνδυνος","pause":"Παύση","pp":"Παύση / συνέχεια","clock":"Η ώρα σας","wclose":"Σύμπτυξη του καλωσορίσματος","wopen":"Εμφάνιση του καλωσορίσματος","intl":"el-GR"},"es":{"now":"ahora mismo","m":" min","h":" h","d":" días","d1":" día","pre":"hace ","brk":"Última hora","lat":"Lo último","new":"Nuevo","risk":"Riesgo","pause":"Pausa","pp":"Pausa / reanudar","clock":"Su hora local","wclose":"Plegar la bienvenida","wopen":"Mostrar la bienvenida","intl":"es-ES"},"fr":{"now":"à l'instant","m":" min","h":" h","d":" jours","d1":" jour","pre":"il y a ","brk":"Dernière minute","lat":"En continu","new":"Nouveau","risk":"Risque","pause":"Pause","pp":"Pause / lecture","clock":"Votre heure locale","wclose":"Replier l'accueil","wopen":"Afficher l'accueil","intl":"fr-FR"},"de":{"now":"gerade eben","m":" Min.","h":" Std.","d":" Tagen","d1":" Tag","pre":"vor ","brk":"Eilmeldung","lat":"Neueste","new":"Neu","risk":"Risiko","pause":"Pause","pp":"Pause / weiter","clock":"Ihre Ortszeit","wclose":"Willkommen einklappen","wopen":"Willkommen anzeigen","intl":"de-DE"},"ar":{"now":"الآن","m":" دقيقة","h":" ساعة","d":" يوم","pre":"قبل ","brk":"عاجل","lat":"الأحدث","new":"جديد","risk":"الخطر","pause":"إيقاف مؤقت","pp":"إيقاف / تشغيل","clock":"توقيتك المحلي","wclose":"طيّ الترحيب","wopen":"إظهار الترحيب","intl":"ar"},"ru":{"now":"только что","m":" мин назад","h":" ч назад","d":" дн. назад","brk":"Срочно","lat":"Последнее","new":"Новое","risk":"Риск","pause":"Пауза","pp":"Пауза / продолжить","clock":"Ваше местное время","wclose":"Свернуть приветствие","wopen":"Показать приветствие","intl":"ru-RU"}}, W=ALL[LG]||ALL.en, LOC=W.intl||"en-GB";
   // WEB-1.6: display modes (assets/theme.js applied the saved one before the page was drawn)
   var DARK={night:1,future:1,neon:1},mm=document.querySelector("details.modes");
   function markMode(){var cur=d.getAttribute("data-theme")||"auto";[].forEach.call(document.querySelectorAll("[data-set-mode]"),function(x){
@@ -20,14 +20,18 @@
     if(its.length>1&&!still)setInterval(function(){if(hold||document.hidden)return;k=(k+1)%its.length;var it=its[k];
       rl.classList.remove("in");void rl.offsetWidth;nm.textContent=it[0];nm.setAttribute("href",it[2]);fg.textContent=it[1];
       rl.setAttribute("data-rk",it[3]>=8?"crit":it[3]>=6?"high":it[3]>=4?"elev":"");rl.classList.add("in");},4800);}
-  function ago(s){var m=Math.round((Date.now()-Date.parse(s))/60000);if(isNaN(m))return null;if(m<2)return W.now;var p=W.pre||"";
-    if(m<60)return p+m+W.m;var h=Math.round(m/60);if(h<48)return p+h+W.h;return p+Math.round(h/24)+W.d;}
+  function ago(s){var m=Math.round((Date.now()-Date.parse(s))/60000);if(isNaN(m)||m<-1)return null;if(m<2)return W.now;var p=W.pre||"";
+    var one=function(n,k){return p+n+(n===1&&W[k+"1"]?W[k+"1"]:W[k]);};                      // 29 Oct: "1 day ago", "1 ώρα πριν"
+    if(m<60)return one(m,"m");var h=Math.round(m/60);if(h<48)return one(h,"h");return one(Math.round(h/24),"d");}
   function esc(x){return String(x==null?"":x).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":"";}
-  var fmt,fday;try{fmt=new Intl.DateTimeFormat(LOC,{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+  // 29 Oct 2026: every time on the site is UTC - also in the reader's browser (it used to switch to the reader's own time zone,
+  // without saying so: 05:34 UTC became 08:34 for a reader in Athens)
+  var fmt,fday;try{fmt=new Intl.DateTimeFormat(LOC,{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23",timeZone:"UTC"});
     fday=new Intl.DateTimeFormat(LOC,{weekday:"long",day:"numeric",month:"long",year:"numeric"});}catch(e){}
+  var fu=function(d){return fmt.format(d)+" UTC";};
   var u=document.querySelector(".util"),td=document.getElementById("today");if(td&&fday)td.textContent=fday.format(new Date());
-  // the reader's own local time next to the date (their device's time zone), kept current
+  // the reader's own local time next to the date (their device's time zone), kept current - every REPORT time stays UTC
   var ck=document.getElementById("clock"),fclk;try{fclk=new Intl.DateTimeFormat(LOC,{hour:"2-digit",minute:"2-digit",hourCycle:"h23",timeZoneName:"short"});}catch(e){}
   if(ck&&fclk){var tick=function(){var n=new Date();ck.textContent=fclk.format(n);ck.setAttribute("datetime",n.toISOString());
       if(td&&fday)td.textContent=fday.format(n);};tick();ck.hidden=false;
@@ -39,7 +43,7 @@
   var root=(u&&u.getAttribute("data-root"))||"";
   if(u&&window.fetch)fetch(root+"data/updated.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
     var s=document.getElementById("upd");if(!s||!j.updated)return;var t=s.querySelector("time");t.setAttribute("datetime",j.updated);t.textContent=ago(j.updated)||j.updated;
-    if(fmt)t.title=fmt.format(new Date(j.updated));s.hidden=false;}).catch(function(){});
+    if(fmt)t.title=fu(new Date(j.updated));s.hidden=false;}).catch(function(){});
   var c=document.querySelector('meta[name="athena-count"]');
   if(c&&/^https?:$/.test(location.protocol)&&!/^(localhost|127\.|\[::1\])/.test(location.hostname)&&navigator.doNotTrack!=="1"&&!navigator.webdriver){
     try{var q="?p="+encodeURIComponent(location.pathname)+"&t="+encodeURIComponent(document.title)+"&r="+encodeURIComponent(document.referrer||"")
@@ -155,9 +159,13 @@
   if(wl&&wc){var mini=false;try{mini=localStorage.getItem("athena-welcome")==="mini";}catch(e){}
     var setm=function(m){wl.classList.toggle("mini",m);wc.setAttribute("aria-expanded",m?"false":"true");wc.setAttribute("aria-label",m?W.wopen:W.wclose);wc.title=wc.getAttribute("aria-label");};
     setm(mini);wc.hidden=false;wc.addEventListener("click",function(){mini=!mini;setm(mini);try{localStorage.setItem("athena-welcome",mini?"mini":"full");}catch(e){}});}
-  [].forEach.call(document.querySelectorAll("time[datetime]:not(#clock)"),function(t){var a=ago(t.getAttribute("datetime"));
-    if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fmt.format(new Date(t.getAttribute("datetime")));}
-    if(fmt)t.title=fmt.format(new Date(t.getAttribute("datetime")));});
+  // 29 Oct 2026: every report time - in UTC, and how long ago it was from the reader's own current time ("28 Oct, 05:34 UTC · 3 h ago"),
+  // brought up to date every minute while the page is open
+  var stamps=[].slice.call(document.querySelectorAll("time[datetime]:not(#clock)"));
+  function paint(){stamps.forEach(function(t){var iso=t.getAttribute("datetime"),a=ago(iso);
+    if(t.hasAttribute("data-ago")&&a){t.textContent=a;}else if(fmt){t.textContent=fu(new Date(iso))+(a?" · "+a:"");}
+    if(fmt)t.title=fu(new Date(iso));});}
+  paint();if(stamps.length)setInterval(function(){if(!document.hidden)paint();},60000);
 })();
 
 /* 28 Oct: the menu - one drop-down open at a time; Escape or a click elsewhere closes it */

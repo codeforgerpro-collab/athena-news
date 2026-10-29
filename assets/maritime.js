@@ -9,12 +9,12 @@
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   var rtf = window.Intl && Intl.RelativeTimeFormat ? new Intl.RelativeTimeFormat(D.lang, { numeric: "auto" }) : null;
   function ago(ts) {
-    var s = Date.now() / 1000 - ts; if (!rtf) return new Date(ts * 1000).toLocaleString();
+    var s = Date.now() / 1000 - ts; if (!rtf) return new Date(ts * 1000).toISOString().slice(0, 16).replace("T", " ") + " UTC";
     if (s < 3600) return rtf.format(-Math.max(1, Math.round(s / 60)), "minute");
     if (s < 86400) return rtf.format(-Math.round(s / 3600), "hour");
     return rtf.format(-Math.round(s / 86400), "day");
   }
-  function date(ts) { try { return new Date(ts * 1000).toLocaleString(D.lang, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }); } catch (e) { return ""; } }
+  function date(ts) { try { return new Date(ts * 1000).toLocaleString(D.lang, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23", timeZone: "UTC" }) + " UTC"; } catch (e) { return ""; } }
   function bars(series) {
     var n = series.length, m = Math.max.apply(null, series.concat([1])), W = 600, H = 150, bw = W / n, out = "";
     series.forEach(function (v, k) {
