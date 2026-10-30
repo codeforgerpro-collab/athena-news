@@ -427,7 +427,7 @@
   w.querySelector(".welc-x").addEventListener("click", close);
   var wt = w.querySelector(".welc-tour"); if (wt) wt.addEventListener("click", close);
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
-  setTimeout(close, 14000);
+  setTimeout(close, 2000);                                           /* 30 Oct 2026: the greeting closes after 2 seconds (Tony) */
 })();
 
 /* 27 Oct: the whole news item opens the story, on every page - not only the headline. The headline stays the real link
@@ -486,12 +486,14 @@
     if (t) t.addEventListener("click", function () { t.setAttribute("aria-expanded", t.getAttribute("aria-expanded") === "true" ? "false" : "true"); });
     if (x) x.addEventListener("click", function () { tb.hidden = true; try { localStorage.setItem("athena-testbar", rev); } catch (e) { /* private */ } });
   }
+  /* 30 Oct 2026 (evening): no observer on the label - changing its class from an observer of its own attributes looped
+     forever and froze the page. The dot is set a few times while data/updated.json arrives, then once a minute, and
+     only when its colour really changes. */
   function fresh() {
     var s = document.getElementById("upd"); if (!s || s.hidden) return;
     var tm = s.querySelector("time"), iso = tm && tm.getAttribute("datetime"); if (!iso) return;
-    var m = (Date.now() - new Date(iso).getTime()) / 60000;
-    s.classList.remove("fresh", "ok", "stale"); s.classList.add(m < 30 ? "fresh" : m < 120 ? "ok" : "stale");
+    var m = (Date.now() - new Date(iso).getTime()) / 60000, want = m < 30 ? "fresh" : m < 120 ? "ok" : "stale";
+    if (!s.classList.contains(want)) { s.classList.remove("fresh", "ok", "stale"); s.classList.add(want); }
   }
-  fresh(); setInterval(fresh, 60000);
-  if (window.MutationObserver) { var u = document.getElementById("upd"); if (u) new MutationObserver(fresh).observe(u, { attributes: true, subtree: true, childList: true }); }
+  [500, 1500, 4000, 9000].forEach(function (ms) { setTimeout(fresh, ms); }); setInterval(fresh, 60000);
 })();
