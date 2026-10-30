@@ -54,7 +54,8 @@
     3:"M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .3 1.8 1.2 2.7 2.5 3-.3-3 0-5.5 0-8z",4:"M3 16l2 4h14l2-4zM6 16v-5h12v5M9 11V7h6v4M12 7V4",
     5:"M7 7h10v10H7zM10 10h4v4h-4zM4 10h3M4 14h3M17 10h3M17 14h3M10 4v3M14 4v3M10 17v3M14 17v3",6:"M4 8h16v11H4zM9 8V5h6v3M4 13h16",
     7:"M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3M7.5 15h9",8:"M12 4v16M8 20h8M5 7h14M5 7l-3 6a3 3 0 0 0 6 0zM19 7l-3 6a3 3 0 0 0 6 0z",
-    9:"M12 21s-6-6-6-11a6 6 0 0 1 12 0c0 5-6 11-6 11zM12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z",10:"M12 4l9 16H3zM12 10v4M12 17v.5"};
+    9:"M12 21s-6-6-6-11a6 6 0 0 1 12 0c0 5-6 11-6 11zM12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z",10:"M12 4l9 16H3zM12 10v4M12 17v.5",
+    11:"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM12 7l3.5 2.5-1.3 4h-4.4l-1.3-4zM3.5 10.5 8.5 9.5M20.5 10.5l-5-1M9.8 13.5 7.5 19M14.2 13.5 16.5 19",12:"M12 3l2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7z"};
   var tk=document.getElementById("ticker");
   if(tk&&window.fetch)fetch(tk.getAttribute("data-root")+"data/breaking.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
     var it=(j&&j.items)||[];if(!it.length)return;
@@ -174,4 +175,25 @@ var all=function(){return nav.querySelectorAll("details")};
 nav.addEventListener("toggle",function(ev){var d=ev.target;if(d.open)all().forEach(function(x){if(x!==d&&!x.contains(d))x.open=false})},true);
 document.addEventListener("click",function(ev){if(!nav.contains(ev.target))all().forEach(function(x){x.open=false})});
 document.addEventListener("keydown",function(ev){if(ev.key==="Escape")all().forEach(function(x){if(x.open){x.open=false;var s=x.querySelector("summary");if(s)s.focus()}})});
+})();
+
+/* 30 Oct 2026: the Sections panel - drawn once from data/sections-<lang>.json when it first opens on a wide screen */
+(function(){var m=document.querySelector("nav.sections details.mega");if(!m||!window.fetch)return;
+var dd=m.querySelector(".mega-dd"),state=0,D=null,R=m.getAttribute("data-root")||"",P=m.getAttribute("data-pre")||"";
+function x(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function u(p){return R+P+p}
+function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":""}
+function ago(ts){var h=Math.max(0,(Date.now()/1000-ts)/3600);return h<1?Math.max(1,Math.round(h*60))+" min":h<48?Math.round(h)+" h":Math.round(h/24)+" d"}
+function mid(i){var s=D.sections[i],T=D.text,subs=s.subs.map(function(b){return '<a href="'+(b.n?u(b.url):u(s.url))+'"'+(b.n?'':' class="z"')+'>'+x(b.name)+(b.n?'<em>'+b.n+'</em>':'')+'</a>'}).join("");
+ return '<h3><a href="'+u(s.url)+'">'+x(s.full)+'</a></h3><p class="mg-d">'+x(s.desc)+'</p><div class="mg-st"><div><b>'+s.n+'</b><span>'+x(T.events)+'</span></div><div><b>'+s.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+s.cc+'</b><span>'+x(T.countries)+'</span></div></div><p class="mg-h">'+x(T.subs)+'</p><div class="mg-subs">'+subs+'</div>'}
+function right(i){var s=D.sections[i],T=D.text;return '<p class="mg-h">'+x(T.now_in)+'</p>'+s.top.map(function(t){return '<a class="st" lang="en" href="'+u(t.url)+'">'+x(t.t)+'<small><i class="'+rc(t.risk)+'"></i>'+x(T.risk)+' '+t.risk.toFixed(1)+' · '+t.o+' '+x(T.outlets)+' · '+ago(t.ts)+'</small></a>'}).join("")+'<a class="all" href="'+u(s.url)+'">'+x(T.all.replace("{c}",s.name))+' &rarr;</a>'}
+function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++)l[k].classList.toggle("on",k===i);dd.querySelector(".mg-c").innerHTML=mid(i);dd.querySelector(".mg-r").innerHTML=right(i)}
+function draw(){if(!D.sections.length)return;var on=(m.getAttribute("data-on")||"").replace("cat",""),first=0;
+ var left=D.sections.map(function(s,i){if(String(s.id)===on)first=i;return '<a href="'+u(s.url)+'" data-i="'+i+'"><i style="background:'+x(s.color)+'"></i>'+x(s.name)+'<em>'+s.n+'</em></a>'}).join("");
+ var ex=D.extra.map(function(b){return '<a href="'+u(b.url)+'">'+x(b.name)+'</a>'}).join("");
+ dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div><div class="mg-x">'+ex+'</div>';
+ var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++){(function(a){var i=+a.getAttribute("data-i");a.addEventListener("mouseenter",function(){pick(i)});a.addEventListener("focus",function(){pick(i)})})(l[k])}
+ pick(first)}
+m.addEventListener("toggle",function(){if(!m.open||state||(window.matchMedia&&window.matchMedia("(max-width:820px)").matches))return;state=1;
+ fetch(R+"data/sections-"+(m.getAttribute("data-lang")||"en")+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){D=d;draw()}).catch(function(){state=0})});
 })();

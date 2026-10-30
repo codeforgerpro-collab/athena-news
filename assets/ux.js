@@ -199,7 +199,7 @@
   var cv = box.querySelector("canvas"), cx = cv.getContext("2d"), mode = box.getAttribute("data-mode") || "news";
   var root = box.getAttribute("data-root") || "";
   var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var W = 0, H = 0, dpr = Math.min(3, window.devicePixelRatio || 1), on = true, raf = 0, t = 0, P = [], X = {}, COINS = [], mx = -999, my = -999, C = {}, SPR = {};
+  var W = 0, H = 0, dpr = Math.min(3, window.devicePixelRatio || 1), on = true, raf = 0, t = 0, P = [], X = {}, COINS = [], ATH = null, mx = -999, my = -999, C = {}, SPR = {};
   var ICON = {1: "M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6z", 2: "M4 19h16M6 15l4-4 3 3 5-6M15 8h3v3",
     3: "M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .3 1.8 1.2 2.7 2.5 3-.3-3 0-5.5 0-8z", 4: "M3 16l2 4h14l2-4zM6 16v-5h12v5M9 11V7h6v4M12 7V4",
     5: "M7 7h10v10H7zM10 10h4v4h-4zM4 10h3M4 14h3M17 10h3M17 14h3M10 4v3M14 4v3M10 17v3M14 17v3", 6: "M4 8h16v11H4zM9 8V5h6v3M4 13h16",
@@ -210,7 +210,7 @@
   var FLAGS = ["grc", "cyp", "tur", "usa", "gbr", "deu", "fra", "ita", "esp", "ukr", "rus", "chn", "isr", "irn", "egy", "sau", "jpn", "ind"], FL = {}, FLK = [];
   function img(src) { var i = new Image(); i.decoding = "async"; i.onload = function () { SPR = {}; if (still) start(); }; i.src = src; return i; }
   FLAGS.forEach(function (k) { FL[k] = img(root + "assets/cf/" + k + ".svg"); FLK.push("f:" + k); });
-  var OWL = img(root + "assets/athena_icon.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] };
+  var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] };
   try { SYMS = JSON.parse(box.getAttribute("data-sym") || "{}"); } catch (e) {}
   var XS = (SYMS.x || []).map(function (s) { return img(s.src); });
   function crypto() { var a = []; if (SYMS.btc !== false) a.push("btc"); if (SYMS.eth !== false) a.push("eth"); XS.forEach(function (_, i) { a.push("x:" + i); }); return a; }
@@ -250,10 +250,20 @@
     if (k === "eur" || k === "usd") return txt(g, r, k === "eur" ? "€" : "$", r * 1.05, C.gold);
     glyph(g, r, ICON[k], mk ? C.gold : C.muted); }); }
   function evsym(k, col, r) { return sprite("ev" + k + col, r, function (g, r) { disc(g, r, col); glyph(g, r, ICON[k], "#fff", 2.2); }); }
-  function owl(x, y, r, col) { if (!OWL.complete || !OWL.naturalWidth) return put(evsym("1", col, r), x, y, r); dot(x, y, r + 1.5, col, 1); cx.globalAlpha = 1; cx.drawImage(OWL, x - r, y - r, r * 2, r * 2); }
+  /* 30 Oct 2026: the ATHENA emblem (the header's own logo) in the band - partner-coin size, on a gold-rimmed disc, flashing */
+  function CR() { return W < 640 ? 13 : 17; }
+  function emblem(x, y, r, col, fl) { if (!OWL.complete || !OWL.naturalWidth) return put(evsym("1", col, r), x, y, r);
+    var f = fl == null ? .5 + .5 * Math.sin(t / 7) : fl;                                       /* the flash */
+    cx.globalAlpha = .18 + .32 * f; var gr = cx.createRadialGradient(x, y, r * .5, x, y, r * 2.3); gr.addColorStop(0, col); gr.addColorStop(1, "rgba(0,0,0,0)");
+    cx.fillStyle = gr; cx.beginPath(); cx.arc(x, y, r * 2.3, 0, 6.2832); cx.fill();
+    ring(x, y, r + 3 + ((t % 80) / 80) * 16, col, 2, .5 * (1 - (t % 80) / 80));               /* a ring goes out every ~1.3 s */
+    dot(x, y, r + 1.6, col, 1); dot(x, y, r, C.paper, 1);
+    var w = OWL.naturalWidth, h = OWL.naturalHeight, s = (r * 1.62) / Math.max(w, h); cx.globalAlpha = 1; cx.drawImage(OWL, x - w * s / 2, y - h * s / 2, w * s, h * s); }
+  function owl(x, y, r, col) { emblem(x, y, Math.max(r, CR()), col); }
 
   /* the partners' coins: gold rim, a soft breathing glow; they never run from the pointer and stop while pointed at */
-  function coins() { var rc = W < 640 ? 13 : 17; COINS = PART.map(function (p, i) { return { p: p, x: W * (i ? .72 : .3), y: H * (i ? .42 : .55), vx: i ? -.18 : .22, vy: i ? -.07 : .08, ph: i * Math.PI, r: rc }; }); }
+  function coins() { var rc = CR(); COINS = PART.map(function (p, i) { return { p: p, x: W * (i ? .72 : .3), y: H * (i ? .42 : .55), vx: i ? -.18 : .22, vy: i ? -.07 : .08, ph: i * Math.PI, r: rc }; });
+    ATH = { x: W * .5, y: H * .5, vx: .16, vy: -.06, r: rc }; }
   function drawCoins(links) {
     COINS.forEach(function (c) { drift(c, c.hot ? 0 : .8, c.r + 4, true); c.ph += .03;
       if (links) P.forEach(function (p) { if (p.x == null) return; var d = Math.hypot(c.x - p.x, c.y - p.y); if (d < 110) line(c, p, C.gold, 1.1, (1 - d / 110) * .6); }); });
@@ -261,6 +271,7 @@
       cx.globalAlpha = (.22 + .18 * g) * (c.hot ? 1.3 : 1); var gr = cx.createRadialGradient(c.x, c.y, c.r * .6, c.x, c.y, c.r * 2.1); gr.addColorStop(0, C.gold); gr.addColorStop(1, "rgba(0,0,0,0)");
       cx.fillStyle = gr; cx.beginPath(); cx.arc(c.x, c.y, c.r * 2.1, 0, 6.2832); cx.fill();
       dot(c.x, c.y, r + 1.6, C.gold, 1); cx.save(); cx.beginPath(); cx.arc(c.x, c.y, r, 0, 6.2832); cx.clip(); cover(cx, im, c.x, c.y, r); cx.restore(); }); }
+  function drawMark() { if (!ATH) return; drift(ATH, .8, ATH.r + 4, true); emblem(ATH.x, ATH.y, ATH.r, C.gold); }
   function hit(x, y) { for (var i = 0; i < COINS.length; i++) { var c = COINS[i]; if (Math.hypot(x - c.x, y - c.y) <= c.r + 6) return c; } return null; }
 
   var M = {
@@ -353,10 +364,10 @@
   };
   function spawn() { var left = Math.random() < .5; return { x0: left ? rnd(0, W * .3) : rnd(W * .7, W), y0: rnd(10, H - 10), k: 0, v: rnd(.004, .012), s: Math.random() < .5 ? pick(FLK) : String(1 + ((Math.random() * 10) | 0)) }; }
   function ease(k) { return k < 1 ? 1 - Math.pow(1 - k, 2) : 1; }
-  var mod = M[mode] || M.news, withCoins = PART.length > 0;
-  function frame() { if (!on) return; t++; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); mod.step(); if (COINS.length) drawCoins(mode === "news"); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
-  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; mod.step(); if (COINS.length) drawCoins(mode === "news"); } cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
-  function setup() { size(); mod.init(); if (withCoins) coins(); }
+  var mod = M[mode] || M.news;
+  function frame() { if (!on) return; t++; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
+  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
+  function setup() { size(); mod.init(); coins(); }
   colours(); setup(); start();
   var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(function () { setup(); start(); }, 200); });
   box.addEventListener("pointermove", function (ev) { var b = box.getBoundingClientRect(); mx = ev.clientX - b.left; my = ev.clientY - b.top;
