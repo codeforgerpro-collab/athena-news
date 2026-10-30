@@ -936,3 +936,11 @@ nav.sections .rk-panel a.on{border-color:var(--gold)}
 .pl-more{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:30px 0 6px;padding-top:16px;border-top:1px solid var(--rule)}
 .pl-more span{font-size:var(--t1,12px);font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-inline-end:4px}
 @media (max-width:640px){.pbar{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}.pbar::-webkit-scrollbar{display:none}.pbar a,.pbar span{flex:none}}
+
+/* SI-34 story images */
+.si-hero{margin:14px 0 18px}.si-hero img{display:block;width:100%;height:auto;aspect-ratio:16/9;border-radius:12px;background:var(--rule)}
+.si-hero figcaption{font-size:13px;color:var(--muted);margin-top:6px}
+.si-lead{display:block;margin:0 0 12px}.si-lead img{display:block;width:100%;height:auto;aspect-ratio:16/9;border-radius:10px;background:var(--rule)}
+
+/* CH-34 the same two graphs on every page */
+.pc-grs{margin:10px 0 18px;padding-bottom:6px;border-bottom:1px solid var(--rule)}
