@@ -812,6 +812,8 @@ nav.sections .mg-x a{padding:7px 14px;border:1px solid var(--rule);border-radius
 .dek .dby{font-family:var(--sans);font-size:var(--t1);color:var(--muted);white-space:nowrap;letter-spacing:.02em}
 .dek .dby a{color:var(--gold2);font-weight:600}
 [dir="rtl"] [lang="en"]{unicode-bidi:plaintext}
+.first-as{margin:8px 0 0;font-size:var(--t2);color:var(--muted)}.first-as span{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:var(--t1)}
+.first-as q{font-style:italic;quotes:"“" "”"}
 /* light stories (Sport, Culture & People): no risk */
 .rk.gen{border-color:var(--rule);color:var(--muted);background:var(--chip);font-weight:600}
 .gl.gen b{color:var(--muted);font-weight:400}.gl.gen{border-style:dashed}
