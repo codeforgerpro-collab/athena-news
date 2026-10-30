@@ -425,6 +425,19 @@ background-color:var(--card);box-shadow:0 0 0 1px rgba(255,255,255,.03) inset,0 
 @keyframes welcin{from{opacity:0;transform:translate(-50%,-14px)}to{opacity:1;transform:translate(-50%,0)}}
 @media (max-width:640px){.welc{flex-wrap:wrap;top:10px;padding:14px 40px 14px 14px}.welc-go{width:100%}.tsz{display:none}}
 @media (prefers-reduced-motion:reduce){.welc{animation:none}.welc.out{transition:none}}
+/* 30 Oct 2026 - a larger masthead, with the motto rolling under it */
+.mast{padding:30px 0 16px}.mast a{gap:22px}.mast img{height:96px;width:auto}
+.mast .wm{font-size:76px;letter-spacing:.17em}
+.mast .tag{font-size:13.5px;letter-spacing:.42em;margin-top:10px}
+.motto-roll{margin:14px auto 0;height:1.5em;overflow:hidden;font-family:var(--mast);font-size:21px;font-style:italic;letter-spacing:.04em;color:var(--gold2);line-height:1.5}
+.motto-roll .mr-in{display:flex;flex-direction:column;animation:athena-motto 10.5s cubic-bezier(.7,0,.3,1) infinite}
+.motto-roll .mr-in span{display:block;height:1.5em}.motto-roll .mr-all{display:none}
+@keyframes athena-motto{0%,28%{transform:translateY(0)}33.3%,61.3%{transform:translateY(-1.5em)}66.6%,94.6%{transform:translateY(-3em)}100%{transform:translateY(-4.5em)}}
+.motto-roll:hover .mr-in{animation-play-state:paused}
+@media (prefers-reduced-motion:reduce){.motto-roll{height:auto}.motto-roll .mr-in{display:none}.motto-roll .mr-all{display:block}}
+@media (max-width:900px){.mast .wm{font-size:58px}.mast img{height:78px}}
+@media (max-width:640px){.mast{padding:20px 0 12px}.mast a{gap:14px}.mast img{height:58px}.mast .wm{font-size:40px;letter-spacing:.14em}
+ .mast .tag{font-size:10.5px;letter-spacing:.3em}.motto-roll{font-size:16px;margin-top:10px}}
 
 /* WEB-1.9 Mind Graph */
 .mgbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;margin:8px 0 10px;font-size:14px}
