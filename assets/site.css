@@ -925,3 +925,14 @@ nav.sections .rk-panel a.on{border-color:var(--gold)}
 .wchips{margin-top:12px}.hcard .hc-h b{font-family:var(--head);font-size:18px;color:var(--ink)}
 .hcard .hc-l{display:block;margin-top:8px;font-family:var(--head);font-size:15px;line-height:1.35;color:var(--ink2)}
 @media (max-width:1100px){nav.sections .mg-cg{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* SEO-32 the pillars */
+.pbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin:4px 0 16px}
+.pbar span{font-size:var(--t1,12px);font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-inline-end:4px}
+.pbar a,.pl-more a{display:inline-flex;align-items:center;gap:8px;padding:7px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--card);font-size:14px;font-weight:700;color:var(--ink)}
+.pbar a:hover,.pl-more a:hover{border-color:var(--gold);text-decoration:none}
+.pbar a i,.pl-more a i{width:9px;height:9px;border-radius:50%}
+.pl-sum{max-width:900px}.pl-desk{margin:10px 0 0;font-weight:700}.pl-desk a{color:var(--gold2)}
+.pl-more{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:30px 0 6px;padding-top:16px;border-top:1px solid var(--rule)}
+.pl-more span{font-size:var(--t1,12px);font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-inline-end:4px}
+@media (max-width:640px){.pbar{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}.pbar::-webkit-scrollbar{display:none}.pbar a,.pbar span{flex:none}}
