@@ -180,7 +180,7 @@ document.addEventListener("keydown",function(ev){if(ev.key==="Escape")all().forE
 })();
 
 /* 30 Oct 2026: the Sections panel - drawn once from data/sections-<lang>.json when it first opens on a wide screen */
-(function(){var m=document.querySelector("nav.sections details.mega");if(!m||!window.fetch)return;
+(function(){var m=document.querySelector("nav.sections details.mega[data-kind=sections]");if(!m||!window.fetch)return;
 var dd=m.querySelector(".mega-dd"),state=0,D=null,R=m.getAttribute("data-root")||"",P=m.getAttribute("data-pre")||"";
 function x(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function u(p){return R+P+p}
@@ -198,4 +198,25 @@ function draw(){if(!D.sections.length)return;var on=(m.getAttribute("data-on")||
  pick(first)}
 m.addEventListener("toggle",function(){if(!m.open||state||(window.matchMedia&&window.matchMedia("(max-width:820px)").matches))return;state=1;
  fetch(R+"data/sections-"+(m.getAttribute("data-lang")||"en")+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){D=d;draw()}).catch(function(){state=0})});
+})();
+
+/* WLD-32: the World panel - continents | the chosen one's countries (Greece & Cyprus pinned) | its leading stories */
+(function(){var m=document.querySelector("nav.sections details.mega[data-kind=world]");if(!m||!window.fetch)return;
+var dd=m.querySelector(".mega-dd"),state=0,D=null,R=m.getAttribute("data-root")||"",P=m.getAttribute("data-pre")||"",F=R+"assets/cf/";
+function x(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function u(p){return R+P+p}
+function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":""}
+function ago(ts){var h=Math.max(0,(Date.now()/1000-ts)/3600);return h<1?Math.max(1,Math.round(h*60))+" min":h<48?Math.round(h)+" h":Math.round(h/24)+" d"}
+function c1(c){var fl=c.f?'<img src="'+F+x(c.iso)+'.svg" alt="" width="18" height="13">':'';return '<a href="'+(c.url?u(c.url):u(D.countries_url))+'"'+(c.q?' class="q"':'')+'>'+fl+x(c.name)+(c.n?'<i class="'+rc(c.risk)+'"></i><em>'+c.n+'</em>':'')+'</a>'}
+function mid(i){var r=D.regions[i],T=D.text;var pin=D.pinned.map(c1).join("");
+ return '<div class="mg-pin"><span>'+x(T.pinned)+'</span>'+pin+'</div><h3><a href="'+u(r.url)+'">'+x(r.name)+'</a></h3><div class="mg-st"><div><b>'+r.n+'</b><span>'+x(T.events)+'</span></div><div><b>'+r.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+r.c.filter(function(c){return !c.q}).length+'</b><span>'+x(T.countries)+'</span></div></div><div class="mg-cg">'+r.c.map(c1).join("")+'</div>'}
+function right(i){var r=D.regions[i],T=D.text;return '<p class="mg-h">'+x(T.now_in)+'</p>'+r.top.map(function(t){return '<a class="st" lang="en" href="'+u(t.url)+'">'+x(t.t)+'<small><i class="'+rc(t.risk)+'"></i>'+t.risk.toFixed(1)+' · '+t.o+' · '+ago(t.ts)+'</small></a>'}).join("")+'<a class="all" href="'+u(r.url)+'">'+x(T.all.replace("{r}",r.name))+' &rarr;</a>'}
+function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++)l[k].classList.toggle("on",k===i);dd.querySelector(".mg-c").innerHTML=mid(i);dd.querySelector(".mg-r").innerHTML=right(i)}
+function draw(){if(!D.regions.length)return;var first=0,best=-1;D.regions.forEach(function(r,i){if(r.n>best){best=r.n;first=i}});
+ var left=D.regions.map(function(r,i){return '<a href="'+u(r.url)+'" data-i="'+i+'"><i style="background:var(--'+(rc(r.risk)||"gold")+')"></i>'+x(r.name)+'<em>'+r.n+'</em></a>'}).join("");
+ dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div><div class="mg-x"><a href="'+u(D.countries_url)+'">'+x(D.text.all_ctry)+'</a></div>';
+ var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++){(function(a){var i=+a.getAttribute("data-i");a.addEventListener("mouseenter",function(){pick(i)});a.addEventListener("focus",function(){pick(i)})})(l[k])}
+ pick(first)}
+m.addEventListener("toggle",function(){if(!m.open||state||(window.matchMedia&&window.matchMedia("(max-width:820px)").matches))return;state=1;
+ fetch(R+"data/world-"+(m.getAttribute("data-lang")||"en")+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){D=d;draw()}).catch(function(){state=0})});
 })();
