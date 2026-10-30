@@ -100,8 +100,14 @@
     var v = get(), seen = false, played = true;
     try { seen = sessionStorage.getItem("athena-tour-session") === "1"; } catch (e) { seen = true; }
     try { played = localStorage.getItem("athena-intro") === "1"; } catch (e) { played = true; }
-    var wantTour = (T.steps || []).length && !seen && (v === null || v === "on");
-    var wantIntro = IN.on && !played && !seen;                          /* the intro: once per browser (and from Help) */
+    /* LOOK-31 (30 Oct 2026): the news first. The tour starts only when the reader asked for it (Help, the welcome, or the
+       "every visit" switch); the intro plays once per browser, on the front page only, and never for a reader who arrived
+       from a search engine or a link to a story - they came for the news, not for us. */
+    var front = !!document.getElementById("welcome"), ref = "";
+    try { ref = document.referrer || ""; } catch (e) { ref = ""; }
+    var fromSearch = /(^|\.)(google|bing|duckduckgo|yahoo|yandex|baidu|ecosia|qwant|startpage)\./i.test(ref);
+    var wantTour = (T.steps || []).length && !seen && v === "on";
+    var wantIntro = IN.on && !played && !seen && front && !fromSearch;
     if ((!wantTour && !wantIntro) || window.innerWidth < 320) return false;
     try { sessionStorage.setItem("athena-tour-session", "1"); sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { /* ok */ }
     var next = function () { if (wantTour) setTimeout(start, 250); };
@@ -110,7 +116,7 @@
   }
   /* ------------------------------------------------ the ATHENA intro (vector; the same animation as the social video) */
   var IN = T.intro || {}, MARK = '<svg class="ai-mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z" fill="#0B1630" stroke="#C9A45C" stroke-width="2.4" stroke-linejoin="round"/><path d="M14.5 24 L17.5 9.5 L25.5 17.5 Z M49.5 24 L46.5 9.5 L38.5 17.5 Z" fill="#C9A45C"/><path d="M32 18.5 C25 13.5 14 15 14 27.5 C14 38.5 22.5 45 32 47 C41.5 45 50 38.5 50 27.5 C50 15 39 13.5 32 18.5 Z" fill="#14254D" stroke="#C9A45C" stroke-width="1.6"/><g fill="none" stroke="#C9A45C" stroke-width="1.8"><circle cx="24" cy="30" r="6.2"/><circle cx="40" cy="30" r="6.2"/></g><circle cx="24" cy="30" r="4" fill="#E2C27F"/><circle cx="40" cy="30" r="4" fill="#E2C27F"/><g class="ai-pup"><circle cx="24" cy="30" r="1.7" fill="#0B1630"/><circle cx="40" cy="30" r="1.7" fill="#0B1630"/><circle cx="24.9" cy="29" r=".7" fill="#fff"/><circle cx="40.9" cy="29" r=".7" fill="#fff"/></g><ellipse class="ai-l" cx="24" cy="30" rx="5.4" ry="0" fill="#14254D"/><ellipse class="ai-l" cx="40" cy="30" rx="5.4" ry="0" fill="#14254D"/><path d="M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5" fill="none" stroke="#E2C27F" stroke-width="2" stroke-linecap="round"/><path d="M29.2 29.5 H34.8 L32 37.5 Z" fill="#C9A45C"/><path d="M23 51 L27.5 54 L32 51 L36.5 54 L41 51" fill="none" stroke="#C9A45C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/></svg>';
-  var DUR = 6.2;
+  var DUR = 5.0;                                                        /* LOOK-31: five seconds (was 6.2) */
   function intro(then) {
     if (!IN.on || document.querySelector(".aintro")) { if (then) then(); return; }
     var calm = false; try { calm = matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) { /* old browser */ }
@@ -229,8 +235,13 @@
   function line(a, b, c, w, al) { cx.globalAlpha = al; cx.beginPath(); cx.moveTo(a.x, a.y); cx.lineTo(b.x, b.y); cx.strokeStyle = c; cx.lineWidth = w; cx.stroke(); }
   function ring(x, y, r, c, w, al) { cx.globalAlpha = al; cx.beginPath(); cx.arc(x, y, r, 0, 6.2832); cx.strokeStyle = c; cx.lineWidth = w; cx.stroke(); }
   function dot(x, y, r, c, al) { cx.globalAlpha = al; cx.beginPath(); cx.arc(x, y, r, 0, 6.2832); cx.fillStyle = c; cx.fill(); }
-  function drift(p, sp, pad, keep) { p.x += p.vx * sp; p.y += p.vy * sp; if (p.x < -20) p.x = W + 20; if (p.x > W + 20) p.x = -20; if (p.y < pad || p.y > H - pad) p.vy *= -1;
+  function drift(p, sp, pad, keep) { p.x += p.vx * sp; p.y += p.vy * sp; var ex = Math.max(pad, 14); if (p.x < ex || p.x > W - ex) { p.vx *= -1; p.x = Math.max(ex, Math.min(W - ex, p.x)); }
+    if (p.y < pad || p.y > H - pad) { p.vy *= -1; p.y = Math.max(pad, Math.min(H - pad, p.y)); }
     if (keep) return; var dx = p.x - mx, dy = p.y - my, d2 = dx * dx + dy * dy; if (d2 < 4900) { var d = Math.sqrt(d2 + 1); p.x += dx / d * 1.7; p.y += dy / d * 1.7; } }
+  /* LOOK-31 (30 Oct 2026): symbols keep a gap between them - the coins and the emblem push the others gently away */
+  function apart(list, gap) { for (var i = 0; i < list.length; i++) for (var j = i + 1; j < list.length; j++) { var a = list[i], b = list[j]; if (a.x == null || b.x == null) continue;
+      var dx = b.x - a.x, dy = b.y - a.y, d = Math.sqrt(dx * dx + dy * dy) || .01, g = (a.r || 0) + (b.r || 0) + gap; if (d >= g) continue; var k = (g - d) / d * .5; dx *= k; dy *= k;
+      if (!a.fixed) { a.x -= dx; a.y -= dy; } if (!b.fixed) { b.x += dx; b.y += dy; } } }
   /* every symbol is drawn once into a small sprite at the screen's own sharpness; the animation only moves the sprites */
   function sprite(key, r, draw) { var k = key + "|" + r; if (SPR[k]) return SPR[k]; var c = document.createElement("canvas"), s = Math.ceil((r * 2 + 4) * dpr); c.width = c.height = s;
     var g = c.getContext("2d"); g.scale(dpr, dpr); g.translate(r + 2, r + 2); draw(g, r); return SPR[k] = c; }
@@ -365,8 +376,10 @@
   function spawn() { var left = Math.random() < .5; return { x0: left ? rnd(0, W * .3) : rnd(W * .7, W), y0: rnd(10, H - 10), k: 0, v: rnd(.004, .012), s: Math.random() < .5 ? pick(FLK) : String(1 + ((Math.random() * 10) | 0)) }; }
   function ease(k) { return k < 1 ? 1 - Math.pow(1 - k, 2) : 1; }
   var mod = M[mode] || M.news;
-  function frame() { if (!on) return; t++; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
-  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
+  function space() { if (mode === "brief" || mode === "sea" || mode === "radar" || mode === "pins" || mode === "event") return; var r = RR(), all = [];
+    P.forEach(function (p) { if (p.x != null) { p.r = p.r || r; all.push(p); } }); COINS.forEach(function (c) { all.push(c); }); if (ATH && mode !== "event") all.push(ATH); apart(all, 6); }
+  function frame() { if (!on) return; t++; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
+  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
   function setup() { size(); mod.init(); coins(); }
   colours(); setup(); start();
   var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(function () { setup(); start(); }, 200); });
@@ -401,6 +414,7 @@
 (function () {
   var w = document.getElementById("welc"); if (!w) return;
   if (window.athenaTourAuto && window.athenaTourAuto()) return;      /* 28 Oct: first visit - the intro and the tour welcome the reader */
+  if (!document.getElementById("welcome")) return;                   /* LOOK-31: the greeting on the front page only - a story page is for its story */
   var seen = false;
   try { seen = sessionStorage.getItem("athena-welcomed") === "1"; sessionStorage.setItem("athena-welcomed", "1"); } catch (e) { seen = false; }
   if (seen) return;
@@ -451,4 +465,33 @@
   mark();
   var tm = null;
   if (window.MutationObserver) new MutationObserver(function () { clearTimeout(tm); tm = setTimeout(mark, 120); }).observe(main, { childList: true, subtree: true });
+})();
+
+/* LOOK-31: the sticky menu's emblem, the test strip, the freshness dot, the help button */
+(function () {
+  "use strict";
+  var nav = document.querySelector("nav.sections"), mast = document.querySelector("header.mast"), hp = document.getElementById("hp");
+  function onScroll() {
+    var y = window.scrollY || document.documentElement.scrollTop || 0;
+    if (nav && mast) nav.classList.toggle("stuck", y > mast.offsetTop + mast.offsetHeight);
+    if (hp) hp.classList.toggle("mini", y > 240);
+  }
+  window.addEventListener("scroll", onScroll, { passive: true }); onScroll();
+  var tb = document.querySelector(".testbar");
+  if (tb) {
+    var rev = tb.getAttribute("data-rev") || "", hid = false;
+    try { hid = localStorage.getItem("athena-testbar") === rev; } catch (e) { hid = false; }
+    if (hid) tb.hidden = true;
+    var t = tb.querySelector(".tb-t"), x = tb.querySelector(".tb-x");
+    if (t) t.addEventListener("click", function () { t.setAttribute("aria-expanded", t.getAttribute("aria-expanded") === "true" ? "false" : "true"); });
+    if (x) x.addEventListener("click", function () { tb.hidden = true; try { localStorage.setItem("athena-testbar", rev); } catch (e) { /* private */ } });
+  }
+  function fresh() {
+    var s = document.getElementById("upd"); if (!s || s.hidden) return;
+    var tm = s.querySelector("time"), iso = tm && tm.getAttribute("datetime"); if (!iso) return;
+    var m = (Date.now() - new Date(iso).getTime()) / 60000;
+    s.classList.remove("fresh", "ok", "stale"); s.classList.add(m < 30 ? "fresh" : m < 120 ? "ok" : "stale");
+  }
+  fresh(); setInterval(fresh, 60000);
+  if (window.MutationObserver) { var u = document.getElementById("upd"); if (u) new MutationObserver(fresh).observe(u, { attributes: true, subtree: true, childList: true }); }
 })();
