@@ -489,11 +489,35 @@
   /* 30 Oct 2026 (evening): no observer on the label - changing its class from an observer of its own attributes looped
      forever and froze the page. The dot is set a few times while data/updated.json arrives, then once a minute, and
      only when its colour really changes. */
+  /* LIVE-35: the dot is green while the site is being kept up to date - the last publish landed within two publishing
+     intervals (data-int, minutes); amber under two hours; red after. The time shown is when the site went live. */
   function fresh() {
     var s = document.getElementById("upd"); if (!s || s.hidden) return;
     var tm = s.querySelector("time"), iso = tm && tm.getAttribute("datetime"); if (!iso) return;
-    var m = (Date.now() - new Date(iso).getTime()) / 60000, want = m < 30 ? "fresh" : m < 120 ? "ok" : "stale";
+    var iv = parseInt(s.getAttribute("data-int") || "15", 10) || 15, g = Math.max(30, iv * 2 + 5);
+    var m = (Date.now() - new Date(iso).getTime()) / 60000, want = m < g ? "fresh" : m < 120 ? "ok" : "stale";
     if (!s.classList.contains(want)) { s.classList.remove("fresh", "ok", "stale"); s.classList.add(want); }
   }
+  var up = document.getElementById("upd");
+  if (up) up.addEventListener("athena-live", fresh);
   [500, 1500, 4000, 9000].forEach(function (ms) { setTimeout(fresh, ms); }); setInterval(fresh, 60000);
+  /* LIVE-35: while a large update is being published, readers are told (data/status.json, written by the publish) */
+  (function () {
+    var u = document.querySelector(".util[data-root]"), root = u ? (u.getAttribute("data-root") || "") : "";
+    if (!up || !window.fetch || document.querySelector(".upd-bar")) return;
+    fetch(root + "data/status.json", { cache: "no-store" }).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+      if (!j || !j.publishing || !j.started) return;
+      var age = (Date.now() - new Date(j.started).getTime()) / 60000;
+      if (!(age >= 0 && age < Math.max(90, (j.eta_min || 20) * 3))) return;                 /* an old flag: the landed file never arrived */
+      var key = "athena-updbar"; try { if (sessionStorage.getItem(key) === j.started) return; } catch (e) { /* private */ }
+      var left = Math.max(1, Math.round((j.eta_min || 20) - age));
+      var bar = document.createElement("div"); bar.className = "nbar upd-bar"; bar.setAttribute("role", "status");
+      bar.innerHTML = '<div class="wrap"><span class="nk">ATHENA</span><span class="nt"></span><button type="button" class="nx" aria-label="">&times;</button></div>';
+      bar.querySelector(".nt").textContent = (up.getAttribute("data-big") || "").replace("{n}", String(left));
+      var x = bar.querySelector(".nx"); x.setAttribute("aria-label", up.getAttribute("data-close") || "Close");
+      x.addEventListener("click", function () { bar.remove(); try { sessionStorage.setItem(key, j.started); } catch (e) { /* private */ } });
+      var nb = document.getElementById("nbar");
+      if (nb && nb.parentNode) nb.parentNode.insertBefore(bar, nb.nextSibling); else document.body.insertBefore(bar, document.body.firstChild);
+    }).catch(function () { /* no status file: nothing to say */ });
+  })();
 })();

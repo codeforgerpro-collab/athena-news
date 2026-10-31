@@ -42,8 +42,8 @@
   if(lm)document.addEventListener("click",function(e){if(lm.open&&!lm.contains(e.target))lm.open=false;});
   var root=(u&&u.getAttribute("data-root"))||"";
   if(u&&window.fetch)fetch(root+"data/updated.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
-    var s=document.getElementById("upd");if(!s||!j.updated)return;var t=s.querySelector("time");t.setAttribute("datetime",j.updated);t.textContent=ago(j.updated)||j.updated;
-    if(fmt)t.title=fu(new Date(j.updated));s.hidden=false;}).catch(function(){});
+    var s=document.getElementById("upd");if(!s||!j.updated)return;var t=s.querySelector("time"),live=j.published||j.updated;t.setAttribute("datetime",live);t.textContent=ago(live)||live;
+    if(fmt)t.title=fu(new Date(live))+(j.published?" · "+(s.getAttribute("data-asof")||"")+" "+fu(new Date(j.updated)):"");s.hidden=false;s.dispatchEvent(new Event("athena-live"));}).catch(function(){});
   var c=document.querySelector('meta[name="athena-count"]');
   if(c&&/^https?:$/.test(location.protocol)&&!/^(localhost|127\.|\[::1\])/.test(location.hostname)&&navigator.doNotTrack!=="1"&&!navigator.webdriver){
     try{var q="?p="+encodeURIComponent(location.pathname)+"&t="+encodeURIComponent(document.title)+"&r="+encodeURIComponent(document.referrer||"")
