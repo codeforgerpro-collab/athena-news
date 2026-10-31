@@ -180,6 +180,8 @@ mask-image:linear-gradient(90deg,transparent,#000 24px,#000 calc(100% - 24px),tr
 .box.explained{margin:18px 0}.box.explained h2{font-family:var(--head);font-size:22px;margin:0 0 6px}.box.explained h3{font-size:14px;margin:12px 0 4px;letter-spacing:.04em}
 ul.timeline .tl-day>h3{font:700 12px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:16px 0 6px}
 a.chip{text-decoration:none}a.chip:hover{text-decoration:underline}
+.chip .cflag{width:18px;height:13px;border-radius:2px;vertical-align:-2px;margin-inline-end:6px;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
+.about-c .chip{font-size:14px;font-weight:600;padding:5px 10px;color:var(--ink)}   /* AB-36 */
 /* 27 Oct: Notices from ATHENA - the bar under the menu and notices.html */
 .nbar{border-bottom:1px solid var(--rule);font-size:14px;--nc:#a8843a;background:color-mix(in srgb,var(--nc) 10%,var(--card))}
 .nbar.k-important{--nc:#b3261e}.nbar.k-correction{--nc:#1d5fa8}
