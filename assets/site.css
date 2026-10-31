@@ -592,6 +592,9 @@ color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);b
 .ci-top li:first-child{border-top:0}.ci-top .rk{font-size:11px;white-space:nowrap}
 
 /* 27 Oct: one page per country */
+/* CTY-36: the last 30 days */
+.cp-m{margin:6px 0 14px}.cp-h3{font-family:var(--head);font-size:19px;margin:18px 0 6px}.cp-gone{color:var(--ink2);font-weight:600}
+.qchip .sw{display:inline-block;width:9px;height:9px;border-radius:50%;margin-inline-end:6px;vertical-align:1px}
 .cp-h{display:flex;align-items:center;gap:16px;margin:10px 0 14px}.cp-h img{border-radius:4px;box-shadow:0 0 0 1px rgba(0,0,0,.15);flex:none}
 .cp-h h1{margin:0;font-size:32px}.cp-h>div{flex:1;min-width:0}.cp-h .rk{flex:none}
 ol.cp-top{margin:0;padding-inline-start:22px}ol.cp-top li{padding:10px 0;border-top:1px dotted var(--rule)}ol.cp-top li:first-child{border-top:0}
@@ -895,7 +898,9 @@ nav.sections.stuck{box-shadow:0 6px 18px -10px rgba(0,0,0,.35)}
 .tin{border:1px solid var(--rule);border-radius:14px;background:var(--card);padding:16px 20px 10px;margin:22px 0 4px}
 .tin>h2{font-family:var(--sans);font-size:var(--t2,13px);letter-spacing:.14em;text-transform:uppercase;font-weight:800;margin:0 0 2px}
 .bandrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:10px}
-.bandrow div{border-radius:10px;padding:8px 10px;background:var(--chip)}.bandrow b{display:block;font:700 22px/1.1 var(--head)}
+.bandrow div,.bandrow a{border-radius:10px;padding:8px 10px;background:var(--chip);color:inherit;text-decoration:none;display:block}
+.bandrow a:hover,.bandrow a:focus-visible{background:color-mix(in srgb,var(--gold) 14%,var(--chip));text-decoration:none;transform:translateY(-1px)}
+.bandrow a{transition:transform .12s ease,background .12s ease}.bandrow b{display:block;font:700 22px/1.1 var(--head)}
 .bandrow span{font-size:var(--t1,12px);color:var(--muted)}.bandrow em{font-style:normal;font-size:var(--t1,12px);color:var(--muted);display:block}
 .bandrow .b-elev{box-shadow:inset 0 3px 0 var(--elev)}.bandrow .b-high{box-shadow:inset 0 3px 0 var(--high)}.bandrow .b-crit{box-shadow:inset 0 3px 0 var(--crit)}
 .bandrow .b-low{box-shadow:inset 0 3px 0 var(--gold)}

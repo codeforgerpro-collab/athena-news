@@ -26,7 +26,8 @@
     for(var i=0;i<w.length;i++){if(used[i])continue;
       // "risk above 7", "κίνδυνος πάνω από 7", "riesgo 7+"
       if(V.risk_word.some(function(x){return w[i].indexOf(x)===0;})){for(var j=i+1;j<Math.min(w.length,i+5);j++){var m=w[j].match(/^(\d+(?:\.\d+)?)\+?$/);
-        if(m){r.risk=Math.min(10,Math.max(r.risk,parseFloat(m[1])));for(var z=i;z<=j;z++)used[z]=1;break;}}if(used[i])continue;}
+        if(m){r.risk=Math.min(10,Math.max(r.risk,parseFloat(m[1])));for(var z=i;z<=j;z++)used[z]=1;break;}
+        var mx=w[j].match(/^(\d+(?:\.\d+)?)-$/);if(mx){r.rmax=parseFloat(mx[1]);for(var z=i;z<=j;z++)used[z]=1;break;}}if(used[i])continue;}
       var keys=[w[i].slice(0,2)];if(V.lang==="ar"&&w[i].length>3)keys.push(w[i].slice(1,3));var best=null;
       keys.forEach(function(f){(X[f]||[]).forEach(function(e){if(best&&best.w.length>=e.w.length)return;if(i+e.w.length>w.length)return;
         for(var k=0;k<e.w.length;k++){if(used[i+k]||!wm(w[i+k],e.w[k]))return;}best=e;});});
@@ -35,7 +36,7 @@
         else if(best.k==="sort")r.sort=best.v;
         else if(r[best.k].indexOf(best.v)<0)r[best.k].push(best.v);}}
     w.forEach(function(x,i){if(!used[i]&&V.stop.indexOf(x)<0&&(x.length>=3||/^\d+$/.test(x)))r.words.push(x);});
-    if(r.risk&&!r.sort&&!r.words.length&&!r.country.length&&!r.region.length&&!r.topic.length&&!r.section.length&&!r.since)r.sort="risk";
+    if((r.risk||r.rmax)&&!r.sort&&!r.words.length&&!r.country.length&&!r.region.length&&!r.topic.length&&!r.section.length&&!r.since)r.sort="risk";
     return r;}
   function tw(t){return N(t).split(" ");}
   function hits(words,title){var tt=title.__w||(title.__w=tw(title.t));var n=0;
@@ -43,7 +44,7 @@
   function run(q){var r=parse(q),now=Date.now()/1000,strong=r.country.length||r.region.length||r.topic.length||r.section.length;
     var regs={};r.region.forEach(function(x){(V.region_members[x]||[]).forEach(function(i){regs[i]=1;});});
     var res=[];EV.forEach(function(e){
-      if(r.since&&now-e[7]>r.since*3600)return;if(r.risk&&e[3]<r.risk)return;
+      if(r.since&&now-e[7]>r.since*3600)return;if(r.risk&&e[3]<r.risk)return;if(r.rmax&&e[3]>=r.rmax)return;
       if(r.section.length&&!r.section.some(function(s){return String(s)===String(e[2]);}))return;
       if(r.topic.length&&!r.topic.some(function(s){return e[10].indexOf(s)>=0;}))return;
       var cm=r.country.filter(function(c){return e[9].indexOf(c)>=0;}).length;if(r.country.length&&!cm)return;
@@ -59,7 +60,7 @@
   function reading(r){var T=V.text,L=T.lbl,c=[];
     r.country.forEach(function(x){c.push(chip(L.country,V.cname[x]||x));});r.region.forEach(function(x){c.push(chip(L.region,V.rname[x]||x));});
     r.topic.forEach(function(x){c.push(chip(L.topic,V.tname[x]||x));});r.section.forEach(function(x){c.push(chip(L.section,V.catname[x]||x));});
-    if(r.since)c.push(chip(L.since,T.hours[String(r.since)]||r.since+" h"));if(r.risk)c.push(chip(L.risk,T.risk_min.replace("{v}",r.risk)));
+    if(r.since)c.push(chip(L.since,T.hours[String(r.since)]||r.since+" h"));if(r.risk)c.push(chip(L.risk,T.risk_min.replace("{v}",r.risk)));if(r.rmax)c.push(chip(L.risk,(T.risk_max||"< {v}").replace("{v}",r.rmax)));
     if(r.words.length)c.push(chip(L.words,r.words.join(" ")));c.push(chip(L.sort,T.sort[r.sortUsed]));
     return '<h2 class="ah">'+esc(T.reading)+'</h2><div class="achips">'+c.join("")+'</div>';}
   function item(x){var e=x.e,T=V.text,L=T.lbl;
