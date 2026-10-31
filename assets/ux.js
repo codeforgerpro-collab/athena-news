@@ -228,7 +228,18 @@
   var FLAGS = ["grc", "cyp", "tur", "usa", "gbr", "deu", "fra", "ita", "esp", "ukr", "rus", "chn", "isr", "irn", "egy", "sau", "jpn", "ind"], FL = {}, FLK = [];
   function img(src) { var i = new Image(); i.decoding = "async"; i.onload = function () { SPR = {}; if (still) start(); }; i.src = src; return i; }
   FLAGS.forEach(function (k) { FL[k] = img(root + "assets/cf/" + k + ".svg"); FLK.push("f:" + k); });
-  var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] };
+  var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] }, SC = {};
+  try { SC = JSON.parse(box.getAttribute("data-sc") || "{}"); } catch (e) { SC = {}; }
+  /* LOOK-36: every symbol is a designed badge - a section in its own colour, the market symbols in theirs */
+  var MC = { stk: "#2E9E6B", oil: "#B45309", gold: "#D4A017", ship: "#3A8DDB", beacon: "#D92D3A", eur: "#3A6FD8", usd: "#15803D", etf: "#8E5BE8" };
+  function hx(c) { c = String(c || "#888").replace("#", ""); if (c.length === 3) c = c.replace(/./g, "$&$&"); var n = parseInt(c, 16); return [n >> 16 & 255, n >> 8 & 255, n & 255]; }
+  function mix(c, w, k) { var a = hx(c), b = w ? [255, 255, 255] : [0, 0, 0]; return "rgb(" + a.map(function (v, i) { return Math.round(v + (b[i] - v) * k); }).join(",") + ")"; }
+  function badge(g, r, col) {                                            /* lit from the top left, a lighter rim, a soft gloss */
+    var gr = g.createRadialGradient(-r * .35, -r * .45, r * .1, 0, 0, r * 1.05); gr.addColorStop(0, mix(col, 1, .38)); gr.addColorStop(.55, col); gr.addColorStop(1, mix(col, 0, .3));
+    g.save(); g.shadowColor = "rgba(0,0,0,.35)"; g.shadowBlur = r * .35; g.shadowOffsetY = r * .08;
+    g.beginPath(); g.arc(0, 0, r, 0, 6.2832); g.fillStyle = gr; g.fill(); g.restore();
+    g.beginPath(); g.arc(0, 0, r - .6, 0, 6.2832); g.lineWidth = 1.2; g.strokeStyle = mix(col, 1, .55); g.globalAlpha = .9; g.stroke(); g.globalAlpha = 1;
+    g.save(); g.beginPath(); g.arc(0, 0, r - 1.5, 0, 6.2832); g.clip(); g.globalAlpha = .16; g.fillStyle = "#fff"; g.beginPath(); g.ellipse(0, -r * .55, r * .85, r * .5, 0, 0, 6.2832); g.fill(); g.restore(); }
   try { SYMS = JSON.parse(box.getAttribute("data-sym") || "{}"); } catch (e) {}
   var XS = (SYMS.x || []).map(function (s) { return img(s.src); });
   function crypto() { var a = []; if (SYMS.btc !== false) a.push("btc"); if (SYMS.eth !== false) a.push("eth"); XS.forEach(function (_, i) { a.push("x:" + i); }); return a; }
@@ -268,20 +279,47 @@
     if (k === "btc") { disc(g, r, "#f7931a"); g.rotate(-.24); txt(g, r, "₿", r * 1.2, "#fff"); return; }
     if (k === "eth") { disc(g, r, "#627eea"); var s = r / 12; g.scale(s, s); g.fillStyle = "#fff"; g.beginPath(); g.moveTo(0, -8); g.lineTo(5, .6); g.lineTo(0, 3.4); g.lineTo(-5, .6); g.closePath(); g.fill();
       g.globalAlpha = .8; g.beginPath(); g.moveTo(0, 4.6); g.lineTo(5, 1.8); g.lineTo(0, 8.6); g.lineTo(-5, 1.8); g.closePath(); g.fill(); return; }
-    var mk = /^(etf|stk|oil|gold|eur|usd)$/.test(k); disc(g, r, C.paper, mk ? C.gold : C.rule);
-    if (k === "etf") return txt(g, r, "ETF", r * .62, C.gold);
-    if (k === "eur" || k === "usd") return txt(g, r, k === "eur" ? "€" : "$", r * 1.05, C.gold);
-    glyph(g, r, ICON[k], mk ? C.gold : C.muted); }); }
-  function evsym(k, col, r) { return sprite("ev" + k + col, r, function (g, r) { disc(g, r, col); glyph(g, r, ICON[k], "#fff", 2.2); }); }
+    badge(g, r, SC[k] || MC[k] || C.gold);
+    if (k === "etf") return txt(g, r, "ETF", r * .62, "#fff");
+    if (k === "eur" || k === "usd") return txt(g, r, k === "eur" ? "€" : "$", r * 1.05, "#fff");
+    glyph(g, r, ICON[k], "#fff", 2.1); }); }
+  function evsym(k, col, r) { return sprite("ev" + k + col, r, function (g, r) { badge(g, r, col); glyph(g, r, ICON[k], "#fff", 2.3); }); }
   /* 30 Oct 2026: the ATHENA emblem (the header's own logo) in the band - partner-coin size, on a gold-rimmed disc, flashing */
   function CR() { return W < 640 ? 13 : 17; }
-  function emblem(x, y, r, col, fl) { if (!OWL.complete || !OWL.naturalWidth) return put(evsym("1", col, r), x, y, r);
+  /* LOOK-36: the ATHENA owl drawn in vector (the same shapes as the logo) and alive inside its circle - it looks around, blinks,
+     breathes, and two gold arcs turn slowly inside the rim. Still for readers who ask for reduced motion. */
+  var OP = { shield: new Path2D("M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z"), ears: new Path2D("M14.5 24 L17.5 9.5 L25.5 17.5 Z M49.5 24 L46.5 9.5 L38.5 17.5 Z"),
+    head: new Path2D("M32 18.5 C25 13.5 14 15 14 27.5 C14 38.5 22.5 45 32 47 C41.5 45 50 38.5 50 27.5 C50 15 39 13.5 32 18.5 Z"),
+    brow: new Path2D("M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5"), beak: new Path2D("M29.2 29.5 H34.8 L32 37.5 Z"), chev: new Path2D("M23 51 L27.5 54 L32 51 L36.5 54 L41 51") };
+  var OG = "#C9A45C", OL = "#E2C27F", ON = "#0B1630", OH = "#14254D";
+  function owlVec(x, y, r, col) {
+    var tt = still ? 0 : t, look = still ? 0 : Math.sin(tt / 55) * 1.7 + Math.sin(tt / 23) * .4, bl = (tt % 260), lid = bl < 9 ? Math.sin(bl / 9 * Math.PI) : 0;
+    var breathe = 1 + (still ? 0 : Math.sin(tt / 34) * .025), tilt = still ? 0 : Math.sin(tt / 90) * .06;
+    cx.save(); cx.globalAlpha = 1; cx.translate(x, y);
+    var bg = cx.createRadialGradient(-r * .3, -r * .4, r * .1, 0, 0, r); bg.addColorStop(0, "#1d3266"); bg.addColorStop(1, ON);   /* the night-blue disc */
+    cx.beginPath(); cx.arc(0, 0, r, 0, 6.2832); cx.fillStyle = bg; cx.fill();
+    cx.lineWidth = Math.max(1.6, r * .09); cx.strokeStyle = col; cx.stroke();
+    cx.save(); cx.beginPath(); cx.arc(0, 0, r - 1, 0, 6.2832); cx.clip();
+    var a0 = still ? 0 : tt / 60; cx.lineWidth = Math.max(1, r * .06); cx.strokeStyle = OL; cx.globalAlpha = .55;   /* two arcs turning inside the rim */
+    cx.beginPath(); cx.arc(0, 0, r * .86, a0, a0 + 1.1); cx.stroke(); cx.beginPath(); cx.arc(0, 0, r * .86, a0 + Math.PI, a0 + Math.PI + 1.1); cx.stroke();
+    cx.globalAlpha = .12 + (still ? 0 : .08 * Math.sin(tt / 20)); cx.fillStyle = "#fff"; cx.beginPath(); cx.ellipse(0, -r * .55, r * .8, r * .38, 0, 0, 6.2832); cx.fill();
+    cx.globalAlpha = 1; cx.rotate(tilt); var s = r * 1.42 / 64 * breathe; cx.scale(s, s); cx.translate(-32, -32);
+    cx.fillStyle = OH; cx.fill(OP.head); cx.lineWidth = 1.6; cx.strokeStyle = OG; cx.stroke(OP.head);
+    cx.fillStyle = OG; cx.fill(OP.ears);
+    cx.lineWidth = 2; cx.lineCap = "round"; cx.strokeStyle = OL; cx.stroke(OP.brow);
+    [24, 40].forEach(function (ex) { cx.beginPath(); cx.arc(ex, 30, 6.2, 0, 6.2832); cx.lineWidth = 1.8; cx.strokeStyle = OG; cx.stroke();
+      cx.beginPath(); cx.arc(ex, 30, 4, 0, 6.2832); cx.fillStyle = OL; cx.fill();
+      cx.beginPath(); cx.arc(ex + look, 30, 1.8, 0, 6.2832); cx.fillStyle = ON; cx.fill();
+      cx.beginPath(); cx.arc(ex + look + .9, 29, .7, 0, 6.2832); cx.fillStyle = "#fff"; cx.fill();
+      if (lid > 0) { cx.beginPath(); cx.ellipse(ex, 30 - 6.2 * (1 - lid), 6.4, 6.4 * lid + .01, 0, 0, 6.2832); cx.fillStyle = OH; cx.fill(); } });
+    cx.fillStyle = OG; cx.fill(OP.beak); cx.lineWidth = 1.5; cx.strokeStyle = OG; cx.globalAlpha = .75; cx.stroke(OP.chev);
+    cx.restore(); cx.restore(); }
+  function emblem(x, y, r, col, fl) {
     var f = fl == null ? .5 + .5 * Math.sin(t / 7) : fl;                                       /* the flash */
     cx.globalAlpha = .18 + .32 * f; var gr = cx.createRadialGradient(x, y, r * .5, x, y, r * 2.3); gr.addColorStop(0, col); gr.addColorStop(1, "rgba(0,0,0,0)");
     cx.fillStyle = gr; cx.beginPath(); cx.arc(x, y, r * 2.3, 0, 6.2832); cx.fill();
     ring(x, y, r + 3 + ((t % 80) / 80) * 16, col, 2, .5 * (1 - (t % 80) / 80));               /* a ring goes out every ~1.3 s */
-    dot(x, y, r + 1.6, col, 1); dot(x, y, r, C.paper, 1);
-    var w = OWL.naturalWidth, h = OWL.naturalHeight, s = (r * 1.62) / Math.max(w, h); cx.globalAlpha = 1; cx.drawImage(OWL, x - w * s / 2, y - h * s / 2, w * s, h * s); }
+    owlVec(x, y, r, col); }
   function owl(x, y, r, col) { emblem(x, y, Math.max(r, CR()), col); }
 
   /* the partners' coins: gold rim, a soft breathing glow; they never run from the pointer and stop while pointed at */

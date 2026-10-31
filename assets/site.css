@@ -14,8 +14,16 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-deco
 a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .wrap{max-width:1220px;margin:0 auto;padding:0 24px}
 /* utility bar + masthead */
-.util{border-bottom:1px solid var(--rule);font-size:13px;color:var(--muted)}
-.util .wrap{display:flex;align-items:center;gap:14px;min-height:40px}.util .grow{flex:1}
+.util{border-bottom:1px solid var(--rule);font-size:13px;color:var(--muted);background:color-mix(in srgb,var(--paper2) 70%,transparent)}
+.util .wrap{display:flex;align-items:center;gap:14px;min-height:42px}.util .grow{flex:1}
+/* LOOK-36: the top bar in two groups - when (date, time, the site's freshness) and how you read (language, size, display) -
+   every control the same height, the freshness as a pill, a thin divider between the reading controls */
+.util .live:not([hidden]){border:1px solid var(--rule);border-radius:999px;padding:3px 12px 3px 10px;background:var(--card);color:var(--ink2)}
+.util .ubtn,.util details.langs summary,.util details.modes summary{height:30px;box-sizing:border-box}
+.util details.langs summary{border:1px solid var(--rule);border-radius:999px;padding:0 12px;background:var(--card);color:var(--ink2)}
+.util .tsz{padding-inline-start:12px;border-inline-start:1px solid var(--rule);margin-inline-end:0}
+.util details.modes{padding-inline-start:12px;border-inline-start:1px solid var(--rule)}
+.util details.modes summary{border:1px solid var(--rule);border-radius:50%;background:var(--card)}
 .util .clock,.util .live{white-space:nowrap}.util .clock{font-variant-numeric:tabular-nums;color:var(--ink2);font-weight:600;padding-left:12px;border-left:1px solid var(--rule)}
 @media (max-width:640px){.util .clock{padding-left:0;border-left:0}.util .wrap{gap:10px;font-size:12px}}
 .live{display:inline-flex;align-items:center;gap:6px}.live i{width:7px;height:7px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px color-mix(in srgb,var(--red) 22%,transparent)}
@@ -39,6 +47,10 @@ main{padding:22px 0 56px}
 /* type */
 .kick{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold2);display:inline-flex;align-items:center;gap:7px}
 .kick i{width:9px;height:9px;display:inline-block}.kick.dev-k{color:var(--red)}
+/* LOOK-36: a section's label in its own colour - darker on paper, lighter on the night modes - with a lit square */
+.kick[style*="--sc"]{color:color-mix(in srgb,var(--sc) 68%,var(--ink))}
+.kick[style*="--sc"] i{width:10px;height:10px;border-radius:3px;box-shadow:0 0 0 3px color-mix(in srgb,var(--sc) 24%,transparent)}
+a.kick[style*="--sc"]:hover{color:var(--sc);text-decoration:none}
 h1,h2,h3,h4{margin:0;font-family:var(--head);font-weight:700;color:var(--ink);letter-spacing:-.005em}
 .hl-xl{font-size:42px;line-height:1.08}.hl-l{font-size:28px;line-height:1.15}.hl-m{font-size:20px;line-height:1.22}.hl-s{font-size:17px;line-height:1.28}
 .dek{font-family:var(--head);font-size:18px;line-height:1.5;color:var(--ink2);margin:10px 0 0}

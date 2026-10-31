@@ -64,7 +64,7 @@
     if(r.words.length)c.push(chip(L.words,r.words.join(" ")));c.push(chip(L.sort,T.sort[r.sortUsed]));
     return '<h2 class="ah">'+esc(T.reading)+'</h2><div class="achips">'+c.join("")+'</div>';}
   function item(x){var e=x.e,T=V.text,L=T.lbl;
-    return '<li><div class="kick">'+esc(V.catname[e[2]]||"")+'</div><h3 class="hl-s" lang="en"><a href="'+esc(root+pre+"event/"+e[0]+".html")+'">'+esc(e[1])+'</a></h3>'
+    return '<li><div class="kick"'+((V.catcol||{})[e[2]]?' style="--sc:'+V.catcol[e[2]]+'"><i style="background:'+V.catcol[e[2]]+'"></i>':'>')+esc(V.catname[e[2]]||"")+'</div><h3 class="hl-s" lang="en"><a href="'+esc(root+pre+"event/"+e[0]+".html")+'">'+esc(e[1])+'</a></h3>'
       +'<div class="meta c"><span>'+esc(ago(e[7]))+'</span><span>'+esc(L.outlets)+' '+e[5]+'</span><span>'+esc(L.countries)+' '+e[6]+'</span>'
       +'<span class="rk '+rc(e[3])+'">'+esc(L.risk)+' '+(+e[3]).toFixed(1)+'</span></div></li>';}
   function draw(){var T=V.text;
