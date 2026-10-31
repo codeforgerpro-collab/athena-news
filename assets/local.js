@@ -5,7 +5,12 @@
   "use strict";
   var src = document.getElementById("lc-i18n"), out = document.getElementById("lcout"), q = document.getElementById("lcq");
   if (!src || !out) return;
-  var I = JSON.parse(src.textContent || "{}"), D = I.desk || {};
+  var I0 = JSON.parse(src.textContent || "{}");
+  if (I0.shared && window.fetch) {                                       /* SPD-35: the words are in a shared file */
+    fetch(I0.shared).then(function (r) { return r.json(); }).then(function (j) { for (var k in j) if (!(k in I0)) I0[k] = j[k]; main(I0); })
+      .catch(function () { /* the section stays empty */ });
+  } else main(I0);
+  function main(I) { var D = I.desk || {};
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function norm(s) { return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim(); }
   var idx = Object.keys(I.names).map(function (iso) { return { iso: iso, keys: I.names[iso].map(norm).concat([iso.toLowerCase()]) }; });
@@ -135,4 +140,5 @@
   Array.prototype.forEach.call(document.querySelectorAll("[data-iso]"), function (b) { b.addEventListener("click", function () { show(b.getAttribute("data-iso")); }); });
   var hh = (location.hash || "").replace("#", "").toUpperCase();
   if (I.names[hh]) show(hh);
+}
 })();

@@ -6,6 +6,16 @@
   window.athenaTourAuto = function () { return false; };
   if (!src) return;
   var T = JSON.parse(src.textContent || "{}"), KEY = "athena-tour";
+  T.intro = T.intro || {}; T.intro.mark = src.getAttribute("data-mark") || T.intro.mark || "";
+  if (src.getAttribute("data-src") && window.fetch) {                   /* SPD-35: the words are in a shared file on every other page */
+    fetch(src.getAttribute("data-src")).then(function (r) { return r.json(); }).then(function (j) {
+      j.intro = j.intro || {}; j.intro.mark = T.intro.mark;
+      for (var k in j) T[k] = j[k];
+      IN = T.intro || {};
+      if (window.athenaTourAuto === auto && !box) auto();               /* "show the tour each visit": it starts once the words are here */
+      syncHelp(); var hb2 = document.querySelector("#hp .hpbox"); if (hb2 && !hb2.querySelector(".hptour")) helpRow(hb2);
+    }).catch(function () { /* no tour words: the page works without the tour */ });
+  }
   function get() { try { return localStorage.getItem(KEY); } catch (e) { return "blocked"; } }
   function put(v) { try { localStorage.setItem(KEY, v); } catch (e) { /* private mode */ } }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -175,8 +185,8 @@
     if (pi) { ev.preventDefault(); var hp = document.getElementById("hp"); if (hp) hp.open = false; intro(null); }
   });
   function syncHelp() { var c = document.querySelector(".hptour input"); if (c) c.checked = get() === "on"; }
-  var hb = document.querySelector("#hp .hpbox");
-  if (hb) {
+  function helpRow(hb) {
+    if (!(T.steps || []).length && !IN.on) return;                       /* SPD-35: the words may still be on their way */
     var p = document.createElement("div"); p.className = "hptour";
     p.innerHTML = ((T.steps || []).length ? '<button type="button" data-tour-start>' + esc(T.take) + ' &rsaquo;</button>' : "") +
       (IN.on ? '<button type="button" data-intro-start>' + esc(IN.play) + " &rsaquo;</button>" : "") +
@@ -184,6 +194,8 @@
     hb.appendChild(p);
     var c = p.querySelector("input"); if (c) { c.checked = get() === "on"; c.addEventListener("change", function () { put(c.checked ? "on" : "off"); }); }
   }
+  var hb = document.querySelector("#hp .hpbox");
+  if (hb) helpRow(hb);
   var wt = document.querySelector(".welc-tour"); if (wt) wt.hidden = false;
 })();
 
@@ -497,6 +509,11 @@
     var iv = parseInt(s.getAttribute("data-int") || "15", 10) || 15, g = Math.max(30, iv * 2 + 5);
     var m = (Date.now() - new Date(iso).getTime()) / 60000, want = m < g ? "fresh" : m < 120 ? "ok" : "stale";
     if (!s.classList.contains(want)) { s.classList.remove("fresh", "ok", "stale"); s.classList.add(want); }
+    /* SPD-35: next to "Updated", when the next update is due - from the publishing rhythm the site itself reports */
+    var nx = parseFloat(s.getAttribute("data-next") || "0") || iv, left = Math.round(nx - m), el = s.querySelector(".nxt");
+    var txt = want === "stale" ? "" : left >= 2 ? (s.getAttribute("data-nxt") || "").replace("{n}", String(left)) : (s.getAttribute("data-soon") || "");
+    if (!el && txt) { el = document.createElement("span"); el.className = "nxt"; s.appendChild(el); }
+    if (el && el.textContent !== (txt ? " · " + txt : "")) el.textContent = txt ? " · " + txt : "";
   }
   var up = document.getElementById("upd");
   if (up) up.addEventListener("athena-live", fresh);

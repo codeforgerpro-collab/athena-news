@@ -839,6 +839,7 @@ nav.sections.stuck{box-shadow:0 6px 18px -10px rgba(0,0,0,.35)}
 @media (prefers-color-scheme:dark){:root:not([data-tone]) .amb{background:linear-gradient(180deg,var(--paper2),transparent)}}
 /* freshness: green while the site is kept up to date (two publishing intervals), amber under 2 h, red after */
 .upd-bar{--nc:#1d5fa8}.upd-bar .nt{white-space:normal}
+.util .live .nxt{color:var(--muted);font-weight:400}@media (max-width:640px){.util .live .nxt{display:none}}
 .live i{background:var(--muted);box-shadow:0 0 0 3px color-mix(in srgb,var(--muted) 22%,transparent)}
 .live.fresh i{background:#1f9d55;box-shadow:0 0 0 3px rgba(31,157,85,.22)}.live.ok i{background:var(--elev);box-shadow:0 0 0 3px color-mix(in srgb,var(--elev) 22%,transparent)}
 .live.stale i{background:var(--red);box-shadow:0 0 0 3px color-mix(in srgb,var(--red) 22%,transparent)}
