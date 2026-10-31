@@ -123,6 +123,26 @@ background:linear-gradient(135deg,color-mix(in srgb,var(--gold) 10%,var(--card))
 .empty{padding:26px;text-align:center;color:var(--muted);border:1px dashed var(--rule)}
 /* footer */
 footer.site{border-top:3px double var(--rule2);background:var(--paper2);padding:30px 0 40px;font-size:14px;color:var(--ink2)}
+/* FOOT-36: brand + four balanced columns, the languages, one bottom line */
+footer .fgrid{display:grid;grid-template-columns:1.5fr 1fr 1.25fr 1fr 1fr;gap:28px 32px}
+footer .fbrand p{margin:10px 0 0;color:var(--ink2);max-width:300px}footer .fmail a{color:var(--gold2);font-weight:600}
+footer .fbrand .fbtns{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}footer .fbrand .fbtns a{font-size:13px;padding:8px 14px}
+footer .fcol summary{list-style:none;cursor:default}footer .fcol summary .fh{margin:0 0 10px}footer .fcol summary::-webkit-details-marker{display:none}
+footer .fcol li{padding:4px 0}footer .fcol a{color:var(--ink2)}footer .fcol a:hover{color:var(--ink)}
+footer .fsec ul{columns:2;column-gap:18px}footer .fsec li{break-inside:avoid}
+footer .fsec i{display:inline-block;width:8px;height:8px;border-radius:2px;margin-inline-end:7px;vertical-align:1px}
+footer .flangs{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:26px;padding-top:16px;border-top:1px solid var(--rule)}
+footer .flangs .fh{margin:0 6px 0 0}footer .flangs a{display:inline-flex;align-items:center;gap:6px;color:var(--ink2);font-size:13.5px}
+footer .flangs a[aria-current]{color:var(--ink);font-weight:700}footer .flangs img{border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
+footer .fbot{display:flex;align-items:flex-start;gap:24px;margin-top:16px;padding-top:14px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--muted)}
+footer .flegal{flex:1;margin:0;max-width:980px}footer .flegal summary{cursor:pointer;list-style:none}footer .flegal summary::-webkit-details-marker{display:none}
+footer .flegal p{margin:6px 0 0}footer .fmore{color:var(--gold2);font-weight:600;white-space:nowrap}footer details[open].flegal .fmore{display:none}
+footer .ftop{white-space:nowrap;color:var(--gold2);font-weight:600}
+@media (max-width:1000px){footer .fgrid{grid-template-columns:1fr 1fr 1fr}footer .fbrand{grid-column:1/-1}}
+@media (max-width:640px){footer .fgrid{grid-template-columns:1fr;gap:0}footer .fbrand{margin-bottom:12px}
+ footer .fcol{border-top:1px solid var(--rule);padding:4px 0}footer .fcol summary{cursor:pointer;padding:12px 0;display:flex;justify-content:space-between}
+ footer .fcol summary .fh{margin:0}footer .fcol summary::after{content:"+";font-size:16px;color:var(--muted)}footer .fcol[open] summary::after{content:"−"}
+ footer .fsec ul{columns:1}footer .fbot{flex-direction:column;gap:10px}}
 footer .fcols{display:grid;grid-template-columns:1.4fr 1fr 1fr 1.2fr;gap:28px}
 footer h4,footer .fh{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;margin:0 0 10px;color:var(--ink)}
 footer ul{list-style:none;margin:0;padding:0}footer li{padding:3px 0}footer a{color:var(--ink2)}
@@ -600,6 +620,11 @@ color:var(--ink);border:1px solid var(--rule);border-top:4px solid var(--gold);b
 .ci-h img{border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.15);flex:none}
 .ci-s{font-size:13px;color:var(--muted);margin:8px 0 6px}
 .ci-bar{height:5px;border-radius:3px;background:var(--rule);overflow:hidden;margin-bottom:8px}.ci-bar i{display:block;height:100%;background:var(--high)}
+/* CLR-36: the continent's colour on its chip, heading and cards; the bar's colour is the share of events at risk 6+ */
+.ci-chip{display:inline-flex;align-items:center;gap:7px}.ci-chip i,.ci-reg i{width:10px;height:10px;border-radius:3px;background:var(--sc);flex:none}
+.ci-reg{display:flex;align-items:center;gap:10px}.ci-reg i{width:12px;height:12px}
+.ci-grid .ci{border-top:3px solid var(--sc,var(--rule))}
+.ci-bar i.low{background:#3FA46A}.ci-bar i.elev{background:#E3B23C}.ci-bar i.high{background:#EE7A2B}.ci-bar i.crit{background:#D0293F}
 .ci-top{list-style:none;margin:0;padding:0}.ci-top li{padding:5px 0;border-top:1px dotted var(--rule);font-size:14px;line-height:1.35}
 .ci-top li:first-child{border-top:0}.ci-top .rk{font-size:11px;white-space:nowrap}
 
@@ -712,6 +737,16 @@ nav.sections .mg-r a.st small i{width:8px;height:8px;border-radius:50%;backgroun
 nav.sections .mg-r a.st small i.elev{background:var(--elev)}nav.sections .mg-r a.st small i.high{background:var(--high)}nav.sections .mg-r a.st small i.crit{background:var(--crit)}
 nav.sections .mg-r a.all{margin-top:12px;padding:0;font-size:14px;font-weight:700;color:var(--gold2);white-space:normal}
 nav.sections .mg-r a.all:hover{background:none;text-decoration:underline}
+/* CLR-36: the square is who (its own colour), the round dot is how risky (share of events at risk 6+) */
+nav.sections{--lv0:#3FA46A;--lv1:#E3B23C;--lv2:#EE7A2B;--lv3:#D0293F}
+nav.sections .dt{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--lv0);flex:none;vertical-align:middle}
+nav.sections .dt.elev{background:var(--lv1)}nav.sections .dt.high{background:var(--lv2)}nav.sections .dt.crit{background:var(--lv3)}
+nav.sections .mg-l a em{display:inline-flex;align-items:center;gap:7px}
+nav.sections .mg-st b .dt{width:9px;height:9px;margin-inline-end:7px;position:relative;top:-2px}
+nav.sections .mg-st b small{font-size:12.5px;font-weight:600;color:var(--muted);margin-inline-start:6px}
+nav.sections h3.mg-id{border-inline-start:4px solid var(--sc,var(--gold));padding-inline-start:10px}
+nav.sections .mg-key{display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;margin:14px 0 0;padding-top:10px;border-top:1px solid var(--rule);font-size:12px;color:var(--muted)}
+nav.sections .mg-key span{font-weight:600;margin-inline-end:4px}nav.sections .mg-key .dt{width:7px;height:7px;margin-inline-start:6px}
 nav.sections .mg-x{display:flex;flex-wrap:wrap;gap:8px;padding:12px 16px;border-top:1px solid var(--rule);background:var(--paper2)}
 nav.sections .mg-x a{padding:7px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--card);font-size:13.5px;font-weight:600}
 @media (max-width:1100px){nav.sections .mg3{grid-template-columns:238px minmax(0,1fr)}nav.sections .mg-r{display:none}}
@@ -924,9 +959,9 @@ nav.sections .mg-cg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));g
 nav.sections .mg-cg a{display:flex;align-items:center;gap:8px;padding:6px 8px;font-size:14px;font-weight:500;white-space:normal;line-height:1.25;border-radius:8px}
 nav.sections .mg-cg a img,nav.sections .mg-pin a img{width:18px;height:13px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15);flex:none}
 nav.sections .mg-cg a em,nav.sections .mg-pin a em{margin-inline-start:auto;font-style:normal;font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
-nav.sections .mg-cg a i,nav.sections .mg-pin a i{width:7px;height:7px;border-radius:50%;background:#4fa77f;flex:none}
-nav.sections .mg-cg a i.elev,nav.sections .mg-pin a i.elev{background:var(--elev)}nav.sections .mg-cg a i.high,nav.sections .mg-pin a i.high{background:var(--high)}
-nav.sections .mg-cg a i.crit,nav.sections .mg-pin a i.crit{background:var(--crit)}
+nav.sections .mg-cg a i,nav.sections .mg-pin a i{width:7px;height:7px;border-radius:50%;background:var(--lv0,#3FA46A);flex:none}
+nav.sections .mg-cg a i.elev,nav.sections .mg-pin a i.elev{background:var(--lv1,#E3B23C)}nav.sections .mg-cg a i.high,nav.sections .mg-pin a i.high{background:var(--lv2,#EE7A2B)}
+nav.sections .mg-cg a i.crit,nav.sections .mg-pin a i.crit{background:var(--lv3,#D0293F)}
 nav.sections .mg-cg a.q{color:var(--muted);font-weight:400;opacity:.75}
 nav.sections .mg-pin{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px;padding:8px 10px;border-radius:10px;background:color-mix(in srgb,var(--gold) 12%,transparent)}
 nav.sections .mg-pin span{font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold2);align-self:center;margin-inline-end:6px}

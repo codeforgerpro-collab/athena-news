@@ -38,6 +38,7 @@
     try{ck.title=W.clock+" · "+Intl.DateTimeFormat().resolvedOptions().timeZone;}catch(e){}
     setTimeout(function(){tick();setInterval(tick,60000);},(60-new Date().getSeconds())*1000);}
   // the language menu closes when you click elsewhere
+  if(window.matchMedia&&matchMedia("(max-width:640px)").matches)document.querySelectorAll("footer details.fcol").forEach(function(d){d.open=false;});   // FOOT-36
   var lm=document.querySelector("details.langs");
   if(lm)document.addEventListener("click",function(e){if(lm.open&&!lm.contains(e.target))lm.open=false;});
   var root=(u&&u.getAttribute("data-root"))||"";
@@ -186,12 +187,17 @@ function x(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"
 function u(p){return R+P+p}
 function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":""}
 function ago(ts){var h=Math.max(0,(Date.now()/1000-ts)/3600);return h<1?Math.max(1,Math.round(h*60))+" min":h<48?Math.round(h)+" h":Math.round(h/24)+" d"}
+function lv(o){return o.lv!=null?o.lv:rc(o.risk)}
+function tip(o){return o.n&&o.hi!=null?' title="'+x(o.hi+" "+T0().hi+" / "+o.n+" ("+Math.round(100*o.hi/o.n)+"%)")+'"':''}
+function T0(){return D.text}
+function key(){var T=D.text;return T.dot?'<p class="mg-key"><span>'+x(T.dot)+'</span><i class="dt"></i>'+x(T.low)+'<i class="dt elev"></i>'+x(T.elev)+'<i class="dt high"></i>'+x(T.high)+'<i class="dt crit"></i>'+x(T.crit)+'</p>':''}
 function mid(i){var s=D.sections[i],T=D.text,subs=s.subs.map(function(b){return '<a href="'+(b.n?u(b.url):u(s.url))+'"'+(b.n?'':' class="z"')+'>'+x(b.name)+(b.n?'<em>'+b.n+'</em>':'')+'</a>'}).join("");
- return '<h3><a href="'+u(s.url)+'">'+x(s.full)+'</a></h3><p class="mg-d">'+x(s.desc)+'</p><div class="mg-st"><div><b>'+s.n+'</b><span>'+x(T.events)+'</span></div><div><b>'+s.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+s.cc+'</b><span>'+x(T.countries)+'</span></div></div><p class="mg-h">'+x(T.subs)+'</p><div class="mg-subs">'+subs+'</div>'}
+ var hi=s.hi!=null?'<div><b><i class="dt '+lv(s)+'"></i>'+s.hi+'<small>'+(s.n?Math.round(100*s.hi/s.n):0)+'%</small></b><span>'+x(T.hi)+'</span></div>':'';
+ return '<h3 class="mg-id" style="--sc:'+x(s.color)+'"><a href="'+u(s.url)+'">'+x(s.full)+'</a></h3><p class="mg-d">'+x(s.desc)+'</p><div class="mg-st"><div><b>'+s.n+'</b><span>'+x(T.events)+'</span></div>'+hi+'<div><b>'+s.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+s.cc+'</b><span>'+x(T.countries)+'</span></div></div><p class="mg-h">'+x(T.subs)+'</p><div class="mg-subs">'+subs+'</div>'+key()}
 function right(i){var s=D.sections[i],T=D.text;return '<p class="mg-h">'+x(T.now_in)+'</p>'+s.top.map(function(t){return '<a class="st" lang="en" href="'+u(t.url)+'">'+x(t.t)+'<small><i class="'+rc(t.risk)+'"></i>'+x(T.risk)+' '+t.risk.toFixed(1)+' · '+t.o+' '+x(T.outlets)+' · '+ago(t.ts)+'</small></a>'}).join("")+'<a class="all" href="'+u(s.url)+'">'+x(T.all.replace("{c}",s.name))+' &rarr;</a>'}
 function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++)l[k].classList.toggle("on",k===i);dd.querySelector(".mg-c").innerHTML=mid(i);dd.querySelector(".mg-r").innerHTML=right(i)}
 function draw(){if(!D.sections.length)return;var on=(m.getAttribute("data-on")||"").replace("cat",""),first=0;
- var left=D.sections.map(function(s,i){if(String(s.id)===on)first=i;return '<a href="'+u(s.url)+'" data-i="'+i+'"><i style="background:'+x(s.color)+'"></i>'+x(s.name)+'<em>'+s.n+'</em></a>'}).join("");
+ var left=D.sections.map(function(s,i){if(String(s.id)===on)first=i;return '<a href="'+u(s.url)+'" data-i="'+i+'"'+tip(s)+'><i style="background:'+x(s.color)+'"></i>'+x(s.name)+'<em>'+(s.lv!=null?'<b class="dt '+s.lv+'"></b>':'')+s.n+'</em></a>'}).join("");
  var ex=D.extra.map(function(b){return '<a href="'+u(b.url)+'">'+x(b.name)+'</a>'}).join("");
  dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div><div class="mg-x">'+ex+'</div>';
  var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++){(function(a){var i=+a.getAttribute("data-i");a.addEventListener("mouseenter",function(){pick(i)});a.addEventListener("focus",function(){pick(i)})})(l[k])}
@@ -207,13 +213,16 @@ function x(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"
 function u(p){return R+P+p}
 function rc(v){return v>=8?"crit":v>=6?"high":v>=4?"elev":""}
 function ago(ts){var h=Math.max(0,(Date.now()/1000-ts)/3600);return h<1?Math.max(1,Math.round(h*60))+" min":h<48?Math.round(h)+" h":Math.round(h/24)+" d"}
-function c1(c){var fl=c.f?'<img src="'+F+x(c.iso)+'.svg" alt="" width="18" height="13">':'';return '<a href="'+(c.url?u(c.url):u(D.countries_url))+'"'+(c.q?' class="q"':'')+'>'+fl+x(c.name)+(c.n?'<i class="'+rc(c.risk)+'"></i><em>'+c.n+'</em>':'')+'</a>'}
+function lv(o){return o.lv!=null?o.lv:rc(o.risk)}
+function tip(o){return o.n?' title="'+x(o.hi+" "+D.text.hi+" / "+o.n+" ("+Math.round(100*o.hi/o.n)+"%)")+'"':''}
+function key(){var T=D.text;return '<p class="mg-key"><span>'+x(T.dot)+'</span><i class="dt"></i>'+x(T.low)+'<i class="dt elev"></i>'+x(T.elev)+'<i class="dt high"></i>'+x(T.high)+'<i class="dt crit"></i>'+x(T.crit)+'</p>'}
+function c1(c){var fl=c.f?'<img src="'+F+x(c.iso)+'.svg" alt="" width="18" height="13">':'';return '<a href="'+(c.url?u(c.url):u(D.countries_url))+'"'+(c.q?' class="q"':'')+tip(c)+'>'+fl+x(c.name)+(c.n?'<i class="'+lv(c)+'"></i><em>'+c.n+'</em>':'')+'</a>'}
 function mid(i){var r=D.regions[i],T=D.text;var pin=D.pinned.map(c1).join("");
- return '<div class="mg-pin"><span>'+x(T.pinned)+'</span>'+pin+'</div><h3><a href="'+u(r.url)+'">'+x(r.name)+'</a></h3><div class="mg-st"><div><b>'+r.n+'</b><span>'+x(T.events)+'</span></div><div><b>'+r.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+r.c.filter(function(c){return !c.q}).length+'</b><span>'+x(T.countries)+'</span></div></div><div class="mg-cg">'+r.c.map(c1).join("")+'</div>'}
+ return '<div class="mg-pin"><span>'+x(T.pinned)+'</span>'+pin+'</div><h3 class="mg-id" style="--sc:'+x(r.col)+'"><a href="'+u(r.url)+'">'+x(r.name)+'</a></h3><div class="mg-st"><div><b>'+r.n+'</b><span>'+x(T.events)+'</span></div><div><b><i class="dt '+lv(r)+'"></i>'+r.hi+'<small>'+(r.n?Math.round(100*r.hi/r.n):0)+'%</small></b><span>'+x(T.hi)+'</span></div><div><b>'+r.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+r.c.filter(function(c){return !c.q}).length+'</b><span>'+x(T.countries)+'</span></div></div><div class="mg-cg">'+r.c.map(c1).join("")+'</div>'+key()}
 function right(i){var r=D.regions[i],T=D.text;return '<p class="mg-h">'+x(T.now_in)+'</p>'+r.top.map(function(t){return '<a class="st" lang="en" href="'+u(t.url)+'">'+x(t.t)+'<small><i class="'+rc(t.risk)+'"></i>'+t.risk.toFixed(1)+' · '+t.o+' · '+ago(t.ts)+'</small></a>'}).join("")+'<a class="all" href="'+u(r.url)+'">'+x(T.all.replace("{r}",r.name))+' &rarr;</a>'}
 function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++)l[k].classList.toggle("on",k===i);dd.querySelector(".mg-c").innerHTML=mid(i);dd.querySelector(".mg-r").innerHTML=right(i)}
 function draw(){if(!D.regions.length)return;var first=0,best=-1;D.regions.forEach(function(r,i){if(r.n>best){best=r.n;first=i}});
- var left=D.regions.map(function(r,i){return '<a href="'+u(r.url)+'" data-i="'+i+'"><i style="background:var(--'+(rc(r.risk)||"gold")+')"></i>'+x(r.name)+'<em>'+r.n+'</em></a>'}).join("");
+ var left=D.regions.map(function(r,i){return '<a href="'+u(r.url)+'" data-i="'+i+'"'+tip(r)+'><i style="background:'+x(r.col||"var(--gold)")+'"></i>'+x(r.name)+'<em><b class="dt '+lv(r)+'"></b>'+r.n+'</em></a>'}).join("");
  dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div><div class="mg-x"><a href="'+u(D.countries_url)+'">'+x(D.text.all_ctry)+'</a></div>';
  var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++){(function(a){var i=+a.getAttribute("data-i");a.addEventListener("mouseenter",function(){pick(i)});a.addEventListener("focus",function(){pick(i)})})(l[k])}
  pick(first)}
