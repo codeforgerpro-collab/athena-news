@@ -131,7 +131,7 @@
     if (!IN.on || document.querySelector(".aintro")) { if (then) then(); return; }
     var calm = false; try { calm = matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) { /* old browser */ }
     if (calm) { if (then) then(); return; }
-    var el = document.createElement("div"); el.className = "aintro"; el.setAttribute("role", "img"); el.setAttribute("aria-label", "ATHENA News Room");
+    var el = document.createElement("div"); el.className = "aintro"; el.setAttribute("role", "img"); el.setAttribute("aria-label", "ATHENA Intelligence");
     var tag = (IN.tag || []).map(function (x, i) { return (i ? "<b>·</b>" : "") + "<span>" + esc(x) + "</span>"; }).join("");
     el.innerHTML = '<svg class="ai-globe" viewBox="-100 -100 200 200" fill="none" stroke="#d4b06a" stroke-width=".55" aria-hidden="true"><g></g></svg>' +
       '<div class="ai-rule ai-r1"></div><div class="ai-rule ai-r2"></div><div class="ai-blk"><div style="position:relative;display:grid;place-items:center">' +
