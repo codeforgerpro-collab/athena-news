@@ -333,6 +333,10 @@ font-size:20px;line-height:1;cursor:pointer}.wclose:hover{color:var(--ink);borde
 .achips{display:flex;flex-wrap:wrap;gap:8px}.achip{background:var(--chip);border-radius:8px;padding:5px 10px;font-size:13.5px;color:var(--ink2)}
 .achip b{font-weight:700;color:var(--gold2);margin-inline-end:4px}
 .afound{margin:18px 0 4px}ol.ares{list-style:none;margin:0;padding:0}
+.ahelp{margin:14px 0 6px;display:grid;gap:10px}.ahelp .ah{margin:0}   /* ASKH-36: answers about the site */
+.ahc{border:1px solid var(--rule);border-inline-start:4px solid var(--gold);border-radius:10px;background:var(--card);padding:12px 16px}
+.ahc b{display:block;font-size:16px;color:var(--ink)}.ahc p{margin:6px 0 8px;font-size:15px;line-height:1.5;color:var(--ink2)}
+.ahc a{font-weight:600;font-size:14px}
 ol.ares li{padding:14px 0;border-bottom:1px solid var(--rule)}ol.ares li:last-child{border-bottom:0}ol.ares h3{margin-top:4px}
 #ask-more{margin-top:14px}
 .howto{margin-top:42px;border-top:2px solid var(--ink);padding-top:12px}.howto h2{font:700 15px/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase}

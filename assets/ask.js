@@ -56,6 +56,15 @@
     res.sort(S==="latest"?function(a,b){return b.e[7]-a.e[7];}:S==="covered"?function(a,b){return b.e[6]-a.e[6]||b.e[5]-a.e[5];}
       :S==="risk"?function(a,b){return b.e[3]-a.e[3]||b.e[4]-a.e[4];}:function(a,b){return b.s-a.s||b.e[4]-a.e[4];});
     r.sortUsed=S;return {r:r,res:res};}
+  // ASKH-36: questions about the site itself ("how do I follow Greece?") get a short answer and a link
+  function hk(list,x){return list.some(function(k){return k===x||(k.length>=5&&x.length>=4&&(x.indexOf(k.slice(0,k.length-1))===0||k.indexOf(x)===0));});}
+  function helpFor(q){if(!V.help)return [];var w=N(q).split(" ").filter(Boolean),intent=w.some(function(x){return V.help_intent.indexOf(x)>=0;}),out=[];
+    V.help.forEach(function(h){var s=0,k=0;w.forEach(function(x){if(hk(h.s,x))s++;else if(hk(h.w,x))k++;});
+      if(s||(intent&&k))out.push({h:h,sc:s*2+(intent?k+1:0)});});
+    out.sort(function(a,b){return b.sc-a.sc;});return out.slice(0,2);}
+  function helpHtml(list){if(!list.length)return "";
+    return '<div class="ahelp"><h2 class="ah">'+esc(V.help_head)+'</h2>'+list.map(function(o){var h=o.h;
+      return '<div class="ahc"><b>'+esc(h.q)+'</b><p>'+esc(h.a)+'</p>'+(h.href?'<a href="'+esc(root+pre+h.href)+'">'+esc(V.help_open)+' &rsaquo;</a>':'')+'</div>';}).join("")+'</div>';}
   function chip(l,v){return '<span class="achip"><b>'+esc(l)+'</b> '+esc(v)+'</span>';}
   function reading(r){var T=V.text,L=T.lbl,c=[];
     r.country.forEach(function(x){c.push(chip(L.country,V.cname[x]||x));});r.region.forEach(function(x){c.push(chip(L.region,V.rname[x]||x));});
@@ -67,13 +76,15 @@
     return '<li><div class="kick"'+((V.catcol||{})[e[2]]?' style="--sc:'+V.catcol[e[2]]+'"><i style="background:'+V.catcol[e[2]]+'"></i>':'>')+esc(V.catname[e[2]]||"")+'</div><h3 class="hl-s" lang="en"><a href="'+esc(root+pre+"event/"+e[0]+".html")+'">'+esc(e[1])+'</a></h3>'
       +'<div class="meta c"><span>'+esc(ago(e[7]))+'</span><span>'+esc(L.outlets)+' '+e[5]+'</span><span>'+esc(L.countries)+' '+e[6]+'</span>'
       +'<span class="rk '+rc(e[3])+'">'+esc(L.risk)+' '+(+e[3]).toFixed(1)+'</span></div></li>';}
+  var helped=false;
   function draw(){var T=V.text;
-    if(!last.length){out.innerHTML='<div class="empty"><b>'+esc(T.none)+'</b><br>'+esc(T.none_tip)+'</div>';return;}
+    if(!last.length){out.innerHTML=helped?"":'<div class="empty"><b>'+esc(T.none)+'</b><br>'+esc(T.none_tip)+'</div>';return;}
     out.innerHTML='<p class="small afound">'+esc(T.found.replace("{n}",last.length))+'</p><ol class="ares">'+last.slice(0,shown).map(item).join("")+'</ol>'
       +(last.length>shown?'<button type="button" class="abtn ghost" id="ask-more">'+esc(T.more)+'</button>':"");
     var mb=document.getElementById("ask-more");if(mb)mb.onclick=function(){shown+=20;draw();};}
   function ask(q,push){q=(q||"").trim();if(!q){rd.innerHTML="";out.innerHTML="";return;}
-    var a=run(q);last=a.res;shown=20;rd.innerHTML=reading(a.r);draw();
+    var a=run(q),hl=helpFor(q);last=a.res;shown=20;helped=hl.length>0;
+    rd.innerHTML=helpHtml(hl)+(helped&&!last.length?"":reading(a.r));draw();
     try{var u=new URL(location.href);u.searchParams.set("q",q);history[push?"pushState":"replaceState"](null,"",u);}catch(e){}}
   form.addEventListener("submit",function(ev){ev.preventDefault();ask(inp.value,true);});
   [].forEach.call(document.querySelectorAll("[data-q]"),function(a){a.addEventListener("click",function(ev){ev.preventDefault();inp.value=a.getAttribute("data-q");
