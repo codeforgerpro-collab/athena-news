@@ -217,8 +217,11 @@ function lv(o){return o.lv!=null?o.lv:rc(o.risk)}
 function tip(o){return o.n?' title="'+x(o.hi+" "+D.text.hi+" / "+o.n+" ("+Math.round(100*o.hi/o.n)+"%)")+'"':''}
 function key(){var T=D.text;return '<p class="mg-key"><span>'+x(T.dot)+'</span><i class="dt"></i>'+x(T.low)+'<i class="dt elev"></i>'+x(T.elev)+'<i class="dt high"></i>'+x(T.high)+'<i class="dt crit"></i>'+x(T.crit)+'</p>'}
 function c1(c){var fl=c.f?'<img src="'+F+x(c.iso)+'.svg" alt="" width="18" height="13">':'';return '<a href="'+(c.url?u(c.url):u(D.countries_url))+'"'+(c.q?' class="q"':'')+tip(c)+'>'+fl+x(c.name)+(c.n?'<i class="'+lv(c)+'"></i><em>'+c.n+'</em>':'')+'</a>'}
-function mid(i){var r=D.regions[i],T=D.text;var pin=D.pinned.map(c1).join("");
- return '<div class="mg-pin"><span>'+x(T.pinned)+'</span>'+pin+'</div><h3 class="mg-id" style="--sc:'+x(r.col)+'"><a href="'+u(r.url)+'">'+x(r.name)+'</a></h3><div class="mg-st"><div><b>'+r.n+'</b><span>'+x(T.events)+'</span></div><div><b><i class="dt '+lv(r)+'"></i>'+r.hi+'<small>'+(r.n?Math.round(100*r.hi/r.n):0)+'%</small></b><span>'+x(T.hi)+'</span></div><div><b>'+r.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+r.c.filter(function(c){return !c.q}).length+'</b><span>'+x(T.countries)+'</span></div></div><div class="mg-cg">'+r.c.map(c1).join("")+'</div>'+key()}
+function pins(){var p=[];try{p=JSON.parse(localStorage.getItem("athena-pins")||"[]")}catch(e){}if(!Array.isArray(p))p=[];var seen={},out=[];
+ D.regions.forEach(function(r){r.c.forEach(function(c){seen[c.iso]=seen[c.iso]||c})});p.forEach(function(i){var c=seen[String(i).toLowerCase()];if(c)out.push(c)});return out}
+function pinrow(){var T=D.text,p=pins(),me=u(D.my_url);return p.length?'<div class="mg-pin"><a class="mg-edit" href="'+me+'">'+x(T.pinned_short)+'</a>'+p.map(function(c){return c1(Object.assign({},c,{q:0}))}).join("")+'</div>':'<div class="mg-pin"><a class="mg-edit" href="'+me+'">'+x(T.pin_add)+'</a></div>'}
+function mid(i){var r=D.regions[i],T=D.text;var pin=pinrow();
+ return pin+'<h3 class="mg-id" style="--sc:'+x(r.col)+'"><a href="'+u(r.url)+'">'+x(r.name)+'</a></h3><div class="mg-st"><div><b>'+r.n+'</b><span>'+x(T.events)+'</span></div><div><b><i class="dt '+lv(r)+'"></i>'+r.hi+'<small>'+(r.n?Math.round(100*r.hi/r.n):0)+'%</small></b><span>'+x(T.hi)+'</span></div><div><b>'+r.risk.toFixed(1)+'</b><span>'+x(T.top_risk)+'</span></div><div><b>'+r.c.filter(function(c){return !c.q}).length+'</b><span>'+x(T.countries)+'</span></div></div><div class="mg-cg">'+r.c.map(c1).join("")+'</div>'+key()}
 function right(i){var r=D.regions[i],T=D.text;return '<p class="mg-h">'+x(T.now_in)+'</p>'+r.top.map(function(t){return '<a class="st" lang="en" href="'+u(t.url)+'">'+x(t.t)+'<small><i class="'+rc(t.risk)+'"></i>'+t.risk.toFixed(1)+' · '+t.o+' · '+ago(t.ts)+'</small></a>'}).join("")+'<a class="all" href="'+u(r.url)+'">'+x(T.all.replace("{r}",r.name))+' &rarr;</a>'}
 function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++)l[k].classList.toggle("on",k===i);dd.querySelector(".mg-c").innerHTML=mid(i);dd.querySelector(".mg-r").innerHTML=right(i)}
 function draw(){if(!D.regions.length)return;var first=0,best=-1;D.regions.forEach(function(r,i){if(r.n>best){best=r.n;first=i}});
@@ -229,6 +232,31 @@ function draw(){if(!D.regions.length)return;var first=0,best=-1;D.regions.forEac
 m.addEventListener("toggle",function(){if(!m.open||state||(window.matchMedia&&window.matchMedia("(max-width:820px)").matches))return;state=1;
  fetch(R+"data/world-"+(m.getAttribute("data-lang")||"en")+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){D=d;draw()}).catch(function(){state=0})});
 })();
+
+/* MY-37 My ATHENA: what the reader follows ("athena-follow") and pinned ("athena-pins"), both in this browser only */
+(function(){var box=document.getElementById("my");if(!box)return;var K="athena-follow",PK="athena-pins",D={},L={};
+try{D=JSON.parse(document.getElementById("my-data").textContent);L=JSON.parse(box.getAttribute("data-l"))}catch(e){return}
+var R=box.getAttribute("data-root")||"";
+function get(k){try{var a=JSON.parse(localStorage.getItem(k)||"[]");return Array.isArray(a)?a:[]}catch(e){return[]}}
+function put(k,a){try{localStorage.setItem(k,JSON.stringify(a))}catch(e){}}
+var all={};["c","s","t"].forEach(function(g){(D[g]||[]).forEach(function(x){all[x.k]=x})});
+function isoOf(k){return k.slice(2)}
+function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
+function row(ul,name,url,btnText,fn){var li=el("li","my-i"),a=el(url?"a":"span","",name);if(url)a.href=R+url;li.appendChild(a);var b=el("button","ubtn",btnText);b.type="button";b.addEventListener("click",fn);li.appendChild(b);ul.appendChild(li)}
+function say(t){document.getElementById("my-msg").textContent=t||""}
+function draw(){var f=get(K),p=get(PK),fu=document.getElementById("my-fol"),pu=document.getElementById("my-pin");fu.textContent="";pu.textContent="";
+ f.forEach(function(x){var a=all[x.k];row(fu,a?a.n:(x.n||x.k),a&&a.u,L.stop,function(){put(K,get(K).filter(function(y){return y.k!==x.k}));draw()})});
+ if(!f.length)fu.appendChild(el("li","my-0",L.fol_none));
+ p.forEach(function(i){var a=all["n_"+i];row(pu,a?a.n:i,a&&a.u,L.unpin,function(){put(PK,get(PK).filter(function(y){return y!==i}));draw()})});
+ if(!p.length)pu.appendChild(el("li","my-0",L.pin_none));
+ ["my-s","my-t"].forEach(function(id,g){var h=document.getElementById(id);if(!h)return;h.textContent="";(D[g?"t":"s"]||[]).forEach(function(x){var on=f.some(function(y){return y.k===x.k}),b=el("button","fol-b"+(on?" on":""),(on?"★ ":"☆ ")+x.n);b.type="button";b.setAttribute("aria-pressed",on?"true":"false");
+   b.addEventListener("click",function(){var a=get(K);a=on?a.filter(function(y){return y.k!==x.k}):a.concat([{k:x.k,n:x.n}]);put(K,a.slice(0,40));draw()});h.appendChild(b)})})}
+var dl=document.getElementById("my-dl");(D.c||[]).forEach(function(c){var o=document.createElement("option");o.value=c.n;dl.appendChild(o)});
+function chosen(){var q=document.getElementById("my-q").value.trim().toLowerCase();var c=(D.c||[]).filter(function(x){return x.n.toLowerCase()===q})[0];if(!c)say(L.unknown);return c}
+document.getElementById("my-f").addEventListener("click",function(){var c=chosen();if(!c)return;say("");var a=get(K);if(!a.some(function(y){return y.k===c.k}))a.push({k:c.k,n:c.n});put(K,a.slice(0,40));document.getElementById("my-q").value="";draw()});
+document.getElementById("my-p").addEventListener("click",function(){var c=chosen();if(!c)return;var p=get(PK),i=isoOf(c.k);if(p.indexOf(i)<0){if(p.length>=6){say(L.max);return}p.push(i)}say("");put(PK,p);document.getElementById("my-q").value="";draw()});
+document.getElementById("my-x").addEventListener("click",function(){put(K,[]);put(PK,[]);draw()});
+draw()})();
 
 /* AL-34 Follow (kept in this browser only) and "For you" */
 (function(){var K="athena-follow",S="athena-follow-seen";
