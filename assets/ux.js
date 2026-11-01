@@ -589,10 +589,51 @@
 /* SHR-37: share this page - the device's share sheet, a copied link; the network links are already in the page */
 (function(){var bars=document.querySelectorAll(".shr");if(!bars.length)return;
 function adr(){var c=document.querySelector('link[rel="canonical"]');return (c&&c.href)||location.href.split("#")[0]}
-function lk(n,u,t,d){var U=encodeURIComponent(u),T=encodeURIComponent(t);return n==="x"?"https://x.com/intent/post?url="+U+"&text="+T:n==="telegram"?"https://t.me/share/url?url="+U+"&text="+T:n==="whatsapp"?"https://wa.me/?text="+encodeURIComponent(t+" "+u):n==="linkedin"?"https://www.linkedin.com/sharing/share-offsite/?url="+U:n==="facebook"?"https://www.facebook.com/sharer/sharer.php?u="+U:"mailto:?subject="+T+"&body="+encodeURIComponent((d?d+"\n\n":"")+u)}
+function lk(n,u,t,d){var U=encodeURIComponent(u),T=encodeURIComponent(t);return n==="x"?"https://x.com/intent/post?url="+U+"&text="+T:n==="telegram"?"https://t.me/share/url?url="+U+"&text="+T:n==="whatsapp"?"https://wa.me/?text="+encodeURIComponent(t+" "+u):n==="linkedin"?"https://www.linkedin.com/feed/?shareActive=true&text="+encodeURIComponent(t+"\n\n"+(d?d+"\n\n":"")+u):n==="facebook"?"https://www.facebook.com/sharer/sharer.php?u="+U:"mailto:?subject="+T+"&body="+encodeURIComponent((d?d+"\n\n":"")+u)}
 function copy(s,done){function fb(){var a=document.createElement("textarea");a.value=s;a.setAttribute("readonly","");a.style.cssText="position:fixed;opacity:0;top:0";document.body.appendChild(a);a.select();var ok=false;try{ok=document.execCommand("copy")}catch(e){}document.body.removeChild(a);done(ok)}
  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(s).then(function(){done(true)},fb)}else fb()}
+window.ATH_SH={lk:lk,copy:copy};
 [].forEach.call(bars,function(b){var u=b.getAttribute("data-u")||adr(),t=b.getAttribute("data-t")||document.title,d=b.getAttribute("data-d")||"",st=b.querySelector(".shr-ok");
  [].forEach.call(b.querySelectorAll(".shr-l"),function(a){var n=a.getAttribute("data-net");if(n==="mail"||!b.getAttribute("data-u")){a.setAttribute("href",lk(n,u,t,d))}if(n==="mail")a.hidden=false})
  var nb=b.querySelector('[data-shr="native"]');if(nb&&navigator.share){nb.hidden=false;nb.addEventListener("click",function(){try{navigator.share({title:t,text:d||t,url:u}).catch(function(){})}catch(e){}})}
  var cb=b.querySelector('[data-shr="copy"]');if(cb)cb.addEventListener("click",function(){copy(u,function(ok){if(st){st.textContent=ok?st.getAttribute("data-ok"):u;setTimeout(function(){st.textContent=""},4000)}})})})})();
+
+/* SHR-37b: a share button on each item shown (headlines, charts) - the same networks, the item's own address, headline and summary */
+(function(){var bar=document.querySelector(".shr");if(!bar||!window.ATH_SH)return;var SH=window.ATH_SH;
+var nets=[].map.call(bar.querySelectorAll(".shr-l"),function(a){return [a.getAttribute("data-net"),a.textContent]});
+var nat=bar.querySelector('[data-shr="native"]'),cpy=bar.querySelector('[data-shr="copy"]'),okb=bar.querySelector(".shr-ok");
+var LB=nat?nat.textContent:"Share",CP=cpy?cpy.textContent:"Copy",OK=okb?okb.getAttribute("data-ok"):"OK";
+var can=document.querySelector('link[rel="canonical"]'),base=(can&&can.href)||location.href.split("#")[0];
+function abs(h){try{return new URL(h,base).href}catch(e){return base}}
+function clip(s,n){s=(s||"").replace(/\s+/g," ").trim();return s.length>n?s.slice(0,n-1).replace(/\s+\S*$/,"")+"…":s}
+var ICON='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 10.5l6.8-4M8.6 13.5l6.8 4"/></svg>';
+var pop=null,cur=null,seen={},root=document.querySelector("main")||document.body,n=0;
+function close(){if(pop)pop.hidden=true;if(cur){var f=cur;cur=null;f.setAttribute("aria-expanded","false");try{f.focus()}catch(e){}}}
+function open(b,it){if(cur===b){close();return}if(cur){cur.setAttribute("aria-expanded","false")}
+ if(!pop){pop=document.createElement("div");pop.className="shp";pop.setAttribute("role","dialog");pop.hidden=true;document.body.appendChild(pop)}
+ pop.innerHTML="";var t=document.createElement("p");t.className="shp-t";t.textContent=it.t;pop.appendChild(t);
+ if(navigator.share){var nb=document.createElement("button");nb.type="button";nb.className="shr-b";nb.textContent=LB;nb.addEventListener("click",function(){try{navigator.share({title:it.t,text:it.d||it.t,url:it.u}).catch(function(){})}catch(e){}});pop.appendChild(nb)}
+ nets.forEach(function(x){var a=document.createElement("a");a.className="shr-l";a.href=SH.lk(x[0],it.u,it.t,it.d);a.textContent=x[1];if(x[0]!=="mail"){a.target="_blank";a.rel="noopener noreferrer"}pop.appendChild(a)});
+ var c=document.createElement("button");c.type="button";c.className="shr-b";c.textContent=CP;var st=document.createElement("span");st.className="shr-ok";st.setAttribute("role","status");
+ c.addEventListener("click",function(){SH.copy(it.u,function(ok){st.textContent=ok?OK:it.u;setTimeout(function(){st.textContent=""},4000)})});pop.appendChild(c);pop.appendChild(st);
+ pop.hidden=false;cur=b;b.setAttribute("aria-expanded","true");
+ var r=b.getBoundingClientRect(),w=pop.offsetWidth,x=r.left+window.pageXOffset;x=Math.max(8,Math.min(x,document.documentElement.clientWidth-w-8+window.pageXOffset));
+ pop.style.left=x+"px";pop.style.top=(r.bottom+window.pageYOffset+6)+"px";var f=pop.querySelector("a,button");if(f)f.focus()}
+function mk(it,fig){var b=document.createElement("button");b.type="button";b.className="shi";b.setAttribute("aria-haspopup","dialog");b.setAttribute("aria-expanded","false");b.setAttribute("aria-label",LB+": "+clip(it.t,80));b.title=LB;b.innerHTML=ICON;
+ b.addEventListener("click",function(e){e.stopPropagation();open(b,it)});return b}
+/* headlines that lead to an event page: each card or list entry shown, not the news ticker or the menus */
+var ev=/(^|\/)event\/\d+\.html$/,cnt=0;
+[].forEach.call(root.querySelectorAll("a[href]"),function(a){var h=a.getAttribute("href");if(cnt>=90||!ev.test(h)||a.closest(".shr,nav,header,footer,.dev,.rl,.foryou,.pbar,[data-nosh]"))return;
+ var p=a.parentElement,txt=a.textContent.trim();if(!p||txt.length<20)return;
+ if(!(/^H[2-4]$/.test(p.tagName)||/(^|\s)hl-/.test(a.className||"")))return;
+ var h2=/^H[2-4]$/.test(p.tagName)?p:a,d="",c=h2.parentElement,i=0;
+ while(c&&i<2&&!d){var q=c.querySelector(".dek");if(q&&!q.contains(a))d=clip(q.textContent,200);if(!d){var s2=h2.nextElementSibling;if(s2&&(s2.tagName==="P"||s2.classList.contains("dek")))d=clip(s2.textContent,200)}
+  var hs={};[].forEach.call(c.querySelectorAll("a[href]"),function(z){if(ev.test(z.getAttribute("href")))hs[z.getAttribute("href")]=1});if(Object.keys(hs).length>1){d=d||"";break}c=c.parentElement;i++}
+ cnt++;h2.insertAdjacentElement(h2===a?"afterend":"beforeend",mk({u:abs(h),t:clip(txt,160),d:d}))});
+/* charts and figures: the page, at that figure */
+[].forEach.call(root.querySelectorAll("figure"),function(f){if(f.closest("[data-nosh],.whobox")||!f.querySelector("svg,canvas"))return;
+ var cap=f.querySelector("figcaption"),h=f,t="";while(h&&!t){h=h.previousElementSibling||h.parentElement;if(h&&/^H[1-4]$/.test(h.tagName))t=h.textContent;if(h===root)break}
+ t=clip((cap&&cap.textContent)||t||document.title,160);if(!f.id)f.id="fig-"+(++n);
+ f.classList.add("shf");f.appendChild(mk({u:base.split("#")[0]+"#"+f.id,t:t,d:clip(document.title,200)}))});
+document.addEventListener("click",function(e){if(cur&&pop&&!pop.contains(e.target))close()});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&cur)close()})})();
