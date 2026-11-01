@@ -612,13 +612,16 @@ function close(){if(pop)pop.hidden=true;if(cur){var f=cur;cur=null;f.setAttribut
 function open(b,it){if(cur===b){close();return}if(cur){cur.setAttribute("aria-expanded","false")}
  if(!pop){pop=document.createElement("div");pop.className="shp";pop.setAttribute("role","dialog");pop.hidden=true;document.body.appendChild(pop)}
  pop.innerHTML="";var t=document.createElement("p");t.className="shp-t";t.textContent=it.t;pop.appendChild(t);
+ var st=document.createElement("span");st.className="shr-ok";st.setAttribute("role","status");
+ (it.extra||[]).forEach(function(x){var eb=document.createElement("button");eb.type="button";eb.className="shr-b";eb.textContent=x.l;eb.addEventListener("click",function(){x.fn(function(m){st.textContent=m;setTimeout(function(){st.textContent=""},4000)})});pop.appendChild(eb)});
  if(navigator.share){var nb=document.createElement("button");nb.type="button";nb.className="shr-b";nb.textContent=LB;nb.addEventListener("click",function(){try{navigator.share({title:it.t,text:it.d||it.t,url:it.u}).catch(function(){})}catch(e){}});pop.appendChild(nb)}
  nets.forEach(function(x){var a=document.createElement("a");a.className="shr-l";a.href=SH.lk(x[0],it.u,it.t,it.d);a.textContent=x[1];if(x[0]!=="mail"){a.target="_blank";a.rel="noopener noreferrer"}pop.appendChild(a)});
- var c=document.createElement("button");c.type="button";c.className="shr-b";c.textContent=CP;var st=document.createElement("span");st.className="shr-ok";st.setAttribute("role","status");
+ var c=document.createElement("button");c.type="button";c.className="shr-b";c.textContent=CP;
  c.addEventListener("click",function(){SH.copy(it.u,function(ok){st.textContent=ok?OK:it.u;setTimeout(function(){st.textContent=""},4000)})});pop.appendChild(c);pop.appendChild(st);
  pop.hidden=false;cur=b;b.setAttribute("aria-expanded","true");
  var r=b.getBoundingClientRect(),w=pop.offsetWidth,x=r.left+window.pageXOffset;x=Math.max(8,Math.min(x,document.documentElement.clientWidth-w-8+window.pageXOffset));
  pop.style.left=x+"px";pop.style.top=(r.bottom+window.pageYOffset+6)+"px";var f=pop.querySelector("a,button");if(f)f.focus()}
+SH.open=open;
 function mk(it,fig){var b=document.createElement("button");b.type="button";b.className="shi";b.setAttribute("aria-haspopup","dialog");b.setAttribute("aria-expanded","false");b.setAttribute("aria-label",LB+": "+clip(it.t,80));b.title=LB;b.innerHTML=ICON;
  b.addEventListener("click",function(e){e.stopPropagation();open(b,it)});return b}
 /* headlines that lead to an event page: each card or list entry shown, not the news ticker or the menus */
