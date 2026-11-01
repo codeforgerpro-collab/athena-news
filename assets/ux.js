@@ -136,7 +136,7 @@
     el.innerHTML = '<svg class="ai-globe" viewBox="-100 -100 200 200" fill="none" stroke="#d4b06a" stroke-width=".55" aria-hidden="true"><g></g></svg>' +
       '<div class="ai-rule ai-r1"></div><div class="ai-rule ai-r2"></div><div class="ai-blk"><div style="position:relative;display:grid;place-items:center">' +
       '<div class="ai-halo"></div>' + MARK + '</div><div><p class="ai-wm">' + "ATHENA".split("").map(function (c) { return "<span>" + c + "</span>"; }).join("") +
-      '</p><p class="ai-sub">NEWS ROOM</p><p class="ai-tag">' + tag + '</p></div></div><div class="ai-bar"></div>' +
+      '</p><p class="ai-sub">GLAUX INTELLIGENCES</p><p class="ai-tag">' + tag + '</p></div></div><div class="ai-bar"></div>' +
       '<button type="button" class="ai-skip">' + esc(IN.skip || "Skip") + " &rsaquo;</button>";
     document.body.appendChild(el);
     var q = function (s) { return el.querySelector(s); }, qa = function (s) { return el.querySelectorAll(s); };
@@ -252,7 +252,7 @@
     C.risk = [C.gold, css("--elev", "#a16207"), css("--high", "#c2410c"), C.down]; SPR = {}; }
   function rnd(a, b) { return a + Math.random() * (b - a); }
   function pick(a) { return a[(Math.random() * a.length) | 0]; }
-  function size() { var r = box.getBoundingClientRect(); W = r.width; H = r.height; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); cx.setTransform(dpr, 0, 0, dpr, 0, 0); }
+  function size() { var r = box.getBoundingClientRect(); W = r.width; H = r.height; if (W < 60 || H < 20) { W = Math.max(W, 0); } cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); cx.setTransform(dpr, 0, 0, dpr, 0, 0); }
   function count(per, lo, hi) { return Math.max(lo || 10, Math.min(hi || 40, Math.round(W / per))); }
   function RR() { return W < 640 ? 7 : 9.5; }
   function line(a, b, c, w, al) { cx.globalAlpha = al; cx.beginPath(); cx.moveTo(a.x, a.y); cx.lineTo(b.x, b.y); cx.strokeStyle = c; cx.lineWidth = w; cx.stroke(); }
@@ -263,7 +263,7 @@
     if (keep) return; var dx = p.x - mx, dy = p.y - my, d2 = dx * dx + dy * dy; if (d2 < 4900) { var d = Math.sqrt(d2 + 1); p.x += dx / d * 1.7; p.y += dy / d * 1.7; } }
   /* LOOK-31 (30 Oct 2026): symbols keep a gap between them - the coins and the emblem push the others gently away */
   function apart(list, gap) { for (var i = 0; i < list.length; i++) for (var j = i + 1; j < list.length; j++) { var a = list[i], b = list[j]; if (a.x == null || b.x == null) continue;
-      var dx = b.x - a.x, dy = b.y - a.y, d = Math.sqrt(dx * dx + dy * dy) || .01, g = (a.r || 0) + (b.r || 0) + gap; if (d >= g) continue; var k = (g - d) / d * .5; dx *= k; dy *= k;
+      var dx = b.x - a.x, dy = b.y - a.y; if (!dx && !dy) { dx = (i % 2 ? 1 : -1) * .5; dy = .3; } var d = Math.sqrt(dx * dx + dy * dy) || .01, g = (a.r || 0) + (b.r || 0) + gap; if (d >= g) continue; var k = (g - d) / d * .5; dx *= k; dy *= k;
       if (!a.fixed) { a.x -= dx; a.y -= dy; } if (!b.fixed) { b.x += dx; b.y += dy; } } }
   /* every symbol is drawn once into a small sprite at the screen's own sharpness; the animation only moves the sprites */
   function sprite(key, r, draw) { var k = key + "|" + r; if (SPR[k]) return SPR[k]; var c = document.createElement("canvas"), s = Math.ceil((r * 2 + 4) * dpr); c.width = c.height = s;
@@ -338,7 +338,7 @@
   var M = {
     /* reports from different newsrooms meet and become a verified event: its section icon flashes in its risk colour (sometimes the owl) */
     news: { init: function () { var K = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].concat(crypto(), FLK); P = [];
-        for (var i = 0, n = count(38, 12, 40); i < n; i++) P.push({ x: rnd(0, W), y: rnd(14, H - 14), vx: rnd(-.32, .32) || .2, vy: rnd(-.13, .13), src: i % 5, ev: 0, k: K[i % K.length] }); },
+        for (var i = 0, n = count(38, 12, 40); i < n; i++) P.push({ x: (i + Math.random()) / n * W, y: rnd(14, H - 14), vx: (rnd(.12, .32) * (i % 2 ? 1 : -1)), vy: rnd(-.13, .13), src: i % 5, ev: 0, k: K[i % K.length] }); },
       step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j], d = Math.hypot(a.x - b.x, a.y - b.y);
           if (d < 84 && a.src !== b.src) { line(a, b, C.gold, 1, (1 - d / 84) * .5);
@@ -356,7 +356,7 @@
           put(done ? evsym(p.k, C.risk[p.lvl], r) : sym(p.k, r), p.x, p.y, r, done ? 1 : .7); }); } },
     /* events (section icons in risk colours) linked to the countries they touch and the newsrooms that report them */
     graph: { init: function () { P = []; for (var i = 0, n = count(42, 12, 36); i < n; i++) { var k = i % 3;
-          P.push({ x: rnd(0, W), y: rnd(12, H - 12), vx: rnd(-.25, .25) || .15, vy: rnd(-.1, .1), t: k, k: k === 0 ? String(1 + (i % 10)) : k === 1 ? pick(FLK) : "", lvl: (Math.random() * 4) | 0 }); } },
+          P.push({ x: (i + Math.random()) / n * W, y: rnd(12, H - 12), vx: rnd(.1, .25) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), t: k, k: k === 0 ? String(1 + (i % 10)) : k === 1 ? pick(FLK) : "", lvl: (Math.random() * 4) | 0 }); } },
       step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j]; if ((a.t === 0) === (b.t === 0)) continue;
           var d = Math.hypot(a.x - b.x, a.y - b.y); if (d < 100) line(a, b, a.t === 0 ? C.risk[a.lvl] : C.risk[b.lvl], 1.2, (1 - d / 100) * .55); }
@@ -403,7 +403,7 @@
     markets: { init: function () { var n = Math.max(40, Math.round(W / 8)), vb = .45, ve = .62; X = { b: [], e: [], off: 0 };
         for (var i = 0; i < n; i++) { vb = Math.max(.18, Math.min(.82, vb + rnd(-.035, .035))); ve = Math.max(.18, Math.min(.82, ve + rnd(-.04, .04))); X.b.push(vb); X.e.push(ve); }
         var K = ["etf", "stk", "oil", "gold", "eur", "usd", "2", "6"].concat(crypto(), crypto()); P = [];
-        for (i = 0; i < count(60, 8, 22); i++) P.push({ x: rnd(0, W), y: rnd(14, H - 14), vx: rnd(-.3, .3) || .2, vy: rnd(-.12, .12), k: K[i % K.length], tick: 0, up: true }); },
+        for (i = 0; i < count(60, 8, 22); i++) P.push({ x: (i + Math.random()) / count(60, 8, 22) * W, y: rnd(14, H - 14), vx: rnd(.1, .3) * (i % 2 ? 1 : -1), vy: rnd(-.12, .12), k: K[i % K.length], tick: 0, up: true }); },
       step: function () { var r = RR(), n = X.b.length, dx = W / (n - 1); X.off += .6;
         if (X.off >= dx) { X.off -= dx; X.b.shift(); X.e.shift(); X.b.push(Math.max(.18, Math.min(.82, X.b[n - 2] + rnd(-.035, .035)))); X.e.push(Math.max(.18, Math.min(.82, X.e[n - 2] + rnd(-.04, .04)))); }
         cx.globalAlpha = .14; cx.fillStyle = C.rule; for (var gy = H * .25; gy < H; gy += H * .25) cx.fillRect(0, gy, W, 1);
@@ -428,11 +428,20 @@
   var mod = M[mode] || M.news;
   function space() { if (mode === "brief" || mode === "sea" || mode === "radar" || mode === "pins" || mode === "event") return; var r = RR(), all = [];
     P.forEach(function (p) { if (p.x != null) { p.r = p.r || r; all.push(p); } }); COINS.forEach(function (c) { all.push(c); }); if (ATH && mode !== "event") all.push(ATH); apart(all, 6); }
-  function frame() { if (!on) return; t++; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
+  function frame() { if (!on) return; t++; seen = Date.now(); cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
   function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
-  function setup() { size(); mod.init(); coins(); }
+  var seen = 0, lastW = 0;
+  function setup() { size(); lastW = W; if (W < 60) return; mod.init(); coins(); }
+  /* 31 Oct 2026: the strip is laid out again whenever its own width changes (late layout, zoom, a hidden tab, a rotated phone),
+     so the symbols are always spread over the whole width and never stay bunched at the left */
+  function relayout() { var w = box.getBoundingClientRect().width; if (Math.abs(w - lastW) > 6 || !P.length) { setup(); start(); } }
   colours(); setup(); start();
-  var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(function () { setup(); start(); }, 200); });
+  var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(relayout, 150); });
+  if (window.ResizeObserver) new ResizeObserver(function () { clearTimeout(rt); rt = setTimeout(relayout, 120); }).observe(box);
+  /* a quiet watchdog: if the strip is on screen but nothing has been drawn for 2 s, or the symbols have piled up on one side, start it again */
+  setInterval(function () { if (still || document.hidden) return; var r = box.getBoundingClientRect(); if (r.bottom < 0 || r.top > innerHeight || r.width < 60) return;
+    var xs = P.filter(function (p) { return p.x != null; }), bunched = xs.length > 6 && (Math.max.apply(null, xs.map(function (p) { return p.x; })) - Math.min.apply(null, xs.map(function (p) { return p.x; }))) < W * .5;
+    if (Date.now() - seen > 2000 || Math.abs(r.width - lastW) > 6 || bunched) { on = true; setup(); start(); } }, 2500);
   box.addEventListener("pointermove", function (ev) { var b = box.getBoundingClientRect(); mx = ev.clientX - b.left; my = ev.clientY - b.top;
     var h = hit(mx, my); COINS.forEach(function (c) { c.hot = c === h; }); box.classList.toggle("hot", !!h); box.title = h ? h.p.name : ""; });
   box.addEventListener("pointerleave", function () { mx = my = -999; COINS.forEach(function (c) { c.hot = false; }); box.classList.remove("hot"); box.title = ""; });
