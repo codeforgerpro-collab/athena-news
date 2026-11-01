@@ -172,6 +172,17 @@
   paint();if(stamps.length)setInterval(function(){if(!document.hidden)paint();},60000);
 })();
 
+/* NAVTIP-37: a short line above each menu tab while pointer or keyboard is on it */
+(function(){var tip=null;function show(el){var t=el.getAttribute("data-tip");if(!t)return;if(!tip){tip=document.createElement("div");tip.className="navtip";tip.setAttribute("role","tooltip");document.body.appendChild(tip)}
+ tip.textContent=t;tip.classList.remove("on");var r=el.getBoundingClientRect(),w=tip.offsetWidth,h=tip.offsetHeight,x=Math.max(8,Math.min(innerWidth-w-8,r.left+r.width/2-w/2)),y=r.top-h-8;if(y<6)y=r.bottom+8;
+ tip.style.left=x+"px";tip.style.top=y+"px";requestAnimationFrame(function(){tip.classList.add("on")})}
+ function hide(){if(tip)tip.classList.remove("on")}
+ var nav=document.querySelector("nav.sections");if(!nav)return;
+ nav.addEventListener("mouseover",function(ev){var el=ev.target.closest&&ev.target.closest("[data-tip]");if(el&&nav.contains(el))show(el)});
+ nav.addEventListener("mouseout",function(ev){var el=ev.target.closest&&ev.target.closest("[data-tip]");if(el)hide()});
+ nav.addEventListener("focusin",function(ev){var el=ev.target.closest&&ev.target.closest("[data-tip]");if(el)show(el)});
+ nav.addEventListener("focusout",hide);document.addEventListener("keydown",function(ev){if(ev.key==="Escape")hide()});
+ nav.addEventListener("click",hide);window.addEventListener("scroll",hide,{passive:true})})();
 /* 28 Oct: the menu - one drop-down open at a time; Escape or a click elsewhere closes it */
 (function(){var nav=document.querySelector("nav.sections");if(!nav)return;
 var all=function(){return nav.querySelectorAll("details")};

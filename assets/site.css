@@ -675,6 +675,9 @@ details.mk-panel{border:1px solid var(--rule);border-radius:14px;background:var(
 details.mk-panel>summary{cursor:pointer;font:700 13px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;padding:12px 0 6px;color:var(--ink)}
 details.mk-panel .mk-g{font-size:20px;margin:16px 0 8px}
 
+.navtip{position:fixed;z-index:80;max-width:min(320px,calc(100vw - 16px));padding:7px 11px;border-radius:8px;background:var(--ink);color:var(--paper);font:500 13px/1.35 var(--sans,system-ui);pointer-events:none;box-shadow:0 8px 24px rgba(10,20,40,.28);opacity:0;transform:translateY(3px);transition:opacity .12s,transform .12s}
+.navtip.on{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.navtip{transition:none}}
 /* 28 Oct: the six-entry menu */
 nav.sections .wrap{display:flex;align-items:center;gap:2px;flex-wrap:nowrap;overflow:visible;position:relative}
 nav.sections .nmain{display:flex;align-items:stretch;gap:2px}
