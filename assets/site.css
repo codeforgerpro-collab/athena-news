@@ -1041,3 +1041,10 @@ nav.sections .rk-panel a.on{border-color:var(--gold)}
 .my-t{display:flex;flex-wrap:wrap;gap:8px}.my-m{min-height:1.2em;color:var(--gold2);margin:6px 0 0}
 nav.sections .mg-pin a.mg-edit{background:transparent;border:1px dashed var(--gold);font-weight:500}
 @media (max-width:760px){.my{grid-template-columns:1fr}}
+
+.shr{border-top:1px solid var(--rule);margin:34px 0 0;padding:14px 0 6px}.shr .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px}
+.shr-t{font-weight:700;margin-inline-end:6px}.shr-l,.shr-b{font:inherit;font-size:14px;line-height:1.2;padding:9px 14px;min-height:40px;display:inline-flex;align-items:center;border:1px solid var(--rule);border-radius:999px;background:transparent;color:var(--ink2);cursor:pointer;text-decoration:none}
+.shr-l:hover,.shr-b:hover{border-color:var(--gold);color:var(--ink);text-decoration:none}.shr-b[data-shr=native]{background:var(--chip);border-color:var(--gold);color:var(--ink);font-weight:600}
+.shr-l:focus-visible,.shr-b:focus-visible{outline:2px solid var(--gold);outline-offset:2px}.shr-ok{color:var(--gold2);font-size:14px;min-width:1px}
+@media (max-width:560px){.shr-t{flex-basis:100%}}
+@media print{.shr{display:none}}

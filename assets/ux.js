@@ -585,3 +585,14 @@
     }).catch(function () { /* no status file: nothing to say */ });
   })();
 })();
+
+/* SHR-37: share this page - the device's share sheet, a copied link; the network links are already in the page */
+(function(){var bars=document.querySelectorAll(".shr");if(!bars.length)return;
+function adr(){var c=document.querySelector('link[rel="canonical"]');return (c&&c.href)||location.href.split("#")[0]}
+function lk(n,u,t,d){var U=encodeURIComponent(u),T=encodeURIComponent(t);return n==="x"?"https://x.com/intent/post?url="+U+"&text="+T:n==="telegram"?"https://t.me/share/url?url="+U+"&text="+T:n==="whatsapp"?"https://wa.me/?text="+encodeURIComponent(t+" "+u):n==="linkedin"?"https://www.linkedin.com/sharing/share-offsite/?url="+U:n==="facebook"?"https://www.facebook.com/sharer/sharer.php?u="+U:"mailto:?subject="+T+"&body="+encodeURIComponent((d?d+"\n\n":"")+u)}
+function copy(s,done){function fb(){var a=document.createElement("textarea");a.value=s;a.setAttribute("readonly","");a.style.cssText="position:fixed;opacity:0;top:0";document.body.appendChild(a);a.select();var ok=false;try{ok=document.execCommand("copy")}catch(e){}document.body.removeChild(a);done(ok)}
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(s).then(function(){done(true)},fb)}else fb()}
+[].forEach.call(bars,function(b){var u=b.getAttribute("data-u")||adr(),t=b.getAttribute("data-t")||document.title,d=b.getAttribute("data-d")||"",st=b.querySelector(".shr-ok");
+ [].forEach.call(b.querySelectorAll(".shr-l"),function(a){var n=a.getAttribute("data-net");if(n==="mail"||!b.getAttribute("data-u")){a.setAttribute("href",lk(n,u,t,d))}if(n==="mail")a.hidden=false})
+ var nb=b.querySelector('[data-shr="native"]');if(nb&&navigator.share){nb.hidden=false;nb.addEventListener("click",function(){try{navigator.share({title:t,text:d||t,url:u}).catch(function(){})}catch(e){}})}
+ var cb=b.querySelector('[data-shr="copy"]');if(cb)cb.addEventListener("click",function(){copy(u,function(ok){if(st){st.textContent=ok?st.getAttribute("data-ok"):u;setTimeout(function(){st.textContent=""},4000)}})})})})();
