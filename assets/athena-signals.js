@@ -26,9 +26,11 @@ function pulse(){var s=S(),n=s.n.length;if(n<D.gate.pulse){return lock("pulse",D
  var nw=NW(),from=rng>0?Math.max(0,n-rng):0,m=n-from,W=nw?380:760,H=nw?250:260,pl=nw?28:34,pr=nw?8:14,pt=18,pb=30,iw=W-pl-pr,ih=H-pt-pb,mx=1,i,o="";
  for(i=from;i<n;i++)mx=Math.max(mx,s.n[i]);
  for(i=0;i<=10;i+=2.5){var y=pt+ih-i/10*ih;o+='<line x1="'+pl+'" x2="'+(W-pr)+'" y1="'+y+'" y2="'+y+'" stroke="'+C.rule+'" stroke-width=".6"/>'+T(pl-6,y+4,String(i),{a:"end",s:10})}
- var bw=Math.max(1.5,iw/m*.7);for(i=from;i<n;i++){var x=pl+(i-from+.5)/m*iw,bh=s.n[i]/mx*ih*.5;o+='<rect x="'+(x-bw/2).toFixed(1)+'" y="'+(pt+ih-bh).toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+bh.toFixed(1)+'" fill="'+C.rule+'" opacity=".75"/>'}
+ var bw=Math.max(1.5,iw/m*.7),slot=iw/m,cf=slot>=22?11:slot>=14?10:9,cs=Math.max(1,Math.ceil(13/slot)),cl="",im=from;for(i=from;i<n;i++)if(s.n[i]>s.n[im])im=i;
+ for(i=from;i<n;i++){var x=pl+(i-from+.5)/m*iw,bh=s.n[i]/mx*ih*.5;o+='<rect x="'+(x-bw/2).toFixed(1)+'" y="'+(pt+ih-bh).toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+bh.toFixed(1)+'" fill="'+C.rule+'" opacity=".75"/>';
+  if(s.n[i]>0&&((n-1-i)%cs===0||i===im))cl+='<text x="'+x.toFixed(1)+'" y="'+(pt+ih-bh-3).toFixed(1)+'" text-anchor="middle" font-size="'+cf+'" font-weight="600" fill="'+C.ink+'" stroke="'+C.paper+'" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">'+s.n[i]+'</text>'}
  var d="",pk=[];for(i=from;i<n;i++){if(s.r[i]<0){d+=" ";continue}var xx=pl+(i-from+.5)/m*iw,yy=pt+ih-s.r[i]/100*ih;d+=(d.slice(-1)===""||d.slice(-1)===" "?"M":"L")+xx.toFixed(1)+" "+yy.toFixed(1);pk.push([s.r[i],i,xx,yy])}
- o+='<path d="'+d.replace(/^\s+/,"")+'" fill="none" stroke="'+C.gold2+'" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>';
+ o+='<path d="'+d.replace(/^\s+/,"")+'" fill="none" stroke="'+C.gold2+'" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>'+cl;
  pk.sort(function(a,b){return b[0]-a[0]});var shown=[];for(i=0;i<pk.length&&shown.length<(nw?2:3);i++){var ok=true;shown.forEach(function(q){if(Math.abs(q[1]-pk[i][1])<Math.max(4,m/8))ok=false});if(ok)shown.push(pk[i])}
  shown.forEach(function(q){o+='<circle cx="'+q[2].toFixed(1)+'" cy="'+q[3].toFixed(1)+'" r="4" fill="'+rc(q[0])+'" stroke="'+C.paper+'" stroke-width="1.5"/>'+T(Math.min(W-pr-4,Math.max(pl+4,q[2])),q[3]-9,dt(q[1])+" · "+(q[0]/10).toFixed(1),{a:"middle",c:C.ink,s:11,w:600})});
  var tk=Math.min(nw?3:5,m-1);for(i=0;i<=tk;i++){var j=from+Math.round(i*(m-1)/tk);o+=T(pl+(j-from+.5)/m*iw,H-9,dt(j),{a:i===0?"start":i===tk?"end":"middle",s:10.5})}
