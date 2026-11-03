@@ -126,7 +126,7 @@
   }
   /* ------------------------------------------------ the ATHENA intro (vector; the same animation as the social video) */
   var IN = T.intro || {}, MARK = '<svg class="ai-mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z" fill="#0B1630" stroke="#C9A45C" stroke-width="2.4" stroke-linejoin="round"/><path d="M14.5 24 L17.5 9.5 L25.5 17.5 Z M49.5 24 L46.5 9.5 L38.5 17.5 Z" fill="#C9A45C"/><path d="M32 18.5 C25 13.5 14 15 14 27.5 C14 38.5 22.5 45 32 47 C41.5 45 50 38.5 50 27.5 C50 15 39 13.5 32 18.5 Z" fill="#14254D" stroke="#C9A45C" stroke-width="1.6"/><g fill="none" stroke="#C9A45C" stroke-width="1.8"><circle cx="24" cy="30" r="6.2"/><circle cx="40" cy="30" r="6.2"/></g><circle cx="24" cy="30" r="4" fill="#E2C27F"/><circle cx="40" cy="30" r="4" fill="#E2C27F"/><g class="ai-pup"><circle cx="24" cy="30" r="1.7" fill="#0B1630"/><circle cx="40" cy="30" r="1.7" fill="#0B1630"/><circle cx="24.9" cy="29" r=".7" fill="#fff"/><circle cx="40.9" cy="29" r=".7" fill="#fff"/></g><ellipse class="ai-l" cx="24" cy="30" rx="5.4" ry="0" fill="#14254D"/><ellipse class="ai-l" cx="40" cy="30" rx="5.4" ry="0" fill="#14254D"/><path d="M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5" fill="none" stroke="#E2C27F" stroke-width="2" stroke-linecap="round"/><path d="M29.2 29.5 H34.8 L32 37.5 Z" fill="#C9A45C"/><path d="M23 51 L27.5 54 L32 51 L36.5 54 L41 51" fill="none" stroke="#C9A45C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/></svg>';
-  var DUR = 5.0;                                                        /* LOOK-31: five seconds (was 6.2) */
+  var DUR = 5.0, LEN = 2.0;                                             /* KYB-50: the whole sequence (5 s of scenes) now plays in LEN = 2 seconds */
   function intro(then) {
     if (!IN.on || document.querySelector(".aintro")) { if (then) then(); return; }
     var calm = false; try { calm = matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) { /* old browser */ }
@@ -146,7 +146,7 @@
     function frame(now) {
       if (done) return;
       if (t0 === null) t0 = now;
-      var t = (now - t0) / 1000, r = ease(t / 1.0);
+      var t = (now - t0) / 1000 * (DUR / LEN), r = ease(t / 1.0);
       rules.forEach(function (x) { x.style.width = (88 * r) + "vw"; });
       var m = ease((t - 0.2) / 0.9); mk.style.opacity = m; mk.style.transform = "translateY(" + (3 * (1 - m)) + "vmin) scale(" + (0.86 + 0.14 * m) + ")";
       var hp = ((t - 0.9) % 2.6 + 2.6) % 2.6 / 2.6; halo.style.opacity = t < 0.9 ? 0 : 0.35 * (1 - hp); halo.style.transform = "scale(" + (0.7 + 0.5 * hp) + ")";
