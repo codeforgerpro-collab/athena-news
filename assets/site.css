@@ -589,8 +589,10 @@ button.mtc:hover{box-shadow:0 4px 14px rgba(0,0,0,.12);transform:translateY(-1px
 /* WEB-1.13 help, the living band, the Mind Graph guide */
 .amb{position:relative;height:112px;overflow:hidden;background:linear-gradient(180deg,var(--paper2),transparent);border-bottom:1px solid var(--rule)}
 .amb canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
-.ambcap{font-size:12.5px;color:var(--muted);margin:6px 0 0;font-style:italic;letter-spacing:.1px}
-@media (max-width:640px){.amb{height:80px}.ambcap{font-size:12px}}
+.ambcap{font-size:13.5px;color:var(--muted);margin:6px 0 0;font-style:italic;letter-spacing:.1px}
+.ambfocus{font-style:normal;font-weight:600;color:var(--ink);margin-inline-start:10px}
+.ambl{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+@media (max-width:640px){.amb{height:96px}.ambcap{font-size:12.5px}}
 .amb.hot{cursor:pointer}
 .partners{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin:6px 0 0;font-size:12.5px;color:var(--muted)}
 .partners b{font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:10.5px;border:1px solid var(--rule);border-radius:999px;padding:2px 7px}

@@ -217,7 +217,8 @@
   var cv = box.querySelector("canvas"), cx = cv.getContext("2d"), mode = box.getAttribute("data-mode") || "news";
   var root = box.getAttribute("data-root") || "";
   var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var W = 0, H = 0, dpr = Math.min(3, window.devicePixelRatio || 1), on = true, raf = 0, t = 0, P = [], X = {}, COINS = [], ATH = null, mx = -999, my = -999, C = {}, SPR = {};
+  var W = 0, H = 0, dpr = Math.min(3, window.devicePixelRatio || 1), on = true, raf = 0, t = 0, P = [], X = {}, COINS = [], ATH = null, mx = -999, my = -999, C = {}, SPR = {}, EV = [], NAMES = {}, PRE = "", LIVE = false, mt = 0, touch = false, HOT = null, HOTT = 0, FR = 0,
+    LOW = (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4 || !!(navigator.connection && navigator.connection.saveData);
   var ICON = {1: "M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6z", 2: "M4 19h16M6 15l4-4 3 3 5-6M15 8h3v3",
     3: "M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .3 1.8 1.2 2.7 2.5 3-.3-3 0-5.5 0-8z", 4: "M3 16l2 4h14l2-4zM6 16v-5h12v5M9 11V7h6v4M12 7V4",
     5: "M7 7h10v10H7zM10 10h4v4h-4zM4 10h3M4 14h3M17 10h3M17 14h3M10 4v3M14 4v3M10 17v3M14 17v3", 6: "M4 8h16v11H4zM9 8V5h6v3M4 13h16",
@@ -228,6 +229,7 @@
   var FLAGS = ["grc", "cyp", "tur", "usa", "gbr", "deu", "fra", "ita", "esp", "ukr", "rus", "chn", "isr", "irn", "egy", "sau", "jpn", "ind"], FL = {}, FLK = [];
   function img(src) { var i = new Image(); i.decoding = "async"; i.onload = function () { SPR = {}; if (still) start(); }; i.src = src; return i; }
   FLAGS.forEach(function (k) { FL[k] = img(root + "assets/cf/" + k + ".svg"); FLK.push("f:" + k); });
+  function flagImg(c) { return FL[c] || (FL[c] = img(root + "assets/cf/" + c + ".svg")); }   /* BAND-55: any country's flag, loaded when first needed */
   var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] }, SC = {};
   try { SC = JSON.parse(box.getAttribute("data-sc") || "{}"); } catch (e) { SC = {}; }
   /* LOOK-36: every symbol is a designed badge - a section in its own colour, the market symbols in theirs */
@@ -254,17 +256,33 @@
   function pick(a) { return a[(Math.random() * a.length) | 0]; }
   function size() { var r = box.getBoundingClientRect(); W = r.width; H = r.height; if (W < 60 || H < 20) { W = Math.max(W, 0); } cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); cx.setTransform(dpr, 0, 0, dpr, 0, 0); }
   function count(per, lo, hi) { return Math.max(lo || 10, Math.min(hi || 40, Math.round(W / per))); }
-  function RR() { return W < 640 ? 7 : 9.5; }
+  function RR() { return W < 640 ? 8.5 : 9.5; }
   function line(a, b, c, w, al) { cx.globalAlpha = al; cx.beginPath(); cx.moveTo(a.x, a.y); cx.lineTo(b.x, b.y); cx.strokeStyle = c; cx.lineWidth = w; cx.stroke(); }
   function ring(x, y, r, c, w, al) { cx.globalAlpha = al; cx.beginPath(); cx.arc(x, y, r, 0, 6.2832); cx.strokeStyle = c; cx.lineWidth = w; cx.stroke(); }
   function dot(x, y, r, c, al) { cx.globalAlpha = al; cx.beginPath(); cx.arc(x, y, r, 0, 6.2832); cx.fillStyle = c; cx.fill(); }
-  function drift(p, sp, pad, keep) { p.x += p.vx * sp; p.y += p.vy * sp; var ex = Math.max(pad, 14); if (p.x < ex || p.x > W - ex) { p.vx *= -1; p.x = Math.max(ex, Math.min(W - ex, p.x)); }
-    if (p.y < pad || p.y > H - pad) { p.vy *= -1; p.y = Math.max(pad, Math.min(H - pad, p.y)); }
-    if (keep) return; var dx = p.x - mx, dy = p.y - my, d2 = dx * dx + dy * dy; if (d2 < 4900) { var d = Math.sqrt(d2 + 1); p.x += dx / d * 1.7; p.y += dy / d * 1.7; } }
+  /* BAND-55 (3 Nov 2026): nothing ever stops or settles. Every symbol keeps its own speed (never below a walking pace), turns a
+     little at random and bounces at the walls, so the whole band stays in motion over its full width. The pointer only nudges
+     symbols while it is actually moving (never on a touch screen, never when it rests), and gently. */
+  function drift(p, sp, pad, keep) {
+    if (p === (HOT && HOT.p)) return;                                     /* the one being pointed at holds still */
+    var v = Math.hypot(p.vx, p.vy) || .2, a = Math.atan2(p.vy, p.vx) + (Math.random() - .5) * .05; v = Math.max(.13, Math.min(.34, v));
+    var sx = Math.cos(a) >= 0 ? 1 : -1, off = Math.max(-.45, Math.min(.45, Math.atan2(Math.sin(a), Math.abs(Math.cos(a)))));   /* mostly sideways, never upright */
+    a = sx > 0 ? off : Math.PI - off; p.vx = Math.cos(a) * v; p.vy = Math.sin(a) * v;
+    p.x += p.vx * sp * .9; p.y += p.vy * sp * .9; var ex = Math.max(pad, 14);
+    /* at a wall the symbol always turns INWARD (a plain "flip" sent the ones the neighbours had shoved past the wall back out again:
+       they jittered there and the whole band slowly piled up against one wall) */
+    if (p.x < ex) { p.vx = Math.abs(p.vx); p.x = ex; } else if (p.x > W - ex) { p.vx = -Math.abs(p.vx); p.x = W - ex; }
+    if (p.y < pad) { p.vy = Math.abs(p.vy); p.y = pad; } else if (p.y > H - pad) { p.vy = -Math.abs(p.vy); p.y = H - pad; }
+    if (keep || !LIVE) return; var dx = p.x - mx, dy = p.y - my, d2 = dx * dx + dy * dy;
+    if (d2 < 4900) { var d = Math.sqrt(d2 + 1), k = 1 - d / 70; p.x += dx / d * k * .9; p.y += dy / d * k * .9; } }
   /* LOOK-31 (30 Oct 2026): symbols keep a gap between them - the coins and the emblem push the others gently away */
   function apart(list, gap) { for (var i = 0; i < list.length; i++) for (var j = i + 1; j < list.length; j++) { var a = list[i], b = list[j]; if (a.x == null || b.x == null) continue;
       var dx = b.x - a.x, dy = b.y - a.y; if (!dx && !dy) { dx = (i % 2 ? 1 : -1) * .5; dy = .3; } var d = Math.sqrt(dx * dx + dy * dy) || .01, g = (a.r || 0) + (b.r || 0) + gap; if (d >= g) continue; var k = (g - d) / d * .5; dx *= k; dy *= k;
-      if (!a.fixed) { a.x -= dx; a.y -= dy; } if (!b.fixed) { b.x += dx; b.y += dy; } } }
+      if (!a.fixed) { a.x -= dx; a.y -= dy; } if (!b.fixed) { b.x += dx; b.y += dy; }
+      /* BAND-55: two symbols meeting head-on bounce off each other (they only used to be pushed apart while still heading at each other,
+         so a crowd pressed together and froze in place - the "everything gathers on one side" effect) */
+      if (a.vx != null && b.vx != null && !a.fixed && !b.fixed) { var nx = (b.x - a.x) / d, ny = (b.y - a.y) / d, rel = (b.vx - a.vx) * nx + (b.vy - a.vy) * ny;
+        if (rel < 0) { a.vx += rel * nx; a.vy += rel * ny; b.vx -= rel * nx; b.vy -= rel * ny; } } } }
   /* every symbol is drawn once into a small sprite at the screen's own sharpness; the animation only moves the sprites */
   function sprite(key, r, draw) { var k = key + "|" + r; if (SPR[k]) return SPR[k]; var c = document.createElement("canvas"), s = Math.ceil((r * 2 + 4) * dpr); c.width = c.height = s;
     var g = c.getContext("2d"); g.scale(dpr, dpr); g.translate(r + 2, r + 2); draw(g, r); return SPR[k] = c; }
@@ -273,7 +291,7 @@
   function glyph(g, r, d, col, w) { var s = r * 1.25 / 24; g.save(); g.scale(s, s); g.translate(-12, -12); g.lineWidth = w || 1.9; g.lineCap = g.lineJoin = "round"; g.strokeStyle = col; g.stroke(new Path2D(d)); g.restore(); }
   function txt(g, r, s, size, col) { g.font = "800 " + size + "px system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif"; g.textAlign = "center"; g.textBaseline = "middle"; g.fillStyle = col; g.fillText(s, 0, r * .05); }
   function sym(k, r) { return sprite(k, r, function (g, r) {
-    if (k.indexOf("f:") === 0) { var f = FL[k.slice(2)]; disc(g, r, C.paper, C.rule); g.save(); g.beginPath(); g.arc(0, 0, r - 2, 0, 6.2832); g.clip();
+    if (k.indexOf("f:") === 0) { var f = flagImg(k.slice(2)); disc(g, r, C.paper, C.rule); g.save(); g.beginPath(); g.arc(0, 0, r - 2, 0, 6.2832); g.clip();
       if (f && f.complete && f.naturalWidth) g.drawImage(f, -(r - 2) * 1.34, -(r - 2), (r - 2) * 2.68, (r - 2) * 2); g.restore(); return; }
     if (k.indexOf("x:") === 0) { var xi = XS[+k.slice(2)]; disc(g, r, C.paper, C.gold); if (xi && xi.complete && xi.naturalWidth) { g.save(); g.beginPath(); g.arc(0, 0, r - 1, 0, 6.2832); g.clip(); cover(g, xi, 0, 0, r - 1); g.restore(); } return; }
     if (k === "btc") { disc(g, r, "#f7931a"); g.rotate(-.24); txt(g, r, "₿", r * 1.2, "#fff"); return; }
@@ -324,7 +342,7 @@
 
   /* the partners' coins: gold rim, a soft breathing glow; they never run from the pointer and stop while pointed at */
   function coins() { var rc = CR(); COINS = PART.map(function (p, i) { return { p: p, x: W * (i ? .72 : .3), y: H * (i ? .42 : .55), vx: i ? -.18 : .22, vy: i ? -.07 : .08, ph: i * Math.PI, r: rc }; });
-    ATH = { x: W * .5, y: H * .5, vx: .16, vy: -.06, r: rc }; }
+    ATH = { x: W * .5, y: H * .5, vx: 0, vy: 0, r: rc, fixed: true }; }
   function drawCoins(links) {
     COINS.forEach(function (c) { drift(c, c.hot ? 0 : .8, c.r + 4, true); c.ph += .03;
       if (links) P.forEach(function (p) { if (p.x == null) return; var d = Math.hypot(c.x - p.x, c.y - p.y); if (d < 110) line(c, p, C.gold, 1.1, (1 - d / 110) * .6); }); });
@@ -332,18 +350,58 @@
       cx.globalAlpha = (.22 + .18 * g) * (c.hot ? 1.3 : 1); var gr = cx.createRadialGradient(c.x, c.y, c.r * .6, c.x, c.y, c.r * 2.1); gr.addColorStop(0, C.gold); gr.addColorStop(1, "rgba(0,0,0,0)");
       cx.fillStyle = gr; cx.beginPath(); cx.arc(c.x, c.y, c.r * 2.1, 0, 6.2832); cx.fill();
       dot(c.x, c.y, r + 1.6, C.gold, 1); cx.save(); cx.beginPath(); cx.arc(c.x, c.y, r, 0, 6.2832); cx.clip(); cover(cx, im, c.x, c.y, r); cx.restore(); }); }
-  function drawMark() { if (!ATH) return; drift(ATH, .8, ATH.r + 4, true); emblem(ATH.x, ATH.y, ATH.r, C.gold); }
-  function hit(x, y) { for (var i = 0; i < COINS.length; i++) { var c = COINS[i]; if (Math.hypot(x - c.x, y - c.y) <= c.r + 6) return c; } return null; }
+  function drawMark() { if (!ATH) return; emblem(ATH.x, ATH.y, ATH.r, C.gold); }
+  function hit(x, y) {
+    for (var i = 0; i < COINS.length; i++) { var c = COINS[i]; if (Math.hypot(x - c.x, y - c.y) <= c.r + 6) return { coin: c }; }
+    for (i = P.length - 1; i >= 0; i--) { var p = P[i], e = p.evt || (p.fl && p.fl.evt) || (p.ev > 0 && p.evref); if (!e) continue;
+      if (Math.hypot(x - p.x, y - p.y) <= (p.r || RR()) + (touch ? 12 : 6)) return { ev: e, p: p }; }
+    return null; }
+  /* BAND-55: today's real events - a section badge in the event's risk colour, its countries' flags tied to it by a line,
+     a label on the pointer, a link to the event page, and a plain list for screen readers */
+  function lvlOf(r) { return r >= 8 ? 3 : r >= 6 ? 2 : r >= 4 ? 1 : 0; }
+  function mkEv() { if (mode !== "news" || !EV.length) return; var r = RR(); P = P.filter(function (p) { return !p.evt && !p.fl; });
+    P = P.slice(0, Math.round(P.length * .55));                           /* room for the real events: fewer generic symbols */
+    EV.slice(0, count(90, 6, 12)).forEach(function (e, i) {
+      var p = { x: rnd(24, W - 24), y: rnd(18, H - 18), vx: rnd(.14, .3) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), evt: e, lvl: lvlOf(e.r), k: String(e.c), r: r + 3, src: 40 + i, ev: 0 };
+      P.push(p);
+      (e.f || []).forEach(function (f, j) { P.push({ x: p.x + rnd(-40, 40), y: rnd(18, H - 18), vx: rnd(.14, .3) * (Math.random() < .5 ? 1 : -1), vy: rnd(-.1, .1),
+        k: "f:" + f, fl: p, r: r - 1, src: 80 + i * 2 + j, ev: 0 }); }); }); }
+  function tie(f) { var e = f.fl, dx = e.x - f.x, dy = e.y - f.y, d = Math.hypot(dx, dy) || 1; if (d > 78) { f.x += dx / d * .25; f.y += dy / d * .25; }
+    line(f, e, C.risk[e.lvl], 1.2, Math.max(.12, .55 * (1 - d / 160))); }
+  function drawEvt(p) { var col = C.risk[p.lvl], ph = ((t + p.src * 17) % 100) / 100, hot = HOT && HOT.p === p;
+    if (p.lvl >= 2 || hot) ring(p.x, p.y, p.r + 3 + ph * 11, col, 1.4, (hot ? .7 : .38) * (1 - ph));
+    put(evsym(p.k, col, p.r), p.x, p.y, p.r, 1); if (hot) ring(p.x, p.y, p.r + 3, C.gold, 2, 1); }
+  function drawFl(p) { var hot = HOT && (HOT.p === p || HOT.p === p.fl); put(sym(p.k, p.r), p.x, p.y, p.r, hot ? 1 : .95); }
+  function label(p, e) { var s = e.t || "", mw = Math.min(W - 16, 420), fs = W < 640 ? 11.5 : 12.5; cx.font = "600 " + fs + "px system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif"; cx.textAlign = "left"; cx.textBaseline = "middle";
+    var cut = false; while (cx.measureText(s).width > mw - 18 && s.length > 8) { s = s.slice(0, -2); cut = true; } if (cut) s = s.trim() + "\u2026";
+    var w = cx.measureText(s).width + 18, h = 24, x = Math.max(6, Math.min(W - w - 6, p.x - w / 2)), y = p.y > H / 2 ? Math.max(3, p.y - (p.r || 10) - h - 6) : Math.min(H - h - 3, p.y + (p.r || 10) + 6);
+    cx.globalAlpha = .97; cx.beginPath(); if (cx.roundRect) cx.roundRect(x, y, w, h, 7); else cx.rect(x, y, w, h); cx.fillStyle = C.paper; cx.fill(); cx.lineWidth = 1.2; cx.strokeStyle = C.gold; cx.stroke();
+    cx.fillStyle = C.ink; cx.fillText(s, x + 9, y + h / 2 + .5); cx.globalAlpha = 1; }
+  function evUrl(e) { return PRE + "event/" + e.id + ".html"; }
+  var FOCUS = { en: "In focus now:", el: "Στο επίκεντρο τώρα:", es: "En foco ahora:", fr: "À la une :", de: "Aktuell im Fokus:", ru: "Сейчас в центре внимания:", ar: "في الواجهة الآن:" },
+      TOPL = { en: "Top events now", el: "Τα σημαντικότερα τώρα" };
+  function focusLine() { var cap = document.querySelector(".ambcap"); if (!cap || !EV.length || (mode !== "news" && mode !== "graph")) return;
+    var n = {}, lg = document.documentElement.lang || "en"; EV.forEach(function (e) { var c = (e.f || [])[0]; if (c) n[c] = (n[c] || 0) + 1; });
+    var top = Object.keys(n).sort(function (a, b) { return n[b] - n[a]; }).slice(0, 3).map(function (c) { return NAMES[c.toUpperCase()] || c.toUpperCase(); });
+    if (!top.length) return; var sp = cap.querySelector(".ambfocus") || cap.appendChild(document.createElement("span")); sp.className = "ambfocus"; sp.textContent = (FOCUS[lg] || FOCUS.en) + " " + top.join(", "); }
+  function a11y() { if (document.getElementById("ambl") || !EV.length) return; var lg = document.documentElement.lang || "en", nav = document.createElement("nav"); nav.id = "ambl"; nav.className = "ambl";
+    nav.setAttribute("aria-label", TOPL[lg] || TOPL.en); var ul = document.createElement("ul");
+    EV.forEach(function (e) { var li = document.createElement("li"), a = document.createElement("a"); a.href = evUrl(e); a.lang = "en"; a.textContent = e.t; li.appendChild(a); ul.appendChild(li); });
+    nav.appendChild(ul); box.parentNode.insertBefore(nav, box.nextSibling); }
+  function loadEv() { if (!window.fetch || (mode !== "news" && mode !== "graph")) return; var tk = document.getElementById("ticker"); PRE = root + (tk ? tk.getAttribute("data-prefix") || "" : "");
+    try { fetch(root + "assets/band.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (!j || !j.ev || !j.ev.length) return;
+      EV = j.ev; NAMES = (j.names || {})[document.documentElement.lang || "en"] || (j.names || {}).en || {}; if (W > 60) { mkEv(); } focusLine(); a11y(); }).catch(function () {}); } catch (e) {} }
 
   var M = {
     /* reports from different newsrooms meet and become a verified event: its section icon flashes in its risk colour (sometimes the owl) */
     news: { init: function () { var K = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].concat(crypto(), FLK); P = [];
         for (var i = 0, n = count(38, 12, 40); i < n; i++) P.push({ x: (i + Math.random()) / n * W, y: rnd(14, H - 14), vx: (rnd(.12, .32) * (i % 2 ? 1 : -1)), vy: rnd(-.13, .13), src: i % 5, ev: 0, k: K[i % K.length] }); },
-      step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); });
+      step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); if (p.fl) tie(p); });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j], d = Math.hypot(a.x - b.x, a.y - b.y);
-          if (d < 84 && a.src !== b.src) { line(a, b, C.gold, 1, (1 - d / 84) * .5);
-            if (d < 24 && !a.ev && !b.ev) { a.ev = b.ev = 110; a.lvl = b.lvl = (Math.random() * 4) | 0; a.cat = b.cat = String(1 + ((Math.random() * 10) | 0)); a.owl = b.owl = Math.random() < .18; } } }
-        P.forEach(function (p) { if (p.ev) { p.ev--; var k = p.ev / 110, col = C.risk[p.lvl]; ring(p.x, p.y, r + 4 + (1 - k) * 28, col, 2, .32 * k);
+          if (d < 84 && a.src !== b.src && !a.evt && !b.evt && !a.fl && !b.fl) { line(a, b, C.gold, 1, (1 - d / 84) * .5);
+            if (d < 24 && !a.ev && !b.ev) { a.ev = b.ev = 110; a.lvl = b.lvl = (Math.random() * 4) | 0; a.cat = b.cat = String(1 + ((Math.random() * 10) | 0)); a.owl = b.owl = Math.random() < .18;
+              if (EV.length) { var re = pick(EV); a.cat = b.cat = String(re.c); a.lvl = b.lvl = lvlOf(re.r); a.evref = b.evref = re; a.owl = b.owl = false; } } } }
+        P.forEach(function (p) { if (p.evt) { drawEvt(p); return; } if (p.fl) { drawFl(p); return; } if (p.ev) { p.ev--; var k = p.ev / 110, col = C.risk[p.lvl]; ring(p.x, p.y, r + 4 + (1 - k) * 28, col, 2, .32 * k);
             if (p.owl) owl(p.x, p.y, r + 2, col); else put(evsym(p.cat, col, r + 2), p.x, p.y, r + 2); }
           else put(sym(p.k, r), p.x, p.y, r, .92); }); } },
     /* the day's stories settle into two rows, like a briefing being written */
@@ -427,26 +485,31 @@
   function ease(k) { return k < 1 ? 1 - Math.pow(1 - k, 2) : 1; }
   var mod = M[mode] || M.news;
   function space() { if (mode === "brief" || mode === "sea" || mode === "radar" || mode === "pins" || mode === "event") return; var r = RR(), all = [];
-    P.forEach(function (p) { if (p.x != null) { p.r = p.r || r; all.push(p); } }); COINS.forEach(function (c) { all.push(c); }); if (ATH && mode !== "event") all.push(ATH); apart(all, 6); }
-  function frame() { if (!on) return; t++; seen = Date.now(); cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
+    P.forEach(function (p) { if (p.x != null) { p.r = p.r || r; all.push(p); } }); COINS.forEach(function (c) { all.push(c); }); apart(all, 6); }   /* BAND-55: the fixed owl is no obstacle - symbols pass under it (a wall in the middle of a short strip made them pile up against it) */
+  function frame() { if (!on) return; if (LOW && (++FR & 1)) { raf = requestAnimationFrame(frame); return; } t++; seen = Date.now(); LIVE = !touch && seen - mt < 1200; if (HOT && touch && seen - HOTT > 3000) HOT = null; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); if (HOT && HOT.ev) label(HOT.p, HOT.ev); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
   function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
   var seen = 0, lastW = 0;
-  function setup() { size(); lastW = W; if (W < 60) return; mod.init(); coins(); }
+  function setup() { size(); lastW = W; if (W < 60) return; mod.init(); coins(); if (EV.length) mkEv(); }
   /* 31 Oct 2026: the strip is laid out again whenever its own width changes (late layout, zoom, a hidden tab, a rotated phone),
      so the symbols are always spread over the whole width and never stay bunched at the left */
   function relayout() { var w = box.getBoundingClientRect().width; if (Math.abs(w - lastW) > 6 || !P.length) { setup(); start(); } }
-  colours(); setup(); start();
+  colours(); setup(); start(); loadEv();
   var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(relayout, 150); });
   if (window.ResizeObserver) new ResizeObserver(function () { clearTimeout(rt); rt = setTimeout(relayout, 120); }).observe(box);
   /* a quiet watchdog: if the strip is on screen but nothing has been drawn for 2 s, or the symbols have piled up on one side, start it again */
   setInterval(function () { if (still || document.hidden) return; var r = box.getBoundingClientRect(); if (r.bottom < 0 || r.top > innerHeight || r.width < 60) return;
     var xs = P.filter(function (p) { return p.x != null; }), bunched = xs.length > 6 && (Math.max.apply(null, xs.map(function (p) { return p.x; })) - Math.min.apply(null, xs.map(function (p) { return p.x; }))) < W * .5;
     if (Date.now() - seen > 2000 || Math.abs(r.width - lastW) > 6 || bunched) { on = true; setup(); start(); } }, 2500);
-  box.addEventListener("pointermove", function (ev) { var b = box.getBoundingClientRect(); mx = ev.clientX - b.left; my = ev.clientY - b.top;
-    var h = hit(mx, my); COINS.forEach(function (c) { c.hot = c === h; }); box.classList.toggle("hot", !!h); box.title = h ? h.p.name : ""; });
-  box.addEventListener("pointerleave", function () { mx = my = -999; COINS.forEach(function (c) { c.hot = false; }); box.classList.remove("hot"); box.title = ""; });
-  box.addEventListener("click", function (ev) { var b = box.getBoundingClientRect(), h = hit(ev.clientX - b.left, ev.clientY - b.top);
-    if (h && /^https:\/\//.test(h.p.url)) { var w = window.open(h.p.url, "_blank", "noopener"); if (w) w.opener = null; } });
+  function setHot(h, ev) { HOT = h; COINS.forEach(function (c) { c.hot = !!(h && h.coin === c); }); box.classList.toggle("hot", !!h); box.title = ""; }
+  box.addEventListener("pointermove", function (ev) { var b = box.getBoundingClientRect(); mx = ev.clientX - b.left; my = ev.clientY - b.top; mt = Date.now(); touch = ev.pointerType === "touch";
+    if (!touch) setHot(hit(mx, my)); });
+  function away() { mx = my = -999; if (!touch) setHot(null); }
+  box.addEventListener("pointerleave", away); box.addEventListener("pointercancel", function () { mx = my = -999; });
+  box.addEventListener("pointerup", function (ev) { if (ev.pointerType === "touch") { touch = true; mx = my = -999; } });
+  box.addEventListener("click", function (ev) { var b = box.getBoundingClientRect(), x = ev.clientX - b.left, y = ev.clientY - b.top, h = hit(x, y); if (!h) { if (touch) HOT = null; return; }
+    if (h.coin) { if (/^https:\/\//.test(h.coin.p.url)) { var w = window.open(h.coin.p.url, "_blank", "noopener"); if (w) w.opener = null; } return; }
+    if (touch && (!HOT || HOT.p !== h.p)) { HOT = h; HOTT = Date.now(); box.classList.add("hot"); return; }          /* touch: the first tap names it, the second opens it */
+    location.href = evUrl(h.ev); });
   if (window.IntersectionObserver) new IntersectionObserver(function (es) { on = es[0].isIntersecting && !document.hidden; if (on && !still) start(); }).observe(box);
   document.addEventListener("visibilitychange", function () { on = !document.hidden; if (on && !still) start(); });
   if (window.MutationObserver) new MutationObserver(function () { colours(); if (still) start(); }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme", "class"] });
