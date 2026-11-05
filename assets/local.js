@@ -42,10 +42,15 @@
     if (x.en && x.lang !== "en") return { t: x.en, mt: x.lang };
     return { t: x.t, mt: null, untranslated: x.lang !== "en" && x.lang !== I.lang };
   }
+  function qnote(x) {                         /* LOCALDESK-1.2: how far the translation can be trusted */
+    if (x.q === "poor") return '<div class="lcmt"><span class="lcq">' + esc(D.tr_poor) + "</span></div>";
+    return "";
+  }
   function headline(x, cls) {
+    if (x.q === "poor") return '<a class="' + cls + '" href="' + esc(x.u) + '" target="_blank" rel="noopener nofollow" lang="' + esc(x.lang) + '">' + esc(x.t) + "</a>" + qnote(x);
     var s = shown(x);
     return '<a class="' + cls + '" href="' + esc(x.u) + '" target="_blank" rel="noopener nofollow"' + (s.mt || s.untranslated ? ' lang="' + esc(s.mt ? I.lang : x.lang) + '"' : "") + ">" + esc(s.t) + "</a>" +
-      (s.mt ? '<div class="lcmt">' + esc(fill(D.mt, langName(s.mt))) + ' · <span title="' + esc(x.t) + '">' + esc(D.orig) + ": " + '<span lang="' + esc(x.lang) + '">' + esc(x.t) + "</span></span></div>" : "");
+      (s.mt ? '<div class="lcmt">' + (x.q === "fair" ? '<span class="lcq">' + esc(D.tr_rough) + "</span> · " : "") + esc(fill(D.mt, langName(s.mt))) + ' · <span title="' + esc(x.t) + '">' + esc(D.orig) + ": " + '<span lang="' + esc(x.lang) + '">' + esc(x.t) + "</span></span></div>" : "");
   }
   function render(iso, d) {
     var name = I.names[iso][0], E = I.embed, h = E ? "" : "<h2>" + esc(name) + "</h2>";
@@ -66,6 +71,22 @@
         d.brief.slice(0, 3).map(function (b) { return "<li><div>" + headline(b, "lco") + '<div class="small"><b>' + esc(fill(D.mr_n, "", b.n)) + "</b>: " + esc((b.outlets || []).join(", ")) + " · " + esc(ago(b.ts)) + "</div></div></li>"; }).join("") + "</ol>";
       mr.hidden = false;
     }
+    /* LOCALDESK-1.2: rising in the local press - found in translated headlines, shown only after the double check */
+    if ((d.rising || []).length) h += '<section class="lcbox lcrise"><h3>' + esc(fill(D.rise_h, name)) + '</h3><p class="small">' + esc(D.rise_x) + "</p><ol>" +
+      d.rising.map(function (x) {
+        var C = {}; (x.checks || []).forEach(function (c) { C[c.k] = c; });
+        var how = (C.agree || {}).how, st = (C.shown_text || {}).how, b = [];
+        b.push('<span class="ok">' + esc(fill(D.chk_indep, "", x.n)) + "</span>");
+        if (how === "originals") b.push('<span class="ok">' + esc(D.chk_orig) + "</span>");
+        else if (how) b.push('<span class="ok">' + esc(D.chk_anchor) + "</span>");
+        if (x.lang === I.lang) st = null;          /* the reader sees the original headline: no translation to vouch for */
+        if (st === "round trip") b.push('<span class="ok">' + esc(D.chk_rt) + "</span>");
+        else if (st === "second translation") b.push('<span class="ok">' + esc(D.chk_2nd) + "</span>");
+        b.push(x.ev ? '<a href="' + esc(I.base + "event/" + x.ev + ".html") + '">' + esc(D.ev_yes) + " ›</a>" : "<span>" + esc(D.ev_no) + "</span>");
+        var reps = (x.reports || []).map(function (r) { return '<li><a href="' + esc(r.u) + '" target="_blank" rel="noopener nofollow" lang="' + esc(r.lang) + '">' + esc(r.t) + "</a> · " + esc(r.o) + "</li>"; }).join("");
+        return "<li>" + headline(x, "lco") + '<div class="small">' + esc(fill(D.by_n, "", x.n)) + ": " + esc((x.outlets || []).join(", ")) + " · " + esc(fill(D.rise_since, ago(x.first))) + "</div>" +
+          '<div class="lcchk">' + b.join("") + "</div>" + (reps ? '<details class="lcrep"><summary>' + esc(D.rise_orig) + "</summary><ul>" + reps + "</ul></details>" : "") + "</li>";
+      }).join("") + "</ol></section>";
     /* (c) today's brief */
     if (!mr && (d.brief || []).length) h += '<section class="lcbox"><h3>' + esc(D.brief_h) + '</h3><p class="small">' + esc(D.brief_x) + '</p><ol class="num lcbr">' +
       d.brief.map(function (b) { return "<li><div>" + headline(b, "lco") + '<div class="small">' + esc(fill(D.by_n, "", b.n)) + ": " + esc(b.outlets.join(", ")) + " · " + esc(ago(b.ts)) + "</div></div></li>"; }).join("") + "</ol></section>";
