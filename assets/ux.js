@@ -249,9 +249,9 @@
   try { PART = JSON.parse(box.getAttribute("data-coins") || "[]"); } catch (e) { PART = []; }
   PART.forEach(function (p) { p.im = img(p.src); });
   function css(n, d) { var v = getComputedStyle(document.documentElement).getPropertyValue(n).trim(); return v || d; }
-  function colours() { C = { gold: css("--gold", "#a8843a"), ink: css("--ink", "#141a24"), muted: css("--muted", "#6b7280"), rule: css("--rule", "#d9d1c1"),
-    paper: css("--card", "#fffdf9"), up: "#1f9d55", down: css("--crit", "#9f1239") };
-    C.risk = [C.gold, css("--elev", "#a16207"), css("--high", "#c2410c"), C.down]; SPR = {}; }
+  /* BAND-56 (5 Nov 2026): the band is always a night panel - gold links, glowing risk colours - in the light and the dark theme alike */
+  function colours() { C = { gold: "#E2C27F", ink: "#F3EBD8", muted: "#8E9CC0", rule: "#2B3F73", paper: "#10204A", up: "#34D399", down: "#FF4D5E" };
+    C.risk = ["#E2C27F", "#FFB43B", "#FF7A3D", "#FF4D5E"]; C.acc = { graph: "#5ED0E6", pins: "#6EA8FF", sea: "#2DD4BF", radar: "#B794F6", markets: "#34D399", beacons: "#FF7A3D" }[mode] || "#E2C27F"; SPR = {}; }
   function rnd(a, b) { return a + Math.random() * (b - a); }
   function pick(a) { return a[(Math.random() * a.length) | 0]; }
   function size() { var r = box.getBoundingClientRect(); W = r.width; H = r.height; if (W < 60 || H < 20) { W = Math.max(W, 0); } cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); cx.setTransform(dpr, 0, 0, dpr, 0, 0); }
@@ -306,12 +306,12 @@
   function CR() { return W < 640 ? 13 : 17; }
   /* LOOK-36: the ATHENA owl drawn in vector (the same shapes as the logo) and alive inside its circle - it looks around, blinks,
      breathes, and two gold arcs turn slowly inside the rim. Still for readers who ask for reduced motion. */
-  var OP = { shield: new Path2D("M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z"), ears: new Path2D("M14.5 24 L17.5 9.5 L25.5 17.5 Z M49.5 24 L46.5 9.5 L38.5 17.5 Z"),
+  var OP = { shield: new Path2D("M32 3 L57 13.5 V33 C57 47.5 46.5 56.5 32 61 C17.5 56.5 7 47.5 7 33 V13.5 Z"), ears: new Path2D("M13 27 L16.5 9 L26.5 18.5 Z M51 27 L47.5 9 L37.5 18.5 Z"),
     head: new Path2D("M32 18.5 C25 13.5 14 15 14 27.5 C14 38.5 22.5 45 32 47 C41.5 45 50 38.5 50 27.5 C50 15 39 13.5 32 18.5 Z"),
-    brow: new Path2D("M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5"), beak: new Path2D("M29.2 29.5 H34.8 L32 37.5 Z"), chev: new Path2D("M23 51 L27.5 54 L32 51 L36.5 54 L41 51") };
+    brow: new Path2D("M17.5 23.5 Q24.5 18.5 32 24 Q39.5 18.5 46.5 23.5"), beak: new Path2D("M29 41 H35 L32 48 Z"), chev: new Path2D("M23 51 L27.5 54 L32 51 L36.5 54 L41 51") };
   var OG = "#C9A45C", OL = "#E2C27F", ON = "#0B1630", OH = "#14254D";
   function owlVec(x, y, r, col) {
-    var tt = still ? 0 : t, look = still ? 0 : Math.sin(tt / 55) * 1.7 + Math.sin(tt / 23) * .4, bl = (tt % 260), lid = bl < 9 ? Math.sin(bl / 9 * Math.PI) : 0;
+    var tt = still ? 0 : t, look = still ? 0 : Math.sin(tt / 55) * 1.7 + Math.sin(tt / 23) * .4, bl = (tt % 260), lid = bl < 9 ? Math.sin(bl / 9 * Math.PI) : 0, wb = tt % 520, wk = still ? 0 : (wb > 300 && wb < 332 ? Math.sin((wb - 300) / 32 * Math.PI) : 0);; var sb = tt - BLKT; if (sb >= 0 && sb < 9) lid = Math.max(lid, Math.sin(sb / 9 * Math.PI));   /* the left eye winks now and then; a blink when a new headline enters the ticker */
     var breathe = 1 + (still ? 0 : Math.sin(tt / 34) * .025), tilt = still ? 0 : Math.sin(tt / 90) * .06;
     cx.save(); cx.globalAlpha = 1; cx.translate(x, y);
     var bg = cx.createRadialGradient(-r * .3, -r * .4, r * .1, 0, 0, r); bg.addColorStop(0, "#1d3266"); bg.addColorStop(1, ON);   /* the night-blue disc */
@@ -322,15 +322,15 @@
     cx.beginPath(); cx.arc(0, 0, r * .86, a0, a0 + 1.1); cx.stroke(); cx.beginPath(); cx.arc(0, 0, r * .86, a0 + Math.PI, a0 + Math.PI + 1.1); cx.stroke();
     cx.globalAlpha = .12 + (still ? 0 : .08 * Math.sin(tt / 20)); cx.fillStyle = "#fff"; cx.beginPath(); cx.ellipse(0, -r * .55, r * .8, r * .38, 0, 0, 6.2832); cx.fill();
     cx.globalAlpha = 1; cx.rotate(tilt); var s = r * 1.42 / 64 * breathe; cx.scale(s, s); cx.translate(-32, -32);
-    cx.fillStyle = OH; cx.fill(OP.head); cx.lineWidth = 1.6; cx.strokeStyle = OG; cx.stroke(OP.head);
-    cx.fillStyle = OG; cx.fill(OP.ears);
-    cx.lineWidth = 2; cx.lineCap = "round"; cx.strokeStyle = OL; cx.stroke(OP.brow);
-    [24, 40].forEach(function (ex) { cx.beginPath(); cx.arc(ex, 30, 6.2, 0, 6.2832); cx.lineWidth = 1.8; cx.strokeStyle = OG; cx.stroke();
-      cx.beginPath(); cx.arc(ex, 30, 4, 0, 6.2832); cx.fillStyle = OL; cx.fill();
-      cx.beginPath(); cx.arc(ex + look, 30, 1.8, 0, 6.2832); cx.fillStyle = ON; cx.fill();
-      cx.beginPath(); cx.arc(ex + look + .9, 29, .7, 0, 6.2832); cx.fillStyle = "#fff"; cx.fill();
-      if (lid > 0) { cx.beginPath(); cx.ellipse(ex, 30 - 6.2 * (1 - lid), 6.4, 6.4 * lid + .01, 0, 0, 6.2832); cx.fillStyle = OH; cx.fill(); } });
-    cx.fillStyle = OG; cx.fill(OP.beak); cx.lineWidth = 1.5; cx.strokeStyle = OG; cx.globalAlpha = .75; cx.stroke(OP.chev);
+    cx.fillStyle = OG; cx.fill(OP.ears);                                                       /* LOGO-38: the new owl - an eye ring, and a rising line in the right pupil */
+    cx.shadowColor = OL; cx.shadowBlur = 5;
+    [22.5, 41.5].forEach(function (ex, k) { cx.beginPath(); cx.arc(ex, 31, 9, 0, 6.2832); cx.lineWidth = 2.2; cx.strokeStyle = OL; cx.stroke();
+      cx.beginPath(); cx.arc(ex, 31, 5.2, 0, 6.2832); cx.fillStyle = OL; cx.fill();
+      if (k === 0) { cx.beginPath(); cx.arc(ex + look * .6, 31, 2.2, 0, 6.2832); cx.fillStyle = ON; cx.fill(); }
+      else { cx.beginPath(); cx.moveTo(37.6, 33.6); cx.lineTo(40, 31.6); cx.lineTo(41.6, 32.6); cx.lineTo(44, 28.6); cx.lineWidth = 1.7; cx.lineCap = "round"; cx.lineJoin = "round"; cx.strokeStyle = ON; cx.stroke(); }
+      var ld = k === 0 ? Math.max(lid, wk) : lid; if (ld > 0) { cx.beginPath(); cx.ellipse(ex, 31 - 9 * (1 - ld), 9.4, 9.4 * ld + .01, 0, 0, 6.2832); cx.fillStyle = ON; cx.fill(); } });
+    cx.shadowBlur = 0;
+    cx.fillStyle = OG; cx.fill(OP.beak);
     cx.restore(); cx.restore(); }
   function emblem(x, y, r, col, fl) {
     var f = fl == null ? .5 + .5 * Math.sin(t / 7) : fl;                                       /* the flash */
@@ -339,6 +339,61 @@
     ring(x, y, r + 3 + ((t % 80) / 80) * 16, col, 2, .5 * (1 - (t % 80) / 80));               /* a ring goes out every ~1.3 s */
     owlVec(x, y, r, col); }
   function owl(x, y, r, col) { emblem(x, y, Math.max(r, CR()), col); }
+
+  /* BAND-57 (5 Nov 2026): a dotted world behind the nodes (events sit where they happened), a radar beam from the owl that pings what it
+     passes, hexagon / bracket frames for the highest risks, arcs between the countries of an event, small readouts for the top three,
+     and two slow layers of far dots. Reduced motion: the same picture, still. */
+  var CO = null, WAVES = [], TK = {}, BLKT = -999, GEO = null, MAPC = null, MAPK = "", SW = 0, STARS = [], GR0 = 75, GR1 = -57;
+  function geoInit(m, r) { try { var q = atob(m), b = new Uint8Array(q.length); for (var i = 0; i < q.length; i++) b[i] = q.charCodeAt(i); GEO = { b: b, r0: r[0], r1: r[1] }; MAPC = null; if (still) start(); } catch (e) {} }
+  function land(lat, lon) { var row = Math.floor(GEO.r0 - lat), col = Math.floor(lon + 180); if (row < 0 || row >= GEO.r0 - GEO.r1 || col < 0 || col > 359) return 0; var ix = row * 360 + col; return (GEO.b[ix >> 3] >> (7 - (ix & 7))) & 1; }
+  function buildMap() { if (!GEO) return; var key = W + "x" + H + "x" + dpr; if (MAPC && MAPK === key) return; MAPK = key;
+    var c = document.createElement("canvas"); c.width = Math.round(W * dpr); c.height = Math.round(H * dpr); var g = c.getContext("2d"); g.scale(dpr, dpr);
+    var st = W < 640 ? 5 : 6, cols = Math.max(20, Math.floor(W / st)), rows = Math.max(6, Math.floor((H - 20) / st)), dl = (GR0 - GR1) / rows, dn = 360 / cols;
+    for (var j = 0; j < rows; j++) for (var i = 0; i < cols; i++) { var lat0 = GR0 - j * dl, lon0 = -180 + i * dn, n = 0;
+      for (var a = 0; a < 3; a++) for (var b = 0; b < 2; b++) if (land(lat0 - dl * (a + .5) / 3, lon0 + dn * (b + .5) / 2)) n++;
+      g.beginPath(); g.arc((i + .5) / cols * W, 10 + (j + .5) / rows * (H - 20), n ? 1.15 : .55, 0, 6.2832); g.fillStyle = n ? "rgba(226,194,127," + (.14 + n * .05) + ")" : "rgba(226,194,127,.07)"; g.fill(); }
+    MAPC = c; }
+  function ll(g) { return { x: (g[1] + 180) / 360 * W, y: 10 + (GR0 - g[0]) / (GR0 - GR1) * (H - 20) }; }
+  function homeOf(e, p, placed) { if (!e.g || !e.g[0]) return null; var h = ll(e.g[0]), step = p.r * 2 + 6, n = 0, k;
+    for (k = 0; k < placed.length; k++) if (Math.hypot(placed[k].x - h.x, placed[k].y - h.y) < step) n++;
+    if (n) { h.x += (n % 2 ? 1 : -1) * Math.ceil(n / 2) * step; h.y += (n % 3 - 1) * 6; }
+    h.x = Math.max(24, Math.min(W - 24, h.x)); h.y = Math.max(20, Math.min(H - 20, h.y)); placed.push(h); return h; }
+  function tagTop() { var l = P.filter(function (p) { return p.evt && p.home; }).sort(function (a, b) { return b.evt.r - a.evt.r; });
+    l.forEach(function (p, i) { p.tagi = i; p.tag = i < 3 ? String((p.evt.f || [""])[0] || "").toUpperCase() + " R" + p.evt.r : ""; }); }
+  function stars() { if (LOW) return; if (!STARS.length || STARS.w !== W) { STARS = []; STARS.w = W; for (var i = 0; i < 70; i++) STARS.push({ x: Math.random() * W, y: Math.random() * H, v: i % 3 ? .05 : .13, r: i % 3 ? .6 : 1, a: i % 3 ? .22 : .34 }); }
+    STARS.forEach(function (s) { dot(((s.x - (still ? 0 : t * s.v)) % W + W) % W, s.y, s.r, "#BFD0FF", s.a); }); }
+  function radar() { if (mode !== "news" || !ATH) return; SW = still ? 5.2 : (t * .011) % 6.2832; var R = Math.max(W, 600);
+    ring(ATH.x, ATH.y, 46, C.gold, .8, .14); ring(ATH.x, ATH.y, 100, C.gold, .8, .1); ring(ATH.x, ATH.y, 180, C.gold, .8, .07);
+    cx.save(); cx.globalCompositeOperation = "lighter"; cx.globalAlpha = 1;
+    if (cx.createConicGradient) { var g = cx.createConicGradient(SW - .75, ATH.x, ATH.y); g.addColorStop(0, "rgba(226,194,127,0)"); g.addColorStop(.119, "rgba(226,194,127,.30)"); g.addColorStop(.1195, "rgba(226,194,127,0)"); g.addColorStop(1, "rgba(226,194,127,0)");
+      cx.fillStyle = g; cx.fillRect(0, 0, W, H); }
+    else { cx.globalAlpha = .1; cx.fillStyle = C.gold; cx.beginPath(); cx.moveTo(ATH.x, ATH.y); cx.arc(ATH.x, ATH.y, R, SW - .5, SW); cx.closePath(); cx.fill(); }
+    cx.globalAlpha = .55; cx.lineWidth = 1.2; cx.strokeStyle = "#FFF1C9"; cx.beginPath(); cx.moveTo(ATH.x, ATH.y); cx.lineTo(ATH.x + Math.cos(SW) * R, ATH.y + Math.sin(SW) * R); cx.stroke(); cx.restore(); }
+  function back() { stars(); if (GEO && (mode === "news" || mode === "pins" || mode === "sea")) { buildMap(); cx.globalAlpha = 1; cx.drawImage(MAPC, 0, 0, W, H); } if (mode === "news") radar(); }
+  function rr(x, y, w, h, r) { cx.beginPath(); if (cx.roundRect) cx.roundRect(x, y, w, h, r); else cx.rect(x, y, w, h); }
+  function sweepGlow(x, y, a, col) { if (!cx.createConicGradient) return; cx.save(); cx.globalCompositeOperation = "lighter"; var g = cx.createConicGradient(a - .75, x, y); g.addColorStop(0, col + "0)"); g.addColorStop(.119, col + ".30)"); g.addColorStop(.1195, col + "0)"); g.addColorStop(1, col + "0)"); cx.fillStyle = g; cx.fillRect(0, 0, W, H); cx.restore(); }
+  function ticker() { if (LOW || !EV.length) return; cx.save(); cx.font = "600 10.5px system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif"; cx.textBaseline = "middle";
+    if (!TK.items || TK.w0 !== W) { TK.items = []; var x0 = 0; EV.forEach(function (e) { var q = String(e.t || "").slice(0, 56), w = cx.measureText(q).width + 30; TK.items.push({ s: q, w: w, x: x0, lvl: lvlOf(e.r) }); x0 += w + 26; }); TK.tot = Math.max(x0, W + 40); TK.w0 = W; }
+    cx.globalAlpha = 1; var g = cx.createLinearGradient(0, H - 17, 0, H); g.addColorStop(0, "rgba(6,12,30,0)"); g.addColorStop(1, "rgba(6,12,30,.72)"); cx.fillStyle = g; cx.fillRect(0, H - 17, W, 17);
+    var sp = still ? 0 : t * .4, y = H - 7;
+    TK.items.forEach(function (it) { var x = ((it.x - sp) % TK.tot + TK.tot) % TK.tot; if (!still && x > W - .4 && x <= W) BLKT = t;
+      [x, x - TK.tot].forEach(function (xx) { if (xx > W || xx + it.w < 0) return; dot(xx + 4, y, 2.2, C.risk[it.lvl], .95); cx.globalAlpha = .78; cx.fillStyle = "#E8DDC0"; cx.textAlign = "left"; cx.fillText(it.s, xx + 12, y + .5); }); }); cx.restore(); }
+
+  function scan(p, col, r) { if (still || !ATH || mode !== "news") return;
+    if (p.pg > 0) { p.pg--; var k = p.pg / 50; ring(p.x, p.y, r + 4 + (1 - k) * 18, col, 1.6, .55 * k); glow(p.x, p.y, r * 2.2, col, .5 * k); return; }
+    var a = Math.atan2(p.y - ATH.y, p.x - ATH.x); if (a < 0) a += 6.2832; if ((SW - a + 6.2832) % 6.2832 < .06) p.pg = 50; }
+  function hex(x, y, r, col, rot) { cx.globalAlpha = .9; cx.lineWidth = 1.5; cx.strokeStyle = col; cx.beginPath(); for (var k = 0; k < 6; k++) { var a = rot + k * 1.0472; if (k) cx.lineTo(x + Math.cos(a) * r, y + Math.sin(a) * r); else cx.moveTo(x + Math.cos(a) * r, y + Math.sin(a) * r); } cx.closePath(); cx.stroke(); }
+  function brackets(x, y, r, col) { var L = r * .55; cx.globalAlpha = .95; cx.lineWidth = 1.6; cx.strokeStyle = col; cx.beginPath();
+    [[-1, -1], [1, -1], [1, 1], [-1, 1]].forEach(function (c) { cx.moveTo(x + c[0] * r, y + c[1] * (r - L)); cx.lineTo(x + c[0] * r, y + c[1] * r); cx.lineTo(x + c[0] * (r - L), y + c[1] * r); }); cx.stroke(); }
+  function arcs() { if (LOW) return; P.forEach(function (p) { if (!p.evt || !p.g2 || !p.home) return;
+      var ph = ((t + p.src * 37) % 320) / 320, pr = still ? 1 : Math.min(1, ph / .45), fd = still ? .6 : (ph > .6 ? Math.max(0, 1 - (ph - .6) / .4) : 1);
+      var x1 = p.x, y1 = p.y, x2 = p.g2.x, y2 = p.g2.y, qx = (x1 + x2) / 2, qy = Math.max(2, Math.min(y1, y2) - Math.abs(x2 - x1) * .16 - 6), col = C.risk[p.lvl], N = 28, n = Math.max(1, Math.round(N * pr)), hx = x1, hy = y1;
+      cx.save(); cx.globalCompositeOperation = "lighter"; cx.globalAlpha = .75 * fd; cx.lineWidth = 1.5; cx.strokeStyle = col; cx.beginPath();
+      for (var k = 0; k <= n; k++) { var u = k / N, a = (1 - u) * (1 - u), b = 2 * u * (1 - u), c = u * u, X = a * x1 + b * qx + c * x2, Y = a * y1 + b * qy + c * y2; if (k) cx.lineTo(X, Y); else cx.moveTo(X, Y); hx = X; hy = Y; }
+      cx.stroke(); cx.restore(); dot(hx, hy, 2.4, "#FFFFFF", .9 * fd); glow(hx, hy, 9, col, .6 * fd);
+      if (pr >= 1) { ring(x2, y2, 3 + ((t * .1) % 6), col, 1.3, .6 * fd); dot(x2, y2, 2, col, .9 * fd); } }); }
+  function tags() { if (W < 640 || LOW) return; cx.save(); cx.font = "600 9.5px ui-monospace,SFMono-Regular,Consolas,monospace"; cx.textBaseline = "middle"; cx.shadowColor = "#060c1e"; cx.shadowBlur = 3;
+    P.forEach(function (p) { if (!p.tag) return; var up = p.tagi % 2 === 0 ? p.y > 42 : p.y > H - 24; cx.textAlign = "center"; cx.globalAlpha = .95; cx.fillStyle = C.risk[p.lvl]; cx.fillText(p.tag, Math.max(34, Math.min(W - 34, p.x)), p.y + (up ? -1 : 1) * (p.r + 12)); }); cx.restore(); }
 
   /* the partners' coins: gold rim, a soft breathing glow; they never run from the pointer and stop while pointed at */
   function coins() { var rc = CR(); COINS = PART.map(function (p, i) { return { p: p, x: W * (i ? .72 : .3), y: H * (i ? .42 : .55), vx: i ? -.18 : .22, vy: i ? -.07 : .08, ph: i * Math.PI, r: rc }; });
@@ -359,16 +414,23 @@
   /* BAND-55: today's real events - a section badge in the event's risk colour, its countries' flags tied to it by a line,
      a label on the pointer, a link to the event page, and a plain list for screen readers */
   function lvlOf(r) { return r >= 8 ? 3 : r >= 6 ? 2 : r >= 4 ? 1 : 0; }
-  function mkEv() { if (mode !== "news" || !EV.length) return; var r = RR(); P = P.filter(function (p) { return !p.evt && !p.fl; });
+  function mkEv() { mkEv0(); tagTop(); }
+  function mkEv0() { if (mode !== "news" || !EV.length) return; var r = RR(); P = P.filter(function (p) { return !p.evt && !p.fl; });
     P = P.slice(0, Math.round(P.length * .55));                           /* room for the real events: fewer generic symbols */
-    EV.slice(0, count(90, 6, 12)).forEach(function (e, i) {
+    var placed = []; EV.slice(0, count(90, 6, 12)).forEach(function (e, i) {
       var p = { x: rnd(24, W - 24), y: rnd(18, H - 18), vx: rnd(.14, .3) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), evt: e, lvl: lvlOf(e.r), k: String(e.c), r: r + 3, src: 40 + i, ev: 0 };
-      P.push(p);
+      P.push(p); var h = homeOf(e, p, placed); if (h) { p.home = h; p.fixed = true; p.x = h.x; p.y = h.y; } if (e.g && e.g[1]) p.g2 = ll(e.g[1]);
       (e.f || []).forEach(function (f, j) { P.push({ x: p.x + rnd(-40, 40), y: rnd(18, H - 18), vx: rnd(.14, .3) * (Math.random() < .5 ? 1 : -1), vy: rnd(-.1, .1),
         k: "f:" + f, fl: p, r: r - 1, src: 80 + i * 2 + j, ev: 0 }); }); }); }
   function tie(f) { var e = f.fl, dx = e.x - f.x, dy = e.y - f.y, d = Math.hypot(dx, dy) || 1; if (d > 78) { f.x += dx / d * .25; f.y += dy / d * .25; }
     line(f, e, C.risk[e.lvl], 1.2, Math.max(.12, .55 * (1 - d / 160))); }
+  function glow(x, y, R, col, al) { if (!isFinite(x + y + R)) return; cx.save(); cx.globalCompositeOperation = "lighter"; cx.globalAlpha = al; var g = cx.createRadialGradient(x, y, 0, x, y, R); g.addColorStop(0, col); g.addColorStop(1, "rgba(0,0,0,0)");
+    cx.fillStyle = g; cx.beginPath(); cx.arc(x, y, R, 0, 6.2832); cx.fill(); cx.restore(); }
+  function hud(x, y, r, col, seed, lvl) { var a = (still ? seed : t * (.018 + lvl * .01) + seed) % 6.2832; cx.lineCap = "round"; ring(x, y, r, col, .8, .22);
+    cx.globalAlpha = .9; cx.lineWidth = 1.5; cx.strokeStyle = col; cx.beginPath(); cx.arc(x, y, r, a, a + 1.0); cx.stroke(); cx.beginPath(); cx.arc(x, y, r, a + 3.1416, a + 3.1416 + .55); cx.stroke(); cx.lineCap = "butt"; }
   function drawEvt(p) { var col = C.risk[p.lvl], ph = ((t + p.src * 17) % 100) / 100, hot = HOT && HOT.p === p;
+    glow(p.x, p.y, p.r * 2.6, col, .26 + .1 * p.lvl + (still ? 0 : .06 * Math.sin(t / 18 + p.src))); if (p.lvl >= 3) { hex(p.x, p.y, p.r + 7, col, still ? 0 : t * .008); hud(p.x, p.y, p.r + 3, col, p.src, 2); } else if (p.lvl === 2) { brackets(p.x, p.y, p.r + 6, col); hud(p.x, p.y, p.r + 3.5, col, p.src, 2); } else hud(p.x, p.y, p.r + 4.5, col, p.src, p.lvl);
+    scan(p, col, p.r);
     if (p.lvl >= 2 || hot) ring(p.x, p.y, p.r + 3 + ph * 11, col, 1.4, (hot ? .7 : .38) * (1 - ph));
     put(evsym(p.k, col, p.r), p.x, p.y, p.r, 1); if (hot) ring(p.x, p.y, p.r + 3, C.gold, 2, 1); }
   function drawFl(p) { var hot = HOT && (HOT.p === p || HOT.p === p.fl); put(sym(p.k, p.r), p.x, p.y, p.r, hot ? 1 : .95); }
@@ -388,106 +450,138 @@
     nav.setAttribute("aria-label", TOPL[lg] || TOPL.en); var ul = document.createElement("ul");
     EV.forEach(function (e) { var li = document.createElement("li"), a = document.createElement("a"); a.href = evUrl(e); a.lang = "en"; a.textContent = e.t; li.appendChild(a); ul.appendChild(li); });
     nav.appendChild(ul); box.parentNode.insertBefore(nav, box.nextSibling); }
-  function loadEv() { if (!window.fetch || (mode !== "news" && mode !== "graph")) return; var tk = document.getElementById("ticker"); PRE = root + (tk ? tk.getAttribute("data-prefix") || "" : "");
+  function loadEv() { if (!window.fetch || (mode !== "news" && mode !== "graph" && mode !== "pins" && mode !== "sea")) return; var tk = document.getElementById("ticker"); PRE = root + (tk ? tk.getAttribute("data-prefix") || "" : "");
     try { fetch(root + "assets/band.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (!j || !j.ev || !j.ev.length) return;
-      EV = j.ev; NAMES = (j.names || {})[document.documentElement.lang || "en"] || (j.names || {}).en || {}; if (W > 60) { mkEv(); } focusLine(); a11y(); }).catch(function () {}); } catch (e) {} }
+      if (j.m) geoInit(j.m, j.r || [75, -57]); EV = j.ev; NAMES = (j.names || {})[document.documentElement.lang || "en"] || (j.names || {}).en || {}; CO = j.co || null; if (W > 60) { mkEv(); } focusLine(); if (mode === "news" || mode === "graph") a11y(); if (mode === "pins" && CO && W > 60) { setup(); start(); } }).catch(function () {}); } catch (e) {} }
 
   var M = {
     /* reports from different newsrooms meet and become a verified event: its section icon flashes in its risk colour (sometimes the owl) */
     news: { init: function () { var K = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].concat(crypto(), FLK); P = [];
         for (var i = 0, n = count(38, 12, 40); i < n; i++) P.push({ x: (i + Math.random()) / n * W, y: rnd(14, H - 14), vx: (rnd(.12, .32) * (i % 2 ? 1 : -1)), vy: rnd(-.13, .13), src: i % 5, ev: 0, k: K[i % K.length] }); },
-      step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); if (p.fl) tie(p); });
+      step: function () { var r = RR(); P.forEach(function (p) { if (p.home) { p.x = p.home.x + (still ? 0 : Math.sin(t / 60 + p.src) * 3); p.y = p.home.y + (still ? 0 : Math.cos(t / 75 + p.src) * 2.5); } else drift(p, 1, 12); if (p.fl) tie(p); });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j], d = Math.hypot(a.x - b.x, a.y - b.y);
-          if (d < 84 && a.src !== b.src && !a.evt && !b.evt && !a.fl && !b.fl) { line(a, b, C.gold, 1, (1 - d / 84) * .5);
+          if (d < 84 && a.src !== b.src && !a.evt && !b.evt && !a.fl && !b.fl) { line(a, b, C.gold, 1, (1 - d / 84) * .6); var f = (t * .022 + i * .37 + j * .11) % 1; dot(a.x + (b.x - a.x) * f, a.y + (b.y - a.y) * f, 1.9, "#FFF1C9", .95);
             if (d < 24 && !a.ev && !b.ev) { a.ev = b.ev = 110; a.lvl = b.lvl = (Math.random() * 4) | 0; a.cat = b.cat = String(1 + ((Math.random() * 10) | 0)); a.owl = b.owl = Math.random() < .18;
               if (EV.length) { var re = pick(EV); a.cat = b.cat = String(re.c); a.lvl = b.lvl = lvlOf(re.r); a.evref = b.evref = re; a.owl = b.owl = false; } } } }
-        P.forEach(function (p) { if (p.evt) { drawEvt(p); return; } if (p.fl) { drawFl(p); return; } if (p.ev) { p.ev--; var k = p.ev / 110, col = C.risk[p.lvl]; ring(p.x, p.y, r + 4 + (1 - k) * 28, col, 2, .32 * k);
+        arcs(); P.forEach(function (p) { if (p.evt) { drawEvt(p); return; } if (p.fl) { drawFl(p); return; } if (p.ev) { p.ev--; var k = p.ev / 110, col = C.risk[p.lvl]; ring(p.x, p.y, r + 4 + (1 - k) * 28, col, 2, .32 * k);
             if (p.owl) owl(p.x, p.y, r + 2, col); else put(evsym(p.cat, col, r + 2), p.x, p.y, r + 2); }
-          else put(sym(p.k, r), p.x, p.y, r, .92); }); } },
-    /* the day's stories settle into two rows, like a briefing being written */
+          else { ring(p.x, p.y, r + 2.6, C.gold, .8, .24); put(sym(p.k, r), p.x, p.y, r, .95); scan(p, C.gold, r); } }); tags(); ticker(); } },
+    /* BAND-58: the day's stories as glass cards on a briefing board; a scan line passes over them and stamps each with its risk colour */
     brief: { init: function () { var cols = Math.max(4, Math.round(W / 150)); X = { cols: cols }; P = [];
         for (var i = 0; i < cols * 2; i++) P.push({ tx: (i % cols + .5) * W / cols, ty: i < cols ? H * .33 : H * .7, x: rnd(0, W), y: rnd(0, H), k: String(1 + (i % 10)), lvl: (Math.random() * 4) | 0, d: i * 14 }); },
-      step: function () { var r = RR(), cw = W / X.cols; cx.globalAlpha = .25; cx.fillStyle = C.rule; cx.fillRect(0, H * .33, W, 1); cx.fillRect(0, H * .7, W, 1);
-        P.forEach(function (p) { if (p.d > 0) { p.d--; return; } p.x += (p.tx - p.x) * .04; p.y += (p.ty - p.y) * .04; var done = Math.hypot(p.tx - p.x, p.ty - p.y) < 1;
+      step: function () { var r = RR(), cw = W / X.cols, ch = 30, sx = still ? W * 2 : (t * 1.7) % (W + 140) - 70;
+        P.forEach(function (p) { if (p.d > 0) { p.d--; return; } p.x += (p.tx - p.x) * .04; p.y += (p.ty - p.y) * .04; var done = Math.hypot(p.tx - p.x, p.ty - p.y) < 1, col = C.risk[p.lvl];
           if (done && Math.random() < .002) { p.x = rnd(0, W); p.y = -20; p.k = String(1 + ((Math.random() * 10) | 0)); p.lvl = (Math.random() * 4) | 0; }
-          if (done) { cx.globalAlpha = .35; cx.fillStyle = C.muted; cx.fillRect(p.x + r + 6, p.y - 3, Math.max(0, Math.min(90, cw - r * 2 - 24)), 2.4); cx.fillRect(p.x + r + 6, p.y + 2, Math.max(0, Math.min(56, cw - r * 2 - 40)), 2); }
-          put(done ? evsym(p.k, C.risk[p.lvl], r) : sym(p.k, r), p.x, p.y, r, done ? 1 : .7); }); } },
-    /* events (section icons in risk colours) linked to the countries they touch and the newsrooms that report them */
+          if (done) { var x0 = p.x - r - 7, cwid = Math.max(60, cw - 20); cx.globalAlpha = 1; rr(x0, p.y - ch / 2, cwid, ch, 6); cx.fillStyle = "rgba(226,194,127,.07)"; cx.fill(); cx.lineWidth = 1; cx.strokeStyle = "rgba(226,194,127,.3)"; cx.stroke();
+            if (sx > x0) { cx.globalAlpha = .95; cx.fillStyle = col; cx.fillRect(x0, p.y - ch / 2 + 4, 3, ch - 8); glow(x0 + 1, p.y, 16, col, .22); }
+            cx.globalAlpha = .38; cx.fillStyle = "#BFD0FF"; cx.fillRect(p.x + r + 6, p.y - 5, Math.max(0, Math.min(90, cwid - r * 2 - 22)), 2.4); cx.fillRect(p.x + r + 6, p.y + 1.5, Math.max(0, Math.min(56, cwid - r * 2 - 40)), 2); }
+          put(done ? evsym(p.k, col, r) : sym(p.k, r), p.x, p.y, r, done ? 1 : .7); });
+        if (!still) { cx.save(); cx.globalCompositeOperation = "lighter"; var g = cx.createLinearGradient(sx - 46, 0, sx, 0); g.addColorStop(0, "rgba(226,194,127,0)"); g.addColorStop(1, "rgba(226,194,127,.28)"); cx.fillStyle = g; cx.fillRect(sx - 46, 0, 46, H); cx.globalAlpha = .7; cx.fillStyle = "#FFF1C9"; cx.fillRect(sx, 0, 1.2, H); cx.restore(); } } },
+    /* a neural network: events are bright cores, countries and newsrooms the satellites, signals run along the links */
     graph: { init: function () { P = []; for (var i = 0, n = count(42, 12, 36); i < n; i++) { var k = i % 3;
-          P.push({ x: (i + Math.random()) / n * W, y: rnd(12, H - 12), vx: rnd(.1, .25) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), t: k, k: k === 0 ? String(1 + (i % 10)) : k === 1 ? pick(FLK) : "", lvl: (Math.random() * 4) | 0 }); } },
+          P.push({ x: (i + Math.random()) / n * W, y: rnd(12, H - 12), vx: rnd(.1, .25) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), t: k, k: k === 0 ? String(1 + (i % 10)) : k === 1 ? pick(FLK) : "", lvl: (Math.random() * 4) | 0, src: i }); } },
       step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j]; if ((a.t === 0) === (b.t === 0)) continue;
-          var d = Math.hypot(a.x - b.x, a.y - b.y); if (d < 100) line(a, b, a.t === 0 ? C.risk[a.lvl] : C.risk[b.lvl], 1.2, (1 - d / 100) * .55); }
-        P.forEach(function (p) { if (p.t === 0) put(evsym(p.k, C.risk[p.lvl], r + 1), p.x, p.y, r + 1); else if (p.t === 1) put(sym(p.k, r - 1), p.x, p.y, r - 1); else dot(p.x, p.y, 3, C.ink, .85); }); } },
-    /* flag pins drop on a map grid, light up and pass the light to their neighbours */
-    pins: { init: function () { P = []; for (var i = 0, n = count(60, 8, 26); i < n; i++) P.push({ x: rnd(14, W - 14), y: rnd(H * .52, H - 8), z: 0, d: i * 10 + rnd(0, 40), lit: 0, k: pick(FLK) }); },
-      step: function () { var r = RR(); cx.globalAlpha = .16; cx.fillStyle = C.rule; for (var gx = 0; gx < W; gx += 28) cx.fillRect(gx, 0, 1, H); for (var gy = 0; gy < H; gy += 28) cx.fillRect(0, gy, W, 1);
+          var d = Math.hypot(a.x - b.x, a.y - b.y); if (d < 100) { var col = a.t === 0 ? C.risk[a.lvl] : C.risk[b.lvl]; line(a, b, col, 1.2, (1 - d / 100) * .6);
+            var f = (t * .02 + i * .31 + j * .17) % 1; dot(a.x + (b.x - a.x) * f, a.y + (b.y - a.y) * f, 1.8, "#E9FBFF", .9 * (1 - d / 140)); } }
+        P.forEach(function (p) { if (p.t === 0) { var col = C.risk[p.lvl]; glow(p.x, p.y, (r + 1) * 2.7, col, .3); hud(p.x, p.y, r + 4, col, p.src, p.lvl); put(evsym(p.k, col, r + 1), p.x, p.y, r + 1); }
+          else if (p.t === 1) put(sym(p.k, r - 1), p.x, p.y, r - 1); else { ring(p.x, p.y, 5, C.acc, .8, .28 + (still ? 0 : .12 * Math.sin(t / 15 + p.src))); dot(p.x, p.y, 2.6, C.acc, .95); } }); } },
+    /* flag pins stand where their country is on the dotted world; the light passes from one to its neighbours */
+    pins: { init: function () { P = []; var r = RR();
+        if (CO) { var list = [], seen = {}, risk = {}; EV.forEach(function (e) { (e.f || []).forEach(function (c) { if (!seen[c]) { seen[c] = 1; list.push(c); } risk[c] = Math.max(risk[c] || 0, e.r); }); });
+          FLAGS.forEach(function (c) { if (!seen[c]) { seen[c] = 1; list.push(c); } }); var max = count(60, 8, 26);
+          list.forEach(function (c) { if (P.length >= max || !CO[c]) return; var h = ll(CO[c]); if (P.some(function (q) { return Math.hypot(q.x - h.x, q.y - h.y) < r * 2 + 4; })) return;
+            P.push({ x: h.x, y: h.y, z: 0, d: P.length * 8 + rnd(0, 30), lit: 0, k: "f:" + c, lvl: risk[c] != null ? lvlOf(risk[c]) : -1 }); }); }
+        else for (var i = 0, n = count(60, 8, 26); i < n; i++) P.push({ x: rnd(14, W - 14), y: rnd(H * .3, H - 14), z: 0, d: i * 10 + rnd(0, 40), lit: 0, k: pick(FLK), lvl: -1 }); },
+      step: function () { var r = RR();
         P.forEach(function (p) { if (p.d > 0) { p.d--; return; } p.z = Math.min(1, p.z + .05); if (Math.random() < .004) p.lit = 70; if (p.lit) p.lit--; });
         for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j]; if (!a.z || !b.z) continue; var d = Math.hypot(a.x - b.x, a.y - b.y);
-          if (d < 120 && (a.lit || b.lit)) { line(a, b, C.gold, 1.2, .5 * (1 - d / 120)); if (a.lit > 35 && !b.lit) b.lit = 45; } }
-        P.forEach(function (q) { if (!q.z) return; var y = q.y - (1 - q.z) * 40, hy = y - r - 8; if (q.lit) ring(q.x, q.y, 16 - q.lit / 6, C.gold, 1.5, .35 * q.lit / 70);
-          cx.globalAlpha = q.z; cx.beginPath(); cx.moveTo(q.x, y); cx.lineTo(q.x - 4, hy + r * .6); cx.lineTo(q.x + 4, hy + r * .6); cx.closePath(); cx.fillStyle = q.lit ? C.gold : C.muted; cx.fill();
-          put(sym(q.k, r), q.x, hy, r, q.z); if (q.lit) ring(q.x, hy, r + 2, C.gold, 2, q.z); }); } },
-    /* ships sail between flagged ports and steer around a hazard */
-    sea: { init: function () { var n = Math.max(4, Math.min(8, Math.round(W / 160))); X = { ports: [], ships: [], hz: { x: W * rnd(.38, .62), y: H * .5, ph: 0 } };
-        for (var i = 0; i < n; i++) X.ports.push({ x: (i + .5) * W / n + rnd(-20, 20), y: i % 2 ? H * .24 : H * .76, k: FLK[i % FLK.length] });
-        for (i = 0; i < n + 2; i++) { var a = (Math.random() * n) | 0; X.ships.push({ a: a, b: (a + 1 + ((Math.random() * (n - 1)) | 0)) % n, s: Math.random(), v: rnd(.0015, .0035) }); } },
-      step: function () { var r = RR(); cx.strokeStyle = C.gold; cx.lineWidth = 1;
-        for (var w = 0; w < 3; w++) { cx.globalAlpha = .2; cx.beginPath(); for (var x = 0; x <= W; x += 8) { var y = H * (.3 + w * .2) + Math.sin(x / 40 + t / 30 + w) * 3; if (x) cx.lineTo(x, y); else cx.moveTo(x, y); } cx.stroke(); }
-        var hz = X.hz; hz.ph = (hz.ph + 1) % 120; ring(hz.x, hz.y, 6 + hz.ph / 3, C.risk[3], 2, .45 * (1 - hz.ph / 120)); put(evsym("10", C.risk[3], r), hz.x, hz.y, r);
-        X.ports.forEach(function (p) { put(sym(p.k, r - 1), p.x, p.y, r - 1); });
-        X.ships.forEach(function (s) { s.s += s.v; if (s.s >= 1) { s.a = s.b; s.b = (s.b + 1 + ((Math.random() * (X.ports.length - 1)) | 0)) % X.ports.length; s.s = 0; }
-          var A = X.ports[s.a], B = X.ports[s.b], x = A.x + (B.x - A.x) * s.s, y = A.y + (B.y - A.y) * s.s, dx = x - hz.x, dy = y - hz.y, d = Math.hypot(dx, dy) || 1;
-          if (d < 40) { x += dx / d * (40 - d); y += dy / d * (40 - d); }
-          line(A, { x: x, y: y }, C.gold, 1, .22); put(d < 46 ? evsym("ship", C.risk[2], r - 1) : sym("ship", r - 1), x, y, r - 1); }); } },
-    /* a radar sweep lights up the topics it passes, each in its risk colour */
+          if (d < 140 && (a.lit || b.lit)) { line(a, b, C.acc, 1.2, .55 * (1 - d / 140)); if (a.lit > 35 && !b.lit) b.lit = 45; } }
+        P.forEach(function (q) { if (!q.z) return; var col = q.lvl >= 0 ? C.risk[q.lvl] : C.acc, y = q.y - (1 - q.z) * 30;
+          glow(q.x, y, r * 2.3, col, (q.lvl >= 0 ? .34 : .16) * q.z + (q.lit ? .25 : 0));
+          cx.globalAlpha = q.z * .8; cx.beginPath(); cx.ellipse(q.x, y + r + 4, r * .8, 2.2, 0, 0, 6.2832); cx.strokeStyle = col; cx.lineWidth = 1.2; cx.stroke();
+          cx.beginPath(); cx.moveTo(q.x - 3, y + r - 1); cx.lineTo(q.x + 3, y + r - 1); cx.lineTo(q.x, y + r + 4); cx.closePath(); cx.fillStyle = col; cx.fill();
+          if (q.lit) ring(q.x, y, 14 - q.lit / 7 + r * .6, col, 1.5, .5 * q.lit / 70);
+          put(sym(q.k, r), q.x, y, r, q.z); if (q.lit || q.lvl >= 2) ring(q.x, y, r + 2.2, col, 1.6, q.z * (q.lit ? 1 : .6)); }); } },
+    /* shipping lanes on the dotted world; the gates pulse, ships leave light trails and slow down near a hazard */
+    sea: { init: function () { var G = { mal: [2.5, 101.5], suez: [30, 32.5], bab: [12.6, 43.3], hor: [26.5, 56.3], gib: [36, -5.6], bos: [41.1, 29.1], pan: [9.1, -79.7], cape: [-34.4, 18.5] },
+          NM = { mal: "MALACCA", suez: "SUEZ", bab: "BAB EL-MANDEB", hor: "HORMUZ", gib: "GIBRALTAR", bos: "BOSPORUS", pan: "PANAMA", cape: "CAPE" },
+          RT = [[[31.2, 121.5], G.mal, [6.9, 79.8], G.bab, G.suez, [35.2, 20], G.gib, [51.9, 4.1]], [[26.7, 50.2], G.hor, [19, 72.8]], [[33.7, -118.3], [10, -90], G.pan, [15, -70], [40.6, -74]],
+            [[51.9, 4.1], [46, -25], [40.6, -74]], [[36.5, 28], G.bos, [46.5, 30.7]], [[51.9, 4.1], G.gib, [5, -15], G.cape, [-15, 60], G.mal]];
+        X = { gates: [], routes: [], ships: [], hz: 0 }; Object.keys(G).forEach(function (k) { var h = ll(G[k]); X.gates.push({ k: k, x: h.x, y: h.y, nm: NM[k], ph: rnd(0, 100) }); });
+        RT.forEach(function (rt) { var pts = rt.map(function (q) { return ll(q); }), cum = [0]; for (var i = 1; i < pts.length; i++) cum.push(cum[i - 1] + Math.hypot(pts[i].x - pts[i - 1].x, pts[i].y - pts[i - 1].y)); X.routes.push({ pts: pts, cum: cum, len: cum[cum.length - 1] }); });
+        var n = W < 640 ? 10 : 20; for (var i = 0; i < n; i++) X.ships.push({ r: i % X.routes.length, s: Math.random(), v: rnd(.7, 1.3), tr: [] }); },
+      step: function () { var hzk = ["bab", "hor", "suez", "bos"][((t / 900) | 0) % 4]; cx.save(); cx.setLineDash([2, 5]); cx.lineWidth = 1; cx.strokeStyle = C.acc; cx.globalAlpha = .16;
+        X.routes.forEach(function (rt) { cx.beginPath(); rt.pts.forEach(function (q, i) { if (i) cx.lineTo(q.x, q.y); else cx.moveTo(q.x, q.y); }); cx.stroke(); }); cx.restore();
+        var hz = null; X.gates.forEach(function (g) { if (g.k === hzk) hz = g; });
+        X.gates.forEach(function (g) { g.ph = (g.ph + .9) % 100; var bad = g === hz, col = bad ? C.risk[3] : C.acc; ring(g.x, g.y, 3 + g.ph / 9, col, 1.4, (bad ? .7 : .4) * (1 - g.ph / 100)); dot(g.x, g.y, 2.4, col, .95); glow(g.x, g.y, bad ? 22 : 13, col, bad ? .45 : .25); });
+        X.ships.forEach(function (sh) { var rt = X.routes[sh.r], v = sh.v, near = false; if (hz && Math.hypot(sh.x - hz.x, sh.y - hz.y) < 38) { v *= .35; near = true; }
+          sh.s += v * .00085 * (900 / rt.len + .4); if (sh.s >= 1) { sh.s = 0; sh.tr = []; } var d = sh.s * rt.len, k = 1; while (k < rt.cum.length - 1 && rt.cum[k] < d) k++;
+          var A = rt.pts[k - 1], B = rt.pts[k], u = (d - rt.cum[k - 1]) / ((rt.cum[k] - rt.cum[k - 1]) || 1); sh.x = A.x + (B.x - A.x) * u; sh.y = A.y + (B.y - A.y) * u; sh.a = Math.atan2(B.y - A.y, B.x - A.x);
+          sh.tr.push({ x: sh.x, y: sh.y }); if (sh.tr.length > 18) sh.tr.shift(); var col = near ? C.risk[1] : "#B8FFF2";
+          cx.save(); cx.globalCompositeOperation = "lighter"; cx.lineWidth = 1.6; cx.strokeStyle = near ? C.risk[1] : C.acc; for (var q = 1; q < sh.tr.length; q++) { cx.globalAlpha = .55 * q / sh.tr.length; cx.beginPath(); cx.moveTo(sh.tr[q - 1].x, sh.tr[q - 1].y); cx.lineTo(sh.tr[q].x, sh.tr[q].y); cx.stroke(); } cx.restore();
+          glow(sh.x, sh.y, 8, near ? C.risk[1] : C.acc, .5); cx.save(); cx.translate(sh.x, sh.y); cx.rotate(sh.a); cx.globalAlpha = 1; cx.fillStyle = col; cx.beginPath(); cx.moveTo(5, 0); cx.lineTo(-3.5, -3); cx.lineTo(-2, 0); cx.lineTo(-3.5, 3); cx.closePath(); cx.fill(); cx.restore(); });
+        if (W >= 640) { cx.save(); cx.font = "600 8.5px ui-monospace,SFMono-Regular,Consolas,monospace"; cx.textAlign = "center"; cx.textBaseline = "middle"; cx.shadowColor = "#060c1e"; cx.shadowBlur = 3; cx.fillStyle = "#BFEFE6"; cx.globalAlpha = .75;
+          X.gates.forEach(function (g) { cx.fillText(g.nm, g.x, g.y + (g.y > H - 22 ? -10 : 10)); }); cx.restore(); } } },
+    /* a polar radar: the sweep leaves an afterglow, topics light up in their risk colour, and a new one pings in now and then */
     radar: { init: function () { P = []; X = { cx: W * .5, cy: H * 1.15, R: Math.max(W * .62, H * 2) };
         for (var i = 0, n = count(45, 10, 30); i < n; i++) { var x = rnd(14, W - 14), y = rnd(14, H - 14), a = Math.atan2(y - X.cy, x - X.cx); if (a < 0) a += 6.2832;
-          P.push({ x: x, y: y, ang: a, k: String(1 + (i % 10)), lit: 0, lvl: (Math.random() * 4) | 0 }); } },
+          P.push({ x: x, y: y, ang: a, k: String(1 + (i % 10)), lit: 0, lvl: (Math.random() * 4) | 0, born: -99 }); } },
       step: function () { var r = RR(), sw = Math.PI + ((t * .012) % Math.PI);
-        for (var k = 1; k <= 4; k++) ring(X.cx, X.cy, X.R * k / 4, C.rule, 1, .5);
-        for (var s = 0; s < 14; s++) { var a = sw - s * .02; line({ x: X.cx, y: X.cy }, { x: X.cx + Math.cos(a) * X.R, y: X.cy + Math.sin(a) * X.R }, C.gold, 2, .35 * (1 - s / 14)); }
-        P.forEach(function (p) { if (Math.abs(p.ang - sw) < .03) p.lit = 55; if (p.lit) p.lit--; var l = p.lit / 55;
-          if (p.lit) ring(p.x, p.y, r + 3 + (1 - l) * 14, C.risk[p.lvl], 1.6, .4 * l); put(p.lit ? evsym(p.k, C.risk[p.lvl], r) : sym(p.k, r), p.x, p.y, r, .45 + .55 * l); }); } },
-    /* signals and official warnings: beacons pulse - the higher the level, the faster and redder */
-    beacons: { init: function () { P = []; for (var i = 0, n = count(80, 6, 18); i < n; i++) P.push({ x: (i + .5) * W / n + rnd(-15, 15), y: rnd(H * .3, H * .75), lvl: (Math.random() * 4) | 0, ph: rnd(0, 120), sp: rnd(.6, 1.4) }); },
-      step: function () { var r = RR();
-        for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j], ra = r + a.ph / 4, rb = r + b.ph / 4, d = Math.hypot(a.x - b.x, a.y - b.y);
-          if (ra + rb > d) { line(a, b, C.gold, 1.6, .3 * (1 - Math.max(a.ph, b.ph) / 120)); dot((a.x + b.x) / 2, (a.y + b.y) / 2, 2.6, C.gold, .7); } }   /* rings overlap: sources agree */
-        P.forEach(function (p) { p.ph = (p.ph + p.sp * (1 + p.lvl * .4)) % 120; var col = C.risk[p.lvl];
-        for (var k = 0; k < 2; k++) { var ph = (p.ph + k * 60) % 120; ring(p.x, p.y, r + ph / 4, col, 1.8, .45 * (1 - ph / 120)); }
-        put(evsym(p.lvl >= 2 ? "10" : "beacon", col, r), p.x, p.y, r); }); } },
-    /* markets in the news: two trend lines (an illustration - never prices) and market symbols that tick up or down as they cross */
+        for (var k = 1; k <= 4; k++) ring(X.cx, X.cy, X.R * k / 4, C.acc, 1, .2);
+        cx.save(); cx.strokeStyle = C.acc; cx.globalAlpha = .28; cx.lineWidth = 1; cx.beginPath(); for (var a = Math.PI; a <= 6.29; a += .1745) { cx.moveTo(X.cx + Math.cos(a) * X.R, X.cy + Math.sin(a) * X.R); cx.lineTo(X.cx + Math.cos(a) * (X.R - 7), X.cy + Math.sin(a) * (X.R - 7)); } cx.stroke(); cx.restore();
+        sweepGlow(X.cx, X.cy, sw, "rgba(183,148,246,"); line({ x: X.cx, y: X.cy }, { x: X.cx + Math.cos(sw) * X.R, y: X.cy + Math.sin(sw) * X.R }, "#EFE6FF", 1.4, .6);
+        if (!still && t % 120 === 0) { var q = pick(P); q.x = rnd(14, W - 14); q.y = rnd(14, H - 14); q.ang = Math.atan2(q.y - X.cy, q.x - X.cx); if (q.ang < 0) q.ang += 6.2832; q.k = String(1 + ((Math.random() * 10) | 0)); q.lvl = (Math.random() * 4) | 0; q.born = t; }
+        P.forEach(function (p) { if (Math.abs(p.ang - sw) < .03) p.lit = 55; if (p.lit) p.lit--; var l = p.lit / 55, nb = Math.min(1, (t - p.born) / 30);
+          if (t - p.born < 40) ring(p.x, p.y, r + (t - p.born) * .7, C.acc, 1.4, .6 * (1 - (t - p.born) / 40));
+          if (p.lit) { ring(p.x, p.y, r + 3 + (1 - l) * 14, C.risk[p.lvl], 1.6, .4 * l); glow(p.x, p.y, r * 2.2, C.risk[p.lvl], .4 * l); }
+          put(p.lit ? evsym(p.k, C.risk[p.lvl], r) : sym(p.k, r), p.x, p.y, r, (.4 + .6 * l) * nb); }); } },
+    /* signals and warnings: an equalizer wall - the higher the level, the taller, faster and redder; two neighbours both high are bridged by a light */
+    beacons: { init: function () { P = []; var n = count(26, 14, 48); for (var i = 0; i < n; i++) P.push({ x: (i + .5) * W / n, lvl: (Math.random() * 4) | 0, ph: rnd(0, 6), sp: rnd(.7, 1.4), pk: 0, lev: 0 }); },
+      step: function () { var n = P.length, bw = Math.max(5, Math.min(11, W / n * .4)), sg = 5, gp = 2, base = H - 8, mx = Math.floor((H - 22) / (sg + gp));
+        P.forEach(function (p, i) { p.ph += p.sp * (1 + p.lvl * .35) * .05; p.lev = Math.max(.08, Math.min(1, .22 + p.lvl * .16 + Math.sin(p.ph) * .22 + Math.sin(p.ph * 2.3 + i) * .08)); var ns = Math.round(p.lev * mx);
+          for (var k = 0; k < ns; k++) { var f = k / mx; cx.globalAlpha = .55 + .4 * f; cx.fillStyle = f > .75 ? C.risk[3] : f > .5 ? C.risk[2] : f > .28 ? C.risk[1] : C.risk[0]; cx.fillRect(p.x - bw / 2, base - (k + 1) * (sg + gp), bw, sg); }
+          p.pk = Math.max(p.pk - .006, p.lev); cx.globalAlpha = .85; cx.fillStyle = "#FFF1C9"; cx.fillRect(p.x - bw / 2, base - p.pk * mx * (sg + gp) - 2, bw, 1.6);
+          if (p.lev > .7) glow(p.x, base - p.lev * mx * (sg + gp), 14, C.risk[3], .35); });
+        for (var i = 0; i < n - 1; i++) { var a = P[i], b = P[i + 1]; if (a.lev > .62 && b.lev > .62) { var ya = base - a.lev * mx * (sg + gp), yb = base - b.lev * mx * (sg + gp);
+          cx.save(); cx.globalCompositeOperation = "lighter"; cx.globalAlpha = .55; cx.lineWidth = 1.4; cx.strokeStyle = C.gold; cx.beginPath(); cx.moveTo(a.x, ya); cx.quadraticCurveTo((a.x + b.x) / 2, Math.min(ya, yb) - 8, b.x, yb); cx.stroke(); cx.restore(); dot((a.x + b.x) / 2, Math.min(ya, yb) - 4, 2, "#fff", .8); } } } },
+    /* markets in the news: two glowing trend lines with a gradient under them (an illustration - never prices), a moving crosshair, and market symbols that tick up or down as they cross */
     markets: { init: function () { var n = Math.max(40, Math.round(W / 8)), vb = .45, ve = .62; X = { b: [], e: [], off: 0 };
         for (var i = 0; i < n; i++) { vb = Math.max(.18, Math.min(.82, vb + rnd(-.035, .035))); ve = Math.max(.18, Math.min(.82, ve + rnd(-.04, .04))); X.b.push(vb); X.e.push(ve); }
         var K = ["etf", "stk", "oil", "gold", "eur", "usd", "2", "6"].concat(crypto(), crypto()); P = [];
         for (i = 0; i < count(60, 8, 22); i++) P.push({ x: (i + Math.random()) / count(60, 8, 22) * W, y: rnd(14, H - 14), vx: rnd(.1, .3) * (i % 2 ? 1 : -1), vy: rnd(-.12, .12), k: K[i % K.length], tick: 0, up: true }); },
       step: function () { var r = RR(), n = X.b.length, dx = W / (n - 1); X.off += .6;
         if (X.off >= dx) { X.off -= dx; X.b.shift(); X.e.shift(); X.b.push(Math.max(.18, Math.min(.82, X.b[n - 2] + rnd(-.035, .035)))); X.e.push(Math.max(.18, Math.min(.82, X.e[n - 2] + rnd(-.04, .04)))); }
-        cx.globalAlpha = .14; cx.fillStyle = C.rule; for (var gy = H * .25; gy < H; gy += H * .25) cx.fillRect(0, gy, W, 1);
-        [[X.b, "#f7931a"], [X.e, "#627eea"]].forEach(function (L) { cx.globalAlpha = .75; cx.beginPath();
-          for (var i = 0; i < n; i++) { var x = i * dx - X.off, y = L[0][i] * H; if (i) cx.lineTo(x, y); else cx.moveTo(x, y); }
-          cx.strokeStyle = L[1]; cx.lineWidth = 2; cx.stroke(); cx.lineTo(W, H); cx.lineTo(0, H); cx.closePath(); cx.globalAlpha = .06; cx.fillStyle = L[1]; cx.fill(); });
+        cx.globalAlpha = .1; cx.fillStyle = "#BFD0FF"; for (var gy = H * .25; gy < H; gy += H * .25) cx.fillRect(0, gy, W, 1); for (var gx = -((X.off * 1) % 40); gx < W; gx += 40) cx.fillRect(gx, 0, 1, H);
+        function path(L) { cx.beginPath(); for (var i = 0; i < n; i++) { var x = i * dx - X.off, y = L[i] * H; if (i) cx.lineTo(x, y); else cx.moveTo(x, y); } }
+        [[X.b, "#f7931a"], [X.e, "#A78BFA"]].forEach(function (L) { path(L[0]); cx.lineTo(W, H); cx.lineTo(0, H); cx.closePath(); var g = cx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, L[1] + "55"); g.addColorStop(1, L[1] + "00"); cx.globalAlpha = 1; cx.fillStyle = g; cx.fill();
+          cx.save(); cx.globalCompositeOperation = "lighter"; path(L[0]); cx.lineWidth = 6; cx.strokeStyle = L[1]; cx.globalAlpha = .16; cx.stroke(); path(L[0]); cx.lineWidth = 1.8; cx.globalAlpha = .95; cx.stroke(); cx.restore(); });
+        var xh = still ? W * .62 : (t * .9) % W, ix = Math.max(0, Math.min(n - 1, Math.round((xh + X.off) / dx)));
+        cx.save(); cx.setLineDash([3, 4]); cx.globalAlpha = .3; cx.strokeStyle = "#E9FBFF"; cx.lineWidth = 1; cx.beginPath(); cx.moveTo(xh, 0); cx.lineTo(xh, H); cx.stroke(); cx.restore();
+        [[X.b, "#f7931a"], [X.e, "#A78BFA"]].forEach(function (L) { var yy = L[0][ix] * H; dot(xh, yy, 3.2, L[1], 1); ring(xh, yy, 6, L[1], 1.2, .6); glow(xh, yy, 14, L[1], .5); });
         P.forEach(function (p) { drift(p, 1, 12); var i = Math.max(0, Math.min(n - 1, Math.round((p.x + X.off) / dx))), above = p.y < X.b[i] * H;
           if (p.prev != null && above !== p.prev && !p.tick) { p.tick = 70; p.up = above; } p.prev = above;
           if (p.tick) { p.tick--; var a = p.tick / 70, col = p.up ? C.up : C.down; cx.globalAlpha = a; cx.font = "700 " + (r * 1.1) + "px system-ui,sans-serif"; cx.textAlign = "center"; cx.fillStyle = col;
-            cx.fillText(p.up ? "▲" : "▼", p.x, p.y - r - 6 - (1 - a) * 10); ring(p.x, p.y, r + 3, col, 1.6, .6 * a); }
+            cx.fillText(p.up ? "▲" : "▼", p.x, p.y - r - 6 - (1 - a) * 10); ring(p.x, p.y, r + 3, col, 1.6, .6 * a); glow(p.x, p.y, r * 2.4, col, .4 * a); }
           put(sym(p.k, r), p.x, p.y, r, .95); }); } },
-    /* an event page: reports stream in from both sides; from the second report on, the event is verified (owl in gold) */
-    event: { init: function () { P = []; for (var i = 0, n = count(36, 10, 40); i < n; i++) P.push(spawn()); P.hits = 0; },
+    /* an event page: reports arrive as beams from both sides; each arrival sends a shock ring; from the second report on the event is verified (owl in gold, sources orbit it) */
+    event: { init: function () { P = []; WAVES = []; for (var i = 0, n = count(36, 10, 40); i < n; i++) P.push(spawn()); P.hits = 0; },
       step: function () { var r0 = RR(), cxp = W / 2, cyp = H / 2, pulse = Math.min(1, P.hits / 2);
-        P.forEach(function (p, i) { p.k += p.v; var x = p.x0 + (cxp - p.x0) * ease(p.k), y = p.y0 + (cyp - p.y0) * ease(p.k);
-          line({ x: p.x0, y: p.y0 }, { x: x, y: y }, C.rule, 1, .25); put(sym(p.s, r0 - 2), x, y, r0 - 2, 1 - p.k * .6); if (p.k >= 1) { P.hits++; P[i] = spawn(); } });
-        var r = r0 + 3 + Math.sin(t / 14) * 1.2 + pulse * 3; ring(cxp, cyp, r + 10 + (t % 60) / 3, C.gold, 2, .25 * pulse);
+        P.forEach(function (p, i) { p.k += p.v; var e1 = ease(p.k), x = p.x0 + (cxp - p.x0) * e1, y = p.y0 + (cyp - p.y0) * e1;
+          cx.save(); cx.globalCompositeOperation = "lighter"; var g = cx.createLinearGradient(p.x0, p.y0, x, y); g.addColorStop(0, "rgba(226,194,127,0)"); g.addColorStop(1, "rgba(226,194,127,.6)"); cx.strokeStyle = g; cx.lineWidth = 1.5; cx.globalAlpha = 1; cx.beginPath(); cx.moveTo(p.x0, p.y0); cx.lineTo(x, y); cx.stroke(); cx.restore();
+          glow(x, y, 12, C.gold, .35); put(sym(p.s, r0 - 2), x, y, r0 - 2, 1 - p.k * .6); if (p.k >= 1) { P.hits++; WAVES.push(t); if (P.hits === 2) { WAVES.push(t + 8); WAVES.push(t + 16); } P[i] = spawn(); } });
+        var r = r0 + 3 + Math.sin(t / 14) * 1.2 + pulse * 3; WAVES = WAVES.filter(function (w) { return t - w < 50; });
+        WAVES.forEach(function (w) { var k = (t - w) / 50; if (k >= 0) ring(cxp, cyp, r + k * 70, C.gold, 2, .5 * (1 - k)); });
+        if (P.hits >= 2) { var N = Math.min(8, P.hits); ring(cxp, cyp, r + 16, C.gold, .8, .2); for (var q = 0; q < N; q++) { var a = (still ? 0 : t * .02) + q * 6.2832 / N; dot(cxp + Math.cos(a) * (r + 16), cyp + Math.sin(a) * (r + 16), 2, C.gold, .85); } }
         if (P.hits >= 2) owl(cxp, cyp, r, C.gold); else dot(cxp, cyp, r, C.muted, 1); } }
   };
   function spawn() { var left = Math.random() < .5; return { x0: left ? rnd(0, W * .3) : rnd(W * .7, W), y0: rnd(10, H - 10), k: 0, v: rnd(.004, .012), s: Math.random() < .5 ? pick(FLK) : String(1 + ((Math.random() * 10) | 0)) }; }
   function ease(k) { return k < 1 ? 1 - Math.pow(1 - k, 2) : 1; }
   var mod = M[mode] || M.news;
-  function space() { if (mode === "brief" || mode === "sea" || mode === "radar" || mode === "pins" || mode === "event") return; var r = RR(), all = [];
+  function space() { if (mode === "beacons" || mode === "brief" || mode === "sea" || mode === "radar" || mode === "pins" || mode === "event") return; var r = RR(), all = [];
     P.forEach(function (p) { if (p.x != null) { p.r = p.r || r; all.push(p); } }); COINS.forEach(function (c) { all.push(c); }); apart(all, 6); }   /* BAND-55: the fixed owl is no obstacle - symbols pass under it (a wall in the middle of a short strip made them pile up against it) */
-  function frame() { if (!on) return; if (LOW && (++FR & 1)) { raf = requestAnimationFrame(frame); return; } t++; seen = Date.now(); LIVE = !touch && seen - mt < 1200; if (HOT && touch && seen - HOTT > 3000) HOT = null; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); if (HOT && HOT.ev) label(HOT.p, HOT.ev); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
-  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; space(); mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
+  function frame() { if (!on) return; if (LOW && (++FR & 1)) { raf = requestAnimationFrame(frame); return; } t++; seen = Date.now(); LIVE = !touch && seen - mt < 1200; if (HOT && touch && seen - HOTT > 3000) HOT = null; cx.setTransform(dpr, 0, 0, dpr, 0, 0); cx.clearRect(0, 0, W, H); space(); back(); mod.step(); if (COINS.length) drawCoins(mode === "news"); if (mode !== "event") drawMark(); if (HOT && HOT.ev) label(HOT.p, HOT.ev); cx.globalAlpha = 1; raf = requestAnimationFrame(frame); }
+  function start() { cancelAnimationFrame(raf); if (still) { for (var i = 0; i < 160; i++) { cx.clearRect(0, 0, W, H); t++; space(); back(); mod.step(); if (COINS.length) drawCoins(mode === "news"); } if (mode !== "event") drawMark(); cx.globalAlpha = 1; return; } raf = requestAnimationFrame(frame); }
   var seen = 0, lastW = 0;
   function setup() { size(); lastW = W; if (W < 60) return; mod.init(); coins(); if (EV.length) mkEv(); }
   /* 31 Oct 2026: the strip is laid out again whenever its own width changes (late layout, zoom, a hidden tab, a rotated phone),

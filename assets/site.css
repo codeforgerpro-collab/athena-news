@@ -587,8 +587,18 @@ button.mtc:hover{box-shadow:0 4px 14px rgba(0,0,0,.12);transform:translateY(-1px
 @media (max-width:760px){.mtpcols{grid-template-columns:1fr}.mtph h2{font-size:23px}}
 
 /* WEB-1.13 help, the living band, the Mind Graph guide */
-.amb{position:relative;height:112px;overflow:hidden;background:linear-gradient(180deg,var(--paper2),transparent);border-bottom:1px solid var(--rule)}
-.amb canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+.amb{position:relative;height:112px;overflow:hidden;box-shadow:inset 0 12px 16px -12px rgba(0,0,0,.55),inset 0 -12px 16px -12px rgba(0,0,0,.55);background:radial-gradient(120% 150% at 50% 130%,#18306a 0%,#0B1630 55%,#060c1e 100%);border-bottom:1px solid #C9A45C;box-shadow:0 1px 14px rgba(201,164,92,.35)}
+.amb::before{content:"";position:absolute;inset:0;pointer-events:none;background-image:linear-gradient(rgba(226,194,127,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(226,194,127,.07) 1px,transparent 1px);background-size:28px 28px;-webkit-mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent);mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent)}
+.amb::after{content:"";position:absolute;top:0;bottom:0;width:26%;left:-30%;pointer-events:none;background:linear-gradient(90deg,transparent,rgba(226,194,127,.14),transparent);animation:ambsweep 9s linear infinite}
+@keyframes ambsweep{to{left:110%}}
+@media (prefers-reduced-motion:reduce){.amb::after{animation:none;opacity:0}}
+.amb[data-mode=graph]{border-bottom-color:#5ED0E6;box-shadow:0 1px 14px rgba(94,208,230,.3)}
+.amb[data-mode=pins]{border-bottom-color:#6EA8FF;box-shadow:0 1px 14px rgba(110,168,255,.3)}
+.amb[data-mode=sea]{border-bottom-color:#2DD4BF;box-shadow:0 1px 14px rgba(45,212,191,.3)}
+.amb[data-mode=radar]{border-bottom-color:#B794F6;box-shadow:0 1px 14px rgba(183,148,246,.3)}
+.amb[data-mode=markets]{border-bottom-color:#34D399;box-shadow:0 1px 14px rgba(52,211,153,.28)}
+.amb[data-mode=beacons]{border-bottom-color:#FF7A3D;box-shadow:0 1px 14px rgba(255,122,61,.3)}
+.amb canvas{position:absolute;inset:0;width:100%;height:100%;display:block;-webkit-mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
 .ambcap{font-size:13.5px;color:var(--muted);margin:6px 0 0;font-style:italic;letter-spacing:.1px}
 .ambfocus{font-style:normal;font-weight:600;color:var(--ink);margin-inline-start:10px}
 .ambl{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
