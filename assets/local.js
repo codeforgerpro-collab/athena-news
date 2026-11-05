@@ -52,6 +52,33 @@
     return '<a class="' + cls + '" href="' + esc(x.u) + '" target="_blank" rel="noopener nofollow"' + (s.mt || s.untranslated ? ' lang="' + esc(s.mt ? I.lang : x.lang) + '"' : "") + ">" + esc(s.t) + "</a>" +
       (s.mt ? '<div class="lcmt">' + (x.q === "fair" ? '<span class="lcq">' + esc(D.tr_rough) + "</span> · " : "") + esc(fill(D.mt, langName(s.mt))) + ' · <span title="' + esc(x.t) + '">' + esc(D.orig) + ": " + '<span lang="' + esc(x.lang) + '">' + esc(x.t) + "</span></span></div>" : "");
   }
+  /* LOCALDESK-1.2: rising in the local press - found in translated headlines, shown only after the double check */
+  function wset(t) { var o = {}; String(t || "").toLowerCase().split(/[^0-9a-z\u00c0-\u024f\u0370-\u03ff\u0400-\u04ff\u0600-\u06ff]+/).forEach(function (w) { if (w.length > 3) o[w] = 1; }); return o; }
+  function sameStory(a, b) {                   /* a story already in Most reported is not repeated under Rising */
+    if (a.u === b.u) return true;
+    var A = wset(a.en || a.t), B = wset(b.en || b.t), n = 0, na = 0, nb = 0, k;
+    for (k in A) { na++; if (B[k]) n++; } for (k in B) nb++;
+    return n >= 3 && n / Math.max(1, Math.min(na, nb)) >= 0.6;
+  }
+  function riseBox(d, name, skip) {
+    var list = (d.rising || []).filter(function (x) { return !(skip || []).some(function (b) { return sameStory(x, b); }); });
+    if (!list.length) return "";
+    return '<section class="lcbox lcrise"><h3>' + esc(fill(D.rise_h, name)) + '</h3><p class="small">' + esc(D.rise_x) + "</p><ol>" +
+        list.map(function (x) {
+          var C = {}; (x.checks || []).forEach(function (c) { C[c.k] = c; });
+          var how = (C.agree || {}).how, st = (C.shown_text || {}).how, b = [];
+          b.push('<span class="ok">' + esc(fill(D.chk_indep, "", x.n)) + "</span>");
+          if (how === "originals") b.push('<span class="ok">' + esc(D.chk_orig) + "</span>");
+          else if (how) b.push('<span class="ok">' + esc(D.chk_anchor) + "</span>");
+          if (x.lang === I.lang) st = null;          /* the reader sees the original headline: no translation to vouch for */
+          if (st === "round trip") b.push('<span class="ok">' + esc(D.chk_rt) + "</span>");
+          else if (st === "second translation") b.push('<span class="ok">' + esc(D.chk_2nd) + "</span>");
+          b.push(x.ev ? '<a href="' + esc(I.base + "event/" + x.ev + ".html") + '">' + esc(D.ev_yes) + " ›</a>" : "<span>" + esc(D.ev_no) + "</span>");
+          var reps = (x.reports || []).map(function (r) { return '<li><a href="' + esc(r.u) + '" target="_blank" rel="noopener nofollow" lang="' + esc(r.lang) + '">' + esc(r.t) + "</a> · " + esc(r.o) + "</li>"; }).join("");
+          return "<li>" + headline(x, "lco") + '<div class="small">' + esc(fill(D.by_n, "", x.n)) + ": " + esc((x.outlets || []).join(", ")) + " · " + esc(fill(D.rise_since, ago(x.first))) + "</div>" +
+            '<div class="lcchk">' + b.join("") + "</div>" + (reps ? '<details class="lcrep"><summary>' + esc(D.rise_orig) + "</summary><ul>" + reps + "</ul></details>" : "") + "</li>";
+        }).join("") + "</ol></section>";
+  }
   function render(iso, d) {
     var name = I.names[iso][0], E = I.embed, h = E ? "" : "<h2>" + esc(name) + "</h2>";
     h += '<p class="lcsrc">' + esc(fill(I.sources, name, d.sources || 0)) + "</p>";
@@ -66,27 +93,14 @@
     if (!E) h += '<section class="lcbox"><h3>' + esc(D.risk_h) + "</h3>" + rk + "</section>";   /* a country page has its own */
     /* 28 Oct: Most reported - on a country page at its top (#mostrep), in the finder here */
     var mr = E ? document.getElementById("mostrep") : null;
+    var RISEBOX = riseBox(d, name, mr && (d.brief || []).length ? d.brief.slice(0, 5) : []);
     if (mr && (d.brief || []).length) {
       mr.innerHTML = "<h2 class=\"ci-reg\">" + esc(fill(D.mr_h, name)) + '</h2><p class="small">' + esc(fill(D.mr_x, name)) + '</p><ol class="num lcbr mrl">' +
-        d.brief.slice(0, 3).map(function (b) { return "<li><div>" + headline(b, "lco") + '<div class="small"><b>' + esc(fill(D.mr_n, "", b.n)) + "</b>: " + esc((b.outlets || []).join(", ")) + " · " + esc(ago(b.ts)) + "</div></div></li>"; }).join("") + "</ol>";
+        d.brief.slice(0, 5).map(function (b) { return "<li><div>" + headline(b, "lco") + '<div class="small"><b>' + esc(fill(D.mr_n, "", b.n)) + "</b>: " + esc((b.outlets || []).join(", ")) + " · " + esc(ago(b.ts)) + "</div></div></li>"; }).join("") + "</ol>" +
+        RISEBOX + ((d.heads || []).length ? '<p class="lcall"><a href="#lcall">' + esc(fill(D.see_all, name, (d.heads || []).filter(function (x) { return x.sec !== "sport"; }).length)) + "</a></p>" : "");
       mr.hidden = false;
     }
-    /* LOCALDESK-1.2: rising in the local press - found in translated headlines, shown only after the double check */
-    if ((d.rising || []).length) h += '<section class="lcbox lcrise"><h3>' + esc(fill(D.rise_h, name)) + '</h3><p class="small">' + esc(D.rise_x) + "</p><ol>" +
-      d.rising.map(function (x) {
-        var C = {}; (x.checks || []).forEach(function (c) { C[c.k] = c; });
-        var how = (C.agree || {}).how, st = (C.shown_text || {}).how, b = [];
-        b.push('<span class="ok">' + esc(fill(D.chk_indep, "", x.n)) + "</span>");
-        if (how === "originals") b.push('<span class="ok">' + esc(D.chk_orig) + "</span>");
-        else if (how) b.push('<span class="ok">' + esc(D.chk_anchor) + "</span>");
-        if (x.lang === I.lang) st = null;          /* the reader sees the original headline: no translation to vouch for */
-        if (st === "round trip") b.push('<span class="ok">' + esc(D.chk_rt) + "</span>");
-        else if (st === "second translation") b.push('<span class="ok">' + esc(D.chk_2nd) + "</span>");
-        b.push(x.ev ? '<a href="' + esc(I.base + "event/" + x.ev + ".html") + '">' + esc(D.ev_yes) + " ›</a>" : "<span>" + esc(D.ev_no) + "</span>");
-        var reps = (x.reports || []).map(function (r) { return '<li><a href="' + esc(r.u) + '" target="_blank" rel="noopener nofollow" lang="' + esc(r.lang) + '">' + esc(r.t) + "</a> · " + esc(r.o) + "</li>"; }).join("");
-        return "<li>" + headline(x, "lco") + '<div class="small">' + esc(fill(D.by_n, "", x.n)) + ": " + esc((x.outlets || []).join(", ")) + " · " + esc(fill(D.rise_since, ago(x.first))) + "</div>" +
-          '<div class="lcchk">' + b.join("") + "</div>" + (reps ? '<details class="lcrep"><summary>' + esc(D.rise_orig) + "</summary><ul>" + reps + "</ul></details>" : "") + "</li>";
-      }).join("") + "</ol></section>";
+    if (RISEBOX && !(mr && (d.brief || []).length)) h += RISEBOX;   /* the finder: in its place (a country page shows it under Most reported) */
     /* (c) today's brief */
     if (!mr && (d.brief || []).length) h += '<section class="lcbox"><h3>' + esc(D.brief_h) + '</h3><p class="small">' + esc(D.brief_x) + '</p><ol class="num lcbr">' +
       d.brief.map(function (b) { return "<li><div>" + headline(b, "lco") + '<div class="small">' + esc(fill(D.by_n, "", b.n)) + ": " + esc(b.outlets.join(", ")) + " · " + esc(ago(b.ts)) + "</div></div></li>"; }).join("") + "</ol></section>";
@@ -100,7 +114,7 @@
         '<div class="small">' + esc(I.risk) + " " + Number(x.r).toFixed(1) + " · " + x.n + " " + esc(I.outlets) + " · " + esc(ago(x.ts)) + "</div></div></li>";
     }).join("") + "</ol>" : '<p class="small">' + esc(fill(I.ev_none, name)) + "</p>";
     /* the country's newsrooms - latest headlines */
-    h += "<h3>" + esc(fill(I.heads_h, name)) + "</h3>";
+    h += '<h3 id="lcall">' + esc(fill(I.heads_h, name)) + "</h3>";
     if ((d.newsrooms || []).length && d.translated === false) h += '<p class="small">' + esc(D.tr_off) + "</p>";
     /* LOCALDESK-1.1: section chips - All (everything but sport & culture), then each section that has headlines */
     var SN = d.sec_n || {}, SL = D.secs || {}, order = ["politics", "economy", "society", "energy", "tech", "regions", "official", "sport"];
