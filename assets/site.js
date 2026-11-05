@@ -135,21 +135,43 @@
       if(document.activeElement===q)suggest();}).catch(function(){});}
     function close(){ul.hidden=true;ul.innerHTML="";sel=-1;q.setAttribute("aria-expanded","false");q.removeAttribute("aria-activedescendant");}
     function frag(){var m=q.value.match(/(\S+)$/);return m?NZ(m[1]):"";}
-    function suggest(){var fr=frag();if(!list.length||fr.length<2){close();return;}
+    // KYB-54: a question that starts like "how to", "what is", "πώς", "comment"... opens the site's how-to questions in the
+    // dropdown; the words after it narrow them down; picking one asks it, and the Ask page shows its answer.
+    var FILL=" to i a an the my me we you it of in on for at get set do does can is are να το τα η ο οι θα μου μας ενα ένα de la le les el los un une en mi mon ma zu ich das der die den ein eine um mein в и я на мне لي في على ان أن ";
+    function helpHits(){var H=V&&V.help;if(!H||!H.length)return null;var w=NZ(q.value).split(" ").filter(Boolean),I=V.help_intent||[];
+      if(!w.length||I.indexOf(w[0])<0)return null;
+      var tail=/\s$/.test(q.value),rest=w.slice(1).filter(function(x,i,a){return I.indexOf(x)<0&&FILL.indexOf(" "+x+" ")<0&&(tail||i<a.length-1||x.length>=3);});
+      function hk(L,x){return L.some(function(k){return k===x||k.indexOf(x)===0||(k.length>=5&&x.length>=4&&x.indexOf(k.slice(0,k.length-1))===0);});}
+      if(!rest.length)return H.slice();
+      var sc=H.map(function(h){var n=0;rest.forEach(function(x){if(hk(h.s,x))n+=2;else if(hk(h.w,x))n+=1;});return {h:h,n:n};})
+        .filter(function(o){return o.n>0;}).sort(function(a,b){return b.n-a.n;});
+      return sc.length?sc.map(function(o){return o.h;}):null;}
+    function E(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+    function suggest(){var hh=helpHits();
+      if(hh){var hm=hh.slice(0,12),k=0;
+        ul.innerHTML='<li class="ab-h" role="presentation">'+E(V.help_head||"How to")+'</li>'+hm.map(function(h){var a=String(h.a||"");if(a.length>110)a=a.slice(0,108).replace(/\s+\S*$/,"")+"…";
+          return '<li role="option" class="hw" id="'+ul.id+'-'+(k++)+'" data-h="'+E(h.id)+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(h.q)+'</span><span class="ha">'+E(a)+'</span></span></li>';}).join("");
+        ul.classList.add("has-help");ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;return;}
+      ul.classList.remove("has-help");
+      var fr=frag();if(!list.length||fr.length<2){close();return;}
       var hits=list.filter(function(o){return o.z.split(" ").some(function(w){return w.indexOf(fr)===0;});}).sort(function(a,b){
         var ra={topic:0,region:1,country:2,section:3},sa=a.z.indexOf(fr)===0?0:1,sb=b.z.indexOf(fr)===0?0:1;return sa-sb||ra[a.k]-ra[b.k]||a.n.length-b.n.length;}).slice(0,6);
       if(!hits.length){close();return;}
       ul.innerHTML=hits.map(function(o,i){return '<li role="option" id="'+ul.id+'-'+i+'" data-v="'+o.n.replace(/"/g,"&quot;")+'"><span class="t">'+(LB[o.k]||o.k)+'</span><span class="n">'
         +o.n.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];})+(o.e?' <span class="e">· '+o.e+'</span>':'')+'</span></li>';}).join("");
       ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;}
-    function pick(li){var v=li.getAttribute("data-v");q.value=q.value.replace(/(\S+)$/,"")+v+" ";state();close();q.focus();}
-    function mark(){[].forEach.call(ul.children,function(li,i){li.setAttribute("aria-selected",i===sel?"true":"false");});
-      if(sel>=0)q.setAttribute("aria-activedescendant",ul.children[sel].id);}
+    function opts(){return ul.querySelectorAll('li[role="option"]');}
+    function pick(li){var hid=li.getAttribute("data-h");
+      if(hid!==null){var h=(V.help||[]).filter(function(o){return o.id===hid;})[0];if(!h)return;q.value=h.q;state();close();
+        if(f.requestSubmit)f.requestSubmit();else f.submit();return;}
+      var v=li.getAttribute("data-v");q.value=q.value.replace(/(\S+)$/,"")+v+" ";state();close();q.focus();}
+    function mark(){var o=opts();[].forEach.call(o,function(li,i){li.setAttribute("aria-selected",i===sel?"true":"false");});
+      if(sel>=0){q.setAttribute("aria-activedescendant",o[sel].id);if(o[sel].scrollIntoView)o[sel].scrollIntoView({block:"nearest"});}}
     q.addEventListener("focus",load);q.addEventListener("input",suggest);
-    q.addEventListener("keydown",function(e){if(ul.hidden)return;var n=ul.children.length;
+    q.addEventListener("keydown",function(e){if(ul.hidden)return;var n=opts().length;if(!n)return;
       if(e.key==="ArrowDown"){e.preventDefault();sel=(sel+1)%n;mark();}else if(e.key==="ArrowUp"){e.preventDefault();sel=(sel-1+n)%n;mark();}
-      else if(e.key==="Enter"&&sel>=0){e.preventDefault();pick(ul.children[sel]);}else if(e.key==="Escape"){close();}});
-    ul.addEventListener("mousedown",function(e){var li=e.target.closest("li");if(li){e.preventDefault();pick(li);}});
+      else if(e.key==="Enter"&&sel>=0){e.preventDefault();pick(opts()[sel]);}else if(e.key==="Escape"){close();}});
+    ul.addEventListener("mousedown",function(e){var li=e.target.closest('li[role="option"]');if(li){e.preventDefault();pick(li);}else e.preventDefault();});
     q.addEventListener("blur",function(){setTimeout(close,120);});
     f.addEventListener("submit",close);});
   if(boxes.length)document.addEventListener("keydown",function(e){if(e.key!=="/"||e.ctrlKey||e.metaKey||e.altKey)return;var t=e.target;

@@ -58,7 +58,8 @@
     r.sortUsed=S;return {r:r,res:res};}
   // ASKH-36: questions about the site itself ("how do I follow Greece?") get a short answer and a link
   function hk(list,x){return list.some(function(k){return k===x||(k.length>=5&&x.length>=4&&(x.indexOf(k.slice(0,k.length-1))===0||k.indexOf(x)===0));});}
-  function helpFor(q){if(!V.help)return [];var w=N(q).split(" ").filter(Boolean),intent=w.some(function(x){return V.help_intent.indexOf(x)>=0;}),out=[];
+  function helpFor(q){if(!V.help)return [];var nq=N(q),pk=V.help.filter(function(h){return N(h.q)===nq;});if(pk.length)return [{h:pk[0],sc:99}];  // KYB-54: picked from the how-to dropdown
+    var w=nq.split(" ").filter(Boolean),intent=w.some(function(x){return V.help_intent.indexOf(x)>=0;}),out=[];
     V.help.forEach(function(h){var s=0,k=0;w.forEach(function(x){if(hk(h.s,x))s++;else if(hk(h.w,x))k++;});
       if(s||(intent&&k))out.push({h:h,sc:s*2+(intent?k+1:0)});});
     out.sort(function(a,b){return b.sc-a.sc;});return out.slice(0,2);}
