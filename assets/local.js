@@ -1,6 +1,6 @@
 
-/* WEB-1.10 + LOCALDESK-1.0 - find a country: its risk picture, today's brief, topics, verified events, its newsrooms' headlines
-   (translated into the page's language when a translation exists) and the rated list of its newsrooms. */
+/* WEB-1.10 + LOCALDESK-1.0 - find a country: its risk picture, today's brief, topics, verified events, its outlets' headlines
+   (translated into the page's language when a translation exists) and the rated list of its outlets. */
 (function () {
   "use strict";
   var src = document.getElementById("lc-i18n"), out = document.getElementById("lcout"), q = document.getElementById("lcq");
@@ -113,7 +113,7 @@
       return '<li><div><a lang="en" class="hl-s" href="' + esc(I.base + "event/" + x.id + ".html") + '">' + esc(x.t) + "</a>" +
         '<div class="small">' + esc(I.risk) + " " + Number(x.r).toFixed(1) + " · " + x.n + " " + esc(I.outlets) + " · " + esc(ago(x.ts)) + "</div></div></li>";
     }).join("") + "</ol>" : '<p class="small">' + esc(fill(I.ev_none, name)) + "</p>";
-    /* the country's newsrooms - latest headlines */
+    /* the country's outlets - latest headlines */
     h += '<h3 id="lcall">' + esc(fill(I.heads_h, name)) + "</h3>";
     if ((d.newsrooms || []).length && d.translated === false) h += '<p class="small">' + esc(D.tr_off) + "</p>";
     /* LOCALDESK-1.1: section chips - All (everything but sport & culture), then each section that has headlines */
@@ -124,7 +124,7 @@
       chips.map(function (k) { return '<button type="button" class="qchip" data-sec="' + k + '" role="tab" aria-selected="false">' + esc(SL[k] || k) + " · " + SN[k] + "</button>"; }).join("") + "</div>";
     h += '<div id="lcsecmr"></div>';
     h += (d.heads || []).length ? '<p class="small">' + esc(I.heads_note) + '</p><ul class="plain lchd" id="lchd"></ul>' : '<p class="small">' + esc(fill(I.heads_none, name)) + "</p>";
-    /* (a) the newsrooms, rated */
+    /* (a) the outlets, rated */
     if ((d.newsrooms || []).length) h += '<section class="lcbox"><h3>' + esc(D.nr_h) + '</h3><p class="small">' + esc(D.nr_x) + '</p><table class="lcnr"><tbody>' +
       d.newsrooms.map(function (n) { return '<tr><td><a href="' + esc(n.home) + '" target="_blank" rel="noopener nofollow">' + esc(n.name) + "</a></td><td>" + stars(n.stars) +
         "</td><td>" + esc((D.types || {})[n.type] || n.type_label) + "</td><td>" + esc(langName(n.lang)) + '</td><td class="' + (n.working ? "ok" : "no") + '">' +

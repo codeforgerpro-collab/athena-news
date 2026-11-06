@@ -455,7 +455,7 @@
       if (j.m) geoInit(j.m, j.r || [75, -57]); EV = j.ev; NAMES = (j.names || {})[document.documentElement.lang || "en"] || (j.names || {}).en || {}; CO = j.co || null; if (W > 60) { mkEv(); } focusLine(); if (mode === "news" || mode === "graph") a11y(); if (mode === "pins" && CO && W > 60) { setup(); start(); } }).catch(function () {}); } catch (e) {} }
 
   var M = {
-    /* reports from different newsrooms meet and become a verified event: its section icon flashes in its risk colour (sometimes the owl) */
+    /* reports from different outlets meet and become a verified event: its section icon flashes in its risk colour (sometimes the owl) */
     news: { init: function () { var K = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"].concat(crypto(), FLK); P = [];
         for (var i = 0, n = count(38, 12, 40); i < n; i++) P.push({ x: (i + Math.random()) / n * W, y: rnd(14, H - 14), vx: (rnd(.12, .32) * (i % 2 ? 1 : -1)), vy: rnd(-.13, .13), src: i % 5, ev: 0, k: K[i % K.length] }); },
       step: function () { var r = RR(); P.forEach(function (p) { if (p.home) { p.x = p.home.x + (still ? 0 : Math.sin(t / 60 + p.src) * 3); p.y = p.home.y + (still ? 0 : Math.cos(t / 75 + p.src) * 2.5); } else drift(p, 1, 12); if (p.fl) tie(p); });
@@ -477,7 +477,7 @@
             cx.globalAlpha = .38; cx.fillStyle = "#BFD0FF"; cx.fillRect(p.x + r + 6, p.y - 5, Math.max(0, Math.min(90, cwid - r * 2 - 22)), 2.4); cx.fillRect(p.x + r + 6, p.y + 1.5, Math.max(0, Math.min(56, cwid - r * 2 - 40)), 2); }
           put(done ? evsym(p.k, col, r) : sym(p.k, r), p.x, p.y, r, done ? 1 : .7); });
         if (!still) { cx.save(); cx.globalCompositeOperation = "lighter"; var g = cx.createLinearGradient(sx - 46, 0, sx, 0); g.addColorStop(0, "rgba(226,194,127,0)"); g.addColorStop(1, "rgba(226,194,127,.28)"); cx.fillStyle = g; cx.fillRect(sx - 46, 0, 46, H); cx.globalAlpha = .7; cx.fillStyle = "#FFF1C9"; cx.fillRect(sx, 0, 1.2, H); cx.restore(); } } },
-    /* a neural network: events are bright cores, countries and newsrooms the satellites, signals run along the links */
+    /* a neural network: events are bright cores, countries and outlets the satellites, signals run along the links */
     graph: { init: function () { P = []; for (var i = 0, n = count(42, 12, 36); i < n; i++) { var k = i % 3;
           P.push({ x: (i + Math.random()) / n * W, y: rnd(12, H - 12), vx: rnd(.1, .25) * (i % 2 ? 1 : -1), vy: rnd(-.1, .1), t: k, k: k === 0 ? String(1 + (i % 10)) : k === 1 ? pick(FLK) : "", lvl: (Math.random() * 4) | 0, src: i }); } },
       step: function () { var r = RR(); P.forEach(function (p) { drift(p, 1, 12); });
