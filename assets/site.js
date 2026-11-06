@@ -101,6 +101,24 @@
     nb.hidden=false;
     nb.querySelector(".nx").addEventListener("click",function(){try{localStorage.setItem("athena-nb-"+x.id,String(x.rev));}catch(e){}nb.hidden=true;});
   }).catch(function(){});
+  // 6 Nov 2026: notices.html is filled from data/notices.json too, so a notice sent while a long publish is running shows on the
+  // page the bar links to at once (the page itself is built at the start of a publish and used to say "No notices yet")
+  var np=document.getElementById("ntprose");
+  if(np&&window.fetch)fetch(root+"data/notices.json",{cache:"no-store"}).then(function(r){return r.json();}).then(function(j){
+    var NL={};try{NL=JSON.parse(np.getAttribute("data-l")||"{}");}catch(e){}
+    var lg=np.getAttribute("data-lang")||"en",now=Date.now()/1000;
+    var it=((j&&j.items)||[]).filter(function(x){return !x.withdrawn&&x.start<=now&&(!x.end||x.end>now)&&!document.getElementById("n-"+x.id);}).sort(function(a,b){return b.start-a.start;});
+    if(!it.length)return;
+    var none=np.querySelector("p.muted");if(none)none.parentNode.removeChild(none);
+    var lead=np.querySelector("p.lead"),html=it.map(function(x){
+      var own=lg==="el"&&x.title.el,ti=own?x.title.el:x.title.en,tx=own?x.text.el:x.text.en,la=(lg!=="en"&&!own)?' lang="en"':'',d="";
+      try{d=new Date(x.start*1000).toLocaleDateString(lg,{day:"numeric",month:"long",year:"numeric"});}catch(e){}
+      return '<article class="ntc k-'+esc(x.kind)+'" id="n-'+esc(x.id)+'"><div class="ntc-h"><span class="nk">'+esc((NL.k||{})[x.kind]||x.kind)+'</span><time>'+esc(d)+'</time></div>'
+        +'<h2'+la+'>'+esc(ti)+'</h2><div'+la+'>'+tx.split("\n\n").filter(function(p){return p.trim();}).map(function(p){return '<p>'+esc(p).replace(/\n/g,"<br>")+'</p>';}).join("")+'</div>'
+        +(x.link?'<p><a href="'+esc(x.link)+'" target="_blank" rel="noopener">'+esc(NL.link||"Link")+' &rarr;</a></p>':'')+'<p class="ntc-s">&mdash; ATHENA Glaux</p></article>';}).join("");
+    if(lead)lead.insertAdjacentHTML("afterend",html);else np.insertAdjacentHTML("afterbegin",html);
+    if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t&&t.scrollIntoView)t.scrollIntoView();}
+  }).catch(function(){});
   // WEB-1.4: the boxes that change with every other story ("More in …", the tracker figures) are filled here from
   // data/related.json, so an event page itself changes — and is uploaded again — only when its own story changes
   var more=document.querySelectorAll(".js-more"),trk=document.querySelectorAll("[data-trk]");
