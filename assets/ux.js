@@ -821,3 +821,10 @@ n.textContent=min?T.shown.replace("{n}",k).replace("{m}",g.r.length):"";try{sess
 row.addEventListener("click",function(ev){var b=ev.target.closest("button[data-m]");if(b)apply(+b.getAttribute("data-m"))});
 g.p.parentNode.insertBefore(bar,g.p);apply(cur)}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init()})();
+
+(function(){var K="athena_adx_hide",D=7*864e5;function rd(){try{return JSON.parse(localStorage.getItem(K)||"{}")||{}}catch(e){return {}}}
+function wr(o){try{localStorage.setItem(K,JSON.stringify(o))}catch(e){}}
+var o=rd(),n=Date.now(),ch=false;for(var k in o){if(n-o[k]>D){delete o[k];ch=true}}if(ch)wr(o);
+function hide(s){var a=document.querySelector(".adx-"+s);if(a)a.classList.add("adx-off")}
+for(var k in o)hide(k);
+document.addEventListener("click",function(ev){var b=ev.target.closest&&ev.target.closest(".adx-x");if(!b)return;var s=b.getAttribute("data-adx");hide(s);var q=rd();q[s]=Date.now();wr(q)})})();

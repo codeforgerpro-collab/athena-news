@@ -85,3 +85,8 @@
   var hh = (location.hash || "").slice(1);
   if (hh) open(hh, true);
 })();
+
+/* MAR-41: a port on the map opens its panel */
+(function(){var m=document.querySelectorAll(".cpm-p[data-open]");[].forEach.call(m,function(a){a.addEventListener("click",function(ev){
+  var id=a.getAttribute("data-open"),c=document.querySelector('.mtc[data-place="'+id+'"]');if(!c)return;ev.preventDefault();c.click();
+  var p=document.getElementById("mtpanel");if(p&&p.scrollIntoView){p.scrollIntoView({behavior:"smooth",block:"nearest"})}})})})();
