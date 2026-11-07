@@ -1147,3 +1147,46 @@ color:#fff;background:linear-gradient(180deg,color-mix(in srgb,var(--gold2) 86%,
 @media (max-width:760px){.ab2-hero{padding:22px 18px 20px;border-radius:18px}.ab2-promise{font-size:31px}.ab2-sub{font-size:16px}
 .ab2-kpi{grid-template-columns:repeat(2,minmax(0,1fr))}.ab2-kpi b{font-size:24px}.ab2-card{grid-template-columns:1fr;padding:16px}
 .ab2-grid{grid-template-columns:1fr;gap:10px}.ab2-tile{display:grid;grid-template-columns:40px 1fr;gap:2px 12px;padding:14px}.ab2-ic{grid-row:span 2;margin:0}.ab2-proof h2,.ab2-diff h2{font-size:25px}.ab2-btn{flex:1 1 auto;justify-content:center}}
+
+/* FRONT-41 - the redesigned front page */
+.fp-hero{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:44px;align-items:start;padding:34px 0 30px}
+.fp-h{font-family:var(--display,Georgia,serif);font-weight:500;font-size:clamp(32px,4.6vw,50px);line-height:1.08;letter-spacing:-.01em;margin:0 0 14px;color:var(--ink)}
+.fp-p{font-size:18px;line-height:1.55;color:var(--ink2);max-width:34em;margin:0 0 20px}
+.fp-try{margin:12px 0 20px}
+.fp-fig{display:flex;gap:28px;flex-wrap:wrap;border-top:1px solid var(--rule);padding-top:16px;color:var(--muted);font-size:13px}
+.fp-fig b{display:block;font-family:var(--display,Georgia,serif);font-weight:500;font-size:26px;color:var(--ink);font-variant-numeric:tabular-nums}
+.fp-lead{background:var(--card);border:1px solid var(--rule);border-top:4px solid var(--navy);border-radius:8px;padding:22px 24px}
+.fp-k{display:flex;align-items:center;gap:8px;margin:0;font-size:12px;font-weight:700;letter-spacing:.05em;color:#b3261e}.fp-k i{width:8px;height:8px;border-radius:50%;background:#b3261e}
+.fp-lead h3{font-family:var(--display,Georgia,serif);font-weight:500;font-size:28px;line-height:1.18;margin:8px 0 14px}.fp-lead h3 a{color:var(--ink)}
+.fp-ev{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;border:1px solid var(--rule);border-radius:6px}
+.fp-ev div{padding:10px 12px;border-inline-end:1px solid var(--rule);font-size:12px;color:var(--muted);min-width:0}.fp-ev div:last-child{border:0}
+.fp-ev b{display:block;font-family:var(--display,Georgia,serif);font-weight:500;font-size:22px;color:var(--ink)}.fp-ev b.fp-first{font-size:15px;line-height:1.25;padding-top:4px;overflow-wrap:anywhere}
+.fp-risk{display:flex;align-items:center;gap:12px;margin:16px 0 8px;font-size:13px}.fp-risk em{font-style:normal;color:var(--muted)}
+.fp-bar{flex:1;height:8px;border-radius:9px;position:relative;background:linear-gradient(90deg,#2f7d4f,#e0b43a 50%,#b3261e)}
+.fp-bar i{position:absolute;top:-5px;width:4px;height:18px;background:var(--ink);border-radius:2px;margin-inline-start:-2px}
+.fp-why{margin:12px 0 2px;font-size:12px;font-weight:700;color:var(--gold2);letter-spacing:.04em}.fp-whyl{margin:0;padding-inline-start:18px;font-size:14px;color:var(--ink2)}.fp-whyl li{margin:3px 0}
+.fp-go{display:inline-block;margin-top:14px;font-weight:600;font-size:14px;color:var(--gold2)}
+.fp-three,.fp-how{border-top:1px solid var(--rule);padding:30px 0}
+.fp-sh{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:16px}.fp-sh h2,.fp-how h2{font-family:var(--display,Georgia,serif);font-weight:500;font-size:26px;margin:0}.fp-sh span{color:var(--muted);font-size:14px}
+.fp-cols{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:20px}
+.fp-panel{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:18px 20px}
+.fp-panel h3{margin:0;font-size:13px;letter-spacing:.05em;color:var(--gold2);font-weight:700}.fp-sub{margin:2px 0 8px;font-size:13px;color:var(--muted)}
+.fp-rows{list-style:none;margin:0;padding:0}.fp-rows li{display:flex;justify-content:space-between;gap:12px;padding:11px 0;border-top:1px solid var(--rule)}.fp-rows li:first-child{border-top:0}
+.fp-rows a{color:var(--ink);font-size:15px;line-height:1.35}.fp-rows small{display:block;color:var(--muted);font-size:12.5px;margin-top:2px}
+.fp-pill{white-space:nowrap;font-size:12px;font-weight:600;border-radius:99px;padding:3px 10px;height:fit-content}
+.fp-pill.b0{background:#dcf0e4;color:#1f6a3f}.fp-pill.b1{background:#fcefd6;color:#8a5600}.fp-pill.b2{background:#fbe0d3;color:#9a3f10}.fp-pill.b3{background:#fbe5e3;color:#a11d16}
+.fp-board{position:relative;height:190px;margin:10px 0 4px;border:1px solid var(--rule);border-radius:4px;background:linear-gradient(var(--card),var(--paper2))}
+.fp-dot{position:absolute;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;box-shadow:0 0 0 2px var(--card)}.fp-dot:hover,.fp-dot:focus-visible{transform:scale(1.5);outline:2px solid var(--ink)}
+.fp-dot.b0{background:#2f7d4f}.fp-dot.b1{background:#e0b43a}.fp-dot.b2{background:#d9722a}.fp-dot.b3{background:#b3261e}
+.fp-ax{position:absolute;font-size:11px;color:var(--muted)}.fp-ax.x{inset-inline-end:8px;bottom:4px}.fp-ax.y{inset-inline-start:8px;top:4px}
+.fp-desk{background:var(--navy);border-color:var(--navy);color:#fff}.fp-desk h3{color:#d8b567}.fp-desk p{color:#d6dbe6;font-size:15px;line-height:1.5;margin:8px 0}.fp-desk .fp-go{color:#fff;border-bottom:1px solid #d8b567}
+.fp-how ol{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin:16px 0 0;padding:0}
+.fp-how li{border-inline-start:3px solid var(--gold);padding-inline-start:14px}.fp-how b{display:block;font-family:var(--display,Georgia,serif);font-weight:500;font-size:20px;margin-bottom:4px}.fp-how span{font-size:15px;color:var(--ink2)}
+/* the strip of flags now sits below the first screen, across the full width */
+main .amb{margin-inline:calc(50% - 50vw)}main .wrap .wrap{padding:0}
+/* the masthead is one slim bar on the front page too; the motto still rolls beneath it */
+.mast.front .motto-roll{display:block;font-size:17px;margin-top:0}.mast.front{padding-bottom:8px}@media (max-width:640px){.mast.front .motto-roll{font-size:14px}}
+:root[data-theme="contrast"] .fp-lead,:root[data-theme="contrast"] .fp-panel{border:2px solid #000}
+@media (max-width:900px){.fp-hero{grid-template-columns:1fr;gap:24px}.fp-cols{grid-template-columns:1fr}.fp-how ol{grid-template-columns:1fr}}
+@media (max-width:640px){.fp-p{font-size:16.5px}.fp-lead{padding:18px}.fp-lead h3{font-size:24px}.fp-fig{gap:18px}}
+@media print{.fp-board{display:none}}
